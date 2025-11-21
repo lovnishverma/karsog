@@ -3,10 +3,10 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Karsog Connect | Business Directory & Marketplace</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Karsog.com | Valley Business Directory</title>
     <meta name="description"
-        content="The official business directory for Karsog Valley. Find hotels, taxis, mechanics, and local shops.">
+        content="The official business directory for Karsog Valley. Find hotels, taxis, mechanics, and local shops at Karsog.com.">
 
     <!-- Fonts & Icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -25,7 +25,6 @@
             --accent-text: #78350f;
             --success: #10b981;
             --danger: #ef4444;
-            --sheet-green: #34A853;
 
             --bg-body: #0f172a;
             --bg-card: #1e293b;
@@ -65,7 +64,9 @@
             background: var(--bg-body);
             color: var(--text-main);
             line-height: 1.6;
+            /* CRITICAL FIX: Prevents horizontal scroll globally */
             overflow-x: hidden;
+            width: 100%;
             transition: background 0.3s, color 0.3s;
         }
 
@@ -127,11 +128,6 @@
 
         .btn-primary:hover {
             background: var(--primary-dark);
-        }
-
-        .btn-accent {
-            background: var(--accent);
-            color: var(--accent-text);
         }
 
         .btn-outline {
@@ -312,14 +308,11 @@
             overflow-x: auto;
             padding-bottom: 1rem;
             scrollbar-width: none;
-            /* Firefox */
             -ms-overflow-style: none;
-            /* IE 10+ */
         }
 
         .filter-bar::-webkit-scrollbar {
             display: none;
-            /* Chrome/Safari */
         }
 
         .filter-btn {
@@ -342,7 +335,6 @@
 
         .listing-grid {
             display: grid;
-            /* Adjusted for mobile to prevent squashing */
             grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
             gap: 2rem;
             min-height: 300px;
@@ -370,7 +362,7 @@
             box-shadow: var(--ad-glow);
         }
 
-        /* --- CAROUSEL STYLES --- */
+        /* --- CAROUSEL --- */
         .carousel {
             position: relative;
             width: 100%;
@@ -533,7 +525,7 @@
             margin: 0.5rem 0 1rem;
         }
 
-        /* --- PRICING PLANS (NEW) --- */
+        /* --- PRICING --- */
         .pricing-section {
             padding: 4rem 0;
         }
@@ -749,7 +741,7 @@
             transform: translateY(-3px);
         }
 
-        /* --- MOBILE RESPONSIVENESS --- */
+        /* --- MOBILE RESPONSIVENESS & NAVIGATION FIX --- */
         .mobile-menu-btn {
             display: none;
             font-size: 1.5rem;
@@ -792,7 +784,6 @@
             .pricing-card.popular {
                 transform: scale(1);
                 order: -1;
-                /* Put popular item first on mobile */
                 margin-bottom: 1rem;
             }
         }
@@ -811,24 +802,33 @@
                 font-size: 2rem;
             }
 
-            /* Mobile Nav */
+            /* --- FIXED MOBILE NAV --- */
+            /* FIX: Using transform: translateX instead of right positioning to prevent body overflow */
             .nav-links {
                 position: fixed;
                 top: 0;
-                right: -100%;
+                right: 0;
                 width: 85%;
+                /* Changed from fixed width to percentage */
+                max-width: 300px;
+                /* Limit width on larger tablets */
                 height: 100vh;
                 background: var(--bg-card);
                 flex-direction: column;
                 padding: 6rem 2rem;
-                transition: 0.3s ease-in-out;
+                /* Transform moves it off screen without expanding the scroll area */
+                transform: translateX(100%);
+                transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
                 z-index: 999;
                 align-items: flex-start;
                 box-shadow: -5px 0 25px rgba(0, 0, 0, 0.5);
+                /* Ensures no scroll issues within the nav */
+                overflow-y: auto;
             }
 
             .nav-links.active {
-                right: 0;
+                transform: translateX(0);
+                /* right: 0; <-- REMOVED this to prevent wobble */
             }
 
             .mobile-menu-btn {
@@ -844,23 +844,18 @@
                 display: none !important;
             }
 
-            /* Listings */
             .listing-grid {
-                /* Ensure single column on small screens */
                 grid-template-columns: 1fr;
             }
 
-            /* Pricing */
             .pricing-card {
                 padding: 2rem 1.5rem;
             }
 
-            /* Search */
             .search-input {
                 padding: 1rem 3rem 1rem 1.2rem;
             }
 
-            /* Footer */
             .footer-content {
                 flex-direction: column;
                 text-align: center;
@@ -909,7 +904,7 @@
     <nav>
         <div class="container nav-content">
             <a href="#" class="logo"><i class="fas fa-layer-group" style="color: var(--primary);"></i>
-                Karsog<span>Connect</span></a>
+                Karsog<span>.com</span></a>
             <ul class="nav-links" id="navLinks">
                 <li><a href="#home" onclick="toggleMenu()">Home</a></li>
                 <li><a href="#directory" onclick="toggleMenu()">Directory</a></li>
@@ -933,7 +928,7 @@
         <div class="container">
             <span class="badge badge-verified" style="margin-bottom: 1.5rem;">#1 Local Marketplace</span>
             <h1>Find Services, Buy Gear & <br><span style="color: var(--primary);">Grow Your Business</span></h1>
-            <p>Real-time directory and store powered by Google Sheets.</p>
+            <p>Real-time directory and store powered by Karsog.com.</p>
             <div class="search-container">
                 <input type="text" id="searchInput" class="search-input" placeholder="Search hotels, shops..."
                     onkeyup="filterListings()">
@@ -994,7 +989,7 @@
             <div style="text-align: center; margin-bottom: 3rem;">
                 <span class="badge badge-ad">Affiliate Store</span>
                 <h2 style="margin-top: 0.5rem;">Travel Essentials</h2>
-                <p style="color: var(--text-muted);">Handpicked gear from the Sheet.</p>
+                <p style="color: var(--text-muted);">Handpicked gear from Karsog.com.</p>
             </div>
             <div class="affiliate-grid" id="shopGrid">
                 <div class="product-card skeleton" style="height: 300px;"></div>
@@ -1103,7 +1098,7 @@
         <div class="container footer-content">
             <div style="text-align: left;">
                 <a href="#" class="logo" style="margin-bottom: 0.5rem;"><i class="fas fa-layer-group"
-                        style="color: var(--primary);"></i> Karsog<span>Connect</span></a>
+                        style="color: var(--primary);"></i> Karsog<span>.com</span></a>
                 <p style="color: var(--text-muted); font-size: 0.9rem;">Connecting the valley, one click at a time.</p>
             </div>
 
@@ -1115,7 +1110,7 @@
             </div>
 
             <div style="color: var(--text-muted); font-size: 0.9rem;">
-                &copy; 2026 Karsog Connect. All Rights Reserved.
+                &copy; 2026 Karsog.com. All Rights Reserved.
             </div>
         </div>
     </footer>
