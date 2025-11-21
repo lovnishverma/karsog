@@ -1,0 +1,1273 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Karsog Valley Travels | Premium Himalayan Packages</title>
+    <meta name="description"
+        content="Book exclusive tour packages, luxury stays, and trekking expeditions in Karsog Valley. The #1 rated travel agency for hidden Himachal.">
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="Karsog Valley Travels | Premium Packages">
+    <meta property="og:image" content="https://images.unsplash.com/photo-1571406528594-39e35e359f97?q=80&w=1200">
+
+    <!-- Fonts & Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;700&family=Playfair+Display:wght@600;800&display=swap"
+        rel="stylesheet">
+
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
+
+    <style>
+        /* --- DESIGN SYSTEM --- */
+        :root {
+            /* Monetization Colors */
+            --primary: #10b981;
+            /* Emerald Green - Trust & Nature */
+            --primary-dark: #059669;
+            --gold: #fbbf24;
+            /* Gold - Premium/Action */
+            --action: #f43f5e;
+            /* Red/Pink - Urgency/Book Now */
+
+            /* Base Colors */
+            --bg-body: #0f172a;
+            --bg-card: #1e293b;
+            --text-main: #f1f5f9;
+            --text-muted: #94a3b8;
+
+            /* Glassmorphism */
+            --glass-bg: rgba(30, 41, 59, 0.7);
+            --glass-border: rgba(255, 255, 255, 0.08);
+            --glass-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3);
+        }
+
+        [data-theme="light"] {
+            --bg-body: #f8fafc;
+            --bg-card: #ffffff;
+            --text-main: #1e293b;
+            --text-muted: #64748b;
+            --glass-bg: rgba(255, 255, 255, 0.85);
+            --glass-border: rgba(0, 0, 0, 0.05);
+            --glass-shadow: 0 8px 32px 0 rgba(148, 163, 184, 0.15);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            scroll-behavior: smooth;
+        }
+
+        body {
+            font-family: 'Outfit', sans-serif;
+            background: var(--bg-body);
+            color: var(--text-main);
+            line-height: 1.6;
+            overflow-x: hidden;
+            transition: background 0.3s, color 0.3s;
+        }
+
+        h1,
+        h2,
+        h3 {
+            font-family: 'Playfair Display', serif;
+        }
+
+        /* --- UTILITIES --- */
+        .container {
+            max-width: 1280px;
+            margin: 0 auto;
+            padding: 0 1.5rem;
+        }
+
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.8rem 2rem;
+            border-radius: 8px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s;
+            border: none;
+            text-decoration: none;
+            font-size: 1rem;
+        }
+
+        .btn-primary {
+            background: var(--primary);
+            color: #fff;
+            box-shadow: 0 4px 15px rgba(16, 185, 129, 0.3);
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            background: var(--primary-dark);
+        }
+
+        .btn-gold {
+            background: var(--gold);
+            color: #000;
+            box-shadow: 0 4px 15px rgba(251, 191, 36, 0.3);
+        }
+
+        .btn-gold:hover {
+            transform: translateY(-2px);
+            background: #f59e0b;
+        }
+
+        .text-gold {
+            color: var(--gold);
+        }
+
+        .text-primary {
+            color: var(--primary);
+        }
+
+        /* Scroll Animation */
+        .reveal {
+            opacity: 0;
+            transform: translateY(30px);
+            transition: 0.8s ease-out;
+        }
+
+        .reveal.active {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        /* --- NAVBAR --- */
+        nav {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            z-index: 1000;
+            background: rgba(15, 23, 42, 0.95);
+            backdrop-filter: blur(12px);
+            border-bottom: 1px solid var(--glass-border);
+            padding: 1rem 0;
+        }
+
+        [data-theme="light"] nav {
+            background: rgba(255, 255, 255, 0.95);
+        }
+
+        .nav-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-size: 1.5rem;
+            font-weight: 800;
+            color: var(--text-main);
+            text-decoration: none;
+        }
+
+        .logo span {
+            color: var(--primary);
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 2rem;
+            list-style: none;
+        }
+
+        .nav-links a {
+            color: var(--text-main);
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 0.95rem;
+            transition: color 0.3s;
+        }
+
+        .nav-links a:hover {
+            color: var(--primary);
+        }
+
+        .cta-group {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .mobile-toggle {
+            display: none;
+            font-size: 1.5rem;
+            cursor: pointer;
+        }
+
+        /* --- HERO SECTION (Conversion Focused) --- */
+        .hero {
+            min-height: 90vh;
+            display: flex;
+            align-items: center;
+            background: linear-gradient(rgba(15, 23, 42, 0.6), rgba(15, 23, 42, 0.8)),
+                url('https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?q=80&w=1920&auto=format&fit=crop');
+            background-size: cover;
+            background-position: center;
+            padding-top: 4rem;
+            margin-top: -1px;
+        }
+
+        .hero-content {
+            max-width: 700px;
+        }
+
+        .hero h1 {
+            font-size: clamp(2.5rem, 5vw, 4.5rem);
+            line-height: 1.1;
+            margin-bottom: 1.5rem;
+            color: white;
+        }
+
+        .hero p {
+            font-size: 1.2rem;
+            color: #cbd5e1;
+            margin-bottom: 2.5rem;
+        }
+
+        .trust-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            background: rgba(255, 255, 255, 0.1);
+            padding: 0.5rem 1rem;
+            border-radius: 50px;
+            color: #fff;
+            font-size: 0.9rem;
+            margin-bottom: 1.5rem;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+
+        /* --- NEW: FEATURES SECTION --- */
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 2rem;
+            text-align: center;
+            margin-top: 2rem;
+        }
+
+        .feature-card {
+            padding: 2rem;
+            background: var(--bg-card);
+            border-radius: 16px;
+            border: 1px solid var(--glass-border);
+            transition: 0.3s;
+        }
+
+        .feature-card:hover {
+            transform: translateY(-5px);
+            border-color: var(--primary);
+        }
+
+        .feature-icon {
+            font-size: 2.5rem;
+            color: var(--gold);
+            margin-bottom: 1rem;
+            display: block;
+        }
+
+        /* --- PACKAGES (Revenue Driver) --- */
+        .section-title {
+            text-align: center;
+            margin-bottom: 3rem;
+        }
+
+        .section-title h2 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .package-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+        }
+
+        .package-card {
+            background: var(--bg-card);
+            border-radius: 16px;
+            overflow: hidden;
+            border: 1px solid var(--glass-border);
+            transition: 0.3s;
+            position: relative;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .package-card:hover {
+            transform: translateY(-10px);
+            border-color: var(--primary);
+        }
+
+        .popular-tag {
+            position: absolute;
+            top: 1rem;
+            right: 1rem;
+            background: var(--gold);
+            color: #000;
+            font-weight: 700;
+            padding: 0.3rem 0.8rem;
+            border-radius: 50px;
+            font-size: 0.8rem;
+            z-index: 2;
+        }
+
+        .pkg-img {
+            height: 220px;
+            overflow: hidden;
+        }
+
+        .pkg-img img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: 0.5s;
+        }
+
+        .package-card:hover .pkg-img img {
+            transform: scale(1.1);
+        }
+
+        .pkg-content {
+            padding: 1.5rem;
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .pkg-price {
+            font-size: 1.8rem;
+            font-weight: 700;
+            color: var(--primary);
+            margin: 0.5rem 0;
+        }
+
+        .pkg-price span {
+            font-size: 0.9rem;
+            color: var(--text-muted);
+            font-weight: 400;
+        }
+
+        .features-list {
+            list-style: none;
+            margin: 1rem 0;
+            flex-grow: 1;
+        }
+
+        .features-list li {
+            margin-bottom: 0.5rem;
+            color: var(--text-muted);
+            font-size: 0.95rem;
+        }
+
+        .features-list i {
+            color: var(--primary);
+            width: 20px;
+        }
+
+        /* --- SHOP & STAYS --- */
+        .grid-4 {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .shop-card {
+            background: var(--bg-card);
+            border-radius: 12px;
+            padding: 1rem;
+            border: 1px solid var(--glass-border);
+            text-align: center;
+            transition: 0.3s;
+        }
+
+        .shop-card:hover {
+            border-color: var(--gold);
+        }
+
+        .shop-img {
+            height: 180px;
+            margin-bottom: 1rem;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        .shop-img img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        /* --- NEW: TESTIMONIALS --- */
+        .testimonial-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+        }
+
+        .testimonial-card {
+            background: var(--glass-bg);
+            padding: 2rem;
+            border-radius: 16px;
+            border: 1px solid var(--glass-border);
+        }
+
+        .user-profile {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            margin-top: 1.5rem;
+        }
+
+        .user-img {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            object-fit: cover;
+        }
+
+        /* --- NEW: FAQ ACCORDION --- */
+        .accordion {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .accordion-item {
+            background: var(--bg-card);
+            border: 1px solid var(--glass-border);
+            border-radius: 8px;
+            margin-bottom: 1rem;
+            overflow: hidden;
+        }
+
+        .accordion-header {
+            padding: 1.5rem;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-weight: 600;
+            transition: background 0.2s;
+        }
+
+        .accordion-header:hover {
+            background: rgba(255, 255, 255, 0.05);
+        }
+
+        .accordion-body {
+            max-height: 0;
+            overflow: hidden;
+            transition: 0.3s ease-out;
+            padding: 0 1.5rem;
+            color: var(--text-muted);
+        }
+
+        .accordion-item.active .accordion-body {
+            max-height: 200px;
+            padding-bottom: 1.5rem;
+        }
+
+        .accordion-icon {
+            transition: 0.3s;
+        }
+
+        .accordion-item.active .accordion-icon {
+            transform: rotate(180deg);
+            color: var(--primary);
+        }
+
+        /* --- NEW: BLOG CARDS --- */
+        .blog-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+        }
+
+        .blog-card {
+            background: var(--bg-card);
+            border-radius: 16px;
+            overflow: hidden;
+            border: 1px solid var(--glass-border);
+            transition: 0.3s;
+        }
+
+        .blog-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .blog-content {
+            padding: 1.5rem;
+        }
+
+        .blog-date {
+            font-size: 0.8rem;
+            color: var(--primary);
+            margin-bottom: 0.5rem;
+            display: block;
+        }
+
+        /* --- CONTACT / LEAD FORM --- */
+        .contact-section {
+            background: linear-gradient(135deg, var(--bg-card), var(--bg-body));
+            padding: 4rem 0;
+            margin-top: 4rem;
+        }
+
+        .form-box {
+            background: var(--glass-bg);
+            padding: 2.5rem;
+            border-radius: 20px;
+            border: 1px solid var(--glass-border);
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        input,
+        select,
+        textarea {
+            width: 100%;
+            padding: 1rem;
+            margin-bottom: 1rem;
+            background: rgba(0, 0, 0, 0.2);
+            border: 1px solid var(--glass-border);
+            border-radius: 8px;
+            color: var(--text-main);
+            font-family: inherit;
+        }
+
+        [data-theme="light"] input,
+        [data-theme="light"] select,
+        [data-theme="light"] textarea {
+            background: rgba(0, 0, 0, 0.03);
+            border-color: #cbd5e1;
+        }
+
+        input:focus,
+        select:focus {
+            outline: none;
+            border-color: var(--primary);
+        }
+
+        /* --- FOOTER --- */
+        footer {
+            background: #020617;
+            padding: 4rem 0 2rem;
+            border-top: 1px solid var(--glass-border);
+        }
+
+        .footer-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 3rem;
+        }
+
+        .footer-link {
+            color: var(--text-muted);
+            text-decoration: none;
+            display: block;
+            margin-bottom: 0.8rem;
+            transition: 0.3s;
+        }
+
+        .footer-link:hover {
+            color: var(--primary);
+            padding-left: 5px;
+        }
+
+        /* --- FLOATING BUTTON --- */
+        .whatsapp-float {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            background: #25D366;
+            color: white;
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 2rem;
+            box-shadow: 0 4px 15px rgba(37, 211, 102, 0.4);
+            z-index: 2000;
+            text-decoration: none;
+            transition: 0.3s;
+        }
+
+        .whatsapp-float:hover {
+            transform: scale(1.1);
+        }
+
+        /* --- RESPONSIVE --- */
+        @media (max-width: 768px) {
+            .nav-links {
+                position: fixed;
+                top: 70px;
+                right: -100%;
+                width: 100%;
+                height: calc(100vh - 70px);
+                background: var(--bg-body);
+                flex-direction: column;
+                padding: 2rem;
+                transition: 0.3s;
+                border-top: 1px solid var(--glass-border);
+            }
+
+            .nav-links.active {
+                right: 0;
+            }
+
+            .mobile-toggle {
+                display: block;
+            }
+
+            .cta-group {
+                display: none;
+            }
+
+            /* Hide header button on mobile, rely on hero */
+            .hero {
+                text-align: center;
+                justify-content: center;
+            }
+
+            .hero h1 {
+                font-size: 2.5rem;
+            }
+        }
+
+        /* Toast */
+        #toast {
+            position: fixed;
+            top: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: var(--primary);
+            color: white;
+            padding: 1rem 2rem;
+            border-radius: 50px;
+            opacity: 0;
+            pointer-events: none;
+            transition: 0.3s;
+            z-index: 3000;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+            font-weight: 600;
+        }
+
+        #toast.show {
+            opacity: 1;
+            top: 40px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Floating WhatsApp for High Conversion -->
+    <a href="https://wa.me/918894869371" target="_blank" class="whatsapp-float" aria-label="Chat on WhatsApp">
+        <i class="fab fa-whatsapp"></i>
+    </a>
+
+    <div id="toast"><i class="fas fa-check-circle"></i> Inquiry Sent! We'll call you shortly.</div>
+
+    <!-- Navigation -->
+    <nav>
+        <div class="container nav-content">
+            <a href="#" class="logo"><i class="fas fa-mountain"></i> Karsog<span>Travels</span></a>
+
+            <ul class="nav-links" id="navLinks">
+                <li><a href="#home" onclick="toggleMenu()">Home</a></li>
+                <li><a href="#packages" onclick="toggleMenu()">Packages</a></li>
+                <li><a href="#stays" onclick="toggleMenu()">Stays</a></li>
+                <li><a href="#reviews" onclick="toggleMenu()">Reviews</a></li>
+                <li><a href="#blog" onclick="toggleMenu()">Blog</a></li>
+            </ul>
+
+            <div class="cta-group">
+                <button class="btn btn-primary" onclick="scrollToForm()">Get Quote</button>
+                <i class="fas fa-moon" id="themeBtn" onclick="toggleTheme()"
+                    style="cursor:pointer; font-size:1.2rem;"></i>
+            </div>
+
+            <div class="mobile-toggle" onclick="toggleMenu()">
+                <i class="fas fa-bars"></i>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <header class="hero" id="home">
+        <div class="container hero-content reveal active">
+            <div class="trust-badge">
+                <i class="fas fa-star text-gold"></i> 4.9/5 Rating based on 500+ Travelers
+            </div>
+            <h1>Uncover the Hidden <br><span class="text-primary">Himalayan Paradise</span></h1>
+            <p>Don't just visit Karsog Valley—experience it. We organize premium itineraries, exclusive temple tours,
+                and luxury camping experiences.</p>
+
+            <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
+                <button onclick="scrollToForm()" class="btn btn-gold">
+                    <i class="fas fa-calendar-check"></i> Book Your Trip
+                </button>
+                <a href="#packages" class="btn" style="border: 1px solid white; color: white;">
+                    View Packages
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <!-- NEW: Why Choose Us -->
+    <section style="padding: 4rem 0;">
+        <div class="container">
+            <div class="features-grid reveal">
+                <div class="feature-card">
+                    <i class="fas fa-user-shield feature-icon"></i>
+                    <h3>Safe & Secure</h3>
+                    <p class="text-muted">Verified drivers, secure hotels, and 24/7 on-ground support.</p>
+                </div>
+                <div class="feature-card">
+                    <i class="fas fa-map-marked-alt feature-icon"></i>
+                    <h3>Local Experts</h3>
+                    <p class="text-muted">Guides born and raised in Karsog who know every hidden trail.</p>
+                </div>
+                <div class="feature-card">
+                    <i class="fas fa-rupee-sign feature-icon"></i>
+                    <h3>Best Price</h3>
+                    <p class="text-muted">Direct partnerships with hotels ensure you get the lowest rates.</p>
+                </div>
+                <div class="feature-card">
+                    <i class="fas fa-concierge-bell feature-icon"></i>
+                    <h3>Custom Plans</h3>
+                    <p class="text-muted">100% customizable itineraries tailored to your preferences.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Best Selling Packages -->
+    <section id="packages" style="padding: 4rem 0; background: var(--bg-card);">
+        <div class="container">
+            <div class="section-title reveal">
+                <h2>Curated Experiences</h2>
+                <p class="text-muted">Choose from our most popular all-inclusive packages.</p>
+            </div>
+
+            <div class="package-grid">
+                <!-- Package 1: Budget -->
+                <div class="package-card reveal">
+                    <div class="pkg-img">
+                        <img src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=600&auto=format&fit=crop"
+                            alt="Lake View">
+                    </div>
+                    <div class="pkg-content">
+                        <h3>Weekend Escape</h3>
+                        <div class="pkg-price">₹5,999 <span>/ person</span></div>
+                        <ul class="features-list">
+                            <li><i class="fas fa-check-circle"></i> 2 Days / 1 Night</li>
+                            <li><i class="fas fa-check-circle"></i> Stay at Homestay</li>
+                            <li><i class="fas fa-check-circle"></i> Mamleshwar Temple Tour</li>
+                            <li><i class="fas fa-check-circle"></i> Bonfire & Dinner</li>
+                        </ul>
+                        <button onclick="selectPackage('Weekend Escape')" class="btn btn-primary"
+                            style="width: 100%; justify-content: center;">View Details</button>
+                    </div>
+                </div>
+
+                <!-- Package 2: Best Seller -->
+                <div class="package-card reveal" style="border-color: var(--gold); transform: scale(1.02);">
+                    <div class="popular-tag"><i class="fas fa-fire"></i> BEST SELLER</div>
+                    <div class="pkg-img">
+                        <img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=600&auto=format&fit=crop"
+                            alt="Trekking">
+                    </div>
+                    <div class="pkg-content">
+                        <h3>Shikari Devi Trek</h3>
+                        <div class="pkg-price">₹8,499 <span>/ person</span></div>
+                        <ul class="features-list">
+                            <li><i class="fas fa-check-circle"></i> 3 Days / 2 Nights</li>
+                            <li><i class="fas fa-check-circle"></i> Guided Trek to 3359m</li>
+                            <li><i class="fas fa-check-circle"></i> Camping Gear Included</li>
+                            <li><i class="fas fa-check-circle"></i> All Meals (Veg/Non-Veg)</li>
+                        </ul>
+                        <button onclick="selectPackage('Shikari Trek')" class="btn btn-gold"
+                            style="width: 100%; justify-content: center;">Book Now</button>
+                    </div>
+                </div>
+
+                <!-- Package 3: Premium -->
+                <div class="package-card reveal">
+                    <div class="pkg-img">
+                        <img src="https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=600&auto=format&fit=crop"
+                            alt="Luxury Hotel">
+                    </div>
+                    <div class="pkg-content">
+                        <h3>Royal Karsog Retreat</h3>
+                        <div class="pkg-price">₹14,999 <span>/ person</span></div>
+                        <ul class="features-list">
+                            <li><i class="fas fa-check-circle"></i> 4 Days / 3 Nights</li>
+                            <li><i class="fas fa-check-circle"></i> Premium Hotel Suite</li>
+                            <li><i class="fas fa-check-circle"></i> Private Taxi for Sightseeing</li>
+                            <li><i class="fas fa-check-circle"></i> Apple Orchard Picnic</li>
+                        </ul>
+                        <button onclick="selectPackage('Royal Retreat')" class="btn btn-primary"
+                            style="width: 100%; justify-content: center;">View Details</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Verified Stays -->
+    <section id="stays" style="padding: 4rem 0;">
+        <div class="container">
+            <div class="section-title reveal">
+                <h2>Premium Stays</h2>
+                <p class="text-muted">Book verified hotels and authentic homestays directly through us.</p>
+            </div>
+            <div class="grid-4">
+                <div class="shop-card reveal">
+                    <div class="shop-img">
+                        <img src="https://images.unsplash.com/photo-1611892440504-42a792e24d32?q=80&w=400&auto=format&fit=crop"
+                            alt="Hotel Bedroom">
+                    </div>
+                    <h4>Hotel OMS</h4>
+                    <p class="text-muted" style="font-size: 0.9rem;">Luxury • Market Center</p>
+                    <div style="color: var(--gold); font-size: 0.9rem; margin: 0.5rem 0;">
+                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i
+                            class="fas fa-star"></i><i class="fas fa-star-half-alt"></i>
+                    </div>
+                    <button onclick="selectPackage('Hotel OMS')" class="btn btn-primary"
+                        style="font-size: 0.8rem; padding: 0.5rem 1rem; width: 100%;">Check Availability</button>
+                </div>
+                <div class="shop-card reveal">
+                    <div class="shop-img">
+                        <img src="https://images.unsplash.com/photo-1510798831971-661eb04b3739?q=80&w=400&auto=format&fit=crop"
+                            alt="Cabin">
+                    </div>
+                    <h4>Orchard Cottage</h4>
+                    <p class="text-muted" style="font-size: 0.9rem;">Privacy • Scenic View</p>
+                    <div style="color: var(--gold); font-size: 0.9rem; margin: 0.5rem 0;">
+                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i
+                            class="fas fa-star"></i>
+                    </div>
+                    <button onclick="selectPackage('Orchard Cottage')" class="btn btn-primary"
+                        style="font-size: 0.8rem; padding: 0.5rem 1rem; width: 100%;">Check Availability</button>
+                </div>
+                <div class="shop-card reveal">
+                    <div class="shop-img">
+                        <img src="https://images.unsplash.com/photo-1587061949409-02df41d5e562?q=80&w=400&auto=format&fit=crop"
+                            alt="Homestay">
+                    </div>
+                    <h4>Mamleshwar Stay</h4>
+                    <p class="text-muted" style="font-size: 0.9rem;">Cultural • Near Temple</p>
+                    <div style="color: var(--gold); font-size: 0.9rem; margin: 0.5rem 0;">
+                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i
+                            class="fas fa-star"></i>
+                    </div>
+                    <button onclick="selectPackage('Mamleshwar Stay')" class="btn btn-primary"
+                        style="font-size: 0.8rem; padding: 0.5rem 1rem; width: 100%;">Check Availability</button>
+                </div>
+                <div class="shop-card reveal">
+                    <div class="shop-img">
+                        <img src="https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=400&auto=format&fit=crop"
+                            alt="Resort">
+                    </div>
+                    <h4>Valley View Resort</h4>
+                    <p class="text-muted" style="font-size: 0.9rem;">Premium • Dining</p>
+                    <div style="color: var(--gold); font-size: 0.9rem; margin: 0.5rem 0;">
+                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i
+                            class="fas fa-star"></i><i class="fas fa-star"></i>
+                    </div>
+                    <button onclick="selectPackage('Valley Resort')" class="btn btn-primary"
+                        style="font-size: 0.8rem; padding: 0.5rem 1rem; width: 100%;">Check Availability</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- NEW: Testimonials (Social Proof) -->
+    <section id="reviews" style="padding: 4rem 0; background: var(--bg-card);">
+        <div class="container">
+            <div class="section-title reveal">
+                <h2>Traveler Stories</h2>
+                <p class="text-muted">Hear from the happy souls who explored with us.</p>
+            </div>
+            <div class="testimonial-grid">
+                <div class="testimonial-card reveal">
+                    <div style="color: var(--gold); margin-bottom: 1rem;"><i class="fas fa-star"></i><i
+                            class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i
+                            class="fas fa-star"></i></div>
+                    <p style="font-style: italic; color: var(--text-muted);">"The Shikari Devi trek was magical. The
+                        guide knew exactly when to start to catch the perfect sunrise. Highly recommended!"</p>
+                    <div class="user-profile">
+                        <img src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=100&auto=format&fit=crop"
+                            alt="User" class="user-img">
+                        <div>
+                            <h5>Priya Sharma</h5>
+                            <span style="font-size: 0.8rem; color: var(--text-muted);">Delhi, India</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="testimonial-card reveal">
+                    <div style="color: var(--gold); margin-bottom: 1rem;"><i class="fas fa-star"></i><i
+                            class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i
+                            class="fas fa-star"></i></div>
+                    <p style="font-style: italic; color: var(--text-muted);">"Karsog Valley is truly a hidden gem. The
+                        homestay arrangement was cozy and the food was authentic Himachali cuisine."</p>
+                    <div class="user-profile">
+                        <img src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=100&auto=format&fit=crop"
+                            alt="User" class="user-img">
+                        <div>
+                            <h5>Rahul Verma</h5>
+                            <span style="font-size: 0.8rem; color: var(--text-muted);">Chandigarh, India</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="testimonial-card reveal">
+                    <div style="color: var(--gold); margin-bottom: 1rem;"><i class="fas fa-star"></i><i
+                            class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i
+                            class="fas fa-star"></i></div>
+                    <p style="font-style: italic; color: var(--text-muted);">"Seamless booking process. The team was
+                        always available on WhatsApp for any query. Felt very safe traveling solo."</p>
+                    <div class="user-profile">
+                        <img src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=100&auto=format&fit=crop"
+                            alt="User" class="user-img">
+                        <div>
+                            <h5>Anita Roy</h5>
+                            <span style="font-size: 0.8rem; color: var(--text-muted);">Mumbai, India</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Gear Shop -->
+    <section id="shop" style="padding: 4rem 0;">
+        <div class="container">
+            <div class="section-title reveal">
+                <h2>Trekking Gear Shop</h2>
+                <p class="text-muted">Essential gear for your Shikari Devi trek.</p>
+            </div>
+            <div class="grid-4">
+                <div class="shop-card reveal">
+                    <div class="shop-img"><img
+                            src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=400&auto=format&fit=crop"
+                            alt="Shoes"></div>
+                    <h4>Trek Boots Pro</h4>
+                    <h4 class="text-primary">₹3,499</h4>
+                    <button class="btn btn-gold" style="font-size: 0.8rem; margin-top: 0.5rem;">Buy on Amazon</button>
+                </div>
+                <div class="shop-card reveal">
+                    <div class="shop-img"><img
+                            src="https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=400&auto=format&fit=crop"
+                            alt="Backpack"></div>
+                    <h4>55L Rucksack</h4>
+                    <h4 class="text-primary">₹1,999</h4>
+                    <button class="btn btn-gold" style="font-size: 0.8rem; margin-top: 0.5rem;">Buy on Amazon</button>
+                </div>
+                <div class="shop-card reveal">
+                    <div class="shop-img"><img
+                            src="https://images.unsplash.com/photo-1706275400998-7fc21c8cd8ed?q=80&w=400&auto=format&fit=crop"
+                            alt="Powerbank"></div>
+                    <h4>20k mAh Bank</h4>
+                    <h4 class="text-primary">₹1,299</h4>
+                    <button class="btn btn-gold" style="font-size: 0.8rem; margin-top: 0.5rem;">Buy on Amazon</button>
+                </div>
+                <div class="shop-card reveal">
+                    <div class="shop-img"><img
+                            src="https://images.unsplash.com/photo-1516961642265-531546e84af2?q=80&w=400&auto=format&fit=crop"
+                            alt="Camera"></div>
+                    <h4>Action Cam</h4>
+                    <h4 class="text-primary">₹6,999</h4>
+                    <button class="btn btn-gold" style="font-size: 0.8rem; margin-top: 0.5rem;">Buy on Amazon</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- NEW: FAQ Section -->
+    <section id="faq" style="padding: 4rem 0; background: var(--bg-card);">
+        <div class="container">
+            <div class="section-title reveal">
+                <h2>Frequent Questions</h2>
+                <p class="text-muted">Everything you need to know before you go.</p>
+            </div>
+            <div class="accordion reveal">
+                <div class="accordion-item">
+                    <div class="accordion-header" onclick="toggleAcc(this)">
+                        <span>Best time to visit Karsog?</span>
+                        <i class="fas fa-chevron-down accordion-icon"></i>
+                    </div>
+                    <div class="accordion-body">
+                        April to June is perfect for pleasant weather. January to February is ideal if you want to
+                        witness snowfall in the upper reaches like Shikari Devi.
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <div class="accordion-header" onclick="toggleAcc(this)">
+                        <span>How is the mobile network?</span>
+                        <i class="fas fa-chevron-down accordion-icon"></i>
+                    </div>
+                    <div class="accordion-body">
+                        Jio and Airtel have strong 5G coverage in Karsog market and Chindi. Connectivity might be
+                        intermittent during the Shikari Devi trek.
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <div class="accordion-header" onclick="toggleAcc(this)">
+                        <span>Is it safe for solo female travelers?</span>
+                        <i class="fas fa-chevron-down accordion-icon"></i>
+                    </div>
+                    <div class="accordion-body">
+                        Absolutely. Himachal Pradesh is one of the safest states. Our verified homestays and drivers
+                        ensure a completely secure environment for solo travelers.
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <div class="accordion-header" onclick="toggleAcc(this)">
+                        <span>What is the cancellation policy?</span>
+                        <i class="fas fa-chevron-down accordion-icon"></i>
+                    </div>
+                    <div class="accordion-body">
+                        We offer a flexible policy. Full refund if cancelled 7 days prior to the trip. 50% refund if
+                        cancelled 3 days prior.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- NEW: Blog/Guides Section -->
+    <section id="blog" style="padding: 4rem 0;">
+        <div class="container">
+            <div class="section-title reveal">
+                <h2>Travel Guides</h2>
+                <p class="text-muted">Expert tips to make your journey memorable.</p>
+            </div>
+            <div class="blog-grid">
+                <div class="blog-card reveal">
+                    <div style="height: 200px; overflow: hidden;">
+                        <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600&auto=format&fit=crop"
+                            style="width: 100%; height: 100%; object-fit: cover;" alt="Guide 1">
+                    </div>
+                    <div class="blog-content">
+                        <span class="blog-date">OCT 12, 2025</span>
+                        <h3>5 Hidden Gems in Karsog</h3>
+                        <p class="text-muted" style="font-size: 0.9rem; margin-bottom: 1rem;">Beyond the main temple,
+                            explore these secret waterfalls and meadows...</p>
+                        <a href="#" class="text-primary" style="font-weight: 600; text-decoration: none;">Read More
+                            &rarr;</a>
+                    </div>
+                </div>
+                <div class="blog-card reveal">
+                    <div style="height: 200px; overflow: hidden;">
+                        <img src="https://images.unsplash.com/photo-1501555088652-021faa106b9b?q=80&w=600&auto=format&fit=crop"
+                            style="width: 100%; height: 100%; object-fit: cover;" alt="Guide 2">
+                    </div>
+                    <div class="blog-content">
+                        <span class="blog-date">NOV 05, 2025</span>
+                        <h3>Packing List for Winter</h3>
+                        <p class="text-muted" style="font-size: 0.9rem; margin-bottom: 1rem;">Don't freeze up there!
+                            Here is the ultimate checklist for a January trip...</p>
+                        <a href="#" class="text-primary" style="font-weight: 600; text-decoration: none;">Read More
+                            &rarr;</a>
+                    </div>
+                </div>
+                <div class="blog-card reveal">
+                    <div style="height: 200px; overflow: hidden;">
+                        <img src="https://images.unsplash.com/photo-1593693397690-362cb9666fc2?q=80&w=600&auto=format&fit=crop"
+                            style="width: 100%; height: 100%; object-fit: cover;" alt="Guide 3">
+                    </div>
+                    <div class="blog-content">
+                        <span class="blog-date">DEC 20, 2025</span>
+                        <h3>History of Mamleshwar</h3>
+                        <p class="text-muted" style="font-size: 0.9rem; margin-bottom: 1rem;">The legend of the
+                            5000-year-old grain and its connection to the Pandavas...</p>
+                        <a href="#" class="text-primary" style="font-weight: 600; text-decoration: none;">Read More
+                            &rarr;</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Lead Generation Form -->
+    <section id="contact" class="contact-section reveal">
+        <div class="container">
+            <div class="form-box">
+                <div style="text-align: center; margin-bottom: 2rem;">
+                    <h2 style="color: var(--text-main);">Plan Your Dream Trip</h2>
+                    <p class="text-muted">Fill this form and our travel expert will contact you within 2 hours with a
+                        custom itinerary.</p>
+                </div>
+                <form onsubmit="submitLead(event)">
+                    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
+                        <input type="text" placeholder="Your Name" required>
+                        <input type="tel" placeholder="Phone Number" required>
+                    </div>
+                    <input type="email" placeholder="Email Address" required>
+                    <select id="packageSelect">
+                        <option value="">Select a Package / Interest</option>
+                        <option value="Weekend Escape">Weekend Escape (Budget)</option>
+                        <option value="Shikari Trek">Shikari Devi Trek (Adventure)</option>
+                        <option value="Royal Retreat">Royal Retreat (Luxury)</option>
+                        <option value="Hotel Booking">Hotel Booking Only</option>
+                        <option value="Custom">Custom Itinerary</option>
+                    </select>
+                    <input type="date" placeholder="Travel Date">
+                    <textarea rows="4"
+                        placeholder="Any specific requirements? (e.g., Veg food only, traveling with kids)"></textarea>
+                    <button type="submit" class="btn btn-gold"
+                        style="width: 100%; justify-content: center; font-size: 1.1rem;">
+                        Get Free Quote <i class="fas fa-arrow-right"></i>
+                    </button>
+                    <p style="text-align: center; font-size: 0.8rem; color: var(--text-muted); margin-top: 1rem;">
+                        <i class="fas fa-lock"></i> Your data is secure. We don't spam.
+                    </p>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!-- Map Section -->
+    <div id="map" style="width: 100%; height: 400px; z-index: 1; border-top: 1px solid var(--glass-border);"></div>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="footer-grid">
+                <div>
+                    <a href="#" class="logo" style="margin-bottom: 1rem; display: block;">Karsog<span>Travels</span></a>
+                    <p style="font-size: 0.9rem; color: var(--text-muted);">The official tourism partner for Karsog
+                        Valley. We ensure safe, memorable, and authentic Himalayan experiences.</p>
+                </div>
+                <div>
+                    <h4 style="color: white; margin-bottom: 1.5rem;">Quick Links</h4>
+                    <a href="#packages" class="footer-link">Tour Packages</a>
+                    <a href="#stays" class="footer-link">Book Hotels</a>
+                    <a href="#shop" class="footer-link">Trekking Gear</a>
+                    <a href="#blog" class="footer-link">Travel Blog</a>
+                </div>
+                <div>
+                    <h4 style="color: white; margin-bottom: 1.5rem;">Contact Us</h4>
+                    <p class="text-muted" style="margin-bottom: 0.5rem;"><i class="fas fa-phone text-primary"></i> +91
+                        8894869371</p>
+                    <p class="text-muted" style="margin-bottom: 0.5rem;"><i class="fas fa-envelope text-primary"></i>
+                        bookings@karsog.com</p>
+                    <p class="text-muted"><i class="fas fa-map-marker-alt text-primary"></i> Main Market, Karsog, HP</p>
+                </div>
+                <div>
+                    <h4 style="color: white; margin-bottom: 1.5rem;">Newsletter</h4>
+                    <div style="display: flex;">
+                        <input type="email" placeholder="Email" style="border-radius: 8px 0 0 8px; margin: 0;">
+                        <button class="btn btn-primary"
+                            style="border-radius: 0 8px 8px 0; padding: 0 1rem;">Join</button>
+                    </div>
+                </div>
+            </div>
+            <div style="text-align: center; margin-top: 4rem; padding-top: 2rem; border-top: 1px solid #334155;">
+                <p style="font-size: 0.8rem; color: var(--text-muted);">&copy; 2026 Karsog Travels. All rights reserved.
+                    <a href="#" style="color: var(--text-muted);">Privacy Policy</a>
+                </p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script>
+        // --- Theme Logic ---
+        const toggleTheme = () => {
+            const html = document.documentElement;
+            const current = html.getAttribute('data-theme') || 'dark';
+            const next = current === 'dark' ? 'light' : 'dark';
+            html.setAttribute('data-theme', next);
+            document.querySelector('#themeBtn').className = next === 'dark' ? 'fas fa-moon' : 'fas fa-sun';
+        };
+
+        // --- Navigation ---
+        function toggleMenu() {
+            const nav = document.getElementById('navLinks');
+            nav.classList.toggle('active');
+        }
+
+        function scrollToForm() {
+            document.getElementById('contact').scrollIntoView({ behavior: 'smooth' });
+        }
+
+        function selectPackage(pkgName) {
+            const select = document.getElementById('packageSelect');
+            select.value = pkgName;
+            scrollToForm();
+        }
+
+        // --- Accordion Logic ---
+        function toggleAcc(header) {
+            const item = header.parentElement;
+            // Close others
+            document.querySelectorAll('.accordion-item').forEach(el => {
+                if (el !== item) el.classList.remove('active');
+            });
+            item.classList.toggle('active');
+        }
+
+        // --- Form Handling ---
+        function submitLead(e) {
+            e.preventDefault();
+            const btn = e.target.querySelector('button');
+            const originalText = btn.innerHTML;
+
+            btn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Processing...';
+            btn.style.opacity = '0.8';
+
+            // Simulate API call
+            setTimeout(() => {
+                document.getElementById('toast').classList.add('show');
+                e.target.reset();
+                btn.innerHTML = originalText;
+                btn.style.opacity = '1';
+                setTimeout(() => document.getElementById('toast').classList.remove('show'), 3000);
+            }, 1500);
+        }
+
+        // --- Scroll Animation ---
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) entry.target.classList.add('active');
+            });
+        }, { threshold: 0.1 });
+        document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+
+        // --- Map ---
+        document.addEventListener('DOMContentLoaded', () => {
+            const map = L.map('map', { scrollWheelZoom: false }).setView([31.3848, 77.2053], 13);
+            L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+                attribution: '&copy; OpenStreetMap &copy; CARTO'
+            }).addTo(map);
+
+            const icon = L.icon({
+                iconUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon.png',
+                shadowUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png',
+                iconSize: [25, 41], iconAnchor: [12, 41]
+            });
+
+            L.marker([31.3848, 77.2053], { icon }).addTo(map).bindPopup("<b>Karsog HQ</b><br>Start Point").openPopup();
+            L.marker([31.3500, 77.1800], { icon }).addTo(map).bindPopup("Mamleshwar Temple");
+            L.marker([31.4500, 77.2500], { icon }).addTo(map).bindPopup("Shikari Devi Trek");
+        });
+    </script>
+</body>
+
+</html>
