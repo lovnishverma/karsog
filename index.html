@@ -57,6 +57,7 @@
             padding: 0;
             box-sizing: border-box;
             scroll-behavior: smooth;
+            -webkit-tap-highlight-color: transparent;
         }
 
         body {
@@ -91,6 +92,11 @@
             margin-bottom: 2rem;
             flex-wrap: wrap;
             gap: 1rem;
+        }
+
+        .section-bg {
+            background: var(--bg-subtle);
+            padding: 5rem 0;
         }
 
         /* --- BUTTONS --- */
@@ -157,17 +163,6 @@
 
         .btn-whatsapp:hover {
             background: #059669;
-        }
-
-        .btn-sheet {
-            border: 2px solid var(--sheet-green);
-            color: var(--sheet-green);
-            background: transparent;
-        }
-
-        .btn-sheet:hover {
-            background: var(--sheet-green);
-            color: white;
         }
 
         /* --- NAVIGATION --- */
@@ -275,7 +270,6 @@
             font-size: 1.2rem;
         }
 
-        /* Categories */
         .categories-grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
@@ -311,13 +305,21 @@
             color: var(--primary);
         }
 
-        /* --- DIRECTORY --- */
+        /* --- DIRECTORY & CAROUSEL --- */
         .filter-bar {
             display: flex;
             gap: 0.8rem;
             overflow-x: auto;
             padding-bottom: 1rem;
             scrollbar-width: none;
+            /* Firefox */
+            -ms-overflow-style: none;
+            /* IE 10+ */
+        }
+
+        .filter-bar::-webkit-scrollbar {
+            display: none;
+            /* Chrome/Safari */
         }
 
         .filter-btn {
@@ -328,6 +330,7 @@
             color: var(--text-muted);
             cursor: pointer;
             white-space: nowrap;
+            flex-shrink: 0;
         }
 
         .filter-btn:hover,
@@ -339,7 +342,8 @@
 
         .listing-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            /* Adjusted for mobile to prevent squashing */
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
             gap: 2rem;
             min-height: 300px;
         }
@@ -366,39 +370,82 @@
             box-shadow: var(--ad-glow);
         }
 
-        .listing-card.fade-in {
-            animation: fadeIn 0.5s ease forwards;
-        }
-
-        @keyframes fadeIn {
-            from {
-                opacity: 0;
-                transform: translateY(10px);
-            }
-
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
-
-        .card-img-wrapper {
+        /* --- CAROUSEL STYLES --- */
+        .carousel {
             position: relative;
+            width: 100%;
             height: 200px;
             overflow: hidden;
+            background: #000;
         }
 
-        .card-img-top {
+        .carousel-track {
+            display: flex;
             width: 100%;
             height: 100%;
+            transition: transform 0.4s ease-in-out;
+        }
+
+        .carousel-slide {
+            min-width: 100%;
+            height: 100%;
             object-fit: cover;
-            transition: 0.5s;
         }
 
-        .listing-card:hover .card-img-top {
-            transform: scale(1.05);
+        .carousel-btn {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            background: rgba(0, 0, 0, 0.5);
+            color: white;
+            border: none;
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 10;
+            transition: 0.2s;
         }
 
+        .carousel-btn:hover {
+            background: rgba(0, 0, 0, 0.8);
+        }
+
+        .carousel-btn.prev {
+            left: 10px;
+        }
+
+        .carousel-btn.next {
+            right: 10px;
+        }
+
+        .carousel-dots {
+            position: absolute;
+            bottom: 10px;
+            left: 50%;
+            transform: translateX(-50%);
+            display: flex;
+            gap: 6px;
+            z-index: 10;
+        }
+
+        .dot {
+            width: 6px;
+            height: 6px;
+            background: rgba(255, 255, 255, 0.4);
+            border-radius: 50%;
+            transition: 0.3s;
+        }
+
+        .dot.active {
+            background: white;
+            transform: scale(1.2);
+        }
+
+        /* --- CARD BODY --- */
         .card-body {
             padding: 1.5rem;
             flex-grow: 1;
@@ -416,9 +463,18 @@
 
         .biz-title {
             font-size: 1.35rem;
-            margin-bottom: 0.5rem;
+            margin-bottom: 0.2rem;
             font-weight: 700;
             color: var(--text-main);
+        }
+
+        .biz-address {
+            font-size: 0.85rem;
+            color: var(--text-muted);
+            margin-bottom: 0.5rem;
+            display: flex;
+            align-items: flex-start;
+            gap: 0.4rem;
         }
 
         .badge {
@@ -441,11 +497,6 @@
         }
 
         /* --- SHOP --- */
-        .section-bg {
-            background: var(--bg-subtle);
-            padding: 5rem 0;
-        }
-
         .affiliate-grid {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
@@ -482,49 +533,99 @@
             margin: 0.5rem 0 1rem;
         }
 
-        /* --- PRICING & PARTNER PORTAL --- */
+        /* --- PRICING PLANS (NEW) --- */
+        .pricing-section {
+            padding: 4rem 0;
+        }
+
+        .pricing-header {
+            text-align: center;
+            max-width: 600px;
+            margin: 0 auto 3rem;
+        }
+
         .pricing-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            grid-template-columns: repeat(3, 1fr);
             gap: 2rem;
-            margin-top: 3rem;
+            align-items: start;
         }
 
         .pricing-card {
             background: var(--bg-card);
             border: 1px solid var(--border);
-            border-radius: 20px;
-            padding: 2.5rem;
+            border-radius: 16px;
+            padding: 2.5rem 2rem;
             text-align: center;
             position: relative;
+            transition: 0.3s;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .pricing-card:hover {
+            transform: translateY(-5px);
+            border-color: var(--primary);
         }
 
         .pricing-card.popular {
-            border-color: var(--primary);
-            background: linear-gradient(to bottom, var(--bg-card), rgba(59, 130, 246, 0.05));
+            border: 2px solid var(--primary);
+            background: linear-gradient(to bottom, var(--bg-card), rgba(59, 130, 246, 0.1));
             transform: scale(1.05);
-            z-index: 10;
+            z-index: 2;
+            box-shadow: var(--shadow-lg);
         }
 
-        /* --- SKELETON LOADING --- */
-        .skeleton {
-            background: linear-gradient(90deg, var(--bg-card) 25%, var(--bg-input) 50%, var(--bg-card) 75%);
-            background-size: 200% 100%;
-            animation: loading 1.5s infinite;
-            border-radius: 8px;
+        .pricing-card.popular:hover {
+            transform: scale(1.08);
         }
 
-        @keyframes loading {
-            0% {
-                background-position: 200% 0;
-            }
-
-            100% {
-                background-position: -200% 0;
-            }
+        .most-popular-tag {
+            background: var(--primary);
+            color: white;
+            padding: 0.25rem 1rem;
+            border-radius: 20px;
+            font-size: 0.75rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            position: absolute;
+            top: -12px;
+            left: 50%;
+            transform: translateX(-50%);
         }
 
-        /* --- FORM ELEMENTS --- */
+        .price-tag {
+            font-size: 2.5rem;
+            font-weight: 800;
+            margin: 1rem 0 0.5rem;
+            color: var(--text-main);
+        }
+
+        .price-period {
+            font-size: 0.9rem;
+            color: var(--text-muted);
+        }
+
+        .plan-features {
+            list-style: none;
+            margin: 2rem 0;
+            text-align: left;
+            flex-grow: 1;
+        }
+
+        .plan-features li {
+            margin-bottom: 0.8rem;
+            color: var(--text-muted);
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .plan-features li i {
+            color: var(--success);
+        }
+
+        /* --- FORMS --- */
         input,
         select,
         textarea {
@@ -591,15 +692,64 @@
             transform: scale(1.1) rotate(10deg);
         }
 
-        .no-results {
-            grid-column: 1 / -1;
-            text-align: center;
-            padding: 4rem;
-            color: var(--text-muted);
-            display: none;
+        .skeleton {
+            background: linear-gradient(90deg, var(--bg-card) 25%, var(--bg-input) 50%, var(--bg-card) 75%);
+            background-size: 200% 100%;
+            animation: loading 1.5s infinite;
+            border-radius: 8px;
         }
 
-        /* --- MOBILE --- */
+        @keyframes loading {
+            0% {
+                background-position: 200% 0;
+            }
+
+            100% {
+                background-position: -200% 0;
+            }
+        }
+
+        /* --- FOOTER --- */
+        footer {
+            border-top: 1px solid var(--border);
+            background: var(--bg-nav);
+            padding: 3rem 0;
+            margin-top: 2rem;
+        }
+
+        .footer-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 1.5rem;
+        }
+
+        .social-links {
+            display: flex;
+            gap: 1rem;
+        }
+
+        .social-icon {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background: var(--bg-input);
+            color: var(--text-main);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-decoration: none;
+            transition: 0.2s;
+        }
+
+        .social-icon:hover {
+            background: var(--primary);
+            color: white;
+            transform: translateY(-3px);
+        }
+
+        /* --- MOBILE RESPONSIVENESS --- */
         .mobile-menu-btn {
             display: none;
             font-size: 1.5rem;
@@ -613,24 +763,68 @@
             display: none;
         }
 
-        @media (max-width: 768px) {
-            .hero {
-                padding-top: 2rem;
+        .overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.5);
+            backdrop-filter: blur(3px);
+            z-index: 998;
+            opacity: 0;
+            pointer-events: none;
+            transition: 0.3s;
+        }
+
+        .overlay.active {
+            opacity: 1;
+            pointer-events: all;
+        }
+
+        @media (max-width: 900px) {
+            .pricing-grid {
+                grid-template-columns: 1fr;
+                max-width: 450px;
+                margin: 0 auto;
             }
 
+            .pricing-card.popular {
+                transform: scale(1);
+                order: -1;
+                /* Put popular item first on mobile */
+                margin-bottom: 1rem;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 0 1.2rem;
+            }
+
+            .hero {
+                padding-top: 3rem;
+                padding-bottom: 3rem;
+            }
+
+            .hero h1 {
+                font-size: 2rem;
+            }
+
+            /* Mobile Nav */
             .nav-links {
                 position: fixed;
                 top: 0;
                 right: -100%;
-                width: 80%;
+                width: 85%;
                 height: 100vh;
                 background: var(--bg-card);
                 flex-direction: column;
                 padding: 6rem 2rem;
-                transition: 0.3s;
+                transition: 0.3s ease-in-out;
                 z-index: 999;
                 align-items: flex-start;
-                box-shadow: -5px 0 15px rgba(0, 0, 0, 0.5);
+                box-shadow: -5px 0 25px rgba(0, 0, 0, 0.5);
             }
 
             .nav-links.active {
@@ -650,31 +844,40 @@
                 display: none !important;
             }
 
-            .overlay {
-                position: fixed;
-                top: 0;
-                left: 0;
-                width: 100%;
-                height: 100%;
-                background: rgba(0, 0, 0, 0.5);
-                backdrop-filter: blur(3px);
-                z-index: 998;
-                opacity: 0;
-                pointer-events: none;
-                transition: 0.3s;
+            /* Listings */
+            .listing-grid {
+                /* Ensure single column on small screens */
+                grid-template-columns: 1fr;
             }
 
-            .overlay.active {
-                opacity: 1;
-                pointer-events: all;
+            /* Pricing */
+            .pricing-card {
+                padding: 2rem 1.5rem;
             }
 
-            .hero h1 {
-                font-size: 2.2rem;
+            /* Search */
+            .search-input {
+                padding: 1rem 3rem 1rem 1.2rem;
             }
 
-            .pricing-card.popular {
-                transform: scale(1);
+            /* Footer */
+            .footer-content {
+                flex-direction: column;
+                text-align: center;
+            }
+
+            .whatsapp-float {
+                width: 50px;
+                height: 50px;
+                font-size: 24px;
+                right: 20px;
+                bottom: 20px;
+            }
+        }
+
+        @media (max-width: 400px) {
+            .categories-grid {
+                grid-template-columns: 1fr 1fr;
             }
         }
     </style>
@@ -689,7 +892,7 @@
     <div class="emergency-bar"
         style="background: #0f172a; color: #94a3b8; font-size: 0.85rem; padding: 0.5rem 0; border-bottom: 1px solid #1e293b;">
         <div class="container" style="display: flex; justify-content: space-between; align-items: center;">
-            <span><i class="fas fa-bell" style="color: var(--danger);"></i> Emergency Services</span>
+            <span><i class="fas fa-bell" style="color: var(--danger);"></i> Emergency</span>
             <div>
                 <a href="tel:100" style="color: #e2e8f0; text-decoration: none; margin-left: 1.2rem;"><i
                         class="fas fa-shield-alt"></i> 100</a>
@@ -732,8 +935,8 @@
             <h1>Find Services, Buy Gear & <br><span style="color: var(--primary);">Grow Your Business</span></h1>
             <p>Real-time directory and store powered by Google Sheets.</p>
             <div class="search-container">
-                <input type="text" id="searchInput" class="search-input"
-                    placeholder="Search for hotels, mechanics, shops..." onkeyup="filterListings()">
+                <input type="text" id="searchInput" class="search-input" placeholder="Search hotels, shops..."
+                    onkeyup="filterListings()">
                 <i class="fas fa-search search-icon"></i>
             </div>
             <div class="categories-grid">
@@ -777,7 +980,8 @@
             <div class="listing-card skeleton" style="height: 380px;"></div>
         </div>
 
-        <div class="no-results" id="noResults">
+        <div class="no-results" id="noResults"
+            style="display:none; text-align:center; padding: 4rem; grid-column: 1/-1;">
             <i class="fas fa-search" style="font-size: 3rem; margin-bottom: 1rem; opacity: 0.5;"></i>
             <h3>No listings found</h3>
             <p>Try searching for something else or change the category.</p>
@@ -793,157 +997,138 @@
                 <p style="color: var(--text-muted);">Handpicked gear from the Sheet.</p>
             </div>
             <div class="affiliate-grid" id="shopGrid">
-                <!-- Loading Skeletons -->
-                <div class="product-card skeleton" style="height: 300px;"></div>
-                <div class="product-card skeleton" style="height: 300px;"></div>
                 <div class="product-card skeleton" style="height: 300px;"></div>
                 <div class="product-card skeleton" style="height: 300px;"></div>
             </div>
         </div>
     </section>
 
-    <!-- Pricing -->
-    <section id="pricing" class="container" style="padding: 4rem 1rem;">
-        <div style="text-align: center;">
-            <span class="badge badge-verified">For Business Owners</span>
-            <h2 style="margin-top: 0.5rem;">Choose Your Plan</h2>
-            <p style="color: var(--text-muted);">Promote your business to thousands of monthly visitors.</p>
-        </div>
-        <div class="pricing-grid">
-            <div class="pricing-card">
-                <div class="plan-name" style="font-size: 1.2rem; font-weight: 700;">Basic</div>
-                <div class="plan-price" style="font-size: 2.5rem; font-weight: 800; margin: 0.5rem 0;">₹0</div>
-                <ul style="list-style: none; text-align: left; margin: 1.5rem 0; color: var(--text-muted);">
-                    <li><i class="fas fa-check" style="color: var(--success);"></i> Photo/Name & Address</li>
-                    <li><i class="fas fa-check" style="color: var(--success);"></i> Phone Listing</li>
-                </ul>
-                <button onclick="scrollToJoin()" class="btn btn-outline" style="width: 100%;">Get Started</button>
+    <!-- Pricing Section -->
+    <section id="pricing" class="pricing-section">
+        <div class="container">
+            <div class="pricing-header">
+                <span class="badge badge-verified">For Business Owners</span>
+                <h2 style="margin-top: 0.5rem;">Choose Your Plan</h2>
+                <p style="color: var(--text-muted);">Promote your business to thousands of monthly visitors.</p>
             </div>
-            <div class="pricing-card popular">
-                <div
-                    style="position: absolute; top: 0; left: 50%; transform: translate(-50%, -50%); background: var(--primary); padding: 6px 16px; border-radius: 20px; font-size: 0.8rem; font-weight: bold; color: white;">
-                    Most Popular</div>
-                <div class="plan-name" style="font-size: 1.2rem; font-weight: 700;">Pro Verified</div>
-                <div class="plan-price" style="font-size: 2.5rem; font-weight: 800; margin: 0.5rem 0;">₹499 <span
-                        style="font-size: 1rem; font-weight: 400; color: var(--text-muted);">/yr</span></div>
-                <ul style="list-style: none; text-align: left; margin: 1.5rem 0; color: var(--text-muted);">
-                    <li><i class="fas fa-check-circle" style="color: var(--primary);"></i> <strong>Featured
-                            Badge</strong></li>
-                    <li><i class="fas fa-check" style="color: var(--success);"></i> WhatsApp Button</li>
-                    <li><i class="fas fa-check" style="color: var(--success);"></i> 5 Photos Gallery</li>
-                </ul>
-                <button onclick="scrollToJoin()" class="btn btn-primary" style="width: 100%;">Upgrade Now</button>
-            </div>
-            <div class="pricing-card">
-                <div class="plan-name" style="font-size: 1.2rem; font-weight: 700;">Banner Ad</div>
-                <div class="plan-price" style="font-size: 2.5rem; font-weight: 800; margin: 0.5rem 0;">₹999 <span
-                        style="font-size: 1rem; font-weight: 400; color: var(--text-muted);">/mo</span></div>
-                <ul style="list-style: none; text-align: left; margin: 1.5rem 0; color: var(--text-muted);">
-                    <li><i class="fas fa-check" style="color: var(--success);"></i> <strong>Homepage Banner</strong>
-                    </li>
-                    <li><i class="fas fa-check" style="color: var(--success);"></i> High Visibility</li>
-                </ul>
-                <button onclick="scrollToJoin()" class="btn btn-outline" style="width: 100%;">Contact Sales</button>
-            </div>
-        </div>
-    </section>
 
-    <!-- Partner Portal -->
-    <section id="partner-portal" class="container" style="padding: 4rem 1rem; border-top: 1px solid var(--border);">
-        <div class="section-header">
-            <div>
-                <h2>Partner Portal</h2>
-                <p style="color: var(--text-muted);">Manage your business listing effortlessly.</p>
+            <div class="pricing-grid">
+                <!-- Basic Plan -->
+                <div class="pricing-card">
+                    <h3>Basic</h3>
+                    <div class="price-tag">₹0</div>
+                    <div class="price-period">Forever Free</div>
+                    <ul class="plan-features">
+                        <li><i class="fas fa-check-circle"></i> Name & Address Listing</li>
+                        <li><i class="fas fa-check-circle"></i> Phone Number Display</li>
+                        <li><i class="fas fa-check-circle"></i> Basic Category Search</li>
+                    </ul>
+                    <a href="#join" class="btn btn-outline" style="width: 100%;">Get Started</a>
+                </div>
+
+                <!-- Pro Verified (Popular) -->
+                <div class="pricing-card popular">
+                    <div class="most-popular-tag">Most Popular</div>
+                    <h3>Pro Verified</h3>
+                    <div class="price-tag">₹499</div>
+                    <div class="price-period">per year</div>
+                    <ul class="plan-features">
+                        <li><i class="fas fa-check-circle"></i> <strong>Verified Badge</strong></li>
+                        <li><i class="fas fa-check-circle"></i> WhatsApp Chat Button</li>
+                        <li><i class="fas fa-check-circle"></i> 5 Photos Gallery</li>
+                        <li><i class="fas fa-check-circle"></i> Priority Support</li>
+                    </ul>
+                    <a href="#join" class="btn btn-primary" style="width: 100%;">Upgrade Now</a>
+                </div>
+
+                <!-- Banner Ad -->
+                <div class="pricing-card">
+                    <h3>Banner Ad</h3>
+                    <div class="price-tag">₹999</div>
+                    <div class="price-period">per month</div>
+                    <ul class="plan-features">
+                        <li><i class="fas fa-check-circle"></i> <strong>Homepage Banner</strong></li>
+                        <li><i class="fas fa-check-circle"></i> Highest Visibility</li>
+                        <li><i class="fas fa-check-circle"></i> Click Tracking</li>
+                        <li><i class="fas fa-check-circle"></i> Custom Design Support</li>
+                    </ul>
+                    <a href="https://wa.me/918894869371" target="_blank" class="btn btn-outline"
+                        style="width: 100%;">Contact Sales</a>
+                </div>
             </div>
         </div>
-        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem;">
-            <!-- Manual Update Card -->
-            <div class="pricing-card" style="text-align: left; padding: 2rem;">
-                <h3><i class="fas fa-edit" style="color: var(--primary);"></i> Quick Edit</h3>
-                <p style="color: var(--text-muted); margin-bottom: 1.5rem; font-size: 0.9rem;">Need to change a phone
-                    number or fix a typo? Send us a quick request.</p>
-                <form onsubmit="submitUpdate(event)">
-                    <input type="text" id="updateBizName" placeholder="Business Name" required>
-                    <select id="updateType">
-                        <option value="Info">Update Information</option>
-                        <option value="Photo">Change Photo</option>
-                        <option value="Remove">Remove Listing</option>
-                    </select>
-                    <textarea id="updateDetails" rows="2" placeholder="What should we change?" required></textarea>
-                    <button type="submit" class="btn btn-primary" style="width: 100%;">Send Update Request</button>
-                </form>
-            </div>
     </section>
 
     <!-- Join Form -->
-    <section id="join" class="section-bg">
-        <div class="container">
+    <section id="join" class="container" style="padding: 4rem 1rem;">
+        <div
+            style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 3rem; align-items: center;">
+            <div>
+                <span class="badge badge-verified" style="margin-bottom: 1rem;">Join 500+ Businesses</span>
+                <h2>Submit Your Listing</h2>
+                <p style="color: var(--text-muted); margin: 1rem 0 2rem;">Fill out the details below. Our team will
+                    verify your information and publish your listing.</p>
+            </div>
             <div
-                style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 3rem; align-items: center;">
-                <div>
-                    <span class="badge badge-verified" style="margin-bottom: 1rem;">Join 500+ Businesses</span>
-                    <h2>Submit Your Listing</h2>
-                    <p style="color: var(--text-muted); margin: 1rem 0 2rem;">Fill out the details below. Our team will
-                        verify your information and publish your listing within 24 hours.</p>
-                </div>
-                <div
-                    style="background: var(--bg-card); padding: 2rem; border-radius: 16px; border: 1px solid var(--border); box-shadow: var(--shadow-lg);">
-                    <form id="listingForm" onsubmit="submitForm(event)">
-                        <input type="text" id="bizName" placeholder="Business Name" required>
-                        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
-                            <select id="bizCategory">
-                                <option value="">Category...</option>
-                                <option value="Hotel">Hotel</option>
-                                <option value="Taxi">Taxi</option>
-                                <option value="Shop">Shop</option>
-                                <option value="Food">Restaurant</option>
-                                <option value="Service">Service</option>
-                                <option value="Health">Health</option>
-                            </select>
-                            <select id="bizPlan">
-                                <option value="">Plan...</option>
-                                <option value="Free">Free</option>
-                                <option value="Pro">Pro (₹499/yr)</option>
-                                <option value="Ad">Ad Banner</option>
-                            </select>
-                        </div>
-                        <input type="tel" id="bizPhone" placeholder="Phone Number" required>
-                        <textarea id="bizDesc" rows="3" placeholder="Business Description / Address"></textarea>
-                        <button type="submit" class="btn btn-primary" style="width: 100%;">Submit Request</button>
-                    </form>
-                </div>
+                style="background: var(--bg-card); padding: 2rem; border-radius: 16px; border: 1px solid var(--border); box-shadow: var(--shadow-lg);">
+                <form id="listingForm" onsubmit="submitForm(event)">
+                    <input type="text" id="bizName" placeholder="Business Name" required>
+                    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
+                        <select id="bizCategory">
+                            <option value="">Category...</option>
+                            <option value="Hotel">Hotel</option>
+                            <option value="Taxi">Taxi</option>
+                            <option value="Shop">Shop</option>
+                            <option value="Food">Restaurant</option>
+                            <option value="Service">Service</option>
+                        </select>
+                        <select id="bizPlan">
+                            <option value="">Plan...</option>
+                            <option value="Free">Free</option>
+                            <option value="Pro">Pro (₹499/yr)</option>
+                            <option value="Banner">Banner Ad</option>
+                        </select>
+                    </div>
+                    <input type="tel" id="bizPhone" placeholder="Phone Number" required>
+                    <input type="text" id="bizAddress" placeholder="Full Address (e.g. Main Market, Karsog)" required>
+                    <textarea id="bizDesc" rows="3" placeholder="Description"></textarea>
+                    <button type="submit" class="btn btn-primary" style="width: 100%;">Submit Request</button>
+                </form>
             </div>
         </div>
     </section>
 
     <!-- Footer -->
     <footer>
-        <div class="container">
-            <div class="social-links" style="margin-bottom: 1.5rem;">
-                <a href="#"><i class="fab fa-facebook"></i></a>
-                <a href="#"><i class="fab fa-instagram"></i></a>
-                <a href="#"><i class="fab fa-twitter"></i></a>
+        <div class="container footer-content">
+            <div style="text-align: left;">
+                <a href="#" class="logo" style="margin-bottom: 0.5rem;"><i class="fas fa-layer-group"
+                        style="color: var(--primary);"></i> Karsog<span>Connect</span></a>
+                <p style="color: var(--text-muted); font-size: 0.9rem;">Connecting the valley, one click at a time.</p>
             </div>
-            <p>&copy; 2026 Karsog Connect. Built for the Community.</p>
+
+            <div class="social-links">
+                <a href="#" class="social-icon"><i class="fab fa-facebook-f"></i></a>
+                <a href="#" class="social-icon"><i class="fab fa-instagram"></i></a>
+                <a href="#" class="social-icon"><i class="fab fa-twitter"></i></a>
+                <a href="#" class="social-icon"><i class="fab fa-linkedin-in"></i></a>
+            </div>
+
+            <div style="color: var(--text-muted); font-size: 0.9rem;">
+                &copy; 2026 Karsog Connect. All Rights Reserved.
+            </div>
         </div>
     </footer>
 
     <script>
         // --- CONFIGURATION ---
-        // 1. Get URL from Google Sheet > Extensions > Apps Script > Deploy > Web App
-        // 2. Paste it inside the quotes below:
-        const SHEET_API_URL = "https://script.google.com/macros/s/AKfycbyX12Duvo8LNdl5QV1Sbf7xowpplJaHnCBpnlZV7C4QHX5AS4YX2lf1scOSpniW_yue/exec";
+        const SHEET_API_URL = "https://script.google.com/macros/s/AKfycbyr9hda6N9BX8WCYpzCHCWN-pTCiUDR7WRQGhIX2Vve8irYLYWzO0A56tjIhPDxlY6Q/exec";
 
-        // --- INITIALIZATION ---
         window.onload = function () {
             if (SHEET_API_URL) {
                 fetchData();
             } else {
-                // Fallback/Demo if no URL is set
-                console.warn("SHEET_API_URL is empty. Using demo logic or showing skeletons.");
-                document.getElementById('toast').innerText = "Please configure Google Sheet URL in code";
-                document.getElementById('toast').classList.add('show');
-                setTimeout(() => document.getElementById('toast').classList.remove('show'), 5000);
+                console.warn("SHEET_API_URL is empty.");
             }
         };
 
@@ -951,70 +1136,89 @@
             try {
                 const response = await fetch(SHEET_API_URL);
                 const data = await response.json();
-
                 renderDirectory(data.directory);
                 renderShop(data.store);
-
             } catch (error) {
                 console.error("Error fetching data:", error);
-                document.getElementById('listingGrid').innerHTML = `<div class="no-results" style="display:block;">Failed to load data. Check console.</div>`;
+                document.getElementById('listingGrid').innerHTML = `<div class="no-results" style="display:block;">Failed to load data. Please check connection.</div>`;
             }
         }
 
-        // --- RENDER FUNCTIONS ---
         function renderDirectory(items) {
             const grid = document.getElementById('listingGrid');
-            grid.innerHTML = ""; // Clear skeletons
+            grid.innerHTML = "";
 
             if (!items || items.length === 0) {
                 document.getElementById('noResults').style.display = "block";
                 return;
             }
 
-            items.forEach(item => {
-                const imgUrl = item.image || 'assets/img/karsog.jpg';
+            items.forEach((item, index) => {
                 const isFeatured = (String(item.isFeatured).toLowerCase() === 'true');
                 const featuredBadge = isFeatured ? `<span class="badge badge-ad" style="position:absolute; top:10px; right:10px; z-index:10;"><i class="fas fa-star"></i> Featured</span>` : '';
                 const cardClass = isFeatured ? 'listing-card sponsored fade-in' : 'listing-card fade-in';
 
-                // --- NEW LOGIC STARTS HERE ---
-
-                // 1. Check if WhatsApp number actually exists and isn't empty
                 const hasWhatsapp = item.whatsapp && String(item.whatsapp).trim() !== "";
-
-                // 2. Define the button HTML based on existence
                 const whatsappButtonHtml = hasWhatsapp
                     ? `<a href="https://wa.me/${item.whatsapp}" class="btn btn-whatsapp" target="_blank"><i class="fab fa-whatsapp"></i> Chat</a>`
                     : ``;
 
-                // 3. Adjust Grid Style: 
-                // If WhatsApp exists: 2 columns (1fr 1fr)
-                // If NO WhatsApp: 1 column (1fr) -> Makes Call button full width
-                const gridStyle = hasWhatsapp
-                    ? "grid-template-columns: 1fr 1fr;"
-                    : "grid-template-columns: 1fr;";
+                const gridStyle = hasWhatsapp ? "grid-template-columns: 1fr 1fr;" : "grid-template-columns: 1fr;";
 
-                // --- NEW LOGIC ENDS HERE ---
+                let rawImages = [];
+                if (Array.isArray(item.images) && item.images.length > 0) {
+                    rawImages = item.images;
+                } else if (item.image) {
+                    rawImages = [item.image];
+                }
+
+                const images = rawImages.filter(url => url && url.trim() !== "");
+                if (images.length === 0) images.push('https://via.placeholder.com/400x300?text=No+Image');
+
+                let carouselSlidesHtml = '';
+                let dotsHtml = '';
+
+                images.forEach((img, i) => {
+                    carouselSlidesHtml += `<img src="${img}" class="carousel-slide" alt="${item.name}">`;
+                    if (images.length > 1) {
+                        dotsHtml += `<div class="dot ${i === 0 ? 'active' : ''}" onclick="goToSlide(this, ${i})"></div>`;
+                    }
+                });
+
+                const controlsHtml = images.length > 1 ? `
+                    <button class="carousel-btn prev" onclick="moveSlide(this, -1)"><i class="fas fa-chevron-left"></i></button>
+                    <button class="carousel-btn next" onclick="moveSlide(this, 1)"><i class="fas fa-chevron-right"></i></button>
+                    <div class="carousel-dots">${dotsHtml}</div>
+                ` : '';
 
                 const html = `
                     <div class="${cardClass}" data-category="${item.category}" data-title="${item.name}">
-                        <div class="card-img-wrapper">
+                        <div class="carousel" id="carousel-${index}">
                             ${featuredBadge}
-                            <img src="${imgUrl}" class="card-img-top" alt="${item.name}" onerror="this.src='https://via.placeholder.com/400x300?text=No+Image'">
+                            <div class="carousel-track">
+                                ${carouselSlidesHtml}
+                            </div>
+                            ${controlsHtml}
                         </div>
+
                         <div class="card-body">
                             <div class="biz-cat">${item.category}</div>
                             <div class="biz-title">${item.name}</div>
+                            
+                            <div class="biz-address">
+                                <i class="fas fa-map-marker-alt" style="color: var(--primary); margin-top: 3px;"></i>
+                                <span>${item.address || 'Address not available'}</span>
+                            </div>
+
                             <div style="display: flex; gap: 0.8rem; font-size: 0.9rem; color: var(--text-muted); margin-bottom: 1rem;">
                                 <span><i class="fas fa-star" style="color: var(--accent);"></i> ${item.rating}</span>
                             </div>
-                            <p style="font-size: 0.9rem; color: var(--text-muted); margin-bottom: 1rem;">${item.desc}</p>
+                            <p style="font-size: 0.9rem; color: var(--text-muted); margin-bottom: 1rem; flex-grow: 1;">${item.desc}</p>
                             
                             <div style="display: grid; ${gridStyle} gap: 0.8rem; margin-top: auto;">
                                 <a href="tel:${item.phone}" class="btn btn-call"><i class="fas fa-phone"></i> Call</a>
                                 ${whatsappButtonHtml}
                             </div>
-
                         </div>
                     </div>
                 `;
@@ -1022,38 +1226,62 @@
             });
         }
 
+        function moveSlide(btn, direction) {
+            const carousel = btn.closest('.carousel');
+            const track = carousel.querySelector('.carousel-track');
+            const dots = carousel.querySelectorAll('.dot');
+            const totalSlides = track.children.length;
+
+            let currentIndex = parseInt(track.getAttribute('data-index') || '0');
+            let newIndex = currentIndex + direction;
+
+            if (newIndex < 0) newIndex = totalSlides - 1;
+            if (newIndex >= totalSlides) newIndex = 0;
+
+            updateCarousel(track, dots, newIndex);
+        }
+
+        function goToSlide(dot, index) {
+            const carousel = dot.closest('.carousel');
+            const track = carousel.querySelector('.carousel-track');
+            const dots = carousel.querySelectorAll('.dot');
+            updateCarousel(track, dots, index);
+        }
+
+        function updateCarousel(track, dots, index) {
+            track.style.transform = `translateX(-${index * 100}%)`;
+            track.setAttribute('data-index', index);
+
+            dots.forEach(d => d.classList.remove('active'));
+            if (dots[index]) dots[index].classList.add('active');
+        }
+
         function renderShop(items) {
             const grid = document.getElementById('shopGrid');
             grid.innerHTML = "";
-
             if (!items || items.length === 0) {
                 grid.innerHTML = `<div style="text-align:center; grid-column:1/-1; color:var(--text-muted);">No products found.</div>`;
                 return;
             }
-
             items.forEach(item => {
-                const imgUrl = item.image || 'assets/img/karsog.jpg';
                 const badgeHtml = item.badge ? `<span class="badge" style="background: var(--success); color: white; position: absolute; top: 10px; right: 10px;">${item.badge}</span>` : '';
-
                 const html = `
                     <div class="product-card">
                         ${badgeHtml}
-                        <img src="${imgUrl}" class="product-img" alt="${item.title}" onerror="this.src='https://via.placeholder.com/300x300?text=Product'">
+                        <img src="${item.image}" class="product-img" alt="${item.title}" onerror="this.src='https://via.placeholder.com/300x300?text=Product'">
                         <div style="font-weight: 600; margin-bottom: 0.2rem;">${item.title}</div>
                         <span class="product-price">₹${item.price}</span>
-                        <a href="${item.link}" class="btn btn-primary" style="width: 100%; font-size: 0.8rem;" target="_blank">Buy on Amazon</a>
+                        <a href="${item.link}" class="btn btn-primary" style="width: 100%; font-size: 0.8rem;" target="_blank">Buy Now</a>
                     </div>
                 `;
                 grid.innerHTML += html;
             });
         }
 
-        // --- FILTER LOGIC ---
         function filterListings() {
             const input = document.getElementById('searchInput').value.toLowerCase();
             const cards = document.querySelectorAll('.listing-card');
             let visibleCount = 0;
-
             let currentCategory = 'all';
             document.querySelectorAll('.filter-btn').forEach(btn => {
                 if (btn.classList.contains('active')) currentCategory = btn.innerText.toLowerCase();
@@ -1062,13 +1290,11 @@
             cards.forEach(card => {
                 const title = card.getAttribute('data-title').toLowerCase();
                 const category = card.getAttribute('data-category').toLowerCase();
-
-                let categoryMatch = false;
-                if (currentCategory === 'all') categoryMatch = true;
-                else if (currentCategory === 'restaurants' && category === 'food') categoryMatch = true;
-                else if (currentCategory === 'shopping' && category === 'shop') categoryMatch = true;
-                else if (currentCategory === 'taxis' && category === 'taxi') categoryMatch = true;
-                else if (category === currentCategory) categoryMatch = true;
+                let categoryMatch = (currentCategory === 'all') ||
+                    (currentCategory === 'restaurants' && category === 'food') ||
+                    (currentCategory === 'shopping' && category === 'shop') ||
+                    (currentCategory === 'taxis' && category === 'taxi') ||
+                    (category === currentCategory);
 
                 if ((title.includes(input) || category.includes(input)) && categoryMatch) {
                     card.style.display = "flex";
@@ -1077,7 +1303,6 @@
                     card.style.display = "none";
                 }
             });
-
             document.getElementById('noResults').style.display = visibleCount === 0 ? "block" : "none";
         }
 
@@ -1098,7 +1323,6 @@
             document.getElementById('directory').scrollIntoView();
         }
 
-        // --- UI ACTIONS ---
         function toggleTheme() {
             const html = document.documentElement;
             const current = html.getAttribute('data-theme') || 'dark';
@@ -1110,72 +1334,25 @@
         function toggleMenu() {
             const nav = document.getElementById('navLinks');
             const overlay = document.getElementById('menuOverlay');
-            const icon = document.getElementById('menuIcon');
             nav.classList.toggle('active');
             overlay.classList.toggle('active');
-            if (nav.classList.contains('active')) {
-                icon.classList.remove('fa-bars');
-                icon.classList.add('fa-times');
-            } else {
-                icon.classList.remove('fa-times');
-                icon.classList.add('fa-bars');
-            }
         }
 
-        function scrollToJoin() {
-            document.getElementById('join').scrollIntoView();
-        }
-
-        // --- FORM SUBMISSIONS (WhatsApp) ---
         function submitForm(e) {
             e.preventDefault();
             const name = document.getElementById('bizName').value;
             const category = document.getElementById('bizCategory').value;
             const plan = document.getElementById('bizPlan').value;
             const phone = document.getElementById('bizPhone').value;
+            const address = document.getElementById('bizAddress').value;
             const desc = document.getElementById('bizDesc').value;
 
-            const msg = `*New Listing Request* 🚀%0A%0A*Name:* ${name}%0A*Category:* ${category}%0A*Plan:* ${plan}%0A*Phone:* ${phone}%0A*Details:* ${desc}`;
-            sendToWhatsApp(msg);
-        }
+            const msg = `*New Listing Request* 🚀%0A%0A*Name:* ${name}%0A*Category:* ${category}%0A*Plan:* ${plan}%0A*Phone:* ${phone}%0A*Address:* ${address}%0A*Details:* ${desc}`;
 
-        function submitUpdate(e) {
-            e.preventDefault();
-            const name = document.getElementById('updateBizName').value;
-            const type = document.getElementById('updateType').value;
-            const details = document.getElementById('updateDetails').value;
-
-            const msg = `*Update Request* 📝%0A%0A*Business:* ${name}%0A*Type:* ${type}%0A*Changes:* ${details}`;
-            sendToWhatsApp(msg);
-        }
-
-        function sendToWhatsApp(message) {
-            const btn = event.target.querySelector('button');
-            const original = btn.innerText;
-            btn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Opening WhatsApp...';
-            btn.disabled = true;
-
-            setTimeout(() => {
-                document.getElementById('toast').classList.add('show');
-                window.open(`https://wa.me/918894869371?text=${message}`, '_blank');
-                event.target.reset();
-                btn.innerText = original;
-                btn.disabled = false;
-                setTimeout(() => document.getElementById('toast').classList.remove('show'), 3000);
-            }, 1000);
-        }
-
-        // --- PORTAL DEMO ---
-        function connectSheet() {
-            const btn = event.target;
-            const original = btn.innerHTML;
-            btn.innerHTML = '<i class="fas fa-circle-notch fa-spin"></i> Syncing...';
-            setTimeout(() => {
-                document.getElementById('toast').innerText = "Demo: Sync Request Sent!";
-                document.getElementById('toast').classList.add('show');
-                btn.innerHTML = original;
-                setTimeout(() => document.getElementById('toast').classList.remove('show'), 3000);
-            }, 1500);
+            window.open(`https://wa.me/918894869371?text=${msg}`, '_blank');
+            document.getElementById('toast').classList.add('show');
+            setTimeout(() => document.getElementById('toast').classList.remove('show'), 3000);
+            e.target.reset();
         }
     </script>
 </body>
