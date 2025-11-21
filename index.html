@@ -19,19 +19,14 @@
     <style>
         /* --- DESIGN SYSTEM --- */
         :root {
-            /* Core Palette */
             --primary: #3b82f6;
-            /* Blue */
             --primary-dark: #2563eb;
             --accent: #f59e0b;
-            /* Amber */
             --accent-text: #78350f;
             --success: #10b981;
-            /* Emerald */
             --danger: #ef4444;
-            /* Red */
+            --sheet-green: #34A853;
 
-            /* Dark Theme (Default) */
             --bg-body: #0f172a;
             --bg-card: #1e293b;
             --bg-subtle: #1e293b;
@@ -40,7 +35,6 @@
             --text-main: #f8fafc;
             --text-muted: #94a3b8;
             --border: #334155;
-            --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.3);
             --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.3);
             --ad-glow: 0 0 20px rgba(245, 158, 11, 0.15);
         }
@@ -54,7 +48,6 @@
             --text-main: #0f172a;
             --text-muted: #64748b;
             --border: #e2e8f0;
-            --shadow-sm: 0 1px 3px 0 rgb(0 0 0 / 0.1);
             --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1);
             --ad-glow: 0 0 15px rgba(245, 158, 11, 0.25);
         }
@@ -71,8 +64,8 @@
             background: var(--bg-body);
             color: var(--text-main);
             line-height: 1.6;
-            transition: background 0.3s, color 0.3s;
             overflow-x: hidden;
+            transition: background 0.3s, color 0.3s;
         }
 
         h1,
@@ -80,8 +73,8 @@
         h3,
         h4 {
             font-family: 'Outfit', sans-serif;
-            letter-spacing: -0.025em;
             color: var(--text-main);
+            letter-spacing: -0.025em;
         }
 
         /* --- UTILITIES --- */
@@ -100,31 +93,6 @@
             gap: 1rem;
         }
 
-        .badge {
-            padding: 0.35rem 0.75rem;
-            border-radius: 6px;
-            font-size: 0.7rem;
-            font-weight: 700;
-            text-transform: uppercase;
-            letter-spacing: 0.05em;
-            display: inline-block;
-        }
-
-        .badge-ad {
-            background: var(--accent);
-            color: var(--accent-text);
-        }
-
-        .badge-verified {
-            background: var(--primary);
-            color: #fff;
-        }
-
-        .badge-new {
-            background: var(--success);
-            color: #fff;
-        }
-
         /* --- BUTTONS --- */
         .btn {
             display: inline-flex;
@@ -135,10 +103,10 @@
             border-radius: 10px;
             font-weight: 600;
             cursor: pointer;
-            transition: all 0.2s ease;
             border: none;
             text-decoration: none;
             font-size: 0.95rem;
+            transition: 0.2s;
         }
 
         .btn:active {
@@ -153,16 +121,11 @@
 
         .btn-primary:hover {
             background: var(--primary-dark);
-            box-shadow: 0 6px 8px -1px rgba(59, 130, 246, 0.4);
         }
 
         .btn-accent {
             background: var(--accent);
             color: var(--accent-text);
-        }
-
-        .btn-accent:hover {
-            filter: brightness(1.1);
         }
 
         .btn-outline {
@@ -174,17 +137,6 @@
         .btn-outline:hover {
             border-color: var(--primary);
             color: var(--primary);
-            background: rgba(59, 130, 246, 0.05);
-        }
-
-        .btn-whatsapp {
-            background: var(--success);
-            color: #fff;
-            width: 100%;
-        }
-
-        .btn-whatsapp:hover {
-            background: #059669;
         }
 
         .btn-call {
@@ -197,35 +149,28 @@
             background: var(--border);
         }
 
-        /* --- TOP BAR --- */
-        .emergency-bar {
-            background: #0f172a;
-            /* Always dark */
-            color: #94a3b8;
-            font-size: 0.85rem;
-            padding: 0.5rem 0;
-            border-bottom: 1px solid #1e293b;
+        .btn-whatsapp {
+            background: var(--success);
+            color: #fff;
+            width: 100%;
         }
 
-        .emergency-content {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
+        .btn-whatsapp:hover {
+            background: #059669;
         }
 
-        .emergency-links a {
-            color: #e2e8f0;
-            text-decoration: none;
-            margin-left: 1.2rem;
-            font-weight: 500;
-            transition: 0.2s;
+        .btn-sheet {
+            border: 2px solid var(--sheet-green);
+            color: var(--sheet-green);
+            background: transparent;
         }
 
-        .emergency-links a:hover {
-            color: var(--danger);
+        .btn-sheet:hover {
+            background: var(--sheet-green);
+            color: white;
         }
 
-        /* --- NAVBAR --- */
+        /* --- NAVIGATION --- */
         nav {
             position: sticky;
             top: 0;
@@ -233,7 +178,6 @@
             z-index: 1000;
             background: var(--bg-nav);
             backdrop-filter: blur(12px);
-            -webkit-backdrop-filter: blur(12px);
             border-bottom: 1px solid var(--border);
             height: 72px;
         }
@@ -242,7 +186,6 @@
             display: flex;
             justify-content: space-between;
             align-items: center;
-            width: 100%;
             height: 100%;
         }
 
@@ -254,6 +197,23 @@
             display: flex;
             align-items: center;
             gap: 0.6rem;
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 2rem;
+            list-style: none;
+        }
+
+        .nav-links a {
+            color: var(--text-muted);
+            text-decoration: none;
+            font-weight: 500;
+            transition: 0.2s;
+        }
+
+        .nav-links a:hover {
+            color: var(--primary);
         }
 
         .nav-controls {
@@ -273,69 +233,15 @@
             display: flex;
             align-items: center;
             justify-content: center;
-            transition: 0.2s;
-        }
-
-        .theme-toggle:hover {
-            border-color: var(--primary);
-            color: var(--primary);
-        }
-
-        .nav-links {
-            display: flex;
-            gap: 2rem;
-            list-style: none;
-            align-items: center;
-        }
-
-        .nav-links a {
-            color: var(--text-muted);
-            text-decoration: none;
-            font-weight: 500;
-            font-size: 0.95rem;
-            transition: 0.2s;
-        }
-
-        .nav-links a:hover {
-            color: var(--primary);
-        }
-
-        /* Utility to hide items on desktop */
-        .hidden-desktop {
-            display: none;
-        }
-
-        .mobile-menu-btn {
-            display: none;
-            font-size: 1.5rem;
-            background: none;
-            border: none;
-            color: var(--text-main);
-            cursor: pointer;
         }
 
         /* --- HERO --- */
         .hero {
             padding: 5rem 0 4rem;
-            background: radial-gradient(circle at top right, rgba(59, 130, 246, 0.15), transparent 40%),
-                linear-gradient(to bottom, var(--bg-body), var(--bg-body));
             text-align: center;
+            background: radial-gradient(circle at top right, rgba(59, 130, 246, 0.15), transparent 40%), linear-gradient(to bottom, var(--bg-body), var(--bg-body));
         }
 
-        .hero h1 {
-            font-size: clamp(2.2rem, 5vw, 3.8rem);
-            margin-bottom: 1.2rem;
-            line-height: 1.1;
-        }
-
-        .hero p {
-            color: var(--text-muted);
-            font-size: 1.1rem;
-            max-width: 600px;
-            margin: 0 auto 2.5rem;
-        }
-
-        /* Search Box */
         .search-container {
             max-width: 600px;
             margin: 0 auto 3rem;
@@ -398,37 +304,20 @@
             border-color: var(--primary);
             transform: translateY(-5px);
             background: var(--bg-subtle);
-            box-shadow: var(--shadow-sm);
         }
 
         .cat-icon {
             font-size: 1.8rem;
             color: var(--primary);
-            transition: 0.3s;
         }
 
-        .cat-item:hover .cat-icon {
-            transform: scale(1.1);
-        }
-
-        .cat-name {
-            font-size: 0.85rem;
-            font-weight: 600;
-        }
-
-        /* --- DIRECTORY & FILTER --- */
+        /* --- DIRECTORY --- */
         .filter-bar {
             display: flex;
             gap: 0.8rem;
             overflow-x: auto;
             padding-bottom: 1rem;
-            margin-bottom: 2rem;
             scrollbar-width: none;
-            /* Hide scrollbar Firefox */
-        }
-
-        .filter-bar::-webkit-scrollbar {
-            display: none;
         }
 
         .filter-btn {
@@ -437,11 +326,8 @@
             background: var(--bg-card);
             border: 1px solid var(--border);
             color: var(--text-muted);
-            white-space: nowrap;
             cursor: pointer;
-            font-size: 0.9rem;
-            font-weight: 500;
-            transition: all 0.3s;
+            white-space: nowrap;
         }
 
         .filter-btn:hover,
@@ -449,7 +335,6 @@
             background: var(--primary);
             color: white;
             border-color: var(--primary);
-            transform: translateY(-1px);
         }
 
         .listing-grid {
@@ -457,7 +342,6 @@
             grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
             gap: 2rem;
             min-height: 300px;
-            /* Prevents layout shift when filtering */
         }
 
         .listing-card {
@@ -471,7 +355,17 @@
             position: relative;
         }
 
-        /* Animation for filtering */
+        .listing-card:hover {
+            transform: translateY(-8px);
+            box-shadow: var(--shadow-lg);
+            border-color: var(--primary);
+        }
+
+        .listing-card.sponsored {
+            border: 1px solid var(--accent);
+            box-shadow: var(--ad-glow);
+        }
+
         .listing-card.fade-in {
             animation: fadeIn 0.5s ease forwards;
         }
@@ -486,17 +380,6 @@
                 opacity: 1;
                 transform: translateY(0);
             }
-        }
-
-        .listing-card:hover {
-            transform: translateY(-8px);
-            box-shadow: var(--shadow-lg);
-            border-color: var(--primary);
-        }
-
-        .listing-card.sponsored {
-            border: 1px solid var(--accent);
-            box-shadow: var(--ad-glow);
         }
 
         .card-img-wrapper {
@@ -528,7 +411,6 @@
             color: var(--primary);
             text-transform: uppercase;
             font-weight: 700;
-            letter-spacing: 0.05em;
             margin-bottom: 0.5rem;
         }
 
@@ -539,70 +421,26 @@
             color: var(--text-main);
         }
 
-        .biz-meta {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 0.8rem;
-            font-size: 0.9rem;
-            color: var(--text-muted);
-            margin-bottom: 1.2rem;
+        .badge {
+            padding: 0.35rem 0.75rem;
+            border-radius: 6px;
+            font-size: 0.7rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            display: inline-block;
         }
 
-        .biz-meta span {
-            display: flex;
-            align-items: center;
-            gap: 0.3rem;
+        .badge-ad {
+            background: var(--accent);
+            color: var(--accent-text);
         }
 
-        .card-actions {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 0.8rem;
-            margin-top: auto;
+        .badge-verified {
+            background: var(--primary);
+            color: #fff;
         }
 
-        /* No Results State */
-        .no-results {
-            grid-column: 1 / -1;
-            text-align: center;
-            padding: 4rem;
-            color: var(--text-muted);
-            display: none;
-        }
-
-        .no-results i {
-            font-size: 3rem;
-            margin-bottom: 1rem;
-            opacity: 0.5;
-        }
-
-        /* --- AD BANNER --- */
-        .ad-slot {
-            background: var(--bg-subtle);
-            border: 1px dashed var(--border);
-            padding: 2rem;
-            text-align: center;
-            border-radius: 12px;
-            margin: 3rem auto;
-            max-width: 1000px;
-            color: var(--text-muted);
-            position: relative;
-            overflow: hidden;
-        }
-
-        .ad-slot::before {
-            content: 'ADVERTISEMENT';
-            position: absolute;
-            top: 0.5rem;
-            right: 0.5rem;
-            font-size: 0.6rem;
-            opacity: 0.5;
-            border: 1px solid var(--border);
-            padding: 2px 4px;
-            border-radius: 4px;
-        }
-
-        /* --- SHOP SECTION --- */
+        /* --- SHOP --- */
         .section-bg {
             background: var(--bg-subtle);
             padding: 5rem 0;
@@ -621,12 +459,12 @@
             padding: 1.5rem;
             text-align: center;
             transition: 0.3s;
+            position: relative;
         }
 
         .product-card:hover {
             border-color: var(--accent);
             transform: translateY(-5px);
-            box-shadow: var(--shadow-sm);
         }
 
         .product-img {
@@ -644,7 +482,7 @@
             margin: 0.5rem 0 1rem;
         }
 
-        /* --- PRICING --- */
+        /* --- PRICING & PARTNER PORTAL --- */
         .pricing-grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -666,47 +504,27 @@
             background: linear-gradient(to bottom, var(--bg-card), rgba(59, 130, 246, 0.05));
             transform: scale(1.05);
             z-index: 10;
-            box-shadow: var(--shadow-lg);
         }
 
-        /* --- FAQ & FORMS --- */
-        .faq-item {
-            background: var(--bg-card);
-            border: 1px solid var(--border);
-            border-radius: 12px;
-            margin-bottom: 1rem;
-            overflow: hidden;
+        /* --- SKELETON LOADING --- */
+        .skeleton {
+            background: linear-gradient(90deg, var(--bg-card) 25%, var(--bg-input) 50%, var(--bg-card) 75%);
+            background-size: 200% 100%;
+            animation: loading 1.5s infinite;
+            border-radius: 8px;
         }
 
-        .faq-question {
-            padding: 1.5rem;
-            cursor: pointer;
-            font-weight: 600;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            user-select: none;
+        @keyframes loading {
+            0% {
+                background-position: 200% 0;
+            }
+
+            100% {
+                background-position: -200% 0;
+            }
         }
 
-        .faq-answer {
-            max-height: 0;
-            overflow: hidden;
-            transition: max-height 0.3s ease-out;
-            padding: 0 1.5rem;
-            color: var(--text-muted);
-            line-height: 1.6;
-        }
-
-        .faq-item.active .faq-answer {
-            max-height: 200px;
-            padding-bottom: 1.5rem;
-        }
-
-        .faq-item.active .faq-icon {
-            transform: rotate(180deg);
-        }
-
-        /* Form Styles */
+        /* --- FORM ELEMENTS --- */
         input,
         select,
         textarea {
@@ -728,7 +546,28 @@
             border-color: var(--primary);
         }
 
-        /* --- FLOATING WHATSAPP --- */
+        /* --- EXTRAS --- */
+        #toast {
+            position: fixed;
+            bottom: 30px;
+            left: 50%;
+            transform: translateX(-50%) translateY(100px);
+            background: var(--text-main);
+            color: var(--bg-body);
+            padding: 12px 24px;
+            border-radius: 50px;
+            font-weight: 600;
+            opacity: 0;
+            transition: 0.3s;
+            z-index: 2000;
+            box-shadow: var(--shadow-lg);
+        }
+
+        #toast.show {
+            transform: translateX(-50%) translateY(0);
+            opacity: 1;
+        }
+
         .whatsapp-float {
             position: fixed;
             bottom: 30px;
@@ -750,52 +589,30 @@
 
         .whatsapp-float:hover {
             transform: scale(1.1) rotate(10deg);
-            box-shadow: 0 6px 20px rgba(37, 211, 102, 0.6);
         }
 
-        /* --- TOAST --- */
-        #toast {
-            position: fixed;
-            bottom: 30px;
-            left: 50%;
-            transform: translateX(-50%) translateY(100px);
-            background: var(--text-main);
-            color: var(--bg-body);
-            padding: 12px 24px;
-            border-radius: 50px;
-            font-weight: 600;
-            opacity: 0;
-            transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
-            z-index: 2000;
-            box-shadow: var(--shadow-lg);
-        }
-
-        #toast.show {
-            transform: translateX(-50%) translateY(0);
-            opacity: 1;
-        }
-
-        /* --- FOOTER --- */
-        footer {
-            border-top: 1px solid var(--border);
-            padding: 4rem 0 2rem;
-            background: var(--bg-body);
+        .no-results {
+            grid-column: 1 / -1;
             text-align: center;
+            padding: 4rem;
             color: var(--text-muted);
+            display: none;
         }
 
-        .social-links a {
-            color: var(--text-muted);
-            margin: 0 12px;
-            font-size: 1.2rem;
-            transition: 0.2s;
+        /* --- MOBILE --- */
+        .mobile-menu-btn {
+            display: none;
+            font-size: 1.5rem;
+            background: none;
+            border: none;
+            color: var(--text-main);
+            cursor: pointer;
         }
 
-        .social-links a:hover {
-            color: var(--primary);
+        .hidden-desktop {
+            display: none;
         }
 
-        /* --- MOBILE RESPONSIVE --- */
         @media (max-width: 768px) {
             .hero {
                 padding-top: 2rem;
@@ -806,23 +623,18 @@
                 top: 0;
                 right: -100%;
                 width: 80%;
-                max-width: 300px;
                 height: 100vh;
                 background: var(--bg-card);
                 flex-direction: column;
-                padding: 6rem 2rem 2rem;
-                transition: right 0.3s ease-in-out;
-                box-shadow: -5px 0 15px rgba(0, 0, 0, 0.5);
+                padding: 6rem 2rem;
+                transition: 0.3s;
                 z-index: 999;
                 align-items: flex-start;
+                box-shadow: -5px 0 15px rgba(0, 0, 0, 0.5);
             }
 
             .nav-links.active {
                 right: 0;
-            }
-
-            .nav-links a {
-                font-size: 1.1rem;
             }
 
             .mobile-menu-btn {
@@ -830,7 +642,6 @@
                 z-index: 1001;
             }
 
-            /* Toggle Visibility */
             .hidden-desktop {
                 display: block;
             }
@@ -839,7 +650,6 @@
                 display: none !important;
             }
 
-            /* Create an overlay when menu is open */
             .overlay {
                 position: fixed;
                 top: 0;
@@ -863,24 +673,6 @@
                 font-size: 2.2rem;
             }
 
-            .emergency-content {
-                flex-direction: column;
-                gap: 0.5rem;
-                text-align: center;
-            }
-
-            .emergency-links {
-                margin: 0;
-                display: flex;
-                flex-wrap: wrap;
-                justify-content: center;
-                gap: 1rem;
-            }
-
-            .emergency-links a {
-                margin: 0;
-            }
-
             .pricing-card.popular {
                 transform: scale(1);
             }
@@ -890,122 +682,84 @@
 
 <body>
 
-    <!-- Overlay for mobile menu -->
+    <!-- Overlay -->
     <div class="overlay" id="menuOverlay" onclick="toggleMenu()"></div>
 
-    <!-- Emergency Top Bar -->
-    <div class="emergency-bar">
-        <div class="container emergency-content">
+    <!-- Emergency Bar -->
+    <div class="emergency-bar"
+        style="background: #0f172a; color: #94a3b8; font-size: 0.85rem; padding: 0.5rem 0; border-bottom: 1px solid #1e293b;">
+        <div class="container" style="display: flex; justify-content: space-between; align-items: center;">
             <span><i class="fas fa-bell" style="color: var(--danger);"></i> Emergency Services</span>
-            <div class="emergency-links">
-                <a href="tel:100"><i class="fas fa-shield-alt"></i> Police (100)</a>
-                <a href="tel:108"><i class="fas fa-ambulance"></i> Ambulance (108)</a>
-                <a href="tel:101"><i class="fas fa-fire-extinguisher"></i> Fire (101)</a>
+            <div>
+                <a href="tel:100" style="color: #e2e8f0; text-decoration: none; margin-left: 1.2rem;"><i
+                        class="fas fa-shield-alt"></i> 100</a>
+                <a href="tel:108" style="color: #e2e8f0; text-decoration: none; margin-left: 1.2rem;"><i
+                        class="fas fa-ambulance"></i> 108</a>
             </div>
         </div>
     </div>
 
-    <div id="toast"><i class="fas fa-check-circle"></i> Request Opening in WhatsApp...</div>
+    <div id="toast"><i class="fas fa-check-circle"></i> Action Successful!</div>
+    <a href="https://wa.me/918894869371" class="whatsapp-float" target="_blank"><i class="fab fa-whatsapp"></i></a>
 
-    <!-- Floating WhatsApp -->
-    <a href="https://wa.me/918894869371" class="whatsapp-float" target="_blank" aria-label="Chat on WhatsApp">
-        <i class="fab fa-whatsapp"></i>
-    </a>
-
-    <!-- Navigation -->
+    <!-- Nav -->
     <nav>
         <div class="container nav-content">
-            <a href="#" class="logo">
-                <i class="fas fa-layer-group" style="color: var(--primary);"></i>
-                Karsog<span>Connect</span>
-            </a>
-
+            <a href="#" class="logo"><i class="fas fa-layer-group" style="color: var(--primary);"></i>
+                Karsog<span>Connect</span></a>
             <ul class="nav-links" id="navLinks">
                 <li><a href="#home" onclick="toggleMenu()">Home</a></li>
                 <li><a href="#directory" onclick="toggleMenu()">Directory</a></li>
                 <li><a href="#shop" onclick="toggleMenu()">Shop</a></li>
                 <li><a href="#pricing" onclick="toggleMenu()">Pricing</a></li>
-                <!-- Mobile Only CTA (Hidden on Desktop) -->
-                <li class="hidden-desktop" style="margin-top: 1rem; width: 100%;">
-                    <a href="#join" class="btn btn-primary" onclick="toggleMenu()"
-                        style="width: 100%; justify-content: center; color: white;">List Business</a>
-                </li>
+                <li class="hidden-desktop" style="margin-top: 1rem; width: 100%;"><a href="#join"
+                        class="btn btn-primary" style="width: 100%; justify-content: center; color: white;">List
+                        Business</a></li>
             </ul>
-
             <div class="nav-controls">
-                <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle Dark Mode">
-                    <i class="fas fa-moon" id="themeIcon"></i>
-                </button>
-                <!-- Desktop Only CTA (Hidden on Mobile) -->
-                <a href="#join" class="btn btn-primary desktop-only">
-                    <i class="fas fa-plus"></i> List Business
-                </a>
-                <button class="mobile-menu-btn" onclick="toggleMenu()">
-                    <i class="fas fa-bars" id="menuIcon"></i>
-                </button>
+                <button class="theme-toggle" onclick="toggleTheme()"><i class="fas fa-moon" id="themeIcon"></i></button>
+                <a href="#join" class="btn btn-primary desktop-only"><i class="fas fa-plus"></i> List Business</a>
+                <button class="mobile-menu-btn" onclick="toggleMenu()"><i class="fas fa-bars"
+                        id="menuIcon"></i></button>
             </div>
         </div>
     </nav>
 
-    <!-- Hero Section -->
+    <!-- Hero -->
     <header class="hero" id="home">
         <div class="container">
             <span class="badge badge-verified" style="margin-bottom: 1.5rem;">#1 Local Marketplace</span>
             <h1>Find Services, Buy Gear & <br><span style="color: var(--primary);">Grow Your Business</span></h1>
-            <p>The most comprehensive guide to Karsog Valley. Connect with trusted locals today.</p>
-
+            <p>Real-time directory and store powered by Google Sheets.</p>
             <div class="search-container">
                 <input type="text" id="searchInput" class="search-input"
                     placeholder="Search for hotels, mechanics, shops..." onkeyup="filterListings()">
                 <i class="fas fa-search search-icon"></i>
             </div>
-
             <div class="categories-grid">
-                <a href="#directory" class="cat-item" onclick="setCategory('Hotel')">
-                    <i class="fas fa-hotel cat-icon"></i>
-                    <span class="cat-name">Hotels</span>
-                </a>
-                <a href="#directory" class="cat-item" onclick="setCategory('Taxi')">
-                    <i class="fas fa-taxi cat-icon"></i>
-                    <span class="cat-name">Taxi</span>
-                </a>
-                <a href="#directory" class="cat-item" onclick="setCategory('Food')">
-                    <i class="fas fa-utensils cat-icon"></i>
-                    <span class="cat-name">Food</span>
-                </a>
-                <a href="#directory" class="cat-item" onclick="setCategory('Shop')">
-                    <i class="fas fa-shopping-bag cat-icon"></i>
-                    <span class="cat-name">Shops</span>
-                </a>
-                <a href="#directory" class="cat-item" onclick="setCategory('Service')">
-                    <i class="fas fa-wrench cat-icon"></i>
-                    <span class="cat-name">Services</span>
-                </a>
-                <a href="#directory" class="cat-item" onclick="setCategory('Health')">
-                    <i class="fas fa-heartbeat cat-icon"></i>
-                    <span class="cat-name">Health</span>
-                </a>
+                <a href="#directory" class="cat-item" onclick="setCategory('Hotel')"><i
+                        class="fas fa-hotel cat-icon"></i><span class="cat-name">Hotels</span></a>
+                <a href="#directory" class="cat-item" onclick="setCategory('Taxi')"><i
+                        class="fas fa-taxi cat-icon"></i><span class="cat-name">Taxi</span></a>
+                <a href="#directory" class="cat-item" onclick="setCategory('Food')"><i
+                        class="fas fa-utensils cat-icon"></i><span class="cat-name">Food</span></a>
+                <a href="#directory" class="cat-item" onclick="setCategory('Shop')"><i
+                        class="fas fa-shopping-bag cat-icon"></i><span class="cat-name">Shops</span></a>
+                <a href="#directory" class="cat-item" onclick="setCategory('Service')"><i
+                        class="fas fa-wrench cat-icon"></i><span class="cat-name">Services</span></a>
+                <a href="#directory" class="cat-item" onclick="setCategory('Health')"><i
+                        class="fas fa-heartbeat cat-icon"></i><span class="cat-name">Health</span></a>
             </div>
         </div>
     </header>
 
-    <!-- Ad Banner -->
-    <div class="container">
-        <div class="ad-slot">
-            <h3><i class="fas fa-bullhorn" style="color: var(--accent);"></i> Boost Your Sales Today</h3>
-            <p>Reach 5000+ monthly visitors in Karsog. <a href="#join" style="color: var(--primary);">Advertise
-                    here.</a></p>
-        </div>
-    </div>
-
-    <!-- Directory Listing -->
+    <!-- Directory Section -->
     <section id="directory" class="container" style="padding-bottom: 4rem;">
         <div class="section-header">
             <div>
                 <h2>Local Directory</h2>
                 <p style="color: var(--text-muted);">Trusted businesses verified by us.</p>
             </div>
-            <!-- Filter Buttons -->
             <div class="filter-bar">
                 <button class="filter-btn active" onclick="filterByCategory('all', this)">All</button>
                 <button class="filter-btn" onclick="filterByCategory('Hotel', this)">Hotels</button>
@@ -1017,126 +771,16 @@
         </div>
 
         <div class="listing-grid" id="listingGrid">
+            <!-- Loading Skeletons -->
+            <div class="listing-card skeleton" style="height: 380px;"></div>
+            <div class="listing-card skeleton" style="height: 380px;"></div>
+            <div class="listing-card skeleton" style="height: 380px;"></div>
+        </div>
 
-            <!-- Item 1 (Sponsored) -->
-            <div class="listing-card sponsored fade-in" data-category="Hotel" data-title="Hotel OMS Royal">
-                <div class="card-img-wrapper">
-                    <div style="position: absolute; top: 10px; right: 10px; z-index: 10;">
-                        <span class="badge badge-ad"><i class="fas fa-star"></i> Featured</span>
-                    </div>
-                    <img src="https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=600&auto=format&fit=crop"
-                        class="card-img-top" alt="Hotel">
-                </div>
-                <div class="card-body">
-                    <div class="biz-cat">Hospitality • Hotel</div>
-                    <div class="biz-title">Hotel OMS Royal</div>
-                    <div class="biz-meta">
-                        <span><i class="fas fa-star" style="color: var(--accent);"></i> 4.8</span>
-                        <span><i class="fas fa-map-marker-alt"></i> Main Market</span>
-                    </div>
-                    <p style="font-size: 0.9rem; color: var(--text-muted); margin-bottom: 1rem;">Premium rooms with
-                        valley view. The best choice for tourists.</p>
-                    <div class="card-actions">
-                        <a href="tel:+918894869371" class="btn btn-call"><i class="fas fa-phone"></i> Call</a>
-                        <a href="https://wa.me/918894869371" class="btn btn-whatsapp"><i class="fab fa-whatsapp"></i>
-                            Chat</a>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Affiliate Native Ad -->
-            <div class="listing-card fade-in" style="border-color: var(--primary);" data-category="Shop"
-                data-title="Trekking Gear">
-                <div class="card-img-wrapper">
-                    <div style="position: absolute; top: 10px; right: 10px; z-index: 10;">
-                        <span class="badge badge-new">Deal</span>
-                    </div>
-                    <img src="https://images.unsplash.com/photo-1501555088652-021faa106b9b?q=80&w=600&auto=format&fit=crop"
-                        class="card-img-top" alt="Gear">
-                </div>
-                <div class="card-body" style="background: var(--bg-subtle);">
-                    <div class="biz-cat">Shopping • Essentials</div>
-                    <div class="biz-title">Trekking Essentials</div>
-                    <p style="font-size: 0.9rem; color: var(--text-muted); margin-bottom: 1rem;">Heading to Shikari
-                        Devi? Grab these hiking boots and jackets on sale.</p>
-                    <a href="#shop" class="btn btn-accent" style="width: 100%; margin-top: auto;">View Deal <i
-                            class="fas fa-arrow-right"></i></a>
-                </div>
-            </div>
-
-            <!-- Item 2 -->
-            <div class="listing-card fade-in" data-category="Taxi" data-title="Karsog Valley Cabs">
-                <div class="card-img-wrapper">
-                    <img src="https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?q=80&w=600&auto=format&fit=crop"
-                        class="card-img-top" alt="Taxi">
-                </div>
-                <div class="card-body">
-                    <div class="biz-cat">Travel • Taxi</div>
-                    <div class="biz-title">Karsog Valley Cabs</div>
-                    <div class="biz-meta">
-                        <span><i class="fas fa-star" style="color: var(--accent);"></i> 4.9</span>
-                        <span><i class="fas fa-check-circle" style="color: var(--primary);"></i> Verified</span>
-                    </div>
-                    <p style="font-size: 0.9rem; color: var(--text-muted); margin-bottom: 1rem;">Reliable taxi service
-                        for local sightseeing and outstation drops.</p>
-                    <div class="card-actions">
-                        <a href="tel:1234567890" class="btn btn-call"><i class="fas fa-phone"></i> Call</a>
-                        <button class="btn btn-outline">Details</button>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Item 3 -->
-            <div class="listing-card fade-in" data-category="Food" data-title="The Hills Cafe">
-                <div class="card-img-wrapper">
-                    <img src="https://images.unsplash.com/photo-1554118811-1e0d58224f24?q=80&w=600&auto=format&fit=crop"
-                        class="card-img-top" alt="Cafe">
-                </div>
-                <div class="card-body">
-                    <div class="biz-cat">Food • Cafe</div>
-                    <div class="biz-title">The Hills Cafe</div>
-                    <div class="biz-meta">
-                        <span><i class="fas fa-star" style="color: var(--accent);"></i> 4.5</span>
-                        <span><i class="fas fa-wifi"></i> Free Wifi</span>
-                    </div>
-                    <p style="font-size: 0.9rem; color: var(--text-muted); margin-bottom: 1rem;">Best coffee in town.
-                        Great place for remote work and chilling.</p>
-                    <div class="card-actions">
-                        <a href="tel:1234567890" class="btn btn-call"><i class="fas fa-phone"></i> Call</a>
-                        <button class="btn btn-outline">Details</button>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Item 4 -->
-            <div class="listing-card fade-in" data-category="Service" data-title="Sharma Electronics Repair">
-                <div class="card-img-wrapper">
-                    <img src="https://images.unsplash.com/photo-1597424214791-7dcc12147c64?q=80&w=600&auto=format&fit=crop"
-                        class="card-img-top" alt="Repair">
-                </div>
-                <div class="card-body">
-                    <div class="biz-cat">Service • Repair</div>
-                    <div class="biz-title">Sharma Electronics</div>
-                    <div class="biz-meta">
-                        <span><i class="fas fa-star" style="color: var(--accent);"></i> 4.2</span>
-                        <span><i class="fas fa-clock"></i> 9AM - 8PM</span>
-                    </div>
-                    <p style="font-size: 0.9rem; color: var(--text-muted); margin-bottom: 1rem;">Mobile, Laptop and TV
-                        repair at reasonable prices.</p>
-                    <div class="card-actions">
-                        <a href="tel:1234567890" class="btn btn-call"><i class="fas fa-phone"></i> Call</a>
-                        <button class="btn btn-outline">Details</button>
-                    </div>
-                </div>
-            </div>
-
-            <!-- No Results Msg -->
-            <div class="no-results" id="noResults">
-                <i class="fas fa-search"></i>
-                <h3>No listings found</h3>
-                <p>Try searching for something else or change the category.</p>
-            </div>
-
+        <div class="no-results" id="noResults">
+            <i class="fas fa-search" style="font-size: 3rem; margin-bottom: 1rem; opacity: 0.5;"></i>
+            <h3>No listings found</h3>
+            <p>Try searching for something else or change the category.</p>
         </div>
     </section>
 
@@ -1146,66 +790,35 @@
             <div style="text-align: center; margin-bottom: 3rem;">
                 <span class="badge badge-ad">Affiliate Store</span>
                 <h2 style="margin-top: 0.5rem;">Travel Essentials</h2>
-                <p style="color: var(--text-muted);">Handpicked gear for your Karsog adventures.</p>
+                <p style="color: var(--text-muted);">Handpicked gear from the Sheet.</p>
             </div>
-
-            <div class="affiliate-grid">
-                <div class="product-card">
-                    <img src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=400&auto=format&fit=crop"
-                        class="product-img" alt="Shoes">
-                    <div class="product-title">Trek Boots</div>
-                    <span class="product-price">₹2,499</span>
-                    <button class="btn btn-primary" style="width: 100%; font-size: 0.8rem;">Buy on Amazon</button>
-                </div>
-                <div class="product-card">
-                    <img src="https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=400&auto=format&fit=crop"
-                        class="product-img" alt="Bag">
-                    <div class="product-title">Rucksack 55L</div>
-                    <span class="product-price">₹1,899</span>
-                    <button class="btn btn-primary" style="width: 100%; font-size: 0.8rem;">Buy on Amazon</button>
-                </div>
-                <div class="product-card">
-                    <img src="https://images.unsplash.com/photo-1621259182978-fbf93132d53d?q=80&w=400&auto=format&fit=crop"
-                        class="product-img" alt="Powerbank">
-                    <div class="product-title">20k mAh Bank</div>
-                    <span class="product-price">₹1,299</span>
-                    <button class="btn btn-primary" style="width: 100%; font-size: 0.8rem;">Buy on Amazon</button>
-                </div>
-                <div class="product-card">
-                    <img src="https://images.unsplash.com/photo-1516762689617-e1cffcef479d?q=80&w=400&auto=format&fit=crop"
-                        class="product-img" alt="Jacket">
-                    <div class="product-title">Winter Jacket</div>
-                    <span class="product-price">₹3,499</span>
-                    <button class="btn btn-primary" style="width: 100%; font-size: 0.8rem;">Buy on Amazon</button>
-                </div>
+            <div class="affiliate-grid" id="shopGrid">
+                <!-- Loading Skeletons -->
+                <div class="product-card skeleton" style="height: 300px;"></div>
+                <div class="product-card skeleton" style="height: 300px;"></div>
+                <div class="product-card skeleton" style="height: 300px;"></div>
+                <div class="product-card skeleton" style="height: 300px;"></div>
             </div>
         </div>
     </section>
 
-    <!-- Pricing Section -->
+    <!-- Pricing -->
     <section id="pricing" class="container" style="padding: 4rem 1rem;">
         <div style="text-align: center;">
             <span class="badge badge-verified">For Business Owners</span>
             <h2 style="margin-top: 0.5rem;">Choose Your Plan</h2>
             <p style="color: var(--text-muted);">Promote your business to thousands of monthly visitors.</p>
         </div>
-
         <div class="pricing-grid">
-            <!-- Free -->
             <div class="pricing-card">
-                <div class="plan-name" style="font-size: 1.2rem; font-weight: 700;">Basic Listing</div>
+                <div class="plan-name" style="font-size: 1.2rem; font-weight: 700;">Basic</div>
                 <div class="plan-price" style="font-size: 2.5rem; font-weight: 800; margin: 0.5rem 0;">₹0</div>
                 <ul style="list-style: none; text-align: left; margin: 1.5rem 0; color: var(--text-muted);">
-                    <li style="margin-bottom: 0.8rem;"><i class="fas fa-check"
-                            style="color: var(--success); width: 20px;"></i> Name & Address</li>
-                    <li style="margin-bottom: 0.8rem;"><i class="fas fa-check"
-                            style="color: var(--success); width: 20px;"></i> Phone Listing</li>
-                    <li style="opacity: 0.5;"><i class="fas fa-times" style="width: 20px;"></i> No Website Link</li>
+                    <li><i class="fas fa-check" style="color: var(--success);"></i> Name & Address</li>
+                    <li><i class="fas fa-check" style="color: var(--success);"></i> Phone Listing</li>
                 </ul>
                 <button onclick="scrollToJoin()" class="btn btn-outline" style="width: 100%;">Get Started</button>
             </div>
-
-            <!-- Pro -->
             <div class="pricing-card popular">
                 <div
                     style="position: absolute; top: 0; left: 50%; transform: translate(-50%, -50%); background: var(--primary); padding: 6px 16px; border-radius: 20px; font-size: 0.8rem; font-weight: bold; color: white;">
@@ -1214,72 +827,74 @@
                 <div class="plan-price" style="font-size: 2.5rem; font-weight: 800; margin: 0.5rem 0;">₹499 <span
                         style="font-size: 1rem; font-weight: 400; color: var(--text-muted);">/yr</span></div>
                 <ul style="list-style: none; text-align: left; margin: 1.5rem 0; color: var(--text-muted);">
-                    <li style="margin-bottom: 0.8rem; color: var(--text-main);"><i class="fas fa-check-circle"
-                            style="color: var(--primary); width: 20px;"></i> <strong>Verified Badge</strong></li>
-                    <li style="margin-bottom: 0.8rem;"><i class="fas fa-check"
-                            style="color: var(--success); width: 20px;"></i> WhatsApp Button</li>
-                    <li style="margin-bottom: 0.8rem;"><i class="fas fa-check"
-                            style="color: var(--success); width: 20px;"></i> 5 Photos Gallery</li>
-                    <li style="margin-bottom: 0.8rem;"><i class="fas fa-check"
-                            style="color: var(--success); width: 20px;"></i> Top Search Results</li>
+                    <li><i class="fas fa-check-circle" style="color: var(--primary);"></i> <strong>Verified
+                            Badge</strong></li>
+                    <li><i class="fas fa-check" style="color: var(--success);"></i> WhatsApp Button</li>
+                    <li><i class="fas fa-check" style="color: var(--success);"></i> 5 Photos Gallery</li>
                 </ul>
                 <button onclick="scrollToJoin()" class="btn btn-primary" style="width: 100%;">Upgrade Now</button>
             </div>
-
-            <!-- Ads -->
             <div class="pricing-card">
                 <div class="plan-name" style="font-size: 1.2rem; font-weight: 700;">Banner Ad</div>
                 <div class="plan-price" style="font-size: 2.5rem; font-weight: 800; margin: 0.5rem 0;">₹999 <span
                         style="font-size: 1rem; font-weight: 400; color: var(--text-muted);">/mo</span></div>
                 <ul style="list-style: none; text-align: left; margin: 1.5rem 0; color: var(--text-muted);">
-                    <li style="margin-bottom: 0.8rem; color: var(--text-main);"><i class="fas fa-check"
-                            style="color: var(--success); width: 20px;"></i> <strong>Homepage Banner</strong></li>
-                    <li style="margin-bottom: 0.8rem;"><i class="fas fa-check"
-                            style="color: var(--success); width: 20px;"></i> High Visibility</li>
-                    <li style="margin-bottom: 0.8rem;"><i class="fas fa-check"
-                            style="color: var(--success); width: 20px;"></i> Link to Website</li>
+                    <li><i class="fas fa-check" style="color: var(--success);"></i> <strong>Homepage Banner</strong>
+                    </li>
+                    <li><i class="fas fa-check" style="color: var(--success);"></i> High Visibility</li>
                 </ul>
                 <button onclick="scrollToJoin()" class="btn btn-outline" style="width: 100%;">Contact Sales</button>
             </div>
         </div>
     </section>
 
-    <!-- FAQ -->
-    <section class="container" style="padding: 4rem 1rem; border-top: 1px solid var(--border);">
-        <div style="max-width: 800px; margin: 0 auto;">
-            <h2 style="margin-bottom: 2rem; text-align: center;">Frequently Asked Questions</h2>
-
-            <div class="faq-item">
-                <div class="faq-question" onclick="toggleFaq(this)">
-                    Is listing my business free?
-                    <i class="fas fa-chevron-down faq-icon"></i>
-                </div>
-                <div class="faq-answer">
-                    Yes! You can create a Basic Listing for free. It includes your business name, phone number, and
-                    address. For more features like WhatsApp links and photos, check our Pro plan.
-                </div>
+    <!-- Partner Portal -->
+    <section id="partner-portal" class="container" style="padding: 4rem 1rem; border-top: 1px solid var(--border);">
+        <div class="section-header">
+            <div>
+                <h2>Partner Portal</h2>
+                <p style="color: var(--text-muted);">Manage your business listing effortlessly.</p>
             </div>
-
-            <div class="faq-item">
-                <div class="faq-question" onclick="toggleFaq(this)">
-                    How do I pay for Ads?
-                    <i class="fas fa-chevron-down faq-icon"></i>
-                </div>
-                <div class="faq-answer">
-                    Currently, we accept UPI payments. Once you submit a request, our team will contact you for
-                    verification and payment details.
-                </div>
+        </div>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem;">
+            <!-- Manual Update Card -->
+            <div class="pricing-card" style="text-align: left; padding: 2rem;">
+                <h3><i class="fas fa-edit" style="color: var(--primary);"></i> Quick Edit</h3>
+                <p style="color: var(--text-muted); margin-bottom: 1.5rem; font-size: 0.9rem;">Need to change a phone
+                    number or fix a typo? Send us a quick request.</p>
+                <form onsubmit="submitUpdate(event)">
+                    <input type="text" id="updateBizName" placeholder="Business Name" required>
+                    <select id="updateType">
+                        <option value="Info">Update Information</option>
+                        <option value="Photo">Change Photo</option>
+                        <option value="Remove">Remove Listing</option>
+                    </select>
+                    <textarea id="updateDetails" rows="2" placeholder="What should we change?" required></textarea>
+                    <button type="submit" class="btn btn-primary" style="width: 100%;">Send Update Request</button>
+                </form>
             </div>
-
-            <div class="faq-item">
-                <div class="faq-question" onclick="toggleFaq(this)">
-                    Can I edit my listing later?
-                    <i class="fas fa-chevron-down faq-icon"></i>
+            <!-- Google Sheet Demo Card -->
+            <div class="pricing-card"
+                style="text-align: left; padding: 2rem; border-color: #34A853; background: linear-gradient(to bottom, var(--bg-card), rgba(52, 168, 83, 0.05));">
+                <h3><i class="fas fa-file-csv" style="color: #34A853;"></i> Live Sheet Sync</h3>
+                <p style="color: var(--text-muted); margin-bottom: 1.5rem; font-size: 0.9rem;">For restaurants & shops:
+                    Update prices and inventory instantly using Google Sheets.</p>
+                <div id="sheet-data"
+                    style="background: var(--bg-subtle); padding: 1rem; border-radius: 8px; margin-bottom: 1.5rem; font-family: monospace; font-size: 0.8rem; border: 1px solid var(--border); max-height: 150px; overflow-y: auto;">
+                    <div
+                        style="display: flex; gap: 1rem; color: var(--text-muted); margin-bottom: 0.5rem; border-bottom: 1px solid var(--border); padding-bottom: 0.5rem;">
+                        <span style="flex: 1;">Item</span><span style="flex: 1;">Price</span><span
+                            style="flex: 1;">Stock</span>
+                    </div>
+                    <div style="display: flex; gap: 1rem; padding: 0.2rem 0;"><span style="flex: 1;">Momo</span><span
+                            style="flex: 1;">₹80</span><span style="flex: 1; color: var(--success);">In Stock</span>
+                    </div>
+                    <div style="display: flex; gap: 1rem; padding: 0.2rem 0;"><span style="flex: 1;">Thukpa</span><span
+                            style="flex: 1;">₹120</span><span style="flex: 1; color: var(--danger);">Sold Out</span>
+                    </div>
                 </div>
-                <div class="faq-answer">
-                    Absolutely. Just email us at support@karsogconnect.com from your registered email ID with the
-                    changes you need, or WhatsApp our support line.
-                </div>
+                <button onclick="connectSheet()" class="btn btn-sheet" style="width: 100%;"><i class="fas fa-sync"></i>
+                    Sync Demo</button>
             </div>
         </div>
     </section>
@@ -1292,15 +907,8 @@
                 <div>
                     <span class="badge badge-verified" style="margin-bottom: 1rem;">Join 500+ Businesses</span>
                     <h2>Submit Your Listing</h2>
-                    <p style="color: var(--text-muted); margin: 1rem 0 2rem;">
-                        Fill out the details below. Our team will verify your information and publish your listing
-                        within 24 hours.
-                    </p>
-                    <div style="display: flex; gap: 1rem; color: var(--text-muted);">
-                        <span><i class="fas fa-check-circle" style="color: var(--success);"></i> Fast
-                            Verification</span>
-                        <span><i class="fas fa-check-circle" style="color: var(--success);"></i> Secure Data</span>
-                    </div>
+                    <p style="color: var(--text-muted); margin: 1rem 0 2rem;">Fill out the details below. Our team will
+                        verify your information and publish your listing within 24 hours.</p>
                 </div>
                 <div
                     style="background: var(--bg-card); padding: 2rem; border-radius: 16px; border: 1px solid var(--border); box-shadow: var(--shadow-lg);">
@@ -1341,94 +949,194 @@
                 <a href="#"><i class="fab fa-twitter"></i></a>
             </div>
             <p>&copy; 2026 Karsog Connect. Built for the Community.</p>
-            <div style="margin-top: 1rem; font-size: 0.85rem;">
-                <a href="#" style="color: var(--text-muted); margin: 0 10px; text-decoration: none;">Privacy Policy</a>
-                <a href="#" style="color: var(--text-muted); margin: 0 10px; text-decoration: none;">Terms</a>
-                <a href="#" style="color: var(--text-muted); margin: 0 10px; text-decoration: none;">Contact</a>
-            </div>
         </div>
     </footer>
 
     <script>
-        // --- Logic: Search & Filter ---
+        // --- CONFIGURATION ---
+        // 1. Get URL from Google Sheet > Extensions > Apps Script > Deploy > Web App
+        // 2. Paste it inside the quotes below:
+        const SHEET_API_URL = "https://script.google.com/macros/s/AKfycbyX12Duvo8LNdl5QV1Sbf7xowpplJaHnCBpnlZV7C4QHX5AS4YX2lf1scOSpniW_yue/exec";
+
+        // --- INITIALIZATION ---
+        window.onload = function () {
+            if (SHEET_API_URL) {
+                fetchData();
+            } else {
+                // Fallback/Demo if no URL is set
+                console.warn("SHEET_API_URL is empty. Using demo logic or showing skeletons.");
+                document.getElementById('toast').innerText = "Please configure Google Sheet URL in code";
+                document.getElementById('toast').classList.add('show');
+                setTimeout(() => document.getElementById('toast').classList.remove('show'), 5000);
+            }
+        };
+
+        async function fetchData() {
+            try {
+                const response = await fetch(SHEET_API_URL);
+                const data = await response.json();
+
+                renderDirectory(data.directory);
+                renderShop(data.store);
+
+            } catch (error) {
+                console.error("Error fetching data:", error);
+                document.getElementById('listingGrid').innerHTML = `<div class="no-results" style="display:block;">Failed to load data. Check console.</div>`;
+            }
+        }
+
+        // --- RENDER FUNCTIONS ---
+        function renderDirectory(items) {
+            const grid = document.getElementById('listingGrid');
+            grid.innerHTML = ""; // Clear skeletons
+
+            if (!items || items.length === 0) {
+                document.getElementById('noResults').style.display = "block";
+                return;
+            }
+
+            items.forEach(item => {
+                const imgUrl = item.image || 'assets/img/karsog.jpg';
+                const isFeatured = (String(item.isFeatured).toLowerCase() === 'true');
+                const featuredBadge = isFeatured ? `<span class="badge badge-ad" style="position:absolute; top:10px; right:10px; z-index:10;"><i class="fas fa-star"></i> Featured</span>` : '';
+                const cardClass = isFeatured ? 'listing-card sponsored fade-in' : 'listing-card fade-in';
+
+                // --- NEW LOGIC STARTS HERE ---
+
+                // 1. Check if WhatsApp number actually exists and isn't empty
+                const hasWhatsapp = item.whatsapp && String(item.whatsapp).trim() !== "";
+
+                // 2. Define the button HTML based on existence
+                const whatsappButtonHtml = hasWhatsapp
+                    ? `<a href="https://wa.me/${item.whatsapp}" class="btn btn-whatsapp" target="_blank"><i class="fab fa-whatsapp"></i> Chat</a>`
+                    : ``;
+
+                // 3. Adjust Grid Style: 
+                // If WhatsApp exists: 2 columns (1fr 1fr)
+                // If NO WhatsApp: 1 column (1fr) -> Makes Call button full width
+                const gridStyle = hasWhatsapp
+                    ? "grid-template-columns: 1fr 1fr;"
+                    : "grid-template-columns: 1fr;";
+
+                // --- NEW LOGIC ENDS HERE ---
+
+                const html = `
+                    <div class="${cardClass}" data-category="${item.category}" data-title="${item.name}">
+                        <div class="card-img-wrapper">
+                            ${featuredBadge}
+                            <img src="${imgUrl}" class="card-img-top" alt="${item.name}" onerror="this.src='https://via.placeholder.com/400x300?text=No+Image'">
+                        </div>
+                        <div class="card-body">
+                            <div class="biz-cat">${item.category}</div>
+                            <div class="biz-title">${item.name}</div>
+                            <div style="display: flex; gap: 0.8rem; font-size: 0.9rem; color: var(--text-muted); margin-bottom: 1rem;">
+                                <span><i class="fas fa-star" style="color: var(--accent);"></i> ${item.rating}</span>
+                            </div>
+                            <p style="font-size: 0.9rem; color: var(--text-muted); margin-bottom: 1rem;">${item.desc}</p>
+                            
+                            <div style="display: grid; ${gridStyle} gap: 0.8rem; margin-top: auto;">
+                                <a href="tel:${item.phone}" class="btn btn-call"><i class="fas fa-phone"></i> Call</a>
+                                ${whatsappButtonHtml}
+                            </div>
+
+                        </div>
+                    </div>
+                `;
+                grid.innerHTML += html;
+            });
+        }
+
+        function renderShop(items) {
+            const grid = document.getElementById('shopGrid');
+            grid.innerHTML = "";
+
+            if (!items || items.length === 0) {
+                grid.innerHTML = `<div style="text-align:center; grid-column:1/-1; color:var(--text-muted);">No products found.</div>`;
+                return;
+            }
+
+            items.forEach(item => {
+                const imgUrl = item.image || 'assets/img/karsog.jpg';
+                const badgeHtml = item.badge ? `<span class="badge" style="background: var(--success); color: white; position: absolute; top: 10px; right: 10px;">${item.badge}</span>` : '';
+
+                const html = `
+                    <div class="product-card">
+                        ${badgeHtml}
+                        <img src="${imgUrl}" class="product-img" alt="${item.title}" onerror="this.src='https://via.placeholder.com/300x300?text=Product'">
+                        <div style="font-weight: 600; margin-bottom: 0.2rem;">${item.title}</div>
+                        <span class="product-price">₹${item.price}</span>
+                        <a href="${item.link}" class="btn btn-primary" style="width: 100%; font-size: 0.8rem;" target="_blank">Buy on Amazon</a>
+                    </div>
+                `;
+                grid.innerHTML += html;
+            });
+        }
+
+        // --- FILTER LOGIC ---
         function filterListings() {
             const input = document.getElementById('searchInput').value.toLowerCase();
             const cards = document.querySelectorAll('.listing-card');
             let visibleCount = 0;
 
+            let currentCategory = 'all';
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                if (btn.classList.contains('active')) currentCategory = btn.innerText.toLowerCase();
+            });
+
             cards.forEach(card => {
                 const title = card.getAttribute('data-title').toLowerCase();
                 const category = card.getAttribute('data-category').toLowerCase();
-                const currentFilter = document.querySelector('.filter-btn.active').innerText.toLowerCase();
 
-                // Check both search text AND active category button
-                const matchesSearch = title.includes(input) || category.includes(input);
-                const matchesFilter = currentFilter === 'all' || category === currentFilter || (currentFilter === 'shopping' && category === 'shop') || (currentFilter === 'restaurants' && category === 'food') || (currentFilter === 'taxis' && category === 'taxi') || (currentFilter === 'services' && category === 'service');
+                let categoryMatch = false;
+                if (currentCategory === 'all') categoryMatch = true;
+                else if (currentCategory === 'restaurants' && category === 'food') categoryMatch = true;
+                else if (currentCategory === 'shopping' && category === 'shop') categoryMatch = true;
+                else if (currentCategory === 'taxis' && category === 'taxi') categoryMatch = true;
+                else if (category === currentCategory) categoryMatch = true;
 
-                if (matchesSearch && matchesFilter) {
+                if ((title.includes(input) || category.includes(input)) && categoryMatch) {
                     card.style.display = "flex";
-                    // Reset animation to play again
-                    card.classList.remove('fade-in');
-                    void card.offsetWidth; // trigger reflow
-                    card.classList.add('fade-in');
                     visibleCount++;
                 } else {
                     card.style.display = "none";
                 }
             });
 
-            // Show no results message
-            const noResults = document.getElementById('noResults');
-            noResults.style.display = visibleCount === 0 ? "block" : "none";
+            document.getElementById('noResults').style.display = visibleCount === 0 ? "block" : "none";
         }
 
-        function filterByCategory(category, btnElement) {
-            // Update Active Button
-            if (btnElement) {
-                document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
-                btnElement.classList.add('active');
-            }
-
-            // Trigger Filter Logic
+        function filterByCategory(cat, btn) {
+            document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
             filterListings();
         }
 
-        // Helper to click category from Home bubbles
         function setCategory(catName) {
-            // Find the button that matches this category approx logic
             const btns = document.querySelectorAll('.filter-btn');
             btns.forEach(btn => {
-                const btnText = btn.innerText.toLowerCase();
-                const catLower = catName.toLowerCase();
-                if (btnText.includes(catLower) || (catLower === 'shop' && btnText === 'shopping')) {
+                const t = btn.innerText.toLowerCase();
+                if (t === catName.toLowerCase() || (catName === 'Shop' && t === 'shopping') || (catName === 'Food' && t === 'restaurants')) {
                     filterByCategory(catName, btn);
                 }
             });
-
-            // Scroll to directory
             document.getElementById('directory').scrollIntoView();
         }
 
-        // --- UI Logic ---
+        // --- UI ACTIONS ---
         function toggleTheme() {
             const html = document.documentElement;
             const current = html.getAttribute('data-theme') || 'dark';
             const next = current === 'dark' ? 'light' : 'dark';
             html.setAttribute('data-theme', next);
-
-            const icon = document.getElementById('themeIcon');
-            icon.className = next === 'dark' ? 'fas fa-moon' : 'fas fa-sun';
+            document.getElementById('themeIcon').className = next === 'dark' ? 'fas fa-moon' : 'fas fa-sun';
         }
 
         function toggleMenu() {
             const nav = document.getElementById('navLinks');
             const overlay = document.getElementById('menuOverlay');
             const icon = document.getElementById('menuIcon');
-
             nav.classList.toggle('active');
             overlay.classList.toggle('active');
-
-            // Toggle icon between bars and times
             if (nav.classList.contains('active')) {
                 icon.classList.remove('fa-bars');
                 icon.classList.add('fa-times');
@@ -1438,54 +1146,58 @@
             }
         }
 
-        function toggleFaq(element) {
-            const item = element.parentElement;
-            const isActive = item.classList.contains('active');
-
-            // Close all others (Accordion style)
-            document.querySelectorAll('.faq-item').forEach(el => el.classList.remove('active'));
-
-            if (!isActive) item.classList.add('active');
-        }
-
         function scrollToJoin() {
             document.getElementById('join').scrollIntoView();
         }
 
-        // --- FORM SUBMISSION LOGIC (WHATSAPP) ---
+        // --- FORM SUBMISSIONS (WhatsApp) ---
         function submitForm(e) {
             e.preventDefault();
-            const btn = e.target.querySelector('button');
-            const originalText = btn.innerText;
-
-            // Get Values
             const name = document.getElementById('bizName').value;
             const category = document.getElementById('bizCategory').value;
             const plan = document.getElementById('bizPlan').value;
             const phone = document.getElementById('bizPhone').value;
             const desc = document.getElementById('bizDesc').value;
 
-            // Loading State
-            btn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Preparing WhatsApp...';
+            const msg = `*New Listing Request* 🚀%0A%0A*Name:* ${name}%0A*Category:* ${category}%0A*Plan:* ${plan}%0A*Phone:* ${phone}%0A*Details:* ${desc}`;
+            sendToWhatsApp(msg);
+        }
+
+        function submitUpdate(e) {
+            e.preventDefault();
+            const name = document.getElementById('updateBizName').value;
+            const type = document.getElementById('updateType').value;
+            const details = document.getElementById('updateDetails').value;
+
+            const msg = `*Update Request* 📝%0A%0A*Business:* ${name}%0A*Type:* ${type}%0A*Changes:* ${details}`;
+            sendToWhatsApp(msg);
+        }
+
+        function sendToWhatsApp(message) {
+            const btn = event.target.querySelector('button');
+            const original = btn.innerText;
+            btn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Opening WhatsApp...';
             btn.disabled = true;
 
-            // Construct WhatsApp Message
-            const message = `*New Business Listing Request* 🚀%0A%0A*Name:* ${name}%0A*Category:* ${category}%0A*Plan:* ${plan}%0A*Phone:* ${phone}%0A*Details:* ${desc}%0A%0APlease verify and list my business.`;
-
-            // Send
             setTimeout(() => {
-                // Show Toast
                 document.getElementById('toast').classList.add('show');
-
-                // Open WhatsApp
-                const waURL = `https://wa.me/918894869371?text=${message}`;
-                window.open(waURL, '_blank');
-
-                // Reset Form
-                e.target.reset();
-                btn.innerText = originalText;
+                window.open(`https://wa.me/918894869371?text=${message}`, '_blank');
+                event.target.reset();
+                btn.innerText = original;
                 btn.disabled = false;
+                setTimeout(() => document.getElementById('toast').classList.remove('show'), 3000);
+            }, 1000);
+        }
 
+        // --- PORTAL DEMO ---
+        function connectSheet() {
+            const btn = event.target;
+            const original = btn.innerHTML;
+            btn.innerHTML = '<i class="fas fa-circle-notch fa-spin"></i> Syncing...';
+            setTimeout(() => {
+                document.getElementById('toast').innerText = "Demo: Sync Request Sent!";
+                document.getElementById('toast').classList.add('show');
+                btn.innerHTML = original;
                 setTimeout(() => document.getElementById('toast').classList.remove('show'), 3000);
             }, 1500);
         }
