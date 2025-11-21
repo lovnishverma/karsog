@@ -4,77 +4,84 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Karsog Valley | The Ultimate Travel Guide</title>
+    <title>Karsog Valley | The Hidden Himalayan Paradise</title>
     <meta name="description"
-        content="Plan your trip to Karsog Valley. Book top-rated hotels, buy trekking gear, and download our premium travel guide.">
+        content="The official unofficial guide to Karsog Valley. Plan your trip, book top-rated stays, and explore hidden trekking trails.">
 
-    <!-- FontAwesome -->
+    <!-- Fonts & Icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&display=swap" rel="stylesheet">
     <!-- Leaflet CSS -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
         integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
 
     <style>
-        /* --- CSS RESET & VARIABLES --- */
+        /* --- 1. DESIGN SYSTEM --- */
+        :root {
+            /* Palette */
+            --primary: #6366f1;
+            --primary-dark: #4f46e5;
+            --secondary: #a855f7;
+            --accent: #ec4899;
+            --success: #10b981;
+            --warning: #f59e0b;
+            --surface-dark: #0f172a;
+            --surface-light: #ffffff;
+
+            /* Dark Theme (Default) */
+            --bg-body: #020617;
+            --text-main: #f8fafc;
+            --text-muted: #94a3b8;
+            --glass-bg: rgba(30, 41, 59, 0.7);
+            --glass-border: rgba(255, 255, 255, 0.08);
+            --glass-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3);
+            --nav-bg: rgba(2, 6, 23, 0.85);
+            --timeline-line: rgba(255, 255, 255, 0.1);
+            --input-bg: rgba(255, 255, 255, 0.05);
+        }
+
+        [data-theme="light"] {
+            --bg-body: #f1f5f9;
+            --text-main: #1e293b;
+            --text-muted: #64748b;
+            --glass-bg: rgba(255, 255, 255, 0.85);
+            --glass-border: rgba(255, 255, 255, 0.4);
+            --glass-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.1);
+            --nav-bg: rgba(255, 255, 255, 0.9);
+            --timeline-line: rgba(0, 0, 0, 0.1);
+            --input-bg: rgba(0, 0, 0, 0.03);
+        }
+
         * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
         }
 
-        :root {
-            /* Brand Colors */
-            --primary: #667eea;
-            --primary-dark: #5a6fd6;
-            --secondary: #764ba2;
-            --accent: #f093fb;
-            --success: #00b894;
-            --warning: #fdcb6e;
-
-            /* Dark Theme (Default) */
-            --bg-body: #0a0a0a;
-            --bg-nav: rgba(10, 10, 10, 0.85);
-            --bg-nav-scrolled: rgba(10, 10, 10, 0.98);
-            --text-main: #f5f6fa;
-            --text-muted: #b2bec3;
-            --card-bg: rgba(35, 35, 45, 0.6);
-            --card-border: rgba(255, 255, 255, 0.08);
-            --modal-bg: #1e1e24;
-            --input-bg: rgba(255, 255, 255, 0.05);
-            --shadow-sm: 0 4px 6px rgba(0, 0, 0, 0.3);
-            --shadow-lg: 0 10px 30px rgba(0, 0, 0, 0.5);
-            --timeline-line: rgba(255, 255, 255, 0.1);
-        }
-
-        [data-theme="light"] {
-            --bg-body: #f4f7f6;
-            --bg-nav: rgba(255, 255, 255, 0.85);
-            --bg-nav-scrolled: rgba(255, 255, 255, 0.98);
-            --text-main: #2d3436;
-            --text-muted: #636e72;
-            --card-bg: rgba(255, 255, 255, 0.9);
-            --card-border: rgba(0, 0, 0, 0.08);
-            --modal-bg: #ffffff;
-            --input-bg: rgba(0, 0, 0, 0.04);
-            --shadow-sm: 0 4px 6px rgba(0, 0, 0, 0.05);
-            --shadow-lg: 0 10px 30px rgba(0, 0, 0, 0.1);
-            --timeline-line: rgba(0, 0, 0, 0.1);
-        }
-
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-family: 'Outfit', sans-serif;
             background: var(--bg-body);
             color: var(--text-main);
-            line-height: 1.6;
+            line-height: 1.7;
             overflow-x: hidden;
             transition: background 0.4s ease, color 0.4s ease;
         }
 
-        html {
-            scroll-behavior: smooth;
+        /* --- 2. UTILITIES --- */
+        .container {
+            max-width: 1280px;
+            margin: 0 auto;
+            padding: 0 2rem;
         }
 
-        /* --- UTILITIES --- */
+        .glass {
+            background: var(--glass-bg);
+            backdrop-filter: blur(16px);
+            -webkit-backdrop-filter: blur(16px);
+            border: 1px solid var(--glass-border);
+            box-shadow: var(--glass-shadow);
+        }
+
         .text-gradient {
             background: linear-gradient(135deg, var(--primary), var(--accent));
             -webkit-background-clip: text;
@@ -82,185 +89,232 @@
         }
 
         .btn {
-            padding: 0.8rem 2rem;
-            border: none;
-            border-radius: 50px;
-            font-size: 1rem;
-            font-weight: 600;
-            cursor: pointer;
-            text-decoration: none;
             display: inline-flex;
             align-items: center;
             gap: 0.5rem;
-            transition: all 0.3s ease;
+            padding: 0.8rem 2rem;
+            border-radius: 50px;
+            font-weight: 600;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            cursor: pointer;
+            border: none;
+            font-size: 1rem;
+            text-decoration: none;
         }
 
         .btn-primary {
             background: linear-gradient(135deg, var(--primary), var(--secondary));
             color: white;
-            box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+            box-shadow: 0 4px 15px rgba(99, 102, 241, 0.4);
         }
 
         .btn-primary:hover {
             transform: translateY(-2px);
-            box-shadow: 0 8px 25px rgba(102, 126, 234, 0.6);
+            box-shadow: 0 8px 25px rgba(99, 102, 241, 0.6);
         }
 
         .btn-secondary {
-            background: var(--input-bg);
+            background: transparent;
+            border: 1px solid var(--text-muted);
             color: var(--text-main);
-            border: 1px solid var(--card-border);
-            backdrop-filter: blur(5px);
         }
 
         .btn-secondary:hover {
             border-color: var(--primary);
-            transform: translateY(-2px);
+            color: var(--primary);
         }
 
-        .btn-small {
-            padding: 0.5rem 1.2rem;
-            font-size: 0.85rem;
-        }
-
-        /* --- NAVIGATION --- */
+        /* --- 3. NAVBAR --- */
         nav {
             position: fixed;
             top: 0;
             width: 100%;
-            padding: 1.2rem 5%;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
             z-index: 1000;
-            background: var(--bg-nav);
+            background: var(--nav-bg);
             backdrop-filter: blur(20px);
-            border-bottom: 1px solid var(--card-border);
+            border-bottom: 1px solid var(--glass-border);
+            padding: 1rem 0;
             transition: all 0.3s ease;
         }
 
         nav.scrolled {
-            padding: 0.8rem 5%;
-            background: var(--bg-nav-scrolled);
-            box-shadow: var(--shadow-sm);
+            padding: 0.8rem 0;
+            box-shadow: var(--glass-shadow);
+        }
+
+        .nav-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
         }
 
         .logo {
             font-size: 1.5rem;
             font-weight: 800;
+            letter-spacing: -0.5px;
             display: flex;
             align-items: center;
-            gap: 8px;
+            gap: 0.5rem;
             color: var(--text-main);
-        }
-
-        .logo i {
-            color: var(--primary);
+            text-decoration: none;
         }
 
         .nav-links {
             display: flex;
-            gap: 2rem;
+            gap: 2.5rem;
             list-style: none;
-            align-items: center;
         }
 
         .nav-links a {
-            color: var(--text-main);
+            color: var(--text-muted);
             text-decoration: none;
             font-weight: 500;
             font-size: 0.95rem;
             transition: color 0.3s;
+            position: relative;
         }
 
-        .nav-links a:hover {
+        .nav-links a:hover,
+        .nav-links a.active {
             color: var(--primary);
         }
 
-        .theme-toggle {
-            background: transparent;
-            border: none;
-            color: var(--text-main);
-            font-size: 1.2rem;
-            cursor: pointer;
-            padding: 0.5rem;
-            transition: transform 0.3s;
+        .nav-links a::after {
+            content: '';
+            position: absolute;
+            bottom: -5px;
+            left: 0;
+            width: 0;
+            height: 2px;
+            background: var(--primary);
+            transition: width 0.3s;
         }
 
-        .theme-toggle:hover {
-            transform: rotate(20deg);
+        .nav-links a:hover::after {
+            width: 100%;
+        }
+
+        .nav-actions {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .theme-btn {
+            background: none;
+            border: none;
+            color: var(--text-main);
+            cursor: pointer;
+            font-size: 1.2rem;
+            padding: 0.5rem;
+            transition: 0.3s;
+        }
+
+        .theme-btn:hover {
+            transform: rotate(30deg);
             color: var(--warning);
         }
 
-        /* --- HERO SECTION --- */
+        /* --- 4. HERO --- */
         .hero {
             min-height: 100vh;
+            position: relative;
             display: flex;
             align-items: center;
-            justify-content: center;
-            position: relative;
-            overflow: hidden;
-            padding: 2rem 5%;
-            background-attachment: fixed;
-            background-image: url('https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?auto=format&fit=crop&w=1920&q=80');
-            background-size: cover;
-            background-position: center;
+            background: url('https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?auto=format&fit=crop&w=1920&q=80') center/cover no-repeat fixed;
+            margin-top: -70px;
+            /* Offset navbar */
         }
 
-        .hero::before {
-            content: '';
+        .hero-overlay {
             position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.7));
-            z-index: 0;
+            inset: 0;
+            background: linear-gradient(to bottom, rgba(2, 6, 23, 0.4), var(--bg-body));
         }
 
         .hero-content {
             position: relative;
             z-index: 1;
+            max-width: 800px;
             text-align: center;
-            max-width: 900px;
-            padding: 3rem 2rem;
-            background: rgba(0, 0, 0, 0.65);
-            border-radius: 24px;
-            backdrop-filter: blur(12px);
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            animation: fadeInUp 1s ease-out;
+            margin: 0 auto;
+            padding-top: 4rem;
+        }
+
+        .badge {
+            display: inline-block;
+            padding: 0.5rem 1.5rem;
+            border-radius: 50px;
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            color: #fff;
+            font-size: 0.9rem;
+            margin-bottom: 1.5rem;
+            letter-spacing: 1px;
         }
 
         .hero h1 {
-            font-size: clamp(2.5rem, 6vw, 5rem);
+            font-size: clamp(3rem, 8vw, 5.5rem);
             font-weight: 800;
-            margin-bottom: 1rem;
+            line-height: 1.1;
+            margin-bottom: 1.5rem;
             color: white;
-            letter-spacing: -1px;
         }
 
         .hero p {
-            font-size: clamp(1.1rem, 2vw, 1.4rem);
-            margin-bottom: 2.5rem;
-            color: #e0e0e0;
-            max-width: 700px;
+            font-size: 1.25rem;
+            color: #e2e8f0;
+            margin-bottom: 3rem;
+            font-weight: 300;
+            max-width: 600px;
             margin-left: auto;
             margin-right: auto;
         }
 
-        .scroll-down {
-            position: absolute;
-            bottom: 30px;
-            left: 50%;
-            transform: translateX(-50%);
-            color: white;
-            animation: bounce 2s infinite;
-            opacity: 0.7;
+        /* --- 5. STATS BAR --- */
+        .stats-bar {
+            margin-top: -4rem;
+            position: relative;
+            z-index: 10;
+            padding-bottom: 4rem;
         }
 
-        /* --- SECTIONS & CARDS --- */
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 1px;
+            background: var(--glass-border);
+            border: 1px solid var(--glass-border);
+            border-radius: 20px;
+            overflow: hidden;
+        }
+
+        .stat-item {
+            background: var(--glass-bg);
+            backdrop-filter: blur(20px);
+            padding: 2rem;
+            text-align: center;
+        }
+
+        .stat-val {
+            font-size: 2.5rem;
+            font-weight: 800;
+            color: var(--primary);
+            display: block;
+        }
+
+        .stat-label {
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--text-muted);
+        }
+
+        /* --- 6. SECTIONS --- */
         section {
-            padding: 5rem 5%;
+            padding: 6rem 0;
+            position: relative;
         }
 
         .section-header {
@@ -270,194 +324,120 @@
 
         .section-title {
             font-size: 2.5rem;
-            font-weight: 700;
-            margin-bottom: 0.5rem;
+            margin-bottom: 1rem;
         }
 
-        .section-subtitle {
+        .section-desc {
             color: var(--text-muted);
-            font-size: 1.1rem;
-        }
-
-        .card-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 2rem;
-            max-width: 1280px;
+            max-width: 600px;
             margin: 0 auto;
         }
 
-        .card {
-            background: var(--card-bg);
-            border: 1px solid var(--card-border);
-            border-radius: 16px;
-            padding: 2rem;
-            position: relative;
-            transition: transform 0.3s, box-shadow 0.3s;
-            overflow: hidden;
+        /* --- 7. PRODUCT CARDS (Shop & Stay) --- */
+        .grid-3 {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
         }
 
-        .card:hover {
-            transform: translateY(-8px);
-            box-shadow: var(--shadow-lg);
+        .product-card {
+            border-radius: 20px;
+            overflow: hidden;
+            transition: all 0.4s ease;
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+        }
+
+        .product-card:hover {
+            transform: translateY(-10px);
             border-color: var(--primary);
         }
 
-        /* --- MONETIZATION ELEMENTS --- */
-
-        /* 1. Affiliate Shop */
-        .shop-card {
-            background: var(--card-bg);
-            border-radius: 16px;
-            overflow: hidden;
-            border: 1px solid var(--card-border);
-            transition: 0.3s;
-        }
-
-        .shop-card:hover {
-            transform: translateY(-5px);
-            box-shadow: var(--shadow-lg);
-        }
-
-        .shop-img-wrapper {
+        .card-img {
             position: relative;
-            height: 220px;
+            height: 240px;
             overflow: hidden;
         }
 
-        .shop-img-wrapper img {
+        .card-img img {
             width: 100%;
             height: 100%;
             object-fit: cover;
             transition: 0.5s;
         }
 
-        .shop-card:hover img {
+        .product-card:hover .card-img img {
             transform: scale(1.1);
         }
 
-        .best-seller-badge {
+        .card-badge {
             position: absolute;
-            top: 10px;
-            left: 10px;
+            top: 1rem;
+            left: 1rem;
             background: var(--warning);
-            color: #000;
-            font-weight: bold;
+            color: black;
+            font-weight: 700;
             font-size: 0.75rem;
-            padding: 4px 10px;
-            border-radius: 4px;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+            padding: 0.25rem 0.75rem;
+            border-radius: 6px;
+            z-index: 2;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
         }
 
-        .shop-content {
+        .card-content {
             padding: 1.5rem;
+            display: flex;
+            flex-direction: column;
+            flex-grow: 1;
         }
 
-        .shop-rating {
-            color: var(--warning);
-            font-size: 0.9rem;
+        .card-meta {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
             margin-bottom: 0.5rem;
         }
 
-        .price {
+        .rating {
+            color: var(--warning);
+            font-size: 0.9rem;
+        }
+
+        .card-title {
             font-size: 1.25rem;
-            font-weight: 800;
-            color: var(--text-main);
-            margin: 0.5rem 0;
+            margin-bottom: 0.5rem;
         }
 
-        .btn-affiliate {
-            display: block;
-            width: 100%;
-            padding: 0.8rem;
-            text-align: center;
-            background: #ff9900;
-            color: white;
-            font-weight: 600;
-            border-radius: 8px;
-            text-decoration: none;
-            transition: 0.3s;
-        }
-
-        .btn-affiliate:hover {
-            background: #e68a00;
-        }
-
-        /* 2. Digital Product Banner */
-        .guide-banner {
-            background: linear-gradient(135deg, var(--primary), var(--secondary));
-            border-radius: 20px;
-            padding: 4rem 2rem;
-            text-align: center;
-            color: white;
-            box-shadow: var(--shadow-lg);
-            position: relative;
-            overflow: hidden;
-        }
-
-        .guide-banner::after {
-            content: '';
-            position: absolute;
-            top: -50%;
-            right: -10%;
-            width: 300px;
-            height: 300px;
-            background: rgba(255, 255, 255, 0.1);
-            border-radius: 50%;
-        }
-
-        /* 3. Business Listings */
-        .business-card {
-            background: var(--card-bg);
-            border: 1px solid var(--card-border);
-            border-radius: 16px;
-            padding: 2rem;
-            position: relative;
-            overflow: hidden;
-            transition: 0.3s;
-        }
-
-        .business-card:hover {
-            transform: translateY(-5px);
-            border-color: var(--primary);
-        }
-
-        .ribbon {
-            position: absolute;
-            top: 15px;
-            right: -30px;
-            transform: rotate(45deg);
-            background: var(--primary);
-            color: white;
-            font-size: 0.7rem;
-            font-weight: bold;
-            padding: 5px 40px;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
-        }
-
-        .verified-badge {
-            display: inline-flex;
-            align-items: center;
-            gap: 4px;
-            color: var(--success);
-            font-size: 0.85rem;
-            font-weight: 600;
-            margin-bottom: 1rem;
-        }
-
-        /* 4. Ad Slot */
-        .ad-container {
-            max-width: 1000px;
-            margin: 0 auto 4rem;
-            padding: 2rem;
-            background: var(--card-bg);
-            border: 1px dashed var(--text-muted);
-            border-radius: 12px;
-            text-align: center;
+        .card-desc {
             color: var(--text-muted);
+            font-size: 0.9rem;
+            margin-bottom: 1.5rem;
+            flex-grow: 1;
         }
 
-        /* --- ITINERARY TIMELINE --- */
+        .card-footer {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding-top: 1rem;
+            border-top: 1px solid var(--glass-border);
+        }
+
+        .price {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--text-main);
+        }
+
+        .price span {
+            font-size: 0.9rem;
+            color: var(--text-muted);
+            font-weight: 400;
+        }
+
+        /* --- 8. ITINERARY TIMELINE --- */
         .timeline {
             position: relative;
             max-width: 800px;
@@ -467,113 +447,126 @@
         .timeline::before {
             content: '';
             position: absolute;
+            top: 0;
+            bottom: 0;
             left: 50%;
-            transform: translateX(-50%);
             width: 2px;
-            height: 100%;
             background: var(--timeline-line);
+            transform: translateX(-50%);
         }
 
         .timeline-item {
-            margin-bottom: 3rem;
+            margin-bottom: 4rem;
             position: relative;
             width: 50%;
-            padding: 0 2rem;
         }
 
         .timeline-item:nth-child(odd) {
             left: 0;
+            padding-right: 3rem;
             text-align: right;
         }
 
         .timeline-item:nth-child(even) {
             left: 50%;
+            padding-left: 3rem;
             text-align: left;
         }
 
         .timeline-dot {
             position: absolute;
             top: 0;
-            width: 20px;
-            height: 20px;
-            background: var(--primary);
+            width: 16px;
+            height: 16px;
             border-radius: 50%;
-            border: 4px solid var(--bg-body);
+            background: var(--primary);
+            box-shadow: 0 0 0 8px var(--glass-border);
             z-index: 2;
         }
 
         .timeline-item:nth-child(odd) .timeline-dot {
-            right: -10px;
+            right: -9px;
         }
 
         .timeline-item:nth-child(even) .timeline-dot {
-            left: -10px;
+            left: -9px;
         }
 
-        .timeline-content {
-            background: var(--card-bg);
-            padding: 1.5rem;
-            border-radius: 12px;
-            border: 1px solid var(--card-border);
-            box-shadow: var(--shadow-sm);
-        }
-
-        /* --- OTHER COMPONENTS --- */
-        /* Stats */
-        .stats-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-            gap: 2rem;
-            text-align: center;
-            padding: 3rem 5%;
-            background: var(--card-bg);
-            border-top: 1px solid var(--card-border);
-            border-bottom: 1px solid var(--card-border);
-        }
-
-        .stat-num {
-            font-size: 2.5rem;
-            font-weight: 800;
-            color: var(--primary);
-        }
-
-        .stat-label {
-            font-size: 0.9rem;
-            color: var(--text-muted);
-            text-transform: uppercase;
-            letter-spacing: 1px;
-        }
-
-        /* Weather */
-        .weather-widget {
-            max-width: 450px;
-            margin: 0 auto;
-            background: var(--card-bg);
+        .day-badge {
+            display: inline-block;
+            background: var(--primary);
+            color: white;
+            padding: 0.25rem 1rem;
             border-radius: 20px;
-            padding: 2rem;
-            text-align: center;
-            border: 1px solid var(--card-border);
-            box-shadow: var(--shadow-lg);
-        }
-
-        .weather-temp {
-            font-size: 4rem;
+            font-size: 0.8rem;
             font-weight: 700;
-            line-height: 1;
-            margin: 1rem 0;
+            margin-bottom: 1rem;
         }
 
-        /* FAQ Accordion */
+        /* --- 9. PROMO BANNER --- */
+        .promo-banner {
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            border-radius: 30px;
+            padding: 4rem 2rem;
+            text-align: center;
+            color: white;
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 20px 50px rgba(99, 102, 241, 0.3);
+        }
+
+        .promo-content {
+            position: relative;
+            z-index: 2;
+        }
+
+        .promo-bg-icon {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-size: 20rem;
+            opacity: 0.1;
+            pointer-events: none;
+        }
+
+        /* --- 10. EXPLORE GRID --- */
+        .explore-grid {
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            gap: 2rem;
+            height: 500px;
+        }
+
+        .map-container {
+            height: 100%;
+            border-radius: 20px;
+            overflow: hidden;
+        }
+
+        .weather-widget {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            text-align: center;
+            padding: 2rem;
+            border-radius: 20px;
+        }
+
+        /* --- 11. FAQ & FOOTER --- */
+        .accordion {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
         .accordion-item {
-            background: var(--card-bg);
-            border: 1px solid var(--card-border);
-            border-radius: 8px;
             margin-bottom: 1rem;
+            border-radius: 10px;
             overflow: hidden;
         }
 
         .accordion-header {
-            padding: 1.2rem 1.5rem;
+            padding: 1.5rem;
             cursor: pointer;
             display: flex;
             justify-content: space-between;
@@ -592,111 +585,66 @@
             transition: max-height 0.3s ease;
             padding: 0 1.5rem;
             color: var(--text-muted);
+            font-size: 0.95rem;
         }
 
         .accordion-body.open {
-            padding-bottom: 1.2rem;
+            padding-bottom: 1.5rem;
         }
 
-        /* Newsletter */
-        .newsletter {
-            background: var(--modal-bg);
-            padding: 4rem 5%;
-            text-align: center;
-            border-top: 1px solid var(--card-border);
-        }
-
-        .newsletter-form {
-            display: flex;
-            gap: 1rem;
-            justify-content: center;
-            max-width: 500px;
-            margin: 2rem auto 0;
-        }
-
-        .newsletter-input {
-            flex: 1;
-            padding: 0.8rem 1.2rem;
-            border-radius: 50px;
-            border: 1px solid var(--card-border);
-            background: var(--input-bg);
-            color: var(--text-main);
-            outline: none;
-        }
-
-        /* Footer */
         footer {
             background: var(--bg-body);
-            padding: 3rem 5%;
-            text-align: center;
-            border-top: 1px solid var(--card-border);
-            color: var(--text-muted);
+            padding: 5rem 0 2rem;
+            border-top: 1px solid var(--glass-border);
+            margin-top: 4rem;
         }
 
-        .social-links {
-            display: flex;
-            justify-content: center;
-            gap: 1.5rem;
+        .footer-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 4rem;
+            margin-bottom: 4rem;
+        }
+
+        .footer-col h4 {
+            font-size: 1.1rem;
             margin-bottom: 1.5rem;
-        }
-
-        .social-btn {
-            width: 40px;
-            height: 40px;
-            border-radius: 50%;
-            border: 1px solid var(--card-border);
-            display: flex;
-            align-items: center;
-            justify-content: center;
             color: var(--text-main);
-            transition: 0.3s;
+        }
+
+        .footer-col ul {
+            list-style: none;
+        }
+
+        .footer-col li {
+            margin-bottom: 0.8rem;
+        }
+
+        .footer-col a {
+            color: var(--text-muted);
             text-decoration: none;
-        }
-
-        .social-btn:hover {
-            background: var(--primary);
-            border-color: var(--primary);
-            color: white;
-            transform: translateY(-3px);
-        }
-
-        /* Toast Notification */
-        #toast {
-            position: fixed;
-            bottom: 30px;
-            left: 50%;
-            transform: translateX(-50%);
-            background: var(--success);
-            color: white;
-            padding: 12px 24px;
-            border-radius: 50px;
-            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
-            opacity: 0;
-            pointer-events: none;
             transition: 0.3s;
-            z-index: 3000;
-            font-weight: 600;
         }
 
-        #toast.show {
-            opacity: 1;
-            bottom: 50px;
+        .footer-col a:hover {
+            color: var(--primary);
         }
 
-        /* Responsive Media Queries */
+        /* --- 12. RESPONSIVE --- */
         @media (max-width: 768px) {
             .nav-links {
                 position: fixed;
                 top: 0;
                 right: -100%;
-                width: 75%;
+                width: 80%;
                 height: 100vh;
                 background: var(--bg-body);
                 flex-direction: column;
                 justify-content: center;
-                border-left: 1px solid var(--card-border);
+                align-items: center;
                 transition: 0.3s;
-                box-shadow: -10px 0 30px rgba(0, 0, 0, 0.5);
+                z-index: 999;
+                border-left: 1px solid var(--glass-border);
             }
 
             .nav-links.active {
@@ -704,16 +652,14 @@
             }
 
             .menu-toggle {
-                display: flex;
-                flex-direction: column;
-                gap: 5px;
+                display: block !important;
                 cursor: pointer;
+                z-index: 1001;
             }
 
-            .menu-toggle span {
-                width: 25px;
-                height: 2px;
-                background: var(--text-main);
+            .stats-grid {
+                grid-template-columns: 1fr 1fr;
+                gap: 1px;
             }
 
             .timeline::before {
@@ -733,38 +679,96 @@
             }
 
             .timeline-dot {
-                left: 11px !important;
+                left: 12px !important;
                 right: auto !important;
             }
 
-            .newsletter-form {
-                flex-direction: column;
+            .explore-grid {
+                grid-template-columns: 1fr;
+                height: auto;
+            }
+
+            .map-container {
+                height: 300px;
             }
         }
 
-        /* Animations */
-        @keyframes fadeInUp {
-            from {
-                opacity: 0;
-                transform: translateY(20px);
-            }
-
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
+        .menu-toggle {
+            display: none;
         }
 
-        @keyframes bounce {
+        /* Hidden on Desktop */
 
-            0%,
-            100% {
-                transform: translate(-50%, 0);
-            }
+        /* --- 13. MODAL & TOAST --- */
+        .modal-overlay {
+            position: fixed;
+            inset: 0;
+            background: rgba(0, 0, 0, 0.8);
+            backdrop-filter: blur(5px);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 2000;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.3s;
+        }
 
-            50% {
-                transform: translate(-50%, 10px);
-            }
+        .modal-overlay.active {
+            opacity: 1;
+            pointer-events: auto;
+        }
+
+        .modal-content {
+            width: 90%;
+            max-width: 500px;
+            padding: 2.5rem;
+            border-radius: 24px;
+            transform: translateY(20px);
+            transition: transform 0.3s;
+        }
+
+        .modal-overlay.active .modal-content {
+            transform: translateY(0);
+        }
+
+        input,
+        select,
+        textarea {
+            width: 100%;
+            padding: 1rem;
+            margin-bottom: 1rem;
+            border-radius: 12px;
+            border: 1px solid var(--glass-border);
+            background: var(--input-bg);
+            color: var(--text-main);
+            outline: none;
+            font-family: inherit;
+        }
+
+        input:focus,
+        select:focus {
+            border-color: var(--primary);
+        }
+
+        #toast {
+            position: fixed;
+            bottom: 30px;
+            left: 50%;
+            transform: translateX(-50%) translateY(20px);
+            background: var(--success);
+            color: white;
+            padding: 12px 30px;
+            border-radius: 50px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+            opacity: 0;
+            transition: 0.3s;
+            z-index: 3000;
+        }
+
+        #toast.show {
+            opacity: 1;
+            transform: translateX(-50%) translateY(0);
         }
     </style>
 </head>
@@ -773,392 +777,439 @@
 
     <!-- Navigation -->
     <nav id="navbar">
-        <div class="logo"><i class="fas fa-mountain"></i> Karsog Valley</div>
-        <div style="display:flex; align-items:center; gap:1rem;">
-            <button class="theme-toggle" onclick="toggleTheme()"><i class="fas fa-moon"></i></button>
-            <div class="menu-toggle" onclick="toggleMenu()"><span></span><span></span><span></span></div>
+        <div class="container nav-container">
+            <a href="#" class="logo"><i class="fas fa-mountain"></i> KARSOG VALLEY</a>
+
+            <ul class="nav-links" id="navLinks">
+                <li><a href="#home" class="active">Home</a></li>
+                <li><a href="#shop">Gear Shop</a></li>
+                <li><a href="#itinerary">Itinerary</a></li>
+                <li><a href="#stays">Stays</a></li>
+                <li><a href="#guide">Guide</a></li>
+                <li class="mobile-only"><a href="#contact">Contact</a></li>
+            </ul>
+
+            <div class="nav-actions">
+                <button class="theme-btn" onclick="toggleTheme()" aria-label="Toggle Theme"><i
+                        class="fas fa-moon"></i></button>
+                <a href="#contact" class="btn btn-primary" onclick="openModal('General Inquiry')">Plan Trip</a>
+                <div class="menu-toggle" onclick="toggleMenu()"><i class="fas fa-bars" style="font-size:1.5rem;"></i>
+                </div>
+            </div>
         </div>
-        <ul class="nav-links" id="navLinks">
-            <li><a href="#home" onclick="toggleMenu()">Home</a></li>
-            <li><a href="#shop" onclick="toggleMenu()">Gear Shop</a></li>
-            <li><a href="#itinerary" onclick="toggleMenu()">Itinerary</a></li>
-            <li><a href="#stays" onclick="toggleMenu()">Stays</a></li>
-            <li><a href="#contact" class="btn btn-primary btn-small">Book Trip</a></li>
-        </ul>
     </nav>
 
-    <!-- Hero -->
-    <section class="hero" id="home">
-        <div class="hero-content">
-            <h1>Uncover the <span class="text-gradient">Hidden Gem</span></h1>
-            <p>Experience the mystical Karsog Valley. Ancient temples, apple orchards, and untouched trekking trails
-                await you.</p>
-            <div style="display:flex; gap:1rem; justify-content:center; flex-wrap:wrap;">
-                <button onclick="openModal('Trip Planning')" class="btn btn-primary"><i class="fas fa-paper-plane"></i>
-                    Plan My Trip</button>
-                <a href="#guide" class="btn btn-secondary"><i class="fas fa-download"></i> Get Guide</a>
+    <!-- Hero Section -->
+    <header class="hero" id="home">
+        <div class="hero-overlay"></div>
+        <div class="container hero-content">
+            <span class="badge">HIMACHAL PRADESH</span>
+            <h1>Uncover the <br><span class="text-gradient">Hidden Paradise</span></h1>
+            <p>Escape the crowds. Experience ancient temples, endless apple orchards, and pristine Himalayan trails in
+                Karsog Valley.</p>
+            <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+                <button onclick="openModal('Trip Planning')" class="btn btn-primary"><i
+                        class="fas fa-map-marked-alt"></i> Start Planning</button>
+                <a href="#guide" class="btn btn-secondary"><i class="fas fa-download"></i> Download Guide</a>
             </div>
         </div>
-        <div class="scroll-down"><i class="fas fa-chevron-down"></i></div>
-    </section>
+    </header>
 
-    <!-- Stats -->
-    <div class="stats-grid">
-        <div>
-            <div class="stat-num" data-target="524">0</div>
-            <div class="stat-label">Sq Km Area</div>
-        </div>
-        <div>
-            <div class="stat-num" data-target="108">0</div>
-            <div class="stat-label">Km from Shimla</div>
-        </div>
-        <div>
-            <div class="stat-num" data-target="3359">0</div>
-            <div class="stat-label">Meters Elevation</div>
-        </div>
-        <div>
-            <div class="stat-num" data-target="15">0</div>
-            <div class="stat-label">Ancient Temples</div>
+    <!-- Stats Bar -->
+    <div class="container stats-bar">
+        <div class="stats-grid">
+            <div class="stat-item">
+                <span class="stat-val" data-target="524">0</span>
+                <span class="stat-label">Sq Km Area</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-val" data-target="108">0</span>
+                <span class="stat-label">Km from Shimla</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-val" data-target="3359">0</span>
+                <span class="stat-label">Meters Peak</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-val" data-target="12">0</span>
+                <span class="stat-label">Ancient Temples</span>
+            </div>
         </div>
     </div>
 
-    <!-- Digital Product (Monetization) -->
+    <!-- Premium Guide (Monetization) -->
     <section id="guide">
-        <div class="guide-banner">
-            <h2><i class="fas fa-book"></i> The Ultimate Karsog Travel Guide</h2>
-            <p style="margin: 1rem auto 2rem; max-width: 600px;">Stop guessing. Get our curated PDF with hidden
-                waterfall locations, trusted taxi contacts, and a complete packing checklist.</p>
-            <button class="btn" style="background:white; color:var(--primary); font-weight:800;">Download Now -
-                ₹99</button>
-            <p style="font-size:0.8rem; margin-top:1rem; opacity:0.8;"><i class="fas fa-check-circle"></i> Instant Email
-                Delivery</p>
+        <div class="container">
+            <div class="promo-banner">
+                <i class="fas fa-book-open promo-bg-icon"></i>
+                <div class="promo-content">
+                    <h2 style="font-size: 2.5rem; margin-bottom: 1rem;">The Ultimate Karsog Travel Guide</h2>
+                    <p
+                        style="font-size: 1.2rem; opacity: 0.9; margin-bottom: 2rem; max-width: 700px; margin-left: auto; margin-right: auto;">
+                        Don't waste hours researching. Get our curated PDF with hidden waterfall locations, direct
+                        contacts for reliable taxi drivers, and a complete seasonal packing checklist.
+                    </p>
+                    <button class="btn" style="background: white; color: var(--primary); font-weight: 800;">
+                        Download Now - ₹99
+                    </button>
+                    <p style="font-size: 0.85rem; margin-top: 1rem; opacity: 0.8;"><i class="fas fa-bolt"></i> Instant
+                        Email Delivery</p>
+                </div>
+            </div>
         </div>
     </section>
 
-    <!-- Affiliate Shop (Monetization) -->
+    <!-- Affiliate Shop -->
     <section id="shop">
-        <div class="section-header">
-            <h2 class="section-title">Trekking Essentials</h2>
-            <p class="section-subtitle">Handpicked gear for Shikari Devi & local treks (Affiliate)</p>
-        </div>
-        <div class="card-grid">
-            <!-- Item 1 -->
-            <div class="shop-card">
-                <div class="shop-img-wrapper">
-                    <div class="best-seller-badge">Best Seller</div>
-                    <img src="https://images.unsplash.com/photo-1605518216938-7f31b4e7ee8e?auto=format&fit=crop&w=600&q=80"
-                        loading="lazy" alt="Shoes">
-                </div>
-                <div class="shop-content">
-                    <h3>Pro Trekking Shoes</h3>
-                    <div class="shop-rating"><i class="fas fa-star"></i><i class="fas fa-star"></i><i
-                            class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half-alt"></i>
-                        (450+)</div>
-                    <p style="font-size:0.9rem; color:var(--text-muted);">Waterproof, high-grip sole perfect for rocky
-                        terrains.</p>
-                    <div class="price">₹2,499</div>
-                    <a href="#" class="btn-affiliate">Buy on Amazon <i class="fas fa-external-link-alt"></i></a>
-                </div>
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Trekking Essentials</h2>
+                <p class="section-desc">Gear up for Shikari Devi & local treks with our handpicked recommendations.</p>
             </div>
-            <!-- Item 2 -->
-            <div class="shop-card">
-                <div class="shop-img-wrapper">
-                    <img src="https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=600&q=80"
-                        loading="lazy" alt="Backpack">
+            <div class="grid-3">
+                <!-- Product 1 -->
+                <div class="product-card glass">
+                    <div class="card-badge">BESTSELLER</div>
+                    <div class="card-img">
+                        <img src="https://images.unsplash.com/photo-1605518216938-7f31b4e7ee8e?auto=format&fit=crop&w=600&q=80"
+                            alt="Hiking Shoes">
+                    </div>
+                    <div class="card-content">
+                        <div class="card-meta">
+                            <span class="rating"><i class="fas fa-star"></i> 4.8</span>
+                        </div>
+                        <h3 class="card-title">Pro Terrain Hiking Boots</h3>
+                        <p class="card-desc">Waterproof with ankle support. Essential for rocky trails.</p>
+                        <div class="card-footer">
+                            <div class="price">₹2,499</div>
+                            <a href="#" class="btn btn-sm btn-primary"
+                                style="padding: 0.5rem 1rem; font-size: 0.9rem;">Buy on Amazon</a>
+                        </div>
+                    </div>
                 </div>
-                <div class="shop-content">
-                    <h3>55L Travel Rucksack</h3>
-                    <div class="shop-rating"><i class="fas fa-star"></i><i class="fas fa-star"></i><i
-                            class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i> (210+)</div>
-                    <p style="font-size:0.9rem; color:var(--text-muted);">Spacious with rain cover. Ideal for 3-day
-                        trips.</p>
-                    <div class="price">₹1,899</div>
-                    <a href="#" class="btn-affiliate">Buy on Amazon <i class="fas fa-external-link-alt"></i></a>
+                <!-- Product 2 -->
+                <div class="product-card glass">
+                    <div class="card-img">
+                        <img src="https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=600&q=80"
+                            alt="Backpack">
+                    </div>
+                    <div class="card-content">
+                        <div class="card-meta">
+                            <span class="rating"><i class="fas fa-star"></i> 4.6</span>
+                        </div>
+                        <h3 class="card-title">55L Expedition Rucksack</h3>
+                        <p class="card-desc">Spacious, durable, and comes with a rain cover.</p>
+                        <div class="card-footer">
+                            <div class="price">₹1,899</div>
+                            <a href="#" class="btn btn-sm btn-primary"
+                                style="padding: 0.5rem 1rem; font-size: 0.9rem;">Buy on Amazon</a>
+                        </div>
+                    </div>
                 </div>
-            </div>
-            <!-- Item 3 -->
-            <div class="shop-card">
-                <div class="shop-img-wrapper">
-                    <img src="https://images.unsplash.com/photo-1521335629791-ce4aec6c67da?auto=format&fit=crop&w=600&q=80"
-                        loading="lazy" alt="Powerbank">
-                </div>
-                <div class="shop-content">
-                    <h3>20000mAh Powerbank</h3>
-                    <div class="shop-rating"><i class="fas fa-star"></i><i class="fas fa-star"></i><i
-                            class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i> (1.2k+)</div>
-                    <p style="font-size:0.9rem; color:var(--text-muted);">Fast charging. Essential for remote areas.</p>
-                    <div class="price">₹1,299</div>
-                    <a href="#" class="btn-affiliate">Buy on Amazon <i class="fas fa-external-link-alt"></i></a>
+                <!-- Product 3 -->
+                <div class="product-card glass">
+                    <div class="card-img">
+                        <img src="https://images.unsplash.com/photo-1521335629791-ce4aec6c67da?auto=format&fit=crop&w=600&q=80"
+                            alt="Powerbank">
+                    </div>
+                    <div class="card-content">
+                        <div class="card-meta">
+                            <span class="rating"><i class="fas fa-star"></i> 4.9</span>
+                        </div>
+                        <h3 class="card-title">20000mAh Power Core</h3>
+                        <p class="card-desc">Keep your devices charged in remote areas.</p>
+                        <div class="card-footer">
+                            <div class="price">₹1,299</div>
+                            <a href="#" class="btn btn-sm btn-primary"
+                                style="padding: 0.5rem 1rem; font-size: 0.9rem;">Buy on Amazon</a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
     </section>
-
-    <!-- Ad Space -->
-    <div class="ad-container">
-        <p style="font-size:0.8rem; margin-bottom:0.5rem;">SPONSORED</p>
-        <h3>Advertise Your Business Here</h3>
-        <p>Reach thousands of tourists monthly. <a href="#" style="color:var(--primary);">Contact Us</a></p>
-    </div>
 
     <!-- Itinerary -->
-    <section id="itinerary" style="background: var(--input-bg);">
-        <div class="section-header">
-            <h2 class="section-title">3-Day Itinerary</h2>
-            <p class="section-subtitle">The perfect plan to see it all</p>
+    <section id="itinerary">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Perfect 3-Day Itinerary</h2>
+                <p class="section-desc">Maximize your weekend with this optimized plan.</p>
+            </div>
+            <div class="timeline">
+                <div class="timeline-item">
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-content glass" style="padding: 1.5rem; border-radius: 16px;">
+                        <span class="day-badge">Day 1</span>
+                        <h3>Arrival & Temple Run</h3>
+                        <p style="color: var(--text-muted);">Arrive via Shimla/Mandi. Check-in at Chindi. Visit the
+                            ancient <strong>Mamleshwar Mahadev</strong> (see the 5000-year-old grain) & Kamaksha Devi
+                            temple.</p>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-content glass" style="padding: 1.5rem; border-radius: 16px;">
+                        <span class="day-badge">Day 2</span>
+                        <h3>The Shikari Devi Trek</h3>
+                        <p style="color: var(--text-muted);">Early morning drive to the base. Trek to the roofless
+                            temple (3359m). Witness 360° Himalayan views. Picnic at apple orchards on the way back.</p>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-content glass" style="padding: 1.5rem; border-radius: 16px;">
+                        <span class="day-badge">Day 3</span>
+                        <h3>Local Culture & Departure</h3>
+                        <p style="color: var(--text-muted);">Visit the local market. Buy organic Rajma and hand-knitted
+                            socks. Enjoy a final Pahari meal before departing.</p>
+                    </div>
+                </div>
+            </div>
         </div>
-        <div class="timeline">
-            <div class="timeline-item">
-                <div class="timeline-dot"></div>
-                <div class="timeline-content">
-                    <div style="color:var(--primary); font-weight:700; margin-bottom:0.5rem;">DAY 1</div>
-                    <h3>Arrival & Temple Run</h3>
-                    <p style="color:var(--text-muted);">Arrive via Shimla. Check into <strong>Manat Guest
-                            House</strong>. Visit the ancient Mamleshwar Mahadev (5000-year-old grain) & Kamaksha Devi.
+    </section>
+
+    <!-- Stays (Monetization) -->
+    <section id="stays" style="background: var(--input-bg);">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Where to Stay & Eat</h2>
+                <p class="section-desc">Verified local businesses for authentic experiences.</p>
+            </div>
+            <div class="grid-3">
+                <!-- Hotel 1 -->
+                <div class="product-card glass">
+                    <div class="card-badge" style="background: var(--primary); color: white;">FEATURED</div>
+                    <div class="card-content">
+                        <div class="card-meta">
+                            <span style="color: var(--success); font-size: 0.85rem; font-weight: 700;"><i
+                                    class="fas fa-check-circle"></i> Verified</span>
+                            <span class="rating"><i class="fas fa-star"></i> 4.5</span>
+                        </div>
+                        <h3 class="card-title">The OMS Hotel</h3>
+                        <p class="card-desc">Modern amenities right in the market. WiFi, Parking, and Rooftop dining
+                            available.</p>
+                        <div class="card-footer">
+                            <button onclick="openModal('Hotel OMS')" class="btn btn-primary"
+                                style="font-size: 0.9rem; padding: 0.5rem 1.2rem;">Book Now</button>
+                            <a href="tel:+910000000000" style="color: var(--text-muted); font-size: 1.2rem;"><i
+                                    class="fas fa-phone"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Hotel 2 -->
+                <div class="product-card glass">
+                    <div class="card-content">
+                        <div class="card-meta">
+                            <span style="color: var(--success); font-size: 0.85rem; font-weight: 700;"><i
+                                    class="fas fa-check-circle"></i> Verified</span>
+                            <span class="rating"><i class="fas fa-star"></i> 4.8</span>
+                        </div>
+                        <h3 class="card-title">Manat Guest House</h3>
+                        <p class="card-desc">Cozy luxury homestay with panoramic valley views and home-cooked food.</p>
+                        <div class="card-footer">
+                            <button onclick="openModal('Manat Guest House')" class="btn btn-secondary"
+                                style="font-size: 0.9rem; padding: 0.5rem 1.2rem;">Inquire</button>
+                            <a href="tel:+910000000000" style="color: var(--text-muted); font-size: 1.2rem;"><i
+                                    class="fas fa-phone"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Restaurant -->
+                <div class="product-card glass">
+                    <div class="card-content">
+                        <div class="card-meta">
+                            <span style="color: var(--success); font-size: 0.85rem; font-weight: 700;"><i
+                                    class="fas fa-utensils"></i> Dining</span>
+                            <span class="rating"><i class="fas fa-star"></i> 4.3</span>
+                        </div>
+                        <h3 class="card-title">Valley Dhaba</h3>
+                        <p class="card-desc">Famous for Siddu, Chana Madra, and authentic local flavors.</p>
+                        <div class="card-footer">
+                            <button onclick="openModal('Valley Dhaba')" class="btn btn-secondary"
+                                style="font-size: 0.9rem; padding: 0.5rem 1.2rem;">Reserve</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Explore (Map & Weather) -->
+    <section id="explore">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Explore the Valley</h2>
+            </div>
+            <div class="explore-grid">
+                <div class="map-container glass">
+                    <div id="map" style="width: 100%; height: 100%;"></div>
+                </div>
+                <div class="weather-widget glass">
+                    <h3 style="margin-bottom: 1rem;">Live Weather</h3>
+                    <div id="weatherIcon" style="font-size: 4rem; color: var(--warning); margin-bottom: 0.5rem;">
+                        <i class="fas fa-cloud-sun"></i>
+                    </div>
+                    <div id="temperature" style="font-size: 3.5rem; font-weight: 800; line-height: 1;">--°</div>
+                    <p id="weatherDesc"
+                        style="color: var(--text-muted); text-transform: capitalize; margin-bottom: 1.5rem;">Loading...
                     </p>
-                </div>
-            </div>
-            <div class="timeline-item">
-                <div class="timeline-dot"></div>
-                <div class="timeline-content">
-                    <div style="color:var(--primary); font-weight:700; margin-bottom:0.5rem;">DAY 2</div>
-                    <h3>Shikari Devi Trek</h3>
-                    <p style="color:var(--text-muted);">Early morning drive to the base. Trek to the roofless temple
-                        (3359m). Enjoy 360° panoramic views. Picnic at apple orchards on return.</p>
-                </div>
-            </div>
-            <div class="timeline-item">
-                <div class="timeline-dot"></div>
-                <div class="timeline-content">
-                    <div style="color:var(--primary); font-weight:700; margin-bottom:0.5rem;">DAY 3</div>
-                    <h3>Chindi & Departure</h3>
-                    <p style="color:var(--text-muted);">Visit the scenic Chindi hamlet. Buy local Rajma and hand-knitted
-                        socks at the market. Depart for Delhi/Chandigarh.</p>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Business Listings (Monetization) -->
-    <section id="stays">
-        <div class="section-header">
-            <h2 class="section-title">Where to Stay & Eat</h2>
-            <p class="section-subtitle">Verified local businesses</p>
-        </div>
-        <div class="card-grid">
-            <!-- Hotel 1 -->
-            <div class="business-card">
-                <div class="ribbon">FEATURED</div>
-                <div class="verified-badge"><i class="fas fa-check-circle"></i> Verified Partner</div>
-                <div style="display:flex; justify-content:space-between; align-items:start;">
-                    <h3>The OMS Hotel</h3>
-                    <span
-                        style="background:var(--success); color:white; padding:2px 6px; border-radius:4px; font-size:0.8rem;">4.5
-                        <i class="fas fa-star"></i></span>
-                </div>
-                <p style="margin-bottom:1.5rem;">Modern amenities right in the market. WiFi, Parking, and Rooftop
-                    dining.</p>
-                <div style="display:flex; gap:1rem;">
-                    <button onclick="openModal('Book Hotel OMS')" class="btn btn-primary btn-small" style="flex:1;">Book
-                        Now</button>
-                    <a href="tel:+919876543210" class="btn btn-secondary btn-small"><i class="fas fa-phone"></i></a>
-                </div>
-            </div>
-            <!-- Hotel 2 -->
-            <div class="business-card">
-                <div class="verified-badge"><i class="fas fa-check-circle"></i> Verified Partner</div>
-                <div style="display:flex; justify-content:space-between; align-items:start;">
-                    <h3>Manat Guest House</h3>
-                    <span
-                        style="background:var(--success); color:white; padding:2px 6px; border-radius:4px; font-size:0.8rem;">4.8
-                        <i class="fas fa-star"></i></span>
-                </div>
-                <p style="margin-bottom:1.5rem;">Cozy homestay experience with valley views and home-cooked Himachali
-                    food.</p>
-                <div style="display:flex; gap:1rem;">
-                    <button onclick="openModal('Inquire Manat')" class="btn btn-secondary btn-small"
-                        style="flex:1;">Inquire</button>
-                    <a href="tel:+919876543210" class="btn btn-secondary btn-small"><i class="fas fa-phone"></i></a>
-                </div>
-            </div>
-            <!-- Restaurant -->
-            <div class="business-card">
-                <div style="display:flex; justify-content:space-between; align-items:start;">
-                    <h3>Valley Dhaba</h3>
-                    <span
-                        style="background:var(--success); color:white; padding:2px 6px; border-radius:4px; font-size:0.8rem;">4.2
-                        <i class="fas fa-star"></i></span>
-                </div>
-                <p style="margin-bottom:1.5rem;">Best place for Siddu, Chana Madra, and Babru. Authentic local taste.
-                </p>
-                <div style="display:flex; gap:1rem;">
-                    <button onclick="openModal('Reserve Valley Dhaba')" class="btn btn-secondary btn-small"
-                        style="flex:1;">Reserve Table</button>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Map & Weather Grid -->
-    <section id="explore" style="background: var(--input-bg);">
-        <div class="section-header">
-            <h2 class="section-title">Plan Your Visit</h2>
-        </div>
-        <div
-            style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 2rem; max-width: 1200px; margin: 0 auto;">
-            <!-- Map -->
-            <div
-                style="height: 400px; border-radius: 20px; overflow: hidden; border: 1px solid var(--card-border); box-shadow: var(--shadow-lg);">
-                <div id="map" style="height: 100%; width: 100%;"></div>
-            </div>
-            <!-- Weather -->
-            <div class="weather-widget">
-                <h3 style="margin-bottom:1rem;">Live Weather</h3>
-                <div id="weatherIcon" style="font-size: 3rem; color: var(--warning);">
-                    <i class="fas fa-spinner fa-spin"></i>
-                </div>
-                <div class="weather-temp" id="temperature">--°</div>
-                <div id="weatherDesc"
-                    style="text-transform: capitalize; color:var(--text-muted); margin-bottom:1.5rem;">Loading...</div>
-                <div
-                    style="display:flex; justify-content:space-around; border-top:1px solid var(--card-border); padding-top:1rem;">
-                    <div>
-                        <div style="font-weight:bold;" id="humidity">--%</div>
-                        <div style="font-size:0.8rem; color:var(--text-muted);">Humidity</div>
-                    </div>
-                    <div>
-                        <div style="font-weight:bold;" id="windSpeed">-- km/h</div>
-                        <div style="font-size:0.8rem; color:var(--text-muted);">Wind</div>
+                    <div
+                        style="display: flex; justify-content: space-around; width: 100%; padding-top: 1.5rem; border-top: 1px solid var(--glass-border);">
+                        <div>
+                            <div id="humidity" style="font-weight: 700; color: var(--primary);">--%</div>
+                            <div style="font-size: 0.8rem; color: var(--text-muted);">Humidity</div>
+                        </div>
+                        <div>
+                            <div id="windSpeed" style="font-weight: 700; color: var(--primary);">-- km/h</div>
+                            <div style="font-size: 0.8rem; color: var(--text-muted);">Wind</div>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <!-- FAQ -->
-    <section>
-        <div class="section-header">
-            <h2 class="section-title">Travel FAQ</h2>
+    <!-- FAQ Section -->
+    <section id="faq" style="background: var(--input-bg);">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Frequent Questions</h2>
+            </div>
+            <div class="accordion">
+                <div class="accordion-item glass">
+                    <div class="accordion-header" onclick="toggleAcc(this)">
+                        <span>How are the road conditions?</span>
+                        <i class="fas fa-chevron-down"></i>
+                    </div>
+                    <div class="accordion-body">
+                        The road from Shimla via Tattapani is decent but curvy. The route from Mandi via Rohanda is
+                        scenic but can be narrow. SUVs are recommended, though hatchbacks can manage with care.
+                    </div>
+                </div>
+                <div class="accordion-item glass">
+                    <div class="accordion-header" onclick="toggleAcc(this)">
+                        <span>Is mobile network available?</span>
+                        <i class="fas fa-chevron-down"></i>
+                    </div>
+                    <div class="accordion-body">
+                        Yes, Jio and Airtel have strong 4G coverage in Karsog town and Chindi. Connectivity might be
+                        intermittent near the Shikari Devi top.
+                    </div>
+                </div>
+                <div class="accordion-item glass">
+                    <div class="accordion-header" onclick="toggleAcc(this)">
+                        <span>Best time for snow?</span>
+                        <i class="fas fa-chevron-down"></i>
+                    </div>
+                    <div class="accordion-body">
+                        January and February are the best months to witness snowfall, especially in the upper reaches
+                        like Shikari Devi, Kamrunag, and Chindi.
+                    </div>
+                </div>
+            </div>
         </div>
-        <div style="max-width: 800px; margin: 0 auto;">
-            <div class="accordion-item">
-                <div class="accordion-header" onclick="toggleAcc(this)">
-                    <span>How are the road conditions?</span>
-                    <i class="fas fa-chevron-down"></i>
-                </div>
-                <div class="accordion-body">The road from Shimla via Tattapani is decent but curvy. The route from Mandi
-                    via Rohanda is scenic but can be narrow in places. SUVs are recommended.</div>
-            </div>
-            <div class="accordion-item">
-                <div class="accordion-header" onclick="toggleAcc(this)">
-                    <span>Is mobile network available?</span>
-                    <i class="fas fa-chevron-down"></i>
-                </div>
-                <div class="accordion-body">Jio and Airtel have strong 4G coverage in the main town and most tourist
-                    spots. Connectivity might drop near Shikari Devi top.</div>
-            </div>
-            <div class="accordion-item">
-                <div class="accordion-header" onclick="toggleAcc(this)">
-                    <span>Best time for snow?</span>
-                    <i class="fas fa-chevron-down"></i>
-                </div>
-                <div class="accordion-body">January and February are the best months to witness snowfall, especially in
-                    upper reaches like Shikari Devi and Chindi.</div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Newsletter -->
-    <section class="newsletter">
-        <h2>Join the Valley Club</h2>
-        <p style="color:var(--text-muted); margin-top:0.5rem;">Get exclusive deals, hidden trail maps, and seasonal
-            updates.</p>
-        <form class="newsletter-form" onsubmit="subscribe(event)">
-            <input type="email" class="newsletter-input" placeholder="Enter your email" required>
-            <button type="submit" class="btn btn-primary">Subscribe</button>
-        </form>
     </section>
 
     <!-- Footer -->
     <footer>
-        <div class="social-links">
-            <a href="#" class="social-btn"><i class="fab fa-instagram"></i></a>
-            <a href="#" class="social-btn"><i class="fab fa-facebook-f"></i></a>
-            <a href="#" class="social-btn"><i class="fab fa-youtube"></i></a>
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-col">
+                    <a href="#" class="logo" style="margin-bottom: 1rem;"><i class="fas fa-mountain"></i> KARSOG
+                        VALLEY</a>
+                    <p style="font-size: 0.9rem;">Your unofficial guide to the most serene valley in Himachal Pradesh.
+                    </p>
+                </div>
+                <div class="footer-col">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="#home">Home</a></li>
+                        <li><a href="#itinerary">Itinerary</a></li>
+                        <li><a href="#stays">Hotels</a></li>
+                        <li><a href="#guide">Guide Book</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Legal</h4>
+                    <ul>
+                        <li><a href="#">Privacy Policy</a></li>
+                        <li><a href="#">Terms of Service</a></li>
+                        <li><a href="#">Advertise</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Connect</h4>
+                    <div class="social-links" style="justify-content: start;">
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#"><i class="fab fa-youtube"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div style="text-align: center; padding-top: 2rem; border-top: 1px solid var(--glass-border);">
+                <p style="font-size: 0.85rem;">&copy; <span id="year"></span> Karsog Tourism Development.</p>
+            </div>
         </div>
-        <p>&copy; <span id="year"></span> Karsog Tourism Development.</p>
-        <p style="font-size:0.85rem; margin-top:0.5rem;">
-            <a href="#" style="color:var(--text-muted);">Advertise</a> •
-            <a href="#" style="color:var(--text-muted);">Privacy Policy</a>
-        </p>
     </footer>
 
-    <!-- Modals & Notifications -->
-    <div id="toast">Success! We will contact you shortly.</div>
-
+    <!-- Modal -->
     <div class="modal-overlay" id="bookingModal">
-        <div class="modal"
-            style="padding: 2.5rem; width: 90%; max-width: 450px; background: var(--modal-bg); border-radius: 16px; border: 1px solid var(--card-border);">
-            <i class="fas fa-times"
-                style="position:absolute; top:20px; right:20px; cursor:pointer; color:var(--text-muted);"
-                onclick="closeModal()"></i>
-            <h3 id="modalTitle" style="margin-bottom:1.5rem; color:var(--text-main);">Plan Your Trip</h3>
+        <div class="modal-content glass">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.5rem;">
+                <h3 id="modalTitle" style="font-size: 1.5rem;">Plan Your Trip</h3>
+                <i class="fas fa-times" style="cursor: pointer; font-size: 1.2rem;" onclick="closeModal()"></i>
+            </div>
             <form onsubmit="submitForm(event)">
-                <div style="margin-bottom:1rem;">
-                    <label style="display:block; font-size:0.9rem; margin-bottom:0.5rem; color:var(--text-muted);">Full
-                        Name</label>
-                    <input type="text" required
-                        style="width:100%; padding:0.8rem; border-radius:8px; border:1px solid var(--card-border); background:var(--input-bg); color:var(--text-main); outline:none;">
-                </div>
-                <div style="margin-bottom:1rem;">
-                    <label style="display:block; font-size:0.9rem; margin-bottom:0.5rem; color:var(--text-muted);">Phone
-                        Number</label>
-                    <input type="tel" required
-                        style="width:100%; padding:0.8rem; border-radius:8px; border:1px solid var(--card-border); background:var(--input-bg); color:var(--text-main); outline:none;">
-                </div>
-                <div style="margin-bottom:1.5rem;">
-                    <label
-                        style="display:block; font-size:0.9rem; margin-bottom:0.5rem; color:var(--text-muted);">Requirement</label>
-                    <select
-                        style="width:100%; padding:0.8rem; border-radius:8px; border:1px solid var(--card-border); background:var(--input-bg); color:var(--text-main); outline:none;">
-                        <option>Taxi + Hotel Package</option>
-                        <option>Only Taxi</option>
-                        <option>Only Hotel</option>
-                        <option>Guide Service</option>
-                    </select>
-                </div>
-                <button type="submit" class="btn btn-primary" style="width:100%;">Get Free Quote</button>
+                <label style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 0.5rem; display: block;">Full
+                    Name</label>
+                <input type="text" required placeholder="John Doe">
+
+                <label
+                    style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 0.5rem; display: block;">Phone
+                    Number</label>
+                <input type="tel" required placeholder="+91 98765 43210">
+
+                <label
+                    style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 0.5rem; display: block;">Service
+                    Required</label>
+                <select>
+                    <option>Full Package (Taxi + Hotel)</option>
+                    <option>Taxi Only</option>
+                    <option>Hotel Only</option>
+                    <option>Local Guide</option>
+                </select>
+
+                <button type="submit" class="btn btn-primary" style="width: 100%; justify-content: center;">Get Free
+                    Quote</button>
             </form>
         </div>
     </div>
 
-    <!-- SCRIPTS -->
+    <div id="toast">Request Sent Successfully!</div>
+
+    <!-- Scripts -->
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
         integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
     <script>
-        // --- 1. THEME MANAGEMENT ---
-        function toggleTheme() {
+        // --- Theme Logic ---
+        const toggleTheme = () => {
             const html = document.documentElement;
             const current = html.getAttribute('data-theme');
             const next = current === 'dark' ? 'light' : 'dark';
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
-            updateIcons(next);
-        }
-
-        function updateIcons(theme) {
-            const btn = document.querySelector('.theme-toggle i');
-            btn.className = theme === 'dark' ? 'fas fa-moon' : 'fas fa-sun';
-        }
+            document.querySelector('.theme-btn i').className = next === 'dark' ? 'fas fa-moon' : 'fas fa-sun';
+        };
 
         // Init Theme
-        const saved = localStorage.getItem('theme') || 'dark';
-        document.documentElement.setAttribute('data-theme', saved);
-        updateIcons(saved);
+        const savedTheme = localStorage.getItem('theme') || 'dark';
+        document.documentElement.setAttribute('data-theme', savedTheme);
+        document.querySelector('.theme-btn i').className = savedTheme === 'dark' ? 'fas fa-moon' : 'fas fa-sun';
 
-        // --- 2. NAVIGATION ---
+        // --- Navigation & Scroll ---
         window.addEventListener('scroll', () => {
-            const nav = document.getElementById('navbar');
+            const nav = document.querySelector('nav');
             if (window.scrollY > 50) nav.classList.add('scrolled');
             else nav.classList.remove('scrolled');
         });
@@ -1167,14 +1218,14 @@
             document.getElementById('navLinks').classList.toggle('active');
         }
 
-        // --- 3. STATS ANIMATION ---
+        // --- Intersection Observer for Stats ---
         const observer = new IntersectionObserver((entries) => {
             entries.forEach(entry => {
                 if (entry.isIntersecting) {
                     const el = entry.target;
                     const target = parseInt(el.getAttribute('data-target'));
                     let count = 0;
-                    const inc = target / 50;
+                    const inc = target / 40;
                     const timer = setInterval(() => {
                         count += inc;
                         if (count >= target) {
@@ -1188,119 +1239,80 @@
                 }
             });
         }, { threshold: 0.5 });
+        document.querySelectorAll('.stat-val').forEach(el => observer.observe(el));
 
-        document.querySelectorAll('.stat-num').forEach(el => observer.observe(el));
-
-        // --- 4. MAP ---
+        // --- Leaflet Map ---
         document.addEventListener('DOMContentLoaded', () => {
             const map = L.map('map').setView([31.3848, 77.2053], 12);
             L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
-                attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
-                subdomains: 'abcd',
+                attribution: '&copy; OpenStreetMap &copy; CARTO',
                 maxZoom: 19
             }).addTo(map);
 
-            const markers = [
+            const locs = [
                 { lat: 31.3848, lng: 77.2053, title: "Karsog Market" },
-                { lat: 31.3500, lng: 77.1800, title: "Mamleshwar Mahadev" },
-                { lat: 31.4500, lng: 77.2500, title: "Shikari Devi Base" },
+                { lat: 31.3500, lng: 77.1800, title: "Mamleshwar Temple" },
+                { lat: 31.4500, lng: 77.2500, title: "Shikari Devi" }
             ];
-
-            markers.forEach(m => {
-                L.marker([m.lat, m.lng]).addTo(map).bindPopup(`<b>${m.title}</b>`);
-            });
+            locs.forEach(l => L.marker([l.lat, l.lng]).addTo(map).bindPopup(`<b>${l.title}</b>`));
         });
 
-        // --- 5. WEATHER ---
+        // --- Weather API ---
         async function fetchWeather() {
             try {
-                // Using mock data fallback for reliability in demo
                 const res = await fetch(`https://api.openweathermap.org/data/2.5/weather?lat=31.38&lon=77.20&appid=b1b15e88fa797225412429c1c50c122a1&units=metric`);
                 const data = await res.json();
-
                 if (data.main) {
                     document.getElementById('temperature').innerText = Math.round(data.main.temp) + '°';
                     document.getElementById('weatherDesc').innerText = data.weather[0].description;
                     document.getElementById('humidity').innerText = data.main.humidity + '%';
                     document.getElementById('windSpeed').innerText = Math.round(data.wind.speed) + ' km/h';
-
                     const id = data.weather[0].id;
                     let icon = 'fa-cloud';
                     if (id === 800) icon = 'fa-sun';
                     else if (id >= 200 && id < 300) icon = 'fa-bolt';
                     else if (id >= 500 && id < 600) icon = 'fa-cloud-rain';
-
                     document.getElementById('weatherIcon').innerHTML = `<i class="fas ${icon}"></i>`;
                 }
-            } catch (e) {
-                console.log("Weather unavailable");
-            }
+            } catch (e) { console.log("Weather API Error"); }
         }
         fetchWeather();
 
-        // --- 6. INTERACTIVITY ---
-        // Accordion
+        // --- Accordion ---
         function toggleAcc(header) {
             const body = header.nextElementSibling;
             const icon = header.querySelector('i');
+            const isOpen = body.style.maxHeight;
 
-            if (body.classList.contains('open')) {
-                body.classList.remove('open');
-                body.style.maxHeight = null;
-                icon.style.transform = 'rotate(0deg)';
-            } else {
-                // Close others
-                document.querySelectorAll('.accordion-body').forEach(b => {
-                    b.classList.remove('open');
-                    b.style.maxHeight = null;
-                });
-                document.querySelectorAll('.accordion-header i').forEach(i => i.style.transform = 'rotate(0deg)');
+            // Close all
+            document.querySelectorAll('.accordion-body').forEach(b => b.style.maxHeight = null);
+            document.querySelectorAll('.accordion-header i').forEach(i => i.style.transform = 'rotate(0deg)');
 
-                body.classList.add('open');
+            if (!isOpen) {
                 body.style.maxHeight = body.scrollHeight + "px";
                 icon.style.transform = 'rotate(180deg)';
             }
         }
 
-        // Modal & Toast
+        // --- Modal & Toast ---
         const modal = document.getElementById('bookingModal');
-
         function openModal(context) {
-            document.getElementById('modalTitle').innerText = "Plan: " + context;
+            document.getElementById('modalTitle').innerText = context ? `Plan: ${context}` : 'Plan Your Trip';
             modal.classList.add('active');
         }
-
-        function closeModal() {
-            modal.classList.remove('active');
-        }
-
-        modal.addEventListener('click', (e) => {
-            if (e.target === modal) closeModal();
-        });
-
-        function showToast(msg) {
-            const toast = document.getElementById('toast');
-            toast.innerText = msg;
-            toast.classList.add('show');
-            setTimeout(() => toast.classList.remove('show'), 3000);
-        }
+        function closeModal() { modal.classList.remove('active'); }
+        modal.addEventListener('click', (e) => { if (e.target === modal) closeModal(); });
 
         function submitForm(e) {
             e.preventDefault();
             closeModal();
-            showToast("Request Sent! We'll call you shortly.");
+            const toast = document.getElementById('toast');
+            toast.classList.add('show');
+            setTimeout(() => toast.classList.remove('show'), 3000);
             e.target.reset();
         }
 
-        function subscribe(e) {
-            e.preventDefault();
-            showToast("Subscribed! Check your email.");
-            e.target.reset();
-        }
-
-        // Copyright Year
         document.getElementById('year').innerText = new Date().getFullYear();
-
     </script>
 </body>
 
