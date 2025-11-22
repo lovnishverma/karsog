@@ -10,7 +10,6 @@
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/karsog.png" />
     <link rel="apple-touch-icon" href="assets/img/karsog.png" />
 
-    <!-- Fonts & Icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -27,7 +26,6 @@
             --accent-text: #78350f;
             --success: #10b981;
             --danger: #ef4444;
-
             --bg-body: #0f172a;
             --bg-card: #1e293b;
             --bg-subtle: #1e293b;
@@ -742,7 +740,7 @@
             transform: translateY(-3px);
         }
 
-        /* --- MOBILE RESPONSIVENESS & NAVIGATION FIX --- */
+        /* --- MOBILE RESPONSIVENESS --- */
         .mobile-menu-btn {
             display: none;
             font-size: 1.5rem;
@@ -874,10 +872,8 @@
 
 <body>
 
-    <!-- Overlay -->
     <div class="overlay" id="menuOverlay" onclick="toggleMenu()"></div>
 
-    <!-- Emergency Bar -->
     <div class="emergency-bar"
         style="background: #0f172a; color: #94a3b8; font-size: 0.85rem; padding: 0.5rem 0; border-bottom: 1px solid #1e293b;">
         <div class="container" style="display: flex; justify-content: space-between; align-items: center;">
@@ -894,35 +890,22 @@
     <div id="toast"><i class="fas fa-check-circle"></i> Action Successful!</div>
     <a href="https://wa.me/918894869371" class="whatsapp-float" target="_blank"><i class="fab fa-whatsapp"></i></a>
 
-    <!-- Nav -->
     <nav>
         <div class="container nav-content">
-            <!-- <a href="#" class="logo"><i class="fas fa-layer-group" style="color: var(--primary);"></i>
-                Karsog<span>.com</span></a> -->
-
             <a href="index.html" class="logo" style="display: flex; align-items: center; gap: 8px;">
                 <svg width="190" height="40" viewBox="0 0 190 40" xmlns="http://www.w3.org/2000/svg">
-
-                    <!-- Icon -->
                     <path d="M10 30L20 10L30 30" stroke="#3b82f6" stroke-width="4" stroke-linecap="round"
                         stroke-linejoin="round" />
                     <path d="M20 30L30 18L40 30" stroke="#94a3b8" stroke-width="4" stroke-linecap="round"
                         stroke-linejoin="round" />
                     <circle cx="20" cy="16" r="3" fill="#f59e0b" />
-
-                    <!-- Text -->
                     <text x="50" y="28" font-family="'Outfit', sans-serif" font-size="24" font-weight="800"
                         fill="var(--text-main)">
-                        Karsog
-                        <tspan dx="-4" font-family="'Inter', sans-serif" font-size="16" font-weight="600"
+                        Karsog <tspan dx="-4" font-family="'Inter', sans-serif" font-size="16" font-weight="600"
                             fill="#3b82f6">.com</tspan>
                     </text>
-
                 </svg>
             </a>
-
-
-
 
             <ul class="nav-links" id="navLinks">
                 <li><a href="index.html" onclick="toggleMenu()">Home</a></li>
@@ -944,7 +927,6 @@
         </div>
     </nav>
 
-    <!-- Hero -->
     <header class="hero" id="home">
         <div class="container">
             <span class="badge badge-verified" style="margin-bottom: 1.5rem;">#1 Local Marketplace</span>
@@ -972,7 +954,6 @@
         </div>
     </header>
 
-    <!-- Directory Section -->
     <section id="directory" class="container" style="padding-bottom: 4rem;">
         <div class="section-header">
             <div>
@@ -981,26 +962,19 @@
             </div>
             <div class="filter-bar">
                 <button class="filter-btn active" data-value="all" onclick="filterByCategory('all', this)">All</button>
-
                 <button class="filter-btn" data-value="Hotel" onclick="filterByCategory('Hotel', this)">Hotels</button>
-
                 <button class="filter-btn" data-value="Food"
                     onclick="filterByCategory('Food', this)">Restaurants</button>
-
                 <button class="filter-btn" data-value="Taxi" onclick="filterByCategory('Taxi', this)">Taxis</button>
-
                 <button class="filter-btn" data-value="Shop" onclick="filterByCategory('Shop', this)">Shopping</button>
-
                 <button class="filter-btn" data-value="Service"
                     onclick="filterByCategory('Service', this)">Services</button>
-
                 <button class="filter-btn" data-value="Health"
                     onclick="filterByCategory('Health', this)">Health</button>
             </div>
         </div>
 
         <div class="listing-grid" id="listingGrid">
-            <!-- Loading Skeletons -->
             <div class="listing-card skeleton" style="height: 380px;"></div>
             <div class="listing-card skeleton" style="height: 380px;"></div>
             <div class="listing-card skeleton" style="height: 380px;"></div>
@@ -1014,7 +988,6 @@
         </div>
     </section>
 
-    <!-- Shop Section -->
     <section id="shop" class="section-bg">
         <div class="container">
             <div style="text-align: center; margin-bottom: 3rem;">
@@ -1029,7 +1002,6 @@
         </div>
     </section>
 
-    <!-- Pricing Section -->
     <section id="pricing" class="pricing-section">
         <div class="container">
             <div class="pricing-header">
@@ -1039,7 +1011,6 @@
             </div>
 
             <div class="pricing-grid">
-                <!-- Basic Plan -->
                 <div class="pricing-card">
                     <h3>Basic</h3>
                     <div class="price-tag">₹0</div>
@@ -1052,7 +1023,6 @@
                     <a href="#join" class="btn btn-outline" style="width: 100%;">Get Started</a>
                 </div>
 
-                <!-- Pro Verified (Popular) -->
                 <div class="pricing-card popular">
                     <div class="most-popular-tag">Most Popular</div>
                     <h3>Pro Verified</h3>
@@ -1068,7 +1038,6 @@
                     <a href="#join" class="btn btn-primary" style="width: 100%;">Upgrade Now</a>
                 </div>
 
-                <!-- Banner Ad -->
                 <div class="pricing-card">
                     <h3>Banner Ad</h3>
                     <div class="price-tag">₹999</div>
@@ -1086,7 +1055,6 @@
         </div>
     </section>
 
-    <!-- Join Form -->
     <section id="join" class="container" style="padding: 4rem 1rem;">
         <div
             style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 3rem; align-items: center;">
@@ -1125,33 +1093,23 @@
         </div>
     </section>
 
-    <!-- Footer -->
     <footer>
         <div class="container footer-content">
             <div style="text-align: center;">
-                <!-- <a href="#" class="logo" style="margin-bottom: 0.5rem;"><i class="fas fa-layer-group"
-                        style="color: var(--primary);"></i> Karsog<span>.com</span></a> -->
                 <a href="index.html" class="logo" style="display: flex; align-items: center; gap: 8px;">
                     <svg width="190" height="40" viewBox="0 0 190 40" xmlns="http://www.w3.org/2000/svg">
-
-                        <!-- Icon -->
                         <path d="M10 30L20 10L30 30" stroke="#3b82f6" stroke-width="4" stroke-linecap="round"
                             stroke-linejoin="round" />
                         <path d="M20 30L30 18L40 30" stroke="#94a3b8" stroke-width="4" stroke-linecap="round"
                             stroke-linejoin="round" />
                         <circle cx="20" cy="16" r="3" fill="#f59e0b" />
-
-                        <!-- Text -->
                         <text x="50" y="28" font-family="'Outfit', sans-serif" font-size="24" font-weight="800"
                             fill="var(--text-main)">
-                            Karsog
-                            <tspan dx="-4" font-family="'Inter', sans-serif" font-size="16" font-weight="600"
+                            Karsog <tspan dx="-4" font-family="'Inter', sans-serif" font-size="16" font-weight="600"
                                 fill="#3b82f6">.com</tspan>
                         </text>
-
                     </svg>
                 </a>
-
                 <p style="color: var(--text-muted); font-size: 0.9rem;">Connecting the valley, one click at a time.</p>
             </div>
 
@@ -1180,7 +1138,7 @@
             if (SHEET_API_URL) {
                 fetchData();
             } else {
-                console.warn("SHEET_API_URL is empty. Please configure your Google Apps Script endpoint.");
+                console.warn("SHEET_API_URL is empty.");
             }
         };
 
@@ -1200,17 +1158,12 @@
         // --- TRACKING SYSTEM ---
         async function trackAction(bizId, actionType) {
             if (!bizId || !actionType) return;
-
-            // Log for debugging
             console.log(`Tracking: ${actionType} for ${bizId}`);
-
             try {
                 await fetch(SHEET_API_URL, {
                     method: "POST",
                     mode: "no-cors",
-                    headers: {
-                        "Content-Type": "application/json",
-                    },
+                    headers: { "Content-Type": "application/json" },
                     body: JSON.stringify({
                         id: bizId,
                         type: actionType,
@@ -1223,7 +1176,7 @@
             }
         }
 
-        // --- RENDER DIRECTORY LISTINGS ---
+        // --- RENDER DIRECTORY ---
         function renderDirectory(items) {
             const grid = document.getElementById('listingGrid');
             grid.innerHTML = "";
@@ -1234,9 +1187,7 @@
             }
 
             items.forEach((item, index) => {
-                // Generate unique ID for tracking
                 const bizId = item.id || `biz_${item.name.replace(/\s+/g, '_').toLowerCase()}_${item.phone}`;
-
                 const isFeatured = (String(item.isFeatured).toLowerCase() === 'true');
                 const featuredBadge = isFeatured ? `<span class="badge badge-ad" style="position:absolute; top:10px; right:10px; z-index:10;"><i class="fas fa-star"></i> Featured</span>` : '';
                 const cardClass = isFeatured ? 'listing-card sponsored fade-in' : 'listing-card fade-in';
@@ -1245,106 +1196,124 @@
                 const whatsappButtonHtml = hasWhatsapp
                     ? `<a href="https://wa.me/${item.whatsapp}" class="btn btn-whatsapp" target="_blank" onclick="trackAction('${bizId}', 'whatsapp')"><i class="fab fa-whatsapp"></i> Chat</a>`
                     : ``;
-
                 const gridStyle = hasWhatsapp ? "grid-template-columns: 1fr 1fr;" : "grid-template-columns: 1fr;";
 
-                // Track view when card is rendered
+                // Track view
                 trackAction(bizId, "view");
 
-                // Handle multiple images
+                // Image handling
                 let rawImages = [];
-                if (Array.isArray(item.images) && item.images.length > 0) {
-                    rawImages = item.images;
-                } else if (item.image) {
-                    rawImages = [item.image];
-                }
-
+                if (Array.isArray(item.images) && item.images.length > 0) rawImages = item.images;
+                else if (item.image) rawImages = [item.image];
                 const images = rawImages.filter(url => url && url.trim() !== "");
                 if (images.length === 0) images.push('https://via.placeholder.com/400x300?text=No+Image');
 
                 let carouselSlidesHtml = '';
                 let dotsHtml = '';
-
                 images.forEach((img, i) => {
                     carouselSlidesHtml += `<img src="${img}" class="carousel-slide" alt="${item.name}">`;
-                    if (images.length > 1) {
-                        dotsHtml += `<div class="dot ${i === 0 ? 'active' : ''}" onclick="goToSlide(this, ${i})"></div>`;
-                    }
+                    if (images.length > 1) dotsHtml += `<div class="dot ${i === 0 ? 'active' : ''}" onclick="goToSlide(this, ${i})"></div>`;
                 });
 
                 const controlsHtml = images.length > 1 ? `
                     <button class="carousel-btn prev" onclick="moveSlide(this, -1)"><i class="fas fa-chevron-left"></i></button>
                     <button class="carousel-btn next" onclick="moveSlide(this, 1)"><i class="fas fa-chevron-right"></i></button>
-                    <div class="carousel-dots">${dotsHtml}</div>
-                ` : '';
+                    <div class="carousel-dots">${dotsHtml}</div>` : '';
 
                 const html = `
                     <div class="${cardClass}" data-category="${item.category}" data-title="${item.name}">
                         <div class="carousel" id="carousel-${index}">
                             ${featuredBadge}
-                            <div class="carousel-track">
-                                ${carouselSlidesHtml}
-                            </div>
+                            <div class="carousel-track">${carouselSlidesHtml}</div>
                             ${controlsHtml}
                         </div>
-
                         <div class="card-body">
                             <div class="biz-cat">${item.category}</div>
                             <div class="biz-title">${item.name}</div>
-                            
-                            <div class="biz-address">
-                                <i class="fas fa-map-marker-alt" style="color: var(--primary); margin-top: 3px;"></i>
-                                <span>${item.address || 'Address not available'}</span>
-                            </div>
-
+                            <div class="biz-address"><i class="fas fa-map-marker-alt" style="color: var(--primary);"></i> <span>${item.address || 'Address not available'}</span></div>
                             <div style="display: flex; gap: 0.8rem; font-size: 0.9rem; color: var(--text-muted); margin-bottom: 1rem;">
                                 <span><i class="fas fa-star" style="color: var(--accent);"></i> ${item.rating || '4.5'}</span>
                             </div>
                             <p style="font-size: 0.9rem; color: var(--text-muted); margin-bottom: 1rem; flex-grow: 1;">${item.desc || ''}</p>
-                            
                             <div style="display: grid; ${gridStyle} gap: 0.8rem; margin-top: auto;">
                                 <a href="tel:${item.phone}" class="btn btn-call" onclick="trackAction('${bizId}', 'phone')"><i class="fas fa-phone"></i> Call</a>
                                 ${whatsappButtonHtml}
                             </div>
                         </div>
-                    </div>
-                `;
+                    </div>`;
                 grid.innerHTML += html;
             });
         }
 
-        // --- CAROUSEL FUNCTIONS ---
-        function moveSlide(btn, direction) {
-            const carousel = btn.closest('.carousel');
-            const track = carousel.querySelector('.carousel-track');
-            const dots = carousel.querySelectorAll('.dot');
-            const totalSlides = track.children.length;
+        // --- SMART FILTERING (THE FIX) ---
+        function filterListings() {
+            const input = document.getElementById('searchInput').value.toLowerCase();
+            const cards = document.querySelectorAll('.listing-card');
+            let visibleCount = 0;
+            let currentCategory = 'all';
 
-            let currentIndex = parseInt(track.getAttribute('data-index') || '0');
-            let newIndex = currentIndex + direction;
+            // Get the category from the active button
+            const activeBtn = document.querySelector('.filter-btn.active');
+            if (activeBtn) {
+                currentCategory = activeBtn.getAttribute('data-value').toLowerCase().trim();
+            }
 
-            if (newIndex < 0) newIndex = totalSlides - 1;
-            if (newIndex >= totalSlides) newIndex = 0;
+            cards.forEach(card => {
+                const title = card.getAttribute('data-title').toLowerCase();
+                const cardCat = (card.getAttribute('data-category') || '').toLowerCase().trim();
+                let categoryMatch = false;
 
-            updateCarousel(track, dots, newIndex);
+                if (currentCategory === 'all') {
+                    categoryMatch = true;
+                } else {
+                    // 1. Check matching
+                    if (cardCat === currentCategory || cardCat.includes(currentCategory) || currentCategory.includes(cardCat)) {
+                        categoryMatch = true;
+                    }
+                    // 2. Synonyms (Food/Restaurant)
+                    else if ((currentCategory === 'food' && cardCat.includes('restaurant')) ||
+                        (currentCategory === 'restaurant' && cardCat.includes('food'))) {
+                        categoryMatch = true;
+                    }
+                    // 3. Synonyms (Shop/Shopping)
+                    else if ((currentCategory === 'shop' && cardCat.includes('shopping')) ||
+                        (currentCategory === 'shopping' && cardCat.includes('shop'))) {
+                        categoryMatch = true;
+                    }
+                }
+
+                if ((title.includes(input) || cardCat.includes(input)) && categoryMatch) {
+                    card.style.display = "flex";
+                    visibleCount++;
+                } else {
+                    card.style.display = "none";
+                }
+            });
+
+            document.getElementById('noResults').style.display = visibleCount === 0 ? "block" : "none";
         }
 
-        function goToSlide(dot, index) {
-            const carousel = dot.closest('.carousel');
-            const track = carousel.querySelector('.carousel-track');
-            const dots = carousel.querySelectorAll('.dot');
-            updateCarousel(track, dots, index);
+        // --- CATEGORY BUTTON CLICKS ---
+        function filterByCategory(cat, btn) {
+            document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            filterListings();
         }
 
-        function updateCarousel(track, dots, index) {
-            track.style.transform = `translateX(-${index * 100}%)`;
-            track.setAttribute('data-index', index);
-
-            dots.forEach(d => d.classList.remove('active'));
-            if (dots[index]) dots[index].classList.add('active');
+        // --- HERO ICON CLICKS ---
+        function setCategory(catName) {
+            const btns = document.querySelectorAll('.filter-btn');
+            btns.forEach(btn => {
+                const btnVal = btn.getAttribute('data-value').toLowerCase();
+                const target = catName.toLowerCase();
+                if (btnVal === target) {
+                    filterByCategory(catName, btn);
+                }
+            });
+            document.getElementById('directory').scrollIntoView();
         }
 
-        // --- RENDER SHOP PRODUCTS ---
+        // --- RENDER SHOP ---
         function renderShop(items) {
             const grid = document.getElementById('shopGrid');
             grid.innerHTML = "";
@@ -1361,65 +1330,12 @@
                         <div style="font-weight: 600; margin-bottom: 0.2rem;">${item.title}</div>
                         <span class="product-price">₹${item.price}</span>
                         <a href="${item.link}" class="btn btn-primary" style="width: 100%; font-size: 0.8rem;" target="_blank">Buy Now</a>
-                    </div>
-                `;
+                    </div>`;
                 grid.innerHTML += html;
             });
         }
 
-        // --- SEARCH & FILTER FUNCTIONS ---
-        function filterListings() {
-            const input = document.getElementById('searchInput').value.toLowerCase();
-            const cards = document.querySelectorAll('.listing-card');
-            let visibleCount = 0;
-            let currentCategory = 'all';
-
-            // 1. Find the active button and get its DATA-VALUE, not text
-            document.querySelectorAll('.filter-btn').forEach(btn => {
-                if (btn.classList.contains('active')) {
-                    // This is the key fix:
-                    currentCategory = btn.getAttribute('data-value').toLowerCase();
-                }
-            });
-
-            cards.forEach(card => {
-                const title = card.getAttribute('data-title').toLowerCase();
-                const category = card.getAttribute('data-category').toLowerCase();
-
-                // 2. Simplified matching logic
-                let categoryMatch = (currentCategory === 'all') || (category === currentCategory);
-
-                if ((title.includes(input) || category.includes(input)) && categoryMatch) {
-                    card.style.display = "flex";
-                    visibleCount++;
-                } else {
-                    card.style.display = "none";
-                }
-            });
-
-            document.getElementById('noResults').style.display = visibleCount === 0 ? "block" : "none";
-        }
-
-        function filterByCategory(cat, btn) {
-            document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-            btn.classList.add('active');
-            filterListings();
-        }
-
-        function setCategory(catName) {
-            const btns = document.querySelectorAll('.filter-btn');
-
-            btns.forEach(btn => {
-                // Compare the requested category with the button's data-value
-                if (btn.getAttribute('data-value') === catName) {
-                    filterByCategory(catName, btn);
-                }
-            });
-
-            document.getElementById('directory').scrollIntoView();
-        }
-
-        // --- THEME TOGGLE ---
+        // --- UTILITIES ---
         function toggleTheme() {
             const html = document.documentElement;
             const current = html.getAttribute('data-theme') || 'dark';
@@ -1429,22 +1345,44 @@
             localStorage.setItem('theme', next);
         }
 
-        // Load saved theme
-        window.addEventListener('DOMContentLoaded', () => {
-            const savedTheme = localStorage.getItem('theme') || 'dark';
-            document.documentElement.setAttribute('data-theme', savedTheme);
-            document.getElementById('themeIcon').className = savedTheme === 'dark' ? 'fas fa-moon' : 'fas fa-sun';
-        });
-
-        // --- MOBILE MENU ---
         function toggleMenu() {
-            const nav = document.getElementById('navLinks');
-            const overlay = document.getElementById('menuOverlay');
-            nav.classList.toggle('active');
-            overlay.classList.toggle('active');
+            document.getElementById('navLinks').classList.toggle('active');
+            document.getElementById('menuOverlay').classList.toggle('active');
         }
 
-        // --- FORM SUBMISSION ---
+        // Carousel Logic
+        function moveSlide(btn, direction) {
+            const carousel = btn.closest('.carousel');
+            const track = carousel.querySelector('.carousel-track');
+            const dots = carousel.querySelectorAll('.dot');
+            const totalSlides = track.children.length;
+            let currentIndex = parseInt(track.getAttribute('data-index') || '0');
+            let newIndex = currentIndex + direction;
+            if (newIndex < 0) newIndex = totalSlides - 1;
+            if (newIndex >= totalSlides) newIndex = 0;
+            updateCarousel(track, dots, newIndex);
+        }
+
+        function goToSlide(dot, index) {
+            const carousel = dot.closest('.carousel');
+            const track = carousel.querySelector('.carousel-track');
+            const dots = carousel.querySelectorAll('.dot');
+            updateCarousel(track, dots, index);
+        }
+
+        function updateCarousel(track, dots, index) {
+            track.style.transform = `translateX(-${index * 100}%)`;
+            track.setAttribute('data-index', index);
+            dots.forEach(d => d.classList.remove('active'));
+            if (dots[index]) dots[index].classList.add('active');
+        }
+
+        // Initialize Theme
+        const savedTheme = localStorage.getItem('theme') || 'dark';
+        document.documentElement.setAttribute('data-theme', savedTheme);
+        document.getElementById('themeIcon').className = savedTheme === 'dark' ? 'fas fa-moon' : 'fas fa-sun';
+
+        // Form Submission
         function submitForm(e) {
             e.preventDefault();
             const name = document.getElementById('bizName').value;
@@ -1453,16 +1391,11 @@
             const phone = document.getElementById('bizPhone').value;
             const address = document.getElementById('bizAddress').value;
             const desc = document.getElementById('bizDesc').value;
-
             const msg = `*New Listing Request* 🚀%0A%0A*Name:* ${name}%0A*Category:* ${category}%0A*Plan:* ${plan}%0A*Phone:* ${phone}%0A*Address:* ${address}%0A*Details:* ${desc}`;
-
             window.open(`https://wa.me/918894869371?text=${msg}`, '_blank');
-
-            // Show success toast
             const toast = document.getElementById('toast');
             toast.classList.add('show');
             setTimeout(() => toast.classList.remove('show'), 3000);
-
             e.target.reset();
         }
     </script>
