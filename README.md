@@ -1,6 +1,6 @@
 # Karsog.com - Valley Tourism & Business Directory
 
-A comprehensive hyper-local platform for Karsog Valley acting as a **Business Directory**, **Travel Portal**, and **News Aggregator**. 
+A hyper-local platform for Karsog Valley acting as a **Business Directory**, **Travel Portal**, and **News Aggregator**. 
 
 Built with **HTML/CSS/JavaScript** on the frontend, powered by **Google Sheets** as the primary CMS, and enhanced with **Python/GitHub Actions** for automated news updates.
 
@@ -110,7 +110,7 @@ const SHEET_API_URL = "[https://script.google.com/macros/s/YOUR_DEPLOYMENT_ID/ex
 
 -----
 
-### Phase 4: News Automation (Optional)
+### Phase 4: News Automation (Implemented)
 
 To enable the automated news feed:
 
