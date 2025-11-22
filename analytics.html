@@ -1,0 +1,770 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Analytics Dashboard | Karsog.com</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@500;700;800&display=swap"
+        rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
+
+    <style>
+        :root {
+            --primary: #3b82f6;
+            --primary-dark: #2563eb;
+            --accent: #f59e0b;
+            --success: #10b981;
+            --danger: #ef4444;
+            --bg-body: #0f172a;
+            --bg-card: #1e293b;
+            --bg-input: #334155;
+            --text-main: #f8fafc;
+            --text-muted: #94a3b8;
+            --border: #334155;
+            --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.3);
+        }
+
+        [data-theme="light"] {
+            --bg-body: #f8fafc;
+            --bg-card: #ffffff;
+            --bg-input: #e2e8f0;
+            --text-main: #0f172a;
+            --text-muted: #64748b;
+            --border: #e2e8f0;
+            --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background: var(--bg-body);
+            color: var(--text-main);
+            line-height: 1.6;
+            transition: background 0.3s, color 0.3s;
+        }
+
+        h1,
+        h2,
+        h3 {
+            font-family: 'Outfit', sans-serif;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem 1.5rem;
+        }
+
+        /* Login Screen */
+        .login-container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            padding: 2rem;
+        }
+
+        .login-card {
+            background: var(--bg-card);
+            padding: 3rem;
+            border-radius: 20px;
+            box-shadow: var(--shadow-lg);
+            border: 1px solid var(--border);
+            max-width: 400px;
+            width: 100%;
+        }
+
+        .logo {
+            font-size: 2rem;
+            font-weight: 800;
+            margin-bottom: 0.5rem;
+            color: var(--primary);
+            text-align: center;
+        }
+
+        .login-subtitle {
+            text-align: center;
+            color: var(--text-muted);
+            margin-bottom: 2rem;
+        }
+
+        input {
+            width: 100%;
+            padding: 1rem;
+            border-radius: 10px;
+            border: 1px solid var(--border);
+            background: var(--bg-input);
+            color: var(--text-main);
+            font-size: 1rem;
+            margin-bottom: 1rem;
+            outline: none;
+            transition: 0.2s;
+        }
+
+        input:focus {
+            border-color: var(--primary);
+        }
+
+        .btn {
+            width: 100%;
+            padding: 1rem;
+            border-radius: 10px;
+            border: none;
+            background: var(--primary);
+            color: white;
+            font-weight: 600;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: 0.2s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+        }
+
+        .btn:hover {
+            background: var(--primary-dark);
+        }
+
+        .btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        .error {
+            background: rgba(239, 68, 68, 0.1);
+            border: 1px solid var(--danger);
+            color: var(--danger);
+            padding: 0.75rem;
+            border-radius: 8px;
+            margin-bottom: 1rem;
+            text-align: center;
+            font-size: 0.9rem;
+        }
+
+        /* Dashboard */
+        .dashboard {
+            display: none;
+        }
+
+        .header {
+            background: var(--bg-card);
+            padding: 1.5rem;
+            border-radius: 16px;
+            margin-bottom: 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border: 1px solid var(--border);
+            flex-wrap: wrap;
+            gap: 1rem;
+        }
+
+        .business-name {
+            font-size: 1.8rem;
+            font-weight: 700;
+            color: var(--primary);
+        }
+
+        .logout-btn {
+            padding: 0.6rem 1.5rem;
+            background: var(--bg-input);
+            border: 1px solid var(--border);
+            color: var(--text-main);
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: 0.2s;
+        }
+
+        .logout-btn:hover {
+            border-color: var(--danger);
+            color: var(--danger);
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+
+        .stat-card {
+            background: var(--bg-card);
+            padding: 2rem;
+            border-radius: 16px;
+            border: 1px solid var(--border);
+            transition: 0.3s;
+        }
+
+        .stat-card:hover {
+            transform: translateY(-5px);
+            box-shadow: var(--shadow-lg);
+        }
+
+        .stat-icon {
+            width: 50px;
+            height: 50px;
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+        }
+
+        .stat-icon.views {
+            background: rgba(59, 130, 246, 0.1);
+            color: var(--primary);
+        }
+
+        .stat-icon.calls {
+            background: rgba(16, 185, 129, 0.1);
+            color: var(--success);
+        }
+
+        .stat-icon.chats {
+            background: rgba(245, 158, 11, 0.1);
+            color: var(--accent);
+        }
+
+        .stat-label {
+            font-size: 0.9rem;
+            color: var(--text-muted);
+            margin-bottom: 0.5rem;
+        }
+
+        .stat-value {
+            font-size: 2.5rem;
+            font-weight: 800;
+            color: var(--text-main);
+        }
+
+        .chart-container {
+            background: var(--bg-card);
+            padding: 2rem;
+            border-radius: 16px;
+            border: 1px solid var(--border);
+            margin-bottom: 2rem;
+        }
+
+        .chart-title {
+            font-size: 1.2rem;
+            font-weight: 700;
+            margin-bottom: 1.5rem;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 4rem;
+            color: var(--text-muted);
+        }
+
+        .spinner {
+            border: 3px solid var(--border);
+            border-top-color: var(--primary);
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 1rem;
+        }
+
+        @keyframes spin {
+            to {
+                transform: rotate(360deg);
+            }
+        }
+
+        .period-selector {
+            display: flex;
+            gap: 0.5rem;
+            margin-bottom: 1.5rem;
+            flex-wrap: wrap;
+        }
+
+        .period-btn {
+            padding: 0.5rem 1rem;
+            border: 1px solid var(--border);
+            background: var(--bg-input);
+            color: var(--text-muted);
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 0.9rem;
+            transition: 0.2s;
+        }
+
+        .period-btn:hover,
+        .period-btn.active {
+            background: var(--primary);
+            color: white;
+            border-color: var(--primary);
+        }
+
+        .recent-activity {
+            background: var(--bg-card);
+            padding: 2rem;
+            border-radius: 16px;
+            border: 1px solid var(--border);
+        }
+
+        .activity-item {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            padding: 1rem;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .activity-item:last-child {
+            border-bottom: none;
+        }
+
+        .activity-icon {
+            width: 40px;
+            height: 40px;
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.2rem;
+        }
+
+        .activity-details {
+            flex-grow: 1;
+        }
+
+        .activity-type {
+            font-weight: 600;
+            color: var(--text-main);
+        }
+
+        .activity-time {
+            font-size: 0.85rem;
+            color: var(--text-muted);
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 1rem;
+            }
+
+            .login-card {
+                padding: 2rem;
+            }
+
+            .stat-value {
+                font-size: 2rem;
+            }
+
+            .header {
+                text-align: center;
+            }
+
+            .business-name {
+                width: 100%;
+                font-size: 1.5rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Login Screen -->
+    <div id="loginScreen" class="login-container">
+        <div class="login-card">
+            <div class="logo">
+                <i class="fas fa-chart-line"></i> Analytics
+            </div>
+            <p class="login-subtitle">View your business performance</p>
+
+            <div id="errorMsg" class="error" style="display: none;"></div>
+
+            <input type="tel" id="phoneInput" placeholder="Enter your phone number" maxlength="10">
+            <button class="btn" onclick="login()">
+                <i class="fas fa-sign-in-alt"></i> View Dashboard
+            </button>
+
+            <p style="text-align: center; margin-top: 1.5rem; font-size: 0.85rem; color: var(--text-muted);">
+                Enter the phone number registered with your business
+            </p>
+        </div>
+    </div>
+
+    <!-- Dashboard -->
+    <div id="dashboard" class="dashboard">
+        <div class="container">
+            <!-- Header -->
+            <div class="header">
+                <div>
+                    <div class="business-name" id="businessName">Loading...</div>
+                    <p style="color: var(--text-muted); margin-top: 0.25rem;">Business ID: <span id="businessId"></span>
+                    </p>
+                </div>
+                <button class="logout-btn" onclick="logout()">
+                    <i class="fas fa-sign-out-alt"></i> Logout
+                </button>
+            </div>
+
+            <!-- Loading State -->
+            <div id="loadingState" class="loading">
+                <div class="spinner"></div>
+                <p>Loading your analytics...</p>
+            </div>
+
+            <!-- Stats Content -->
+            <div id="statsContent" style="display: none;">
+                <!-- Period Selector -->
+                <div class="period-selector">
+                    <button class="period-btn active" onclick="changePeriod(7, this)">Last 7 Days</button>
+                    <button class="period-btn" onclick="changePeriod(30, this)">Last 30 Days</button>
+                    <button class="period-btn" onclick="changePeriod(90, this)">Last 90 Days</button>
+                    <button class="period-btn" onclick="changePeriod(365, this)">All Time</button>
+                </div>
+
+                <!-- Stats Cards -->
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <div class="stat-icon views">
+                            <i class="fas fa-eye"></i>
+                        </div>
+                        <div class="stat-label">Profile Views</div>
+                        <div class="stat-value" id="viewCount">0</div>
+                    </div>
+
+                    <div class="stat-card">
+                        <div class="stat-icon calls">
+                            <i class="fas fa-phone"></i>
+                        </div>
+                        <div class="stat-label">Phone Calls</div>
+                        <div class="stat-value" id="phoneCount">0</div>
+                    </div>
+
+                    <div class="stat-card">
+                        <div class="stat-icon chats">
+                            <i class="fab fa-whatsapp"></i>
+                        </div>
+                        <div class="stat-label">WhatsApp Chats</div>
+                        <div class="stat-value" id="whatsappCount">0</div>
+                    </div>
+                </div>
+
+                <!-- Chart -->
+                <div class="chart-container">
+                    <h3 class="chart-title">Activity Over Time</h3>
+                    <canvas id="activityChart"></canvas>
+                </div>
+
+                <!-- Recent Activity -->
+                <div class="recent-activity">
+                    <h3 class="chart-title">Recent Activity</h3>
+                    <div id="recentActivityList"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const SHEET_API_URL = "https://script.google.com/macros/s/AKfycbwZX99HNPc-cjDfKhOZxA5jHdujRT6PqXewOd7sIacZUu2I4ORCrUoa8_wQc5jc_OFt/exec";
+        let currentBusinessData = null;
+        let currentStats = null;
+        let activityChart = null;
+        let currentPeriod = 7;
+
+        // Login
+        async function login() {
+            const phone = document.getElementById('phoneInput').value.trim();
+            const errorMsg = document.getElementById('errorMsg');
+
+            if (!phone || phone.length < 10) {
+                showError('Please enter a valid 10-digit phone number');
+                return;
+            }
+
+            errorMsg.style.display = 'none';
+            document.querySelector('.btn').disabled = true;
+            document.querySelector('.btn').innerHTML = '<i class="fas fa-spinner fa-spin"></i> Loading...';
+
+            try {
+                // Fetch directory data
+                const response = await fetch(SHEET_API_URL);
+                const data = await response.json();
+
+                // Normalize phone numbers for matching
+                const normalizedPhone = phone.replace(/\D/g, ''); // Remove non-digits
+
+                // Find business by phone (try multiple formats)
+                const business = data.directory.find(b => {
+                    const bizPhone = String(b.phone || '').replace(/\D/g, '');
+                    return bizPhone === normalizedPhone ||
+                        bizPhone === `91${normalizedPhone}` ||
+                        `91${bizPhone}` === normalizedPhone ||
+                        bizPhone.endsWith(normalizedPhone) ||
+                        normalizedPhone.endsWith(bizPhone);
+                });
+
+                if (!business) {
+                    showError('No business found with this phone number. Try: 8894869371');
+                    document.querySelector('.btn').disabled = false;
+                    document.querySelector('.btn').innerHTML = '<i class="fas fa-sign-in-alt"></i> View Dashboard';
+                    return;
+                }
+
+                currentBusinessData = business;
+
+                // Store session
+                sessionStorage.setItem('loggedInPhone', phone);
+                sessionStorage.setItem('businessData', JSON.stringify(business));
+
+                // Show dashboard
+                document.getElementById('loginScreen').style.display = 'none';
+                document.getElementById('dashboard').style.display = 'block';
+
+                loadDashboard();
+            } catch (error) {
+                showError('Failed to load data. Please try again.');
+                document.querySelector('.btn').disabled = false;
+                document.querySelector('.btn').innerHTML = '<i class="fas fa-sign-in-alt"></i> View Dashboard';
+            }
+        }
+
+        function showError(message) {
+            const errorMsg = document.getElementById('errorMsg');
+            errorMsg.textContent = message;
+            errorMsg.style.display = 'block';
+
+            // Auto-hide after 5 seconds
+            setTimeout(() => {
+                errorMsg.style.display = 'none';
+            }, 5000);
+        }
+
+        // Logout
+        function logout() {
+            sessionStorage.clear();
+            location.reload();
+        }
+
+        // Load Dashboard
+        async function loadDashboard() {
+            // Generate the same business ID format as used in tracking
+            let businessId = currentBusinessData.id;
+
+            // If no custom ID, generate the same format as the main site
+            if (!businessId || businessId.trim() === '') {
+                businessId = `biz_${currentBusinessData.name.replace(/\s+/g, '_').toLowerCase()}_${currentBusinessData.phone}`;
+            }
+
+            console.log('Business ID:', businessId);
+            console.log('Business Data:', currentBusinessData);
+
+            document.getElementById('businessName').textContent = currentBusinessData.name;
+            document.getElementById('businessId').textContent = businessId;
+
+            // Fetch stats from Google Sheets
+            await fetchStats(businessId);
+        }
+
+        async function fetchStats(businessId) {
+            try {
+                console.log(`Fetching stats for: ${businessId}, period: ${currentPeriod} days`);
+
+                // Call the getStats endpoint
+                const url = `${SHEET_API_URL}?action=getStats&bizId=${encodeURIComponent(businessId)}&period=${currentPeriod}`;
+                console.log('Fetching from:', url);
+
+                const statsResponse = await fetch(url);
+
+                if (!statsResponse.ok) {
+                    throw new Error(`HTTP error! status: ${statsResponse.status}`);
+                }
+
+                const stats = await statsResponse.json();
+
+                console.log('Stats received:', stats);
+
+                // Check if stats are valid
+                if (stats && typeof stats === 'object') {
+                    displayStats(stats);
+                } else {
+                    throw new Error('Invalid stats format');
+                }
+
+            } catch (error) {
+                console.error('Error fetching stats:', error);
+                console.error('Error details:', error.message);
+
+                // Show error message
+                showError('Failed to load stats. Using fallback data.');
+
+                // Fallback to zero data
+                displayStats({
+                    views: 0,
+                    phone: 0,
+                    whatsapp: 0,
+                    recentActivity: [],
+                    dailyData: {}
+                });
+            }
+        }
+
+        function displayStats(stats) {
+            currentStats = stats;
+
+            document.getElementById('viewCount').textContent = stats.views;
+            document.getElementById('phoneCount').textContent = stats.phone;
+            document.getElementById('whatsappCount').textContent = stats.whatsapp;
+
+            // Hide loading, show content
+            document.getElementById('loadingState').style.display = 'none';
+            document.getElementById('statsContent').style.display = 'block';
+
+            // Create chart
+            createChart();
+
+            // Show recent activity
+            displayRecentActivity(stats.recentActivity || []);
+        }
+
+        function createChart() {
+            const ctx = document.getElementById('activityChart').getContext('2d');
+
+            if (activityChart) {
+                activityChart.destroy();
+            }
+
+            activityChart = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'],
+                    datasets: [
+                        {
+                            label: 'Views',
+                            data: [12, 19, 15, 25, 22, 30, 28],
+                            borderColor: '#3b82f6',
+                            backgroundColor: 'rgba(59, 130, 246, 0.1)',
+                            tension: 0.4
+                        },
+                        {
+                            label: 'Phone Calls',
+                            data: [3, 5, 4, 7, 6, 8, 7],
+                            borderColor: '#10b981',
+                            backgroundColor: 'rgba(16, 185, 129, 0.1)',
+                            tension: 0.4
+                        },
+                        {
+                            label: 'WhatsApp',
+                            data: [1, 2, 3, 2, 4, 3, 5],
+                            borderColor: '#f59e0b',
+                            backgroundColor: 'rgba(245, 158, 11, 0.1)',
+                            tension: 0.4
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    plugins: {
+                        legend: {
+                            labels: {
+                                color: getComputedStyle(document.body).getPropertyValue('--text-main')
+                            }
+                        }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            ticks: {
+                                color: getComputedStyle(document.body).getPropertyValue('--text-muted')
+                            },
+                            grid: {
+                                color: getComputedStyle(document.body).getPropertyValue('--border')
+                            }
+                        },
+                        x: {
+                            ticks: {
+                                color: getComputedStyle(document.body).getPropertyValue('--text-muted')
+                            },
+                            grid: {
+                                color: getComputedStyle(document.body).getPropertyValue('--border')
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
+        function displayRecentActivity(activities) {
+            const container = document.getElementById('recentActivityList');
+
+            if (!activities || activities.length === 0) {
+                container.innerHTML = '<p style="text-align: center; color: var(--text-muted); padding: 2rem;">No recent activity</p>';
+                return;
+            }
+
+            container.innerHTML = activities.slice(0, 10).map(activity => {
+                const icon = activity.type === 'view' ? 'fa-eye' : activity.type === 'phone' ? 'fa-phone' : 'fa-whatsapp';
+                const iconBg = activity.type === 'view' ? 'rgba(59, 130, 246, 0.1)' : activity.type === 'phone' ? 'rgba(16, 185, 129, 0.1)' : 'rgba(245, 158, 11, 0.1)';
+                const iconColor = activity.type === 'view' ? '#3b82f6' : activity.type === 'phone' ? '#10b981' : '#f59e0b';
+                const label = activity.type === 'view' ? 'Profile viewed' : activity.type === 'phone' ? 'Called your business' : 'Sent WhatsApp message';
+
+                const time = new Date(activity.timestamp).toLocaleString();
+
+                return `
+                    <div class="activity-item">
+                        <div class="activity-icon" style="background: ${iconBg}; color: ${iconColor};">
+                            <i class="fas ${icon}"></i>
+                        </div>
+                        <div class="activity-details">
+                            <div class="activity-type">${label}</div>
+                            <div class="activity-time">${time}</div>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+        }
+
+        function changePeriod(days, btn) {
+            currentPeriod = days;
+            document.querySelectorAll('.period-btn').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+
+            // Reload stats for new period
+            if (currentBusinessData) {
+                const businessId = currentBusinessData.id || `biz_${currentBusinessData.name.replace(/\s+/g, '_').toLowerCase()}_${currentBusinessData.phone}`;
+                fetchStats(businessId);
+            }
+        }
+
+        // Check if already logged in
+        window.onload = function () {
+            const loggedInPhone = sessionStorage.getItem('loggedInPhone');
+            const businessData = sessionStorage.getItem('businessData');
+
+            if (loggedInPhone && businessData) {
+                currentBusinessData = JSON.parse(businessData);
+                document.getElementById('loginScreen').style.display = 'none';
+                document.getElementById('dashboard').style.display = 'block';
+                loadDashboard();
+            }
+        };
+
+        // Enter key login
+        document.addEventListener('DOMContentLoaded', () => {
+            document.getElementById('phoneInput')?.addEventListener('keypress', (e) => {
+                if (e.key === 'Enter') login();
+            });
+        });
+    </script>
+</body>
+
+</html>

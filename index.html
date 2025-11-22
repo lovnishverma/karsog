@@ -64,7 +64,6 @@
             background: var(--bg-body);
             color: var(--text-main);
             line-height: 1.6;
-            /* CRITICAL FIX: Prevents horizontal scroll globally */
             overflow-x: hidden;
             width: 100%;
             transition: background 0.3s, color 0.3s;
@@ -802,33 +801,26 @@
                 font-size: 2rem;
             }
 
-            /* --- FIXED MOBILE NAV --- */
-            /* FIX: Using transform: translateX instead of right positioning to prevent body overflow */
             .nav-links {
                 position: fixed;
                 top: 0;
                 right: 0;
                 width: 85%;
-                /* Changed from fixed width to percentage */
                 max-width: 300px;
-                /* Limit width on larger tablets */
                 height: 100vh;
                 background: var(--bg-card);
                 flex-direction: column;
                 padding: 6rem 2rem;
-                /* Transform moves it off screen without expanding the scroll area */
                 transform: translateX(100%);
                 transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
                 z-index: 999;
                 align-items: flex-start;
                 box-shadow: -5px 0 25px rgba(0, 0, 0, 0.5);
-                /* Ensures no scroll issues within the nav */
                 overflow-y: auto;
             }
 
             .nav-links.active {
                 transform: translateX(0);
-                /* right: 0; <-- REMOVED this to prevent wobble */
             }
 
             .mobile-menu-btn {
@@ -908,6 +900,7 @@
             <ul class="nav-links" id="navLinks">
                 <li><a href="#home" onclick="toggleMenu()">Home</a></li>
                 <li><a href="#directory" onclick="toggleMenu()">Directory</a></li>
+                <li><a href="analytics.html">Analytics</a></li>
                 <li><a href="#shop" onclick="toggleMenu()">Shop</a></li>
                 <li><a href="#pricing" onclick="toggleMenu()">Pricing</a></li>
                 <li class="hidden-desktop" style="margin-top: 1rem; width: 100%;"><a href="#join"
@@ -1032,6 +1025,7 @@
                         <li><i class="fas fa-check-circle"></i> WhatsApp Chat Button</li>
                         <li><i class="fas fa-check-circle"></i> 5 Photos Gallery</li>
                         <li><i class="fas fa-check-circle"></i> Priority Support</li>
+                        <li><i class="fas fa-check-circle"></i> <strong>Monthly Analytics Report</strong></li>
                     </ul>
                     <a href="#join" class="btn btn-primary" style="width: 100%;">Upgrade Now</a>
                 </div>
@@ -1120,16 +1114,18 @@
 
     <script>
         // --- CONFIGURATION ---
-        const SHEET_API_URL = "https://script.google.com/macros/s/AKfycbyr9hda6N9BX8WCYpzCHCWN-pTCiUDR7WRQGhIX2Vve8irYLYWzO0A56tjIhPDxlY6Q/exec";
+        const SHEET_API_URL = "https://script.google.com/macros/s/AKfycbwZX99HNPc-cjDfKhOZxA5jHdujRT6PqXewOd7sIacZUu2I4ORCrUoa8_wQc5jc_OFt/exec";
 
+        // --- ON PAGE LOAD ---
         window.onload = function () {
             if (SHEET_API_URL) {
                 fetchData();
             } else {
-                console.warn("SHEET_API_URL is empty.");
+                console.warn("SHEET_API_URL is empty. Please configure your Google Apps Script endpoint.");
             }
         };
 
+        // --- FETCH DATA FROM GOOGLE SHEETS ---
         async function fetchData() {
             try {
                 const response = await fetch(SHEET_API_URL);
@@ -1142,6 +1138,33 @@
             }
         }
 
+        // --- TRACKING SYSTEM ---
+        async function trackAction(bizId, actionType) {
+            if (!bizId || !actionType) return;
+
+            // Log for debugging
+            console.log(`Tracking: ${actionType} for ${bizId}`);
+
+            try {
+                await fetch(SHEET_API_URL, {
+                    method: "POST",
+                    mode: "no-cors",
+                    headers: {
+                        "Content-Type": "application/json",
+                    },
+                    body: JSON.stringify({
+                        id: bizId,
+                        type: actionType,
+                        value: 1,
+                        timestamp: new Date().toISOString()
+                    })
+                });
+            } catch (err) {
+                console.error("Tracking failed:", err);
+            }
+        }
+
+        // --- RENDER DIRECTORY LISTINGS ---
         function renderDirectory(items) {
             const grid = document.getElementById('listingGrid');
             grid.innerHTML = "";
@@ -1152,17 +1175,24 @@
             }
 
             items.forEach((item, index) => {
+                // Generate unique ID for tracking
+                const bizId = item.id || `biz_${item.name.replace(/\s+/g, '_').toLowerCase()}_${item.phone}`;
+
                 const isFeatured = (String(item.isFeatured).toLowerCase() === 'true');
                 const featuredBadge = isFeatured ? `<span class="badge badge-ad" style="position:absolute; top:10px; right:10px; z-index:10;"><i class="fas fa-star"></i> Featured</span>` : '';
                 const cardClass = isFeatured ? 'listing-card sponsored fade-in' : 'listing-card fade-in';
 
                 const hasWhatsapp = item.whatsapp && String(item.whatsapp).trim() !== "";
                 const whatsappButtonHtml = hasWhatsapp
-                    ? `<a href="https://wa.me/${item.whatsapp}" class="btn btn-whatsapp" target="_blank"><i class="fab fa-whatsapp"></i> Chat</a>`
+                    ? `<a href="https://wa.me/${item.whatsapp}" class="btn btn-whatsapp" target="_blank" onclick="trackAction('${bizId}', 'whatsapp')"><i class="fab fa-whatsapp"></i> Chat</a>`
                     : ``;
 
                 const gridStyle = hasWhatsapp ? "grid-template-columns: 1fr 1fr;" : "grid-template-columns: 1fr;";
 
+                // Track view when card is rendered
+                trackAction(bizId, "view");
+
+                // Handle multiple images
                 let rawImages = [];
                 if (Array.isArray(item.images) && item.images.length > 0) {
                     rawImages = item.images;
@@ -1209,12 +1239,12 @@
                             </div>
 
                             <div style="display: flex; gap: 0.8rem; font-size: 0.9rem; color: var(--text-muted); margin-bottom: 1rem;">
-                                <span><i class="fas fa-star" style="color: var(--accent);"></i> ${item.rating}</span>
+                                <span><i class="fas fa-star" style="color: var(--accent);"></i> ${item.rating || '4.5'}</span>
                             </div>
-                            <p style="font-size: 0.9rem; color: var(--text-muted); margin-bottom: 1rem; flex-grow: 1;">${item.desc}</p>
+                            <p style="font-size: 0.9rem; color: var(--text-muted); margin-bottom: 1rem; flex-grow: 1;">${item.desc || ''}</p>
                             
                             <div style="display: grid; ${gridStyle} gap: 0.8rem; margin-top: auto;">
-                                <a href="tel:${item.phone}" class="btn btn-call"><i class="fas fa-phone"></i> Call</a>
+                                <a href="tel:${item.phone}" class="btn btn-call" onclick="trackAction('${bizId}', 'phone')"><i class="fas fa-phone"></i> Call</a>
                                 ${whatsappButtonHtml}
                             </div>
                         </div>
@@ -1224,6 +1254,7 @@
             });
         }
 
+        // --- CAROUSEL FUNCTIONS ---
         function moveSlide(btn, direction) {
             const carousel = btn.closest('.carousel');
             const track = carousel.querySelector('.carousel-track');
@@ -1254,6 +1285,7 @@
             if (dots[index]) dots[index].classList.add('active');
         }
 
+        // --- RENDER SHOP PRODUCTS ---
         function renderShop(items) {
             const grid = document.getElementById('shopGrid');
             grid.innerHTML = "";
@@ -1276,18 +1308,23 @@
             });
         }
 
+        // --- SEARCH & FILTER FUNCTIONS ---
         function filterListings() {
             const input = document.getElementById('searchInput').value.toLowerCase();
             const cards = document.querySelectorAll('.listing-card');
             let visibleCount = 0;
             let currentCategory = 'all';
+
             document.querySelectorAll('.filter-btn').forEach(btn => {
-                if (btn.classList.contains('active')) currentCategory = btn.innerText.toLowerCase();
+                if (btn.classList.contains('active')) {
+                    currentCategory = btn.innerText.toLowerCase();
+                }
             });
 
             cards.forEach(card => {
                 const title = card.getAttribute('data-title').toLowerCase();
                 const category = card.getAttribute('data-category').toLowerCase();
+
                 let categoryMatch = (currentCategory === 'all') ||
                     (currentCategory === 'restaurants' && category === 'food') ||
                     (currentCategory === 'shopping' && category === 'shop') ||
@@ -1301,6 +1338,7 @@
                     card.style.display = "none";
                 }
             });
+
             document.getElementById('noResults').style.display = visibleCount === 0 ? "block" : "none";
         }
 
@@ -1314,21 +1352,33 @@
             const btns = document.querySelectorAll('.filter-btn');
             btns.forEach(btn => {
                 const t = btn.innerText.toLowerCase();
-                if (t === catName.toLowerCase() || (catName === 'Shop' && t === 'shopping') || (catName === 'Food' && t === 'restaurants')) {
+                if (t === catName.toLowerCase() ||
+                    (catName === 'Shop' && t === 'shopping') ||
+                    (catName === 'Food' && t === 'restaurants')) {
                     filterByCategory(catName, btn);
                 }
             });
             document.getElementById('directory').scrollIntoView();
         }
 
+        // --- THEME TOGGLE ---
         function toggleTheme() {
             const html = document.documentElement;
             const current = html.getAttribute('data-theme') || 'dark';
             const next = current === 'dark' ? 'light' : 'dark';
             html.setAttribute('data-theme', next);
             document.getElementById('themeIcon').className = next === 'dark' ? 'fas fa-moon' : 'fas fa-sun';
+            localStorage.setItem('theme', next);
         }
 
+        // Load saved theme
+        window.addEventListener('DOMContentLoaded', () => {
+            const savedTheme = localStorage.getItem('theme') || 'dark';
+            document.documentElement.setAttribute('data-theme', savedTheme);
+            document.getElementById('themeIcon').className = savedTheme === 'dark' ? 'fas fa-moon' : 'fas fa-sun';
+        });
+
+        // --- MOBILE MENU ---
         function toggleMenu() {
             const nav = document.getElementById('navLinks');
             const overlay = document.getElementById('menuOverlay');
@@ -1336,6 +1386,7 @@
             overlay.classList.toggle('active');
         }
 
+        // --- FORM SUBMISSION ---
         function submitForm(e) {
             e.preventDefault();
             const name = document.getElementById('bizName').value;
@@ -1348,8 +1399,12 @@
             const msg = `*New Listing Request* 🚀%0A%0A*Name:* ${name}%0A*Category:* ${category}%0A*Plan:* ${plan}%0A*Phone:* ${phone}%0A*Address:* ${address}%0A*Details:* ${desc}`;
 
             window.open(`https://wa.me/918894869371?text=${msg}`, '_blank');
-            document.getElementById('toast').classList.add('show');
-            setTimeout(() => document.getElementById('toast').classList.remove('show'), 3000);
+
+            // Show success toast
+            const toast = document.getElementById('toast');
+            toast.classList.add('show');
+            setTimeout(() => toast.classList.remove('show'), 3000);
+
             e.target.reset();
         }
     </script>
