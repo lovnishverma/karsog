@@ -5,7 +5,7 @@ import requests
 from pymongo import MongoClient
 from datetime import datetime
 
-# 1. SETUP - Get Secrets
+# 1. SETUP
 NEWS_API_KEY = os.environ.get('NEWS_API_KEY')
 MONGO_URI = os.environ.get('MONGO_URI')
 
@@ -15,44 +15,40 @@ data_output = {
     "directory": [] 
 }
 
-# 2. FETCH NEWS (The "Smart Sort" Method)
+# 2. FETCH NEWS (STRICT FILTERING)
 try:
     print("--- FETCHING NEWS ---")
-    # Query: Look for Karsog FIRST, then Mandi (District), then general HP news
-    # The API will return a mix of all three.
-    query = '"Karsog" OR "Mandi district" OR "Himachal Pradesh"'
+    # Broad query to get candidates
+    query = '"Karsog" OR "Mandi" OR "Himachal Pradesh" OR "Shimla"'
     url = f"https://newsapi.org/v2/everything?q={query}&sortBy=publishedAt&language=en&apiKey={NEWS_API_KEY}"
     
     response = requests.get(url)
     if response.status_code == 200:
         all_articles = response.json().get("articles", [])
         
-        # CLEANING: Remove [Removed] articles
-        clean_articles = [a for a in all_articles if a['title'] != '[Removed]']
-
-        # SORTING: Force 'Karsog' news to the top, then 'Mandi', then others
-        karsog_news = []
-        mandi_news = []
-        general_news = []
-
-        for article in clean_articles:
-            title = article['title'].lower()
+        # KEYWORDS WE CARE ABOUT
+        relevant_keywords = ["karsog", "mandi", "himachal", "shimla", "sundernagar"]
+        
+        filtered_news = []
+        for article in all_articles:
+            # content checks
+            title = (article['title'] or "").lower()
             desc = (article['description'] or "").lower()
             
-            if "karsog" in title or "karsog" in desc:
-                karsog_news.append(article)
-            elif "mandi" in title or "mandi" in desc:
-                mandi_news.append(article)
-            else:
-                general_news.append(article)
+            # Remove [Removed] articles
+            if "removed" in title:
+                continue
 
-        # Combine them: Karsog First -> Mandi Second -> Rest
-        final_list = karsog_news + mandi_news + general_news
-        
-        # Keep top 6
-        data_output["news"] = final_list[:6]
-        
-        print(f"Success! Found: {len(karsog_news)} Karsog, {len(mandi_news)} Mandi, {len(general_news)} HP articles.")
+            # STRICT CHECK: Keyword must be in Title or Description
+            if any(word in title for word in relevant_keywords) or \
+               any(word in desc for word in relevant_keywords):
+                filtered_news.append(article)
+
+        # Sort: Karsog news first!
+        filtered_news.sort(key=lambda x: "karsog" not in (x['title'] or "").lower())
+
+        data_output["news"] = filtered_news[:6] # Keep top 6 strictly relevant
+        print(f"Success: Found {len(filtered_news)} relevant articles.")
     else:
         print(f"News API Error: {response.text}")
 
@@ -64,8 +60,10 @@ try:
     print("\n--- FETCHING MONGODB ---")
     client = MongoClient(MONGO_URI)
     
-    # Ensure you use the exact Database Name from your Atlas Dashboard
-    # If your DB is named 'test' or 'admin' in Atlas, change it here!
+    # DEBUG: Help find the correct DB name
+    print(f"Available DBs: {client.list_database_names()}")
+    
+    # UPDATE THIS LINE if your DB name is different in the log!
     db = client["karsog_db"] 
     collection = db["businesses"] 
 
@@ -76,7 +74,7 @@ try:
 except Exception as e:
     print(f"Mongo Script Error: {e}")
 
-# 4. SAVE TO FILE
+# 4. SAVE
 try:
     os.makedirs("assets", exist_ok=True)
     with open("assets/site_data.json", "w") as f:
