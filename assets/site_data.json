@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-22 13:47:10",
+  "last_updated": "2025-11-22 13:55:06",
   "news": [
     {
       "source": {
@@ -30,32 +30,6 @@
     {
       "source": {
         "id": null,
-        "name": "TheBlaze"
-      },
-      "author": "Carlos Garcia",
-      "title": "AI chatbot encouraged autistic boy to harm himself \u2014 and his parents, lawsuit says",
-      "description": "The family of an autistic boy says that an artificial intelligence chatbot encouraged him to harm himself and his parents, according to a lawsuit.Mandi Furniss appeared on Fox News to explain why her family filed a lawsuit against the Character.AI software af\u2026",
-      "url": "https://www.theblaze.com/news/ai-chatbot-boy-harm-parents",
-      "urlToImage": "https://www.theblaze.com/media-library/ai-chatbot-encouraged-autistic-boy-to-harm-himself-and-his-parents-lawsuit-says.jpg?id=62214644&width=1200&height=600&coordinates=0%2C182%2C0%2C183",
-      "publishedAt": "2025-11-19T20:05:00Z",
-      "content": "The family of an autistic boy says that an artificial intelligence chatbot encouraged him to harm himself and his parents, according to a lawsuit.\r\nMandi Furniss appeared on Fox News to explain why h\u2026 [+3386 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ComputerWeekly.com"
-      },
-      "author": "Adrian Bridgwater",
-      "title": "Self-service tools - PagerDuty: The shift from \u2018we deploy\u2019 to \u2018you deploy, we observe'",
-      "description": "This is a guest post for the Computer Weekly Developer Network written by Mandi Walls, DevOps advocate at PagerDuty. Walls, in her inimitable style, writes in full as follows\u2026 Organisations are ...",
-      "url": "https://www.computerweekly.com/blog/CW-Developer-Network/Self-service-tools-PagerDuty-The-shift-from-we-deploy-to-you-deploy-we-observe",
-      "urlToImage": null,
-      "publishedAt": "2025-11-18T16:35:41Z",
-      "content": "This is a guest post for the Computer Weekly Developer Network written by Mandi Walls, DevOps advocate at PagerDuty.\r\nWalls, in her inimitable style, writes in full as follows\r\nOrganisations are adop\u2026 [+5874 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "The Indian Express"
       },
       "author": "Saurabh Parashar",
@@ -78,6 +52,32 @@
       "urlToImage": "https://images.indianexpress.com/2025/11/Himachal-4.jpg",
       "publishedAt": "2025-11-17T15:12:27Z",
       "content": "The forests that cradle Shimla with their misty slopes and deodar-scented ridges may soon lose a slice of their quiet canopy. About 820 trees are set to be felled across 6.1990 hectares of forest lan\u2026 [+4079 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Statetimes.in"
+      },
+      "author": "statetimes_editor",
+      "title": "Yudhvir Sethi asks students to chase their goals with confidence",
+      "description": "STATE TIMES NEWS JAMMU: DBN Mubarak Mandi celebrated its Annual Day on Sunday with great enthusiasm and patriotic fervour on the school premises. This year\u2019s theme, \u201cOperation Sindoor,\u201d highlighted the courage, sacrifice and unwavering love of the Indian Arme\u2026",
+      "url": "https://statetimes.in/yudhvir-sethi-asks-students-to-chase-their-goals-with-confidence/",
+      "urlToImage": "https://statetimes.in/wp-content/uploads/2025/11/Yudhvir-1-1.jpg",
+      "publishedAt": "2025-11-16T18:41:08Z",
+      "content": "STATE TIMES NEWS\r\n JAMMU: DBN Mubarak Mandi celebrated its Annual Day on Sunday with great enthusiasm and patriotic fervour on the school premises. This year\u2019s theme, \u201cOperation Sindoor,\u201d highlighted\u2026 [+2794 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Statetimes.in"
+      },
+      "author": "statetimes_editor",
+      "title": "Amit Shah to chair NZC meet in Faridabad on Monday",
+      "description": "STATE TIMES NEWS NEW DELHI: Union Home Minister Amit Shah will chair a meeting of the Northern Zonal Council (NZC) that will be held on Monday in Faridabad, Haryana, officials said.Chief ministers of Punjab, Haryana and Himachal Pradesh, lieutenant governors \u2026",
+      "url": "https://statetimes.in/amit-shah-to-chair-nzc-meet-in-faridabad-on-monday/",
+      "urlToImage": "https://statetimes.in/wp-content/uploads/2025/04/Amit-Shah-dials-all-CMs-asks-them-to-ensure-no-Pakistani-stays-in-India-beyond-deadline.jpg",
+      "publishedAt": "2025-11-15T19:21:07Z",
+      "content": "STATE TIMES NEWS\r\nNEW DELHI: Union Home Minister Amit Shah will chair a meeting of the Northern Zonal Council (NZC) that will be held on Monday in Faridabad, Haryana, officials said.Chief ministers o\u2026 [+2048 chars]"
     }
   ],
   "directory": []
