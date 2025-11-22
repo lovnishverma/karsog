@@ -1,144 +1,139 @@
-# Karsog.com - Valley Business Directory & Store
+# Karsog.com - Valley Tourism & Business Directory
 
-A hyper-local business directory and affiliate store website built with **HTML/CSS/JavaScript** on the frontend and powered by **Google Sheets** as the CMS (Content Management System) via Google Apps Script.
+A comprehensive hyper-local platform for Karsog Valley acting as a **Business Directory**, **Travel Portal**, and **News Aggregator**. 
 
+Built with **HTML/CSS/JavaScript** on the frontend, powered by **Google Sheets** as the primary CMS, and enhanced with **Python/GitHub Actions** for automated news updates.
 
-[Google form](https://forms.gle/HrJppPH3BHZLSCPD7)
-
+[Google Form for Listings](https://forms.gle/HrJppPH3BHZLSCPD7) | [Live Site](https://www.karsog.com)
 
 ## 🌟 Features
 
-  * **Dynamic Content:** All listings and products are fetched in real-time from a Google Sheet.
-  * **Responsive Design:** Fully optimized for mobile, tablet, and desktop.
-  * **Dark/Light Mode:** Built-in theme toggler with persistent preferences.
-  * **Search & Filtering:** Client-side search and category filtering (Hotels, Taxis, Food, etc.).
-  * **Rich Listings:** detailed business cards with Image Carousels (up to 5 images), WhatsApp integration, and Click-to-Call.
-  * **Affiliate Store:** A dedicated section for showcasing products.
-  * **Emergency Bar:** Quick access to police and ambulance numbers.
-  * **SEO Friendly:** Semantic HTML structure and meta tags.
+### Core Modules
+* **Business Directory:** Real-time listings for Hotels, Taxis, Shops, and Services fetched from Google Sheets.
+* **Travel Portal:** Dedicated section (`travel.html`) for tour packages, trekking guides (Shikari Devi), and luxury stays.
+* **Analytics Dashboard:** A login-protected dashboard (`analytics.html`) for business owners to track profile views, calls, and WhatsApp clicks.
+* **News Feed:** Automated hyper-local news aggregator (`assets/site_data.json`) fetching updates about Karsog/Himachal via GitHub Actions.
+
+### User Experience
+* **Live Weather:** Real-time weather widget using Open-Meteo API.
+* **SEO Optimized:** Rich Schema.org structured data (LocalBusiness, TouristDestination, TravelAgency).
+* **PWA Ready:** Service worker support for mobile installability.
+* **Dark/Light Mode:** Persistent theme toggler across all pages.
+* **Client-Side Search:** Instant filtering by category and keywords.
 
 ## 📂 Project Structure
 
 ```text
 /
-├── index.html      # The main frontend code (HTML + Embedded CSS & JS)
-├── Code.gs         # Google Apps Script code (The Backend API)
-└── README.md       # Documentation
-```
+├── index.html          # Main Landing (Home, Directory Teaser, News, Weather)
+├── directory.html      # Full Business Directory Listing
+├── travel.html         # Travel Packages, Reviews, and Lead Forms
+├── analytics.html      # Business Owner Dashboard (Chart.js integration)
+├── assets/
+│   ├── img/            # Static images
+│   └── site_data.json  # Generated file containing latest News & cached data
+├── scripts/
+│   └── fetch_data.py   # Python script to fetch News & Mongo data
+├── .github/workflows/
+│   └── update_data.yml # Cron job to run python script every 4 hours
+├── Code.gs             # Google Apps Script (The Backend API)
+└── requirements.txt    # Python dependencies
+````
 
 ## 🚀 Setup Guide
 
-### Step 1: Google Sheets Setup (The Database)
+### Phase 1: Google Sheets (The Database)
 
 1.  Create a new [Google Sheet](https://sheets.new).
-2.  Create two tabs (sheets) named exactly: `Directory` and `Store`.
+2.  Create three tabs named exactly: `Directory`, `Store`, and `stats`.
 
-#### **Sheet 1: "Directory" Columns**
+#### **Sheet 1: "Directory"**
 
-| Column | Header Name (Suggestion) | Data Type | Description |
-| :--- | :--- | :--- | :--- |
-| **A** | Name | Text | Business Name |
-| **B** | Category | Text | Options: `Hotel`, `Taxi`, `Shop`, `Food`, `Service`, `Health` |
-| **C** | Phone | Text | Phone number |
-| **D** | Description | Text | Short description |
-| **E** | Address | Text | Full physical address |
-| **F** | Rating | Number | E.g., `4.5` |
-| **G** | Featured | Boolean | `TRUE` or `FALSE` (Highlights the card) |
-| **H** | WhatsApp | Number | Phone number without `+` (e.g., `919876543210`) |
-| **I** | Image 1 | URL | Direct link to image |
-| **J** | Image 2 | URL | (Optional) Additional image |
-| **K** | Image 3 | URL | (Optional) Additional image |
-| **L** | Image 4 | URL | (Optional) Additional image |
-| **M** | Image 5 | URL | (Optional) Additional image |
-
-#### **Sheet 2: "Store" Columns**
-
-| Column | Header Name | Description |
+| Col | Header | Description |
 | :--- | :--- | :--- |
-| **A** | Title | Product Name |
-| **B** | Price | Product Price (just the number) |
-| **C** | Image URL | Direct link to product image |
-| **D** | Buy Link | Affiliate/Purchase URL |
-| **E** | Badge | E.g., `Sale`, `New`, `Hot` |
+| A | Timestamp | Auto-filled by form |
+| B | Name | Business Name |
+| C | Category | `Hotel`, `Taxi`, `Shop`, `Food`, `Service` |
+| D | Phone | Contact Number |
+| E | Description | Short details |
+| F | Address | Location |
+| G | Rating | e.g., `4.5` |
+| H | Featured | `TRUE`/`FALSE` |
+| I | WhatsApp | Number (no `+`) |
+| J-N | Image 1-5 | Image URLs |
+| O | ID | **Unique ID** (Auto-generated by script) |
+
+#### **Sheet 2: "Store"**
+
+| Col | Header | Description |
+| :--- | :--- | :--- |
+| A | Title | Product Name |
+| B | Price | Price (Number) |
+| C | Image URL | Product Image |
+| D | Buy Link | Affiliate URL |
+| E | Badge | e.g., `Sale` |
+
+#### **Sheet 3: "stats"** (For Analytics)
+
+| Col | Header | Description |
+| :--- | :--- | :--- |
+| A | Timestamp | Date of action |
+| B | Business ID | Matches ID in Directory Col O |
+| C | Action Type | `view`, `phone`, `whatsapp` |
+| D | Value | Usually `1` |
 
 -----
 
-### Step 2: Deploy Google Apps Script (The API)
+### Phase 2: Deploy Google Apps Script (The API)
 
-1.  In your Google Sheet, go to **Extensions \> Apps Script**.
-2.  Delete any existing code and paste the contents of the `Code.gs` provided below (or from your snippet).
-3.  Click **Save**.
-4.  Click the blue **Deploy** button \> **New Deployment**.
-5.  **Select type:** Web App.
-6.  **Configuration:**
-      * **Description:** Karsog API v1
-      * **Execute as:** Me
-      * **Who has access:** **Anyone** (Crucial for the site to work publicly).
-7.  Click **Deploy**.
-8.  **Copy the Web App URL** (It ends in `/exec`).
+1.  Open your Google Sheet, go to **Extensions \> Apps Script**.
+2.  Copy content from `Code.gs` in this repo and paste it there.
+3.  **Deploy**:
+      * Click **Deploy** \> **New Deployment**.
+      * Select type: **Web App**.
+      * Execute as: **Me**.
+      * Who has access: **Anyone** (Essential).
+4.  Copy the **Web App URL** (ends in `/exec`).
 
 -----
 
-### Step 3: Connect Frontend
+### Phase 3: Frontend Connection
 
-1.  Open `index.html`.
-2.  Scroll down to the `<script>` section at the bottom.
-3.  Replace the `SHEET_API_URL` variable with your Web App URL from Step 2.
+1.  Open `index.html`, `directory.html`, and `analytics.html`.
+2.  Find the `SHEET_API_URL` constant and replace it with your Web App URL.
 
 <!-- end list -->
 
 ```javascript
-// Replace this string
-const SHEET_API_URL = "https://script.google.com/macros/s/AKfy.../exec";
+const SHEET_API_URL = "[https://script.google.com/macros/s/YOUR_DEPLOYMENT_ID/exec](https://script.google.com/macros/s/YOUR_DEPLOYMENT_ID/exec)";
 ```
-
-4.  Save the file.
 
 -----
 
-### Step 4: Form Submission Setup
+### Phase 4: News Automation (Optional)
 
-The "Join" form in the HTML uses WhatsApp for submissions by default.
+To enable the automated news feed:
 
-1.  Find the `submitForm` function in `index.html`.
-2.  Replace the phone number in the `window.open` line with your admin WhatsApp number.
-
-<!-- end list -->
-
-```javascript
-window.open(`https://wa.me/91YOUR_NUMBER_HERE?text=${msg}`, '_blank');
-```
+1.  Get an API Key from [NewsAPI.org](https://newsapi.org).
+2.  In your GitHub Repository, go to **Settings \> Secrets and variables \> Actions**.
+3.  Add a New Repository Secret:
+      * Name: `NEWS_API_KEY`
+      * Value: `your_api_key_here`
+4.  (Optional) If using MongoDB features in `fetch_data.py`, add `MONGO_URI`.
+5.  The GitHub Action (`update_data.yml`) is scheduled to run every 4 hours. It will:
+      * Fetch news related to "Karsog/Himachal".
+      * Filter out spam keywords.
+      * Update `assets/site_data.json`.
+      * Commit the changes back to the repo.
 
 ## 🛠 Technologies Used
 
-  * **Frontend:** HTML5, CSS3 (Flexbox/Grid), JavaScript (ES6+).
-  * **Icons:** FontAwesome 6.4 (CDN).
-  * **Fonts:** Google Fonts (Inter, Outfit).
-  * **Backend:** Google Apps Script.
-  * **Database:** Google Sheets.
-
-## 🎨 Customization
-
-  * **Colors:** Edit the `:root` variables in the `<style>` section of `index.html` to change the color scheme.
-    ```css
-    :root {
-        --primary: #3b82f6; /* Main Brand Color */
-        --accent: #f59e0b;  /* Highlight Color */
-    }
-    ```
-  * **Logo:** Locate `.logo` in the HTML and change the text or icon.
-
-## 📢 Deployment
-
-Since this is a static site, you can host it for free on:
-
-1.  **GitHub Pages:** Upload `index.html` to a repository and enable Pages.
-2.  **Netlify / Vercel:** Drag and drop the folder containing `index.html`.
+  * **Frontend:** HTML5, CSS3, JavaScript (ES6+).
+  * **Libraries:** FontAwesome 6, Chart.js (Analytics), Google Fonts.
+  * **Backend:** Google Apps Script (Serverless), Google Sheets (DB).
+  * **Automation:** Python 3.9, GitHub Actions.
+  * **External APIs:** NewsAPI, Open-Meteo (Weather).
 
 ## 📄 License
 
-This project is not open-source and free to use.
-
------
-
-**Developed for Karsog Valley**
+This project is proprietary.
