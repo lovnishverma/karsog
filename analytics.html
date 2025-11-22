@@ -2,15 +2,15 @@
 <html lang="en" data-theme="dark">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <title>Analytics Dashboard | Karsog.com</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
         href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@500;700;800&display=swap"
-        rel="stylesheet">
+        rel="stylesheet" />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
 
     <style>
@@ -80,7 +80,7 @@
             border-radius: 20px;
             box-shadow: var(--shadow-lg);
             border: 1px solid var(--border);
-            max-width: 400px;
+            max-width: 420px;
             width: 100%;
         }
 
@@ -376,6 +376,52 @@
                 font-size: 1.5rem;
             }
         }
+
+        /* --- FOOTER --- */
+        footer {
+            border-top: 1px solid var(--border);
+            background: var(--bg-nav);
+            padding: 3rem 0;
+            margin-top: 2rem;
+        }
+
+        .footer-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 1.5rem;
+        }
+
+        .social-links {
+            display: flex;
+            gap: 1rem;
+        }
+
+        .social-icon {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background: var(--bg-input);
+            color: var(--text-main);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-decoration: none;
+            transition: 0.2s;
+        }
+
+        .social-icon:hover {
+            background: var(--primary);
+            color: white;
+            transform: translateY(-3px);
+        }
+
+
+        .footer-content {
+            flex-direction: column;
+            text-align: center;
+        }
     </style>
 </head>
 
@@ -390,13 +436,15 @@
 
             <div id="errorMsg" class="error" style="display: none;"></div>
 
-            <input type="tel" id="phoneInput" placeholder="Enter your phone number" maxlength="10">
-            <button class="btn" onclick="login()">
+            <input type="tel" id="phoneInput" placeholder="Enter your phone number" maxlength="10" />
+            <!-- New password field -->
+            <input type="password" id="passwordInput" placeholder="Enter password" autocomplete="new-password" />
+            <button class="btn" id="loginBtn" onclick="login()">
                 <i class="fas fa-sign-in-alt"></i> View Dashboard
             </button>
 
             <p style="text-align: center; margin-top: 1.5rem; font-size: 0.85rem; color: var(--text-muted);">
-                Enter the phone number registered with your business
+                Enter the phone number registered with your business and the dashboard password
             </p>
         </div>
     </div>
@@ -474,26 +522,157 @@
         </div>
     </div>
 
+    <!-- Footer -->
+    <footer>
+        <div class="container footer-content">
+            <div style="text-align: center;">
+                <a href="#" class="logo" style="margin-bottom: 0.5rem;"><img src="assets/img/logo-white.svg"></a>
+
+                <p style="color: var(--text-muted); font-size: 0.9rem;">Connecting the valley, one click at a time.</p>
+            </div>
+
+            <div class="social-links">
+                <a href="https://www.instagram.com/karsogdotcom" class="social-icon"><i
+                        class="fab fa-facebook-f"></i></a>
+                <a href="https://www.instagram.com/karsogdotcom" class="social-icon"><i
+                        class="fab fa-instagram"></i></a>
+                <a href="https://www.instagram.com/karsogdotcom" class="social-icon"><i class="fab fa-twitter"></i></a>
+                <a href="https://www.instagram.com/karsogdotcom" class="social-icon"><i
+                        class="fab fa-linkedin-in"></i></a>
+            </div>
+
+            <div style="color: var(--text-muted); font-size: 0.9rem;">
+                &copy; 2026 Karsog.com. All Rights Reserved.
+            </div>
+        </div>
+    </footer>
+
+
     <script>
+        // -------- CONFIG: password storage (salt + derivedKey) --------
+        // WARNING: It's still better to store this on the server. This client-side store only hides the raw password.
+        // Replace the salt/hash pair below with values produced by generatePasswordHashForConsole(password)
+        // Example PASSWORD_STORE:
+        const PASSWORD_STORE = {
+            "salt": "lIRnEH/xvca6KUe6bPICRg==",
+            "hash": "7NlNrWl6I8RX6zFqXguQMf7+FtKaRSCKnPOPd2J/dew=",
+            "iterations": 100000,
+            "dkLen": 32
+        };
+
+        // -------- END CONFIG --------
+
         const SHEET_API_URL = "https://script.google.com/macros/s/AKfycbwZX99HNPc-cjDfKhOZxA5jHdujRT6PqXewOd7sIacZUu2I4ORCrUoa8_wQc5jc_OFt/exec";
         let currentBusinessData = null;
         let currentStats = null;
         let activityChart = null;
         let currentPeriod = 7;
 
+        // Utility: base64 <-> ArrayBuffer
+        function base64ToArrayBuffer(base64) {
+            const binaryString = atob(base64);
+            const len = binaryString.length;
+            const bytes = new Uint8Array(len);
+            for (let i = 0; i < len; i++) {
+                bytes[i] = binaryString.charCodeAt(i);
+            }
+            return bytes.buffer;
+        }
+
+        function arrayBufferToBase64(buffer) {
+            const bytes = new Uint8Array(buffer);
+            let binary = "";
+            for (let i = 0; i < bytes.byteLength; i++) {
+                binary += String.fromCharCode(bytes[i]);
+            }
+            return btoa(binary);
+        }
+
+        // Derive key with Web Crypto (PBKDF2, SHA-256)
+        async function deriveKeyPBKDF2(password, saltBase64, iterations, dkLen) {
+            const enc = new TextEncoder();
+            const passKey = enc.encode(password);
+            const saltBuffer = base64ToArrayBuffer(saltBase64);
+
+            const keyMaterial = await crypto.subtle.importKey(
+                "raw",
+                passKey,
+                { name: "PBKDF2" },
+                false,
+                ["deriveBits", "deriveKey"]
+            );
+
+            const derivedBits = await crypto.subtle.deriveBits(
+                {
+                    name: "PBKDF2",
+                    salt: saltBuffer,
+                    iterations: iterations,
+                    hash: "SHA-256"
+                },
+                keyMaterial,
+                dkLen * 8 // bits
+            );
+
+            return new Uint8Array(derivedBits);
+        }
+
+        // Verify password by deriving and comparing base64 strings (constant-time compare not available directly, but string compare is used)
+        async function verifyPassword(inputPassword) {
+            try {
+                const derived = await deriveKeyPBKDF2(inputPassword, PASSWORD_STORE.salt, PASSWORD_STORE.iterations, PASSWORD_STORE.dkLen);
+                const derivedB64 = arrayBufferToBase64(derived.buffer);
+                // compare
+                return derivedB64 === PASSWORD_STORE.hash;
+            } catch (e) {
+                console.error("Password verify error:", e);
+                return false;
+            }
+        }
+
+        // Helper you can run in browser console to create a new salt+hash pair.
+        // Usage (in console): generatePasswordHashForConsole('YourNewPassword')
+        async function generatePasswordHashForConsole(password) {
+            // create random salt
+            const salt = crypto.getRandomValues(new Uint8Array(16));
+            const saltB64 = arrayBufferToBase64(salt.buffer);
+            const iterations = 100000;
+            const dkLen = 32;
+            const derived = await deriveKeyPBKDF2(password, saltB64, iterations, dkLen);
+            const derivedB64 = arrayBufferToBase64(derived.buffer);
+            console.log("Replace PASSWORD_STORE with:");
+            console.log(JSON.stringify({ salt: saltB64, hash: derivedB64, iterations: iterations, dkLen: dkLen }, null, 2));
+            return { salt: saltB64, hash: derivedB64, iterations, dkLen };
+        }
+        // (End helper)
+
         // Login
         async function login() {
             const phone = document.getElementById('phoneInput').value.trim();
+            const password = document.getElementById('passwordInput').value;
             const errorMsg = document.getElementById('errorMsg');
+            const loginBtn = document.getElementById('loginBtn');
 
             if (!phone || phone.length < 10) {
                 showError('Please enter a valid 10-digit phone number');
                 return;
             }
+            if (!password || password.length < 6) {
+                showError('Please enter a valid password (min 6 chars)');
+                return;
+            }
 
             errorMsg.style.display = 'none';
-            document.querySelector('.btn').disabled = true;
-            document.querySelector('.btn').innerHTML = '<i class="fas fa-spinner fa-spin"></i> Loading...';
+            loginBtn.disabled = true;
+            loginBtn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Loading...';
+
+            // Verify password first on client (improves UX), but remember server-side verification is required for true security
+            const passOk = await verifyPassword(password);
+            if (!passOk) {
+                showError('Incorrect password');
+                loginBtn.disabled = false;
+                loginBtn.innerHTML = '<i class="fas fa-sign-in-alt"></i> View Dashboard';
+                return;
+            }
 
             try {
                 // Fetch directory data
@@ -515,16 +694,17 @@
 
                 if (!business) {
                     showError('No business found with this phone number. Try: 8894869371');
-                    document.querySelector('.btn').disabled = false;
-                    document.querySelector('.btn').innerHTML = '<i class="fas fa-sign-in-alt"></i> View Dashboard';
+                    loginBtn.disabled = false;
+                    loginBtn.innerHTML = '<i class="fas fa-sign-in-alt"></i> View Dashboard';
                     return;
                 }
 
                 currentBusinessData = business;
 
-                // Store session
+                // Store session (only phone & business minimal)
                 sessionStorage.setItem('loggedInPhone', phone);
                 sessionStorage.setItem('businessData', JSON.stringify(business));
+                sessionStorage.setItem('dashboardAuth', 'ok'); // minimal session flag
 
                 // Show dashboard
                 document.getElementById('loginScreen').style.display = 'none';
@@ -533,8 +713,9 @@
                 loadDashboard();
             } catch (error) {
                 showError('Failed to load data. Please try again.');
-                document.querySelector('.btn').disabled = false;
-                document.querySelector('.btn').innerHTML = '<i class="fas fa-sign-in-alt"></i> View Dashboard';
+                console.error(error);
+                loginBtn.disabled = false;
+                loginBtn.innerHTML = '<i class="fas fa-sign-in-alt"></i> View Dashboard';
             }
         }
 
@@ -749,8 +930,9 @@
         window.onload = function () {
             const loggedInPhone = sessionStorage.getItem('loggedInPhone');
             const businessData = sessionStorage.getItem('businessData');
+            const auth = sessionStorage.getItem('dashboardAuth');
 
-            if (loggedInPhone && businessData) {
+            if (loggedInPhone && businessData && auth === 'ok') {
                 currentBusinessData = JSON.parse(businessData);
                 document.getElementById('loginScreen').style.display = 'none';
                 document.getElementById('dashboard').style.display = 'block';
@@ -761,6 +943,9 @@
         // Enter key login
         document.addEventListener('DOMContentLoaded', () => {
             document.getElementById('phoneInput')?.addEventListener('keypress', (e) => {
+                if (e.key === 'Enter') login();
+            });
+            document.getElementById('passwordInput')?.addEventListener('keypress', (e) => {
                 if (e.key === 'Enter') login();
             });
         });
