@@ -35,6 +35,7 @@
             --text-muted: #64748b;
             --border: #e2e8f0;
             --shadow-glow: 0 4px 20px rgba(0, 0, 0, 0.08);
+            --hero-title: #ffffff;
         }
 
         * {
@@ -247,8 +248,12 @@
             font-size: clamp(2.5rem, 7vw, 6rem);
             line-height: 1.1;
             margin-bottom: 1.5rem;
-            color: var(--text-main);
             animation: slideInDown 0.8s ease-out;
+        }
+
+        [data-theme="light"] .hero h1 {
+            color: #ffffff;
+            text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
         }
 
         [data-theme="dark"] .hero h1 {
@@ -432,12 +437,19 @@
         .stat-value {
             font-size: 3rem;
             font-weight: 900;
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+
+        [data-theme="light"] .stat-value {
+            color: var(--primary);
+        }
+
+        [data-theme="dark"] .stat-value {
             background: linear-gradient(135deg, var(--primary), var(--accent));
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
             background-clip: text;
-            display: block;
-            margin-bottom: 0.5rem;
         }
 
         .stat-label {
@@ -504,6 +516,13 @@
         .weather-temp {
             font-size: 5rem;
             font-weight: 900;
+        }
+
+        [data-theme="light"] .weather-temp {
+            color: var(--primary);
+        }
+
+        [data-theme="dark"] .weather-temp {
             background: linear-gradient(135deg, var(--primary), var(--accent));
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
@@ -554,6 +573,14 @@
         .section-header h2 {
             font-size: clamp(2.5rem, 5vw, 4rem);
             margin-bottom: 1.5rem;
+        }
+
+        [data-theme="light"] .section-header h2 {
+            color: #ffffff;
+            text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
+        }
+
+        [data-theme="dark"] .section-header h2 {
             background: linear-gradient(135deg, var(--text-main) 0%, var(--primary) 100%);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
@@ -937,19 +964,9 @@
 
     <nav id="navbar">
         <div class="nav-content">
-            <a href="index.html" class="logo" style="display: flex; align-items: center; gap: 8px;">
-                <svg width="190" height="40" viewBox="0 0 190 40" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M10 30L20 10L30 30" stroke="#3b82f6" stroke-width="4" stroke-linecap="round"
-                        stroke-linejoin="round" />
-                    <path d="M20 30L30 18L40 30" stroke="#94a3b8" stroke-width="4" stroke-linecap="round"
-                        stroke-linejoin="round" />
-                    <circle cx="20" cy="16" r="3" fill="#f59e0b" />
-                    <text x="50" y="28" font-family="'Outfit', sans-serif" font-size="24" font-weight="800"
-                        fill="var(--text-main)">
-                        Karsog <tspan dx="-4" font-family="'Inter', sans-serif" font-size="16" font-weight="600"
-                            fill="#3b82f6">.com</tspan>
-                    </text>
-                </svg>
+            <a href="#" class="logo">
+                <i class="fas fa-mountain"></i>
+                Karsog<span style="color: var(--primary);">.com</span>
             </a>
             <ul class="nav-links" id="navLinks">
                 <li><a href="#directory">Directory</a></li>
@@ -1349,6 +1366,23 @@
 
         // News Functions
         async function fetchNews() {
+            try {
+                const response = await fetch('./assets/site_data.json');
+                if (!response.ok) throw new Error('Local data file not found');
+                const data = await response.json();
+
+                if (data.news && data.news.length > 0) {
+                    displayNews(data.news);
+                } else {
+                    displayNewsFallback();
+                }
+            } catch (error) {
+                console.log('Loading fallback news:', error.message);
+                displayNewsFallback();
+            }
+        }
+
+        function displayNewsFallback() {
             const fallbackNews = [
                 {
                     title: 'Shikari Devi Trek Opens for Winter Season',
