@@ -50,15 +50,7 @@
       "priceRange": "₹₹",
       "openingHoursSpecification": {
         "@type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
+        "dayOfWeek": [ "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday" ],
         "opens": "09:00",
         "closes": "20:00"
       }
@@ -75,23 +67,15 @@
     <style>
         /* --- DESIGN SYSTEM --- */
         :root {
-            /* Monetization Colors */
             --primary: #10b981;
-            /* Emerald Green - Trust & Nature */
             --primary-dark: #059669;
             --gold: #fbbf24;
-            /* Gold - Premium/Action */
             --action: #f43f5e;
-            /* Red/Pink - Urgency/Book Now */
-
-            /* Base Colors */
             --bg-body: #0f172a;
             --bg-card: #1e293b;
             --text-main: #f1f5f9;
             --text-muted: #94a3b8;
             --border: #334155;
-
-            /* Glassmorphism */
             --glass-bg: rgba(30, 41, 59, 0.7);
             --glass-border: rgba(255, 255, 255, 0.08);
             --glass-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3);
@@ -256,29 +240,103 @@
             gap: 1rem;
         }
 
+        /* --- TOGGLE SWITCH CSS START --- */
+        .theme-switch-wrapper {
+            display: flex;
+            align-items: center;
+        }
+
+        .theme-switch {
+            display: inline-block;
+            height: 30px;
+            position: relative;
+            width: 56px;
+        }
+
+        .theme-switch input {
+            display: none;
+        }
+
+        .slider {
+            background-color: var(--bg-card);
+            border: 1px solid var(--glass-border);
+            bottom: 0;
+            cursor: pointer;
+            left: 0;
+            position: absolute;
+            right: 0;
+            top: 0;
+            transition: .4s;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0 6px;
+        }
+
+        .slider:before {
+            background-color: var(--text-main);
+            bottom: 3px;
+            content: "";
+            height: 22px;
+            left: 4px;
+            position: absolute;
+            transition: .4s;
+            width: 22px;
+            z-index: 2;
+        }
+
+        .slider.round {
+            border-radius: 34px;
+        }
+
+        .slider.round:before {
+            border-radius: 50%;
+        }
+
+        /* Icon Styles inside toggle */
+        .slider .fa-sun {
+            color: #f59e0b;
+            font-size: 12px;
+            z-index: 1;
+            transition: 0.3s;
+            opacity: 0.5;
+        }
+
+        .slider .fa-moon {
+            color: #f1c40f;
+            font-size: 12px;
+            z-index: 1;
+            transition: 0.3s;
+            opacity: 1;
+        }
+
+        /* Checked State (Light Mode) */
+        input:checked+.slider {
+            background-color: var(--bg-card);
+            border-color: var(--primary);
+        }
+
+        input:checked+.slider:before {
+            transform: translateX(26px);
+            background-color: var(--primary);
+        }
+
+        input:checked+.slider .fa-sun {
+            opacity: 1;
+        }
+
+        input:checked+.slider .fa-moon {
+            opacity: 0.5;
+        }
+
+        /* --- TOGGLE SWITCH CSS END --- */
+
         .mobile-toggle {
             display: none;
             font-size: 1.5rem;
             cursor: pointer;
             color: var(--text-main);
-        }
-
-        /* Mobile Theme Toggle Style */
-        .mobile-theme-li {
-            display: none;
-            /* Hidden on desktop */
-            width: 100%;
-            padding-top: 1rem;
-            border-top: 1px solid var(--glass-border);
-            margin-top: 1rem;
-        }
-
-        .theme-toggle-btn {
-            background: transparent;
-            border: 1px solid var(--glass-border);
-            color: var(--text-main);
-            width: 100%;
-            justify-content: center;
+            margin-left: 15px;
         }
 
         /* --- HERO SECTION --- */
@@ -699,7 +757,6 @@
                 transition: 0.3s;
                 border-top: 1px solid var(--glass-border);
                 align-items: flex-start;
-                /* Align links to left */
             }
 
             .nav-links.active {
@@ -710,14 +767,9 @@
                 display: block;
             }
 
-            .cta-group {
+            /* Hide only the button on mobile, but keep the container for the switch */
+            .desktop-btn {
                 display: none;
-                /* Hides desktop button */
-            }
-
-            /* Show Mobile Theme Toggle */
-            .mobile-theme-li {
-                display: block;
             }
 
             .hero {
@@ -787,22 +839,23 @@
                 <li><a href="#stays" onclick="toggleMenu()">Stays</a></li>
                 <li><a href="#reviews" onclick="toggleMenu()">Reviews</a></li>
                 <li><a href="#blog" onclick="toggleMenu()">Blog</a></li>
-
-                <li class="mobile-theme-li">
-                    <button class="btn theme-toggle-btn" onclick="toggleTheme()">
-                        <i class="fas fa-moon mobile-theme-icon"></i> Switch Theme
-                    </button>
-                </li>
             </ul>
 
             <div class="cta-group">
-                <button class="btn btn-primary" onclick="scrollToForm()">Get Quote</button>
-                <i class="fas fa-moon" id="themeBtn" onclick="toggleTheme()" style="cursor:pointer; font-size:1.2rem;"
-                    title="Toggle Dark Mode"></i>
-            </div>
+                <button class="btn btn-primary desktop-btn" onclick="scrollToForm()">Get Quote</button>
 
-            <div class="mobile-toggle" onclick="toggleMenu()" aria-label="Open Menu">
-                <i class="fas fa-bars"></i>
+                <div class="theme-switch-wrapper">
+                    <label class="theme-switch" for="checkbox">
+                        <input type="checkbox" id="checkbox" onchange="toggleTheme()" />
+                        <div class="slider round">
+                            <i class="fas fa-moon"></i>
+                            <i class="fas fa-sun"></i>
+                        </div>
+                    </label>
+                </div>
+                <div class="mobile-toggle" onclick="toggleMenu()" aria-label="Open Menu">
+                    <i class="fas fa-bars"></i>
+                </div>
             </div>
         </div>
     </nav>
@@ -1295,20 +1348,28 @@
         // --- Theme Logic ---
         const toggleTheme = () => {
             const html = document.documentElement;
-            const current = html.getAttribute('data-theme') || 'dark';
-            const next = current === 'dark' ? 'light' : 'dark';
+            const checkbox = document.getElementById('checkbox');
+
+            // If checkbox is checked, we want light mode. If unchecked, dark mode.
+            const next = checkbox.checked ? 'light' : 'dark';
+
             html.setAttribute('data-theme', next);
-
-            // Update Desktop Icon
-            const desktopIcon = document.querySelector('#themeBtn');
-            desktopIcon.className = next === 'dark' ? 'fas fa-moon' : 'fas fa-sun';
-
-            // Update Mobile Icon
-            const mobileIcon = document.querySelector('.mobile-theme-icon');
-            if (mobileIcon) {
-                mobileIcon.className = next === 'dark' ? 'fas fa-moon mobile-theme-icon' : 'fas fa-sun mobile-theme-icon';
-            }
+            localStorage.setItem('theme', next);
         };
+
+        // Set Initial Theme on Load
+        window.addEventListener('DOMContentLoaded', () => {
+            const savedTheme = localStorage.getItem('theme') || 'dark';
+            document.documentElement.setAttribute('data-theme', savedTheme);
+
+            // Sync the toggle switch with the saved theme
+            const checkbox = document.getElementById('checkbox');
+            if (savedTheme === 'light') {
+                checkbox.checked = true;
+            } else {
+                checkbox.checked = false;
+            }
+        });
 
         // --- Navigation ---
         function toggleMenu() {
