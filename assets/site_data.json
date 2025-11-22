@@ -1,5 +1,84 @@
 {
-  "last_updated": "2025-11-22 13:02:15",
-  "news": [],
+  "last_updated": "2025-11-22 13:13:19",
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Sporting News"
+      },
+      "author": "Dan Gibbs",
+      "title": "Where to watch India vs. South Africa free live stream, TV channel, start time for 2nd Test cricket match",
+      "description": "India vs. South Africa start time: Here\u2019s how to watch the 2nd Test match on TV and live stream. The Sporting News takes you through all the information you need to follow the game.",
+      "url": "https://www.sportingnews.com/us/tsn/news/watch-india-vs-south-africa-free-live-stream-time-2nd-test-cricket/73aa1e9d55fd2a740112287c",
+      "urlToImage": "https://media.zenfs.com/en/the_sporting_news_articles_584/9b2963755fb901bd227a2b4172f1165c",
+      "publishedAt": "2025-11-21T13:00:02Z",
+      "content": "Where to watch India vs. South Africa free live stream, TV channel, start time for 2nd Test cricket match originally appeared on The Sporting News. Add The Sporting News as a Preferred Source by clic\u2026 [+2620 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Telangana, HP's drone policies be studied for replication in Delhi: L-G Saxena to chief secy after Red Fort blast",
+      "description": "Delhi Lieutenant Governor V K Saxena is examining drone policies from Telangana and Himachal Pradesh. This follows a recent blast near the Red Fort. The move aims to enhance security and balance development with safety. The government is also looking into bac\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/telangana-hps-drone-policies-be-studied-for-replication-in-delhi-l-g-saxena-to-chief-secy-after-red-fort-blast/articleshow/125486215.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125486240,width-1200,height-630,imgsize-118202,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-11-21T12:11:24Z",
+      "content": "New Delhi: Lieutenant Governor V K Saxena has directed the Delhi chief secretary to examine the possibility of replicating the drone policies of Telangana and Himachal Pradesh in the national capital\u2026 [+3439 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Royal Society of Chemistry"
+      },
+      "author": "Ravindra Kumar Upadhyay, Keshav Kumar Saini, Ravi Kant, Neha Chaudhary, Yogita Tonger, Arun Kumar, Rakesh Kumar",
+      "title": "Design and synthesis of novel spirocyclic oxindole based hybrid scaffolds: in silico docking approach towards therapeutic target exploration",
+      "description": "RSC Adv., 2025, 15,45619-45627DOI: 10.1039/D5RA07175E, Paper Open Access &nbsp This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported Licence.Ravindra Kumar Upadhyay, Keshav Kumar Saini, Ravi Kant, Neha Chaudhary, Yogita Tong\u2026",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2025/ra/d5ra07175e",
+      "urlToImage": "https://pubs.rsc.org/en/Content/Image/GA/D5RA07175E",
+      "publishedAt": "2025-11-21T00:00:00Z",
+      "content": "* \r\n Corresponding authors\r\na\r\n Bioorganic Laboratory, Department of Chemistry, University of Delhi, Delhi-110007, India\r\nE-mail:rakeshkp@email.com\r\nb\r\n Department of Chemistry, Sri Venkateswara Coll\u2026 [+520 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Statetimes.in"
+      },
+      "author": "statetimes_editor",
+      "title": "Srinagar police receives recognition for recovery of lost, stolen phones",
+      "description": "SRINAGAR: The Srinagar police has been recognised for its mobile recovery performance by the Centre, as it traced and recovered around 900 stolen or lost phones in over two years, valued at Rs 3.5 crore, an official said on Thursday. The Central Equipment Ide\u2026",
+      "url": "https://statetimes.in/srinagar-police-receives-recognition-for-recovery-of-lost-stolen-phones/",
+      "urlToImage": "https://statetimes.in/wp-content/uploads/2025/11/Srinagar-police-receives-recognition-for-recovery-of-lost-stolen-phones-4-1024x792.jpg",
+      "publishedAt": "2025-11-20T16:47:54Z",
+      "content": "SRINAGAR: The Srinagar police has been recognised for its mobile recovery performance by the Centre, as it traced and recovered around 900 stolen or lost phones in over two years, valued at Rs 3.5 cr\u2026 [+1423 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "BL Chennai Bureau",
+      "title": "Storage in India\u2019s key reservoirs drops below 90%",
+      "description": "Storage in India's major reservoirs drops to 89% capacity amid 71% deficient rainfall, impacting rabi sowing and regional levels.",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/storage-in-indias-key-reservoirs-drops-below-90/article70303750.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/dkw2rp/article70303844.ece/alternates/LANDSCAPE_1200/BVR_8394.JPG",
+      "publishedAt": "2025-11-20T14:21:21Z",
+      "content": "The storage in the major 161 Indian reservoirs dropped to lower than 90 per cent of the capacity, with rainfall under the influence of the North-East monsoon taking a break.\r\nData from the Central Wa\u2026 [+2640 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Ensure Kashmiris' safety across India; stereotyping unfortunate: Sajad Lone to PM Narendra Modi",
+      "description": "People's Conference president Sajad Lone has urged Prime Minister Narendra Modi to protect Kashmiris across India. Lone expressed concern over increasing reports of harassment and stereotyping faced by Kashmiris. He highlighted the anxiety of families whose l\u2026",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/ensure-kashmiris-safety-across-india-stereotyping-unfortunate-sajad-lone-to-pm-narendra-modi/articleshow/125457148.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125457170,width-1200,height-630,imgsize-127500,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-11-20T07:54:45Z",
+      "content": "People's Conference president Sajad Lone on Thursday appealed to Prime Minister Narendra Modi to ensure the safety of Kashmiris outside the union territory.\"Please ensure that any citizen of India, i\u2026 [+1326 chars]"
+    }
+  ],
   "directory": []
 }
