@@ -4,27 +4,73 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Karsog Valley Travels | Premium Himalayan Packages</title>
+
+    <title>Karsog Valley Travels | Trekking, Hotels & Tour Packages</title>
     <meta name="description"
-        content="Book exclusive tour packages, luxury stays, and trekking expeditions in Karsog Valley. The #1 rated travel agency for hidden Himachal.">
+        content="Explore the hidden gem of Himachal. Book Shikari Devi treks, Mamleshwar temple tours, and luxury homestays in Karsog Valley. Best rates guaranteed.">
+    <meta name="keywords"
+        content="Karsog Valley, Shikari Devi Trek, Himachali Homestays, Karsog Tourism, Mamleshwar Temple, Himachal Tour Packages, Apple Orchard Stays">
+    <meta name="author" content="Karsog.com">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.karsog.com">
 
-    <link rel="shortcut icon" type="image/x-icon" href="assets/img/karsog.png" />
-    <link rel="apple-touch-icon" href="assets/img/karsog.png" />
-
-    <!-- Open Graph -->
-    <meta property="og:title" content="Karsog Valley Travels | Premium Packages">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.karsog.com/">
+    <meta property="og:title" content="Karsog Valley Travels | Premium Himalayan Packages">
+    <meta property="og:description"
+        content="Book exclusive tour packages, luxury stays, and trekking expeditions in Karsog Valley. Rated #1 Travel Agency.">
     <meta property="og:image" content="https://images.unsplash.com/photo-1571406528594-39e35e359f97?q=80&w=1200">
 
-    <!-- Fonts & Icons -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://www.karsog.com/">
+    <meta property="twitter:title" content="Karsog Valley Travels | Premium Himalayan Packages">
+    <meta property="twitter:description"
+        content="Book exclusive tour packages, luxury stays, and trekking expeditions in Karsog Valley.">
+    <meta property="twitter:image" content="https://images.unsplash.com/photo-1571406528594-39e35e359f97?q=80&w=1200">
+
+    <link rel="shortcut icon" type="image/x-icon" href="assets/img/karsog.png" />
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "TravelAgency",
+      "name": "Karsog Valley Travels",
+      "image": "https://images.unsplash.com/photo-1571406528594-39e35e359f97",
+      "@id": "https://www.karsog.com",
+      "url": "https://www.karsog.com",
+      "telephone": "+918894869371",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Main Market",
+        "addressLocality": "Karsog",
+        "addressRegion": "HP",
+        "postalCode": "175011",
+        "addressCountry": "IN"
+      },
+      "priceRange": "₹₹",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "09:00",
+        "closes": "20:00"
+      }
+    }
+    </script>
+
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
         href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;700&family=Playfair+Display:wght@600;800&display=swap"
         rel="stylesheet">
-
-    <!-- Leaflet CSS -->
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
 
     <style>
         /* --- DESIGN SYSTEM --- */
@@ -43,6 +89,7 @@
             --bg-card: #1e293b;
             --text-main: #f1f5f9;
             --text-muted: #94a3b8;
+            --border: #334155;
 
             /* Glassmorphism */
             --glass-bg: rgba(30, 41, 59, 0.7);
@@ -55,6 +102,7 @@
             --bg-card: #ffffff;
             --text-main: #1e293b;
             --text-muted: #64748b;
+            --border: #e2e8f0;
             --glass-bg: rgba(255, 255, 255, 0.85);
             --glass-border: rgba(0, 0, 0, 0.05);
             --glass-shadow: 0 8px 32px 0 rgba(148, 163, 184, 0.15);
@@ -80,6 +128,11 @@
         h2,
         h3 {
             font-family: 'Playfair Display', serif;
+        }
+
+        img {
+            max-width: 100%;
+            display: block;
         }
 
         /* --- UTILITIES --- */
@@ -133,6 +186,10 @@
             color: var(--primary);
         }
 
+        .text-muted {
+            color: var(--text-muted);
+        }
+
         /* Scroll Animation */
         .reveal {
             opacity: 0;
@@ -174,14 +231,11 @@
             text-decoration: none;
         }
 
-        .logo span {
-            color: var(--primary);
-        }
-
         .nav-links {
             display: flex;
             gap: 2rem;
             list-style: none;
+            align-items: center;
         }
 
         .nav-links a {
@@ -206,9 +260,28 @@
             display: none;
             font-size: 1.5rem;
             cursor: pointer;
+            color: var(--text-main);
         }
 
-        /* --- HERO SECTION (Conversion Focused) --- */
+        /* Mobile Theme Toggle Style */
+        .mobile-theme-li {
+            display: none;
+            /* Hidden on desktop */
+            width: 100%;
+            padding-top: 1rem;
+            border-top: 1px solid var(--glass-border);
+            margin-top: 1rem;
+        }
+
+        .theme-toggle-btn {
+            background: transparent;
+            border: 1px solid var(--glass-border);
+            color: var(--text-main);
+            width: 100%;
+            justify-content: center;
+        }
+
+        /* --- HERO SECTION --- */
         .hero {
             min-height: 90vh;
             display: flex;
@@ -251,7 +324,7 @@
             border: 1px solid rgba(255, 255, 255, 0.2);
         }
 
-        /* --- NEW: FEATURES SECTION --- */
+        /* --- FEATURES SECTION --- */
         .features-grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -280,7 +353,7 @@
             display: block;
         }
 
-        /* --- PACKAGES (Revenue Driver) --- */
+        /* --- PACKAGES --- */
         .section-title {
             text-align: center;
             margin-bottom: 3rem;
@@ -412,7 +485,7 @@
             object-fit: cover;
         }
 
-        /* --- NEW: TESTIMONIALS --- */
+        /* --- TESTIMONIALS --- */
         .testimonial-grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -440,7 +513,7 @@
             object-fit: cover;
         }
 
-        /* --- NEW: FAQ ACCORDION --- */
+        /* --- FAQ ACCORDION --- */
         .accordion {
             max-width: 800px;
             margin: 0 auto;
@@ -490,7 +563,7 @@
             color: var(--primary);
         }
 
-        /* --- NEW: BLOG CARDS --- */
+        /* --- BLOG CARDS --- */
         .blog-grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -625,6 +698,8 @@
                 padding: 2rem;
                 transition: 0.3s;
                 border-top: 1px solid var(--glass-border);
+                align-items: flex-start;
+                /* Align links to left */
             }
 
             .nav-links.active {
@@ -637,9 +712,14 @@
 
             .cta-group {
                 display: none;
+                /* Hides desktop button */
             }
 
-            /* Hide header button on mobile, rely on hero */
+            /* Show Mobile Theme Toggle */
+            .mobile-theme-li {
+                display: block;
+            }
+
             .hero {
                 text-align: center;
                 justify-content: center;
@@ -677,34 +757,27 @@
 
 <body>
 
-    <!-- Floating WhatsApp for High Conversion -->
     <a href="https://wa.me/918894869371" target="_blank" class="whatsapp-float" aria-label="Chat on WhatsApp">
         <i class="fab fa-whatsapp"></i>
     </a>
 
     <div id="toast"><i class="fas fa-check-circle"></i> Inquiry Sent! We'll call you shortly.</div>
 
-    <!-- Navigation -->
     <nav>
         <div class="container nav-content">
             <a href="index.html" class="logo" style="display: flex; align-items: center; gap: 8px;">
-                <svg width="190" height="40" viewBox="0 0 190 40" xmlns="http://www.w3.org/2000/svg">
-
-                    <!-- Icon -->
+                <svg width="190" height="40" viewBox="0 0 190 40" xmlns="http://www.w3.org/2000/svg"
+                    aria-label="Karsog.com Logo">
                     <path d="M10 30L20 10L30 30" stroke="#3b82f6" stroke-width="4" stroke-linecap="round"
                         stroke-linejoin="round" />
                     <path d="M20 30L30 18L40 30" stroke="#94a3b8" stroke-width="4" stroke-linecap="round"
                         stroke-linejoin="round" />
                     <circle cx="20" cy="16" r="3" fill="#f59e0b" />
-
-                    <!-- Text -->
                     <text x="50" y="28" font-family="'Outfit', sans-serif" font-size="24" font-weight="800"
                         fill="var(--text-main)">
-                        Karsog
-                        <tspan dx="-4" font-family="'Inter', sans-serif" font-size="16" font-weight="600"
+                        Karsog<tspan dx="-4" font-family="'Inter', sans-serif" font-size="16" font-weight="600"
                             fill="#3b82f6">.com</tspan>
                     </text>
-
                 </svg>
             </a>
 
@@ -714,29 +787,34 @@
                 <li><a href="#stays" onclick="toggleMenu()">Stays</a></li>
                 <li><a href="#reviews" onclick="toggleMenu()">Reviews</a></li>
                 <li><a href="#blog" onclick="toggleMenu()">Blog</a></li>
+
+                <li class="mobile-theme-li">
+                    <button class="btn theme-toggle-btn" onclick="toggleTheme()">
+                        <i class="fas fa-moon mobile-theme-icon"></i> Switch Theme
+                    </button>
+                </li>
             </ul>
 
             <div class="cta-group">
                 <button class="btn btn-primary" onclick="scrollToForm()">Get Quote</button>
-                <i class="fas fa-moon" id="themeBtn" onclick="toggleTheme()"
-                    style="cursor:pointer; font-size:1.2rem;"></i>
+                <i class="fas fa-moon" id="themeBtn" onclick="toggleTheme()" style="cursor:pointer; font-size:1.2rem;"
+                    title="Toggle Dark Mode"></i>
             </div>
 
-            <div class="mobile-toggle" onclick="toggleMenu()">
+            <div class="mobile-toggle" onclick="toggleMenu()" aria-label="Open Menu">
                 <i class="fas fa-bars"></i>
             </div>
         </div>
     </nav>
 
-    <!-- Hero Section -->
     <header class="hero" id="home">
         <div class="container hero-content reveal active">
             <div class="trust-badge">
                 <i class="fas fa-star text-gold"></i> 4.9/5 Rating based on 500+ Travelers
             </div>
             <h1>Uncover the Hidden <br><span class="text-primary">Himalayan Paradise</span></h1>
-            <p>Don't just visit Karsog Valley—experience it. We organize premium itineraries, exclusive temple tours,
-                and luxury camping experiences.</p>
+            <p>Don't just visit Karsog Valley—experience it. We organize premium itineraries, exclusive Mamleshwar
+                temple tours, and luxury camping experiences.</p>
 
             <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
                 <button onclick="scrollToForm()" class="btn btn-gold">
@@ -749,7 +827,6 @@
         </div>
     </header>
 
-    <!-- NEW: Why Choose Us -->
     <section style="padding: 4rem 0;">
         <div class="container">
             <div class="features-grid reveal">
@@ -777,7 +854,6 @@
         </div>
     </section>
 
-    <!-- Best Selling Packages -->
     <section id="packages" style="padding: 4rem 0; background: var(--bg-card);">
         <div class="container">
             <div class="section-title reveal">
@@ -786,11 +862,10 @@
             </div>
 
             <div class="package-grid">
-                <!-- Package 1: Budget -->
                 <div class="package-card reveal">
                     <div class="pkg-img">
                         <img src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=600&auto=format&fit=crop"
-                            alt="Lake View">
+                            loading="lazy" alt="Karsog Valley View">
                     </div>
                     <div class="pkg-content">
                         <h3>Weekend Escape</h3>
@@ -806,12 +881,11 @@
                     </div>
                 </div>
 
-                <!-- Package 2: Best Seller -->
                 <div class="package-card reveal" style="border-color: var(--gold); transform: scale(1.02);">
                     <div class="popular-tag"><i class="fas fa-fire"></i> BEST SELLER</div>
                     <div class="pkg-img">
                         <img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=600&auto=format&fit=crop"
-                            alt="Trekking">
+                            loading="lazy" alt="Shikari Devi Trekking">
                     </div>
                     <div class="pkg-content">
                         <h3>Shikari Devi Trek</h3>
@@ -827,11 +901,10 @@
                     </div>
                 </div>
 
-                <!-- Package 3: Premium -->
                 <div class="package-card reveal">
                     <div class="pkg-img">
                         <img src="https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=600&auto=format&fit=crop"
-                            alt="Luxury Hotel">
+                            loading="lazy" alt="Luxury Hotel Karsog">
                     </div>
                     <div class="pkg-content">
                         <h3>Royal Karsog Retreat</h3>
@@ -850,7 +923,6 @@
         </div>
     </section>
 
-    <!-- Verified Stays -->
     <section id="stays" style="padding: 4rem 0;">
         <div class="container">
             <div class="section-title reveal">
@@ -861,7 +933,7 @@
                 <div class="shop-card reveal">
                     <div class="shop-img">
                         <img src="https://images.unsplash.com/photo-1611892440504-42a792e24d32?q=80&w=400&auto=format&fit=crop"
-                            alt="Hotel Bedroom">
+                            loading="lazy" alt="Hotel OMS Karsog">
                     </div>
                     <h4>Hotel OMS</h4>
                     <p class="text-muted" style="font-size: 0.9rem;">Luxury • Market Center</p>
@@ -875,7 +947,7 @@
                 <div class="shop-card reveal">
                     <div class="shop-img">
                         <img src="https://images.unsplash.com/photo-1510798831971-661eb04b3739?q=80&w=400&auto=format&fit=crop"
-                            alt="Cabin">
+                            loading="lazy" alt="Apple Orchard Cottage">
                     </div>
                     <h4>Orchard Cottage</h4>
                     <p class="text-muted" style="font-size: 0.9rem;">Privacy • Scenic View</p>
@@ -889,7 +961,7 @@
                 <div class="shop-card reveal">
                     <div class="shop-img">
                         <img src="https://images.unsplash.com/photo-1587061949409-02df41d5e562?q=80&w=400&auto=format&fit=crop"
-                            alt="Homestay">
+                            loading="lazy" alt="Mamleshwar Homestay">
                     </div>
                     <h4>Mamleshwar Stay</h4>
                     <p class="text-muted" style="font-size: 0.9rem;">Cultural • Near Temple</p>
@@ -903,7 +975,7 @@
                 <div class="shop-card reveal">
                     <div class="shop-img">
                         <img src="https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=400&auto=format&fit=crop"
-                            alt="Resort">
+                            loading="lazy" alt="Valley View Resort">
                     </div>
                     <h4>Valley View Resort</h4>
                     <p class="text-muted" style="font-size: 0.9rem;">Premium • Dining</p>
@@ -918,7 +990,6 @@
         </div>
     </section>
 
-    <!-- NEW: Testimonials (Social Proof) -->
     <section id="reviews" style="padding: 4rem 0; background: var(--bg-card);">
         <div class="container">
             <div class="section-title reveal">
@@ -934,7 +1005,7 @@
                         guide knew exactly when to start to catch the perfect sunrise. Highly recommended!"</p>
                     <div class="user-profile">
                         <img src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=100&auto=format&fit=crop"
-                            alt="User" class="user-img">
+                            loading="lazy" alt="Priya Sharma" class="user-img">
                         <div>
                             <h5>Priya Sharma</h5>
                             <span style="font-size: 0.8rem; color: var(--text-muted);">Delhi, India</span>
@@ -949,7 +1020,7 @@
                         homestay arrangement was cozy and the food was authentic Himachali cuisine."</p>
                     <div class="user-profile">
                         <img src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=100&auto=format&fit=crop"
-                            alt="User" class="user-img">
+                            loading="lazy" alt="Rahul Verma" class="user-img">
                         <div>
                             <h5>Rahul Verma</h5>
                             <span style="font-size: 0.8rem; color: var(--text-muted);">Chandigarh, India</span>
@@ -964,7 +1035,7 @@
                         always available on WhatsApp for any query. Felt very safe traveling solo."</p>
                     <div class="user-profile">
                         <img src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=100&auto=format&fit=crop"
-                            alt="User" class="user-img">
+                            loading="lazy" alt="Anita Roy" class="user-img">
                         <div>
                             <h5>Anita Roy</h5>
                             <span style="font-size: 0.8rem; color: var(--text-muted);">Mumbai, India</span>
@@ -975,7 +1046,6 @@
         </div>
     </section>
 
-    <!-- Gear Shop -->
     <section id="shop" style="padding: 4rem 0;">
         <div class="container">
             <div class="section-title reveal">
@@ -986,7 +1056,7 @@
                 <div class="shop-card reveal">
                     <div class="shop-img"><img
                             src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=400&auto=format&fit=crop"
-                            alt="Shoes"></div>
+                            loading="lazy" alt="Trekking Shoes"></div>
                     <h4>Trek Boots Pro</h4>
                     <h4 class="text-primary">₹3,499</h4>
                     <button class="btn btn-gold" style="font-size: 0.8rem; margin-top: 0.5rem;">Buy on Amazon</button>
@@ -994,7 +1064,7 @@
                 <div class="shop-card reveal">
                     <div class="shop-img"><img
                             src="https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=400&auto=format&fit=crop"
-                            alt="Backpack"></div>
+                            loading="lazy" alt="Trekking Backpack"></div>
                     <h4>55L Rucksack</h4>
                     <h4 class="text-primary">₹1,999</h4>
                     <button class="btn btn-gold" style="font-size: 0.8rem; margin-top: 0.5rem;">Buy on Amazon</button>
@@ -1002,7 +1072,7 @@
                 <div class="shop-card reveal">
                     <div class="shop-img"><img
                             src="https://images.unsplash.com/photo-1706275400998-7fc21c8cd8ed?q=80&w=400&auto=format&fit=crop"
-                            alt="Powerbank"></div>
+                            loading="lazy" alt="Powerbank"></div>
                     <h4>20k mAh Bank</h4>
                     <h4 class="text-primary">₹1,299</h4>
                     <button class="btn btn-gold" style="font-size: 0.8rem; margin-top: 0.5rem;">Buy on Amazon</button>
@@ -1010,7 +1080,7 @@
                 <div class="shop-card reveal">
                     <div class="shop-img"><img
                             src="https://images.unsplash.com/photo-1516961642265-531546e84af2?q=80&w=400&auto=format&fit=crop"
-                            alt="Camera"></div>
+                            loading="lazy" alt="Action Camera"></div>
                     <h4>Action Cam</h4>
                     <h4 class="text-primary">₹6,999</h4>
                     <button class="btn btn-gold" style="font-size: 0.8rem; margin-top: 0.5rem;">Buy on Amazon</button>
@@ -1019,7 +1089,6 @@
         </div>
     </section>
 
-    <!-- NEW: FAQ Section -->
     <section id="faq" style="padding: 4rem 0; background: var(--bg-card);">
         <div class="container">
             <div class="section-title reveal">
@@ -1071,7 +1140,6 @@
         </div>
     </section>
 
-    <!-- NEW: Blog/Guides Section -->
     <section id="blog" style="padding: 4rem 0;">
         <div class="container">
             <div class="section-title reveal">
@@ -1082,7 +1150,8 @@
                 <div class="blog-card reveal">
                     <div style="height: 200px; overflow: hidden;">
                         <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600&auto=format&fit=crop"
-                            style="width: 100%; height: 100%; object-fit: cover;" alt="Guide 1">
+                            loading="lazy" style="width: 100%; height: 100%; object-fit: cover;"
+                            alt="Karsog Hidden Gems">
                     </div>
                     <div class="blog-content">
                         <span class="blog-date">OCT 12, 2025</span>
@@ -1090,13 +1159,14 @@
                         <p class="text-muted" style="font-size: 0.9rem; margin-bottom: 1rem;">Beyond the main temple,
                             explore these secret waterfalls and meadows...</p>
                         <a href="#" class="text-primary" style="font-weight: 600; text-decoration: none;">Read More
-                            &rarr;</a>
+                            →</a>
                     </div>
                 </div>
                 <div class="blog-card reveal">
                     <div style="height: 200px; overflow: hidden;">
                         <img src="https://images.unsplash.com/photo-1501555088652-021faa106b9b?q=80&w=600&auto=format&fit=crop"
-                            style="width: 100%; height: 100%; object-fit: cover;" alt="Guide 2">
+                            loading="lazy" style="width: 100%; height: 100%; object-fit: cover;"
+                            alt="Winter Packing List Himachal">
                     </div>
                     <div class="blog-content">
                         <span class="blog-date">NOV 05, 2025</span>
@@ -1104,13 +1174,14 @@
                         <p class="text-muted" style="font-size: 0.9rem; margin-bottom: 1rem;">Don't freeze up there!
                             Here is the ultimate checklist for a January trip...</p>
                         <a href="#" class="text-primary" style="font-weight: 600; text-decoration: none;">Read More
-                            &rarr;</a>
+                            →</a>
                     </div>
                 </div>
                 <div class="blog-card reveal">
                     <div style="height: 200px; overflow: hidden;">
                         <img src="https://images.unsplash.com/photo-1593693397690-362cb9666fc2?q=80&w=600&auto=format&fit=crop"
-                            style="width: 100%; height: 100%; object-fit: cover;" alt="Guide 3">
+                            loading="lazy" style="width: 100%; height: 100%; object-fit: cover;"
+                            alt="Mamleshwar Temple History">
                     </div>
                     <div class="blog-content">
                         <span class="blog-date">DEC 20, 2025</span>
@@ -1118,14 +1189,13 @@
                         <p class="text-muted" style="font-size: 0.9rem; margin-bottom: 1rem;">The legend of the
                             5000-year-old grain and its connection to the Pandavas...</p>
                         <a href="#" class="text-primary" style="font-weight: 600; text-decoration: none;">Read More
-                            &rarr;</a>
+                            →</a>
                     </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <!-- Lead Generation Form -->
     <section id="contact" class="contact-section reveal">
         <div class="container">
             <div class="form-box">
@@ -1136,11 +1206,11 @@
                 </div>
                 <form onsubmit="submitLead(event)">
                     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
-                        <input type="text" placeholder="Your Name" required>
-                        <input type="tel" placeholder="Phone Number" required>
+                        <input type="text" placeholder="Your Name" required aria-label="Name">
+                        <input type="tel" placeholder="Phone Number" required aria-label="Phone">
                     </div>
-                    <input type="email" placeholder="Email Address" required>
-                    <select id="packageSelect">
+                    <input type="email" placeholder="Email Address" required aria-label="Email">
+                    <select id="packageSelect" aria-label="Select Package">
                         <option value="">Select a Package / Interest</option>
                         <option value="Weekend Escape">Weekend Escape (Budget)</option>
                         <option value="Shikari Trek">Shikari Devi Trek (Adventure)</option>
@@ -1148,9 +1218,10 @@
                         <option value="Hotel Booking">Hotel Booking Only</option>
                         <option value="Custom">Custom Itinerary</option>
                     </select>
-                    <input type="date" placeholder="Travel Date">
+                    <input type="date" placeholder="Travel Date" aria-label="Travel Date">
                     <textarea rows="4"
-                        placeholder="Any specific requirements? (e.g., Veg food only, traveling with kids)"></textarea>
+                        placeholder="Any specific requirements? (e.g., Veg food only, traveling with kids)"
+                        aria-label="Requirements"></textarea>
                     <button type="submit" class="btn btn-gold"
                         style="width: 100%; justify-content: center; font-size: 1.1rem;">
                         Get Free Quote <i class="fas fa-arrow-right"></i>
@@ -1163,30 +1234,29 @@
         </div>
     </section>
 
-    <!-- Map Section -->
-    <!-- <div id="map" style="width: 100%; height: 400px; z-index: 1; border-top: 1px solid var(--glass-border);"></div> -->
     <div
         style="width: 100%; height: 400px; border-top: 1px solid var(--border); filter: invert(90%) hue-rotate(180deg);">
-        <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6818.778769630907!2d77.20020847539213!3d31.38133657428643!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3905a079f41fe057%3A0x8e2459fc9df12f47!2sKarsog%2C%20Himachal%20Pradesh!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin"
+        <iframe src="https://maps.google.com/maps?q=Karsog,Himachal+Pradesh&t=&z=13&ie=UTF8&iwloc=&output=embed"
             width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"
-            referrerpolicy="no-referrer-when-downgrade">
+            referrerpolicy="no-referrer-when-downgrade" title="Map of Karsog Valley">
         </iframe>
     </div>
 
-
-
-    <!-- Footer -->
     <footer>
         <div class="container">
             <div class="footer-grid">
                 <div>
-                    <!-- <a href="index.html" class="logo" style="display: flex; align-items: center; gap: 8px;"> -->
-                    <a href="index.html" class="logo" style="margin-bottom: 0.5rem;"><img
-                            src="assets/img/logo-white.svg"></a>
+                    <a href="index.html" class="logo" style="margin-bottom: 0.5rem;">
+                        <svg width="150" height="40" viewBox="0 0 190 40" xmlns="http://www.w3.org/2000/svg">
+                            <text x="0" y="28" font-family="'Outfit', sans-serif" font-size="24" font-weight="800"
+                                fill="white">
+                                Karsog<tspan dx="-4" font-family="'Inter', sans-serif" font-size="16" font-weight="600"
+                                    fill="#10b981">.com</tspan>
+                            </text>
+                        </svg>
                     </a>
-                    <p style="font-size: 0.9rem; color: white;">The official tourism partner for Karsog
-                        Valley. We ensure safe, memorable, and authentic Himalayan experiences.</p>
+                    <p style="font-size: 0.9rem; color: white;">The official tourism partner for Karsog Valley. We
+                        ensure safe, memorable, and authentic Himalayan experiences.</p>
                 </div>
                 <div>
                     <h4 style="color: white; margin-bottom: 1.5rem;">Quick Links</h4>
@@ -1206,22 +1276,21 @@
                 <div>
                     <h4 style="color: white; margin-bottom: 1.5rem;">Newsletter</h4>
                     <div style="display: flex;">
-                        <input type="email" placeholder="Email" style="border-radius: 8px 0 0 8px; margin: 0;">
+                        <input type="email" placeholder="Email" style="border-radius: 8px 0 0 8px; margin: 0;"
+                            aria-label="Newsletter Email">
                         <button class="btn btn-primary"
                             style="border-radius: 0 8px 8px 0; padding: 0 1rem;">Join</button>
                     </div>
                 </div>
             </div>
             <div style="text-align: center; margin-top: 4rem; padding-top: 2rem; border-top: 1px solid #334155;">
-                <p style="font-size: 0.8rem; color: var(--text-muted);">&copy; 2026 Karsog.com. All rights reserved.
+                <p style="font-size: 0.8rem; color: var(--text-muted);">© 2026 Karsog.com. All rights reserved.
                     <a href="#" style="color: var(--text-muted);">Privacy Policy</a>
                 </p>
             </div>
         </div>
     </footer>
 
-    <!-- Scripts -->
-    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script>
         // --- Theme Logic ---
         const toggleTheme = () => {
@@ -1229,7 +1298,16 @@
             const current = html.getAttribute('data-theme') || 'dark';
             const next = current === 'dark' ? 'light' : 'dark';
             html.setAttribute('data-theme', next);
-            document.querySelector('#themeBtn').className = next === 'dark' ? 'fas fa-moon' : 'fas fa-sun';
+
+            // Update Desktop Icon
+            const desktopIcon = document.querySelector('#themeBtn');
+            desktopIcon.className = next === 'dark' ? 'fas fa-moon' : 'fas fa-sun';
+
+            // Update Mobile Icon
+            const mobileIcon = document.querySelector('.mobile-theme-icon');
+            if (mobileIcon) {
+                mobileIcon.className = next === 'dark' ? 'fas fa-moon mobile-theme-icon' : 'fas fa-sun mobile-theme-icon';
+            }
         };
 
         // --- Navigation ---
@@ -1284,120 +1362,7 @@
             });
         }, { threshold: 0.1 });
         document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
-
-        // --- Map ---
-        document.addEventListener('DOMContentLoaded', () => {
-            const map = L.map('map', { scrollWheelZoom: false }).setView([31.3848, 77.2053], 13);
-            L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-                attribution: '&copy; OpenStreetMap &copy; CARTO'
-            }).addTo(map);
-
-            const icon = L.icon({
-                iconUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon.png',
-                shadowUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png',
-                iconSize: [25, 41], iconAnchor: [12, 41]
-            });
-
-            L.marker([31.3848, 77.2053], { icon }).addTo(map).bindPopup("<b>Karsog HQ</b><br>Start Point").openPopup();
-            L.marker([31.3500, 77.1800], { icon }).addTo(map).bindPopup("Mamleshwar Temple");
-            L.marker([31.4500, 77.2500], { icon }).addTo(map).bindPopup("Shikari Devi Trek");
-        });
     </script>
-    <script>
-        function initMap() {
-            // Karsog Coordinates
-            const karsog = { lat: 31.3813, lng: 77.2046 };
-
-            // Dark Mode Map Style
-            const darkStyle = [
-                { elementType: "geometry", stylers: [{ color: "#242f3e" }] },
-                { elementType: "labels.text.stroke", stylers: [{ color: "#242f3e" }] },
-                { elementType: "labels.text.fill", stylers: [{ color: "#746855" }] },
-                {
-                    featureType: "administrative.locality",
-                    elementType: "labels.text.fill",
-                    stylers: [{ color: "#d59563" }],
-                },
-                {
-                    featureType: "poi",
-                    elementType: "labels.text.fill",
-                    stylers: [{ color: "#d59563" }],
-                },
-                {
-                    featureType: "poi.park",
-                    elementType: "geometry",
-                    stylers: [{ color: "#263c3f" }],
-                },
-                {
-                    featureType: "poi.park",
-                    elementType: "labels.text.fill",
-                    stylers: [{ color: "#6b9a76" }],
-                },
-                {
-                    featureType: "road",
-                    elementType: "geometry",
-                    stylers: [{ color: "#38414e" }],
-                },
-                {
-                    featureType: "road",
-                    elementType: "geometry.stroke",
-                    stylers: [{ color: "#212a37" }],
-                },
-                {
-                    featureType: "road",
-                    elementType: "labels.text.fill",
-                    stylers: [{ color: "#9ca5b3" }],
-                },
-                {
-                    featureType: "road.highway",
-                    elementType: "geometry",
-                    stylers: [{ color: "#746855" }],
-                },
-                {
-                    featureType: "road.highway",
-                    elementType: "geometry.stroke",
-                    stylers: [{ color: "#1f2835" }],
-                },
-                {
-                    featureType: "road.highway",
-                    elementType: "labels.text.fill",
-                    stylers: [{ color: "#f3d19c" }],
-                },
-                {
-                    featureType: "water",
-                    elementType: "geometry",
-                    stylers: [{ color: "#17263c" }],
-                },
-                {
-                    featureType: "water",
-                    elementType: "labels.text.fill",
-                    stylers: [{ color: "#515c6d" }],
-                },
-                {
-                    featureType: "water",
-                    elementType: "labels.text.stroke",
-                    stylers: [{ color: "#17263c" }],
-                },
-            ];
-
-            const map = new google.maps.Map(document.getElementById("map"), {
-                zoom: 14,
-                center: karsog,
-                styles: darkStyle, // Apply Dark Theme
-                disableDefaultUI: false,
-            });
-
-            // Add a marker for Center of Karsog
-            new google.maps.Marker({
-                position: karsog,
-                map: map,
-                title: "Karsog Center",
-            });
-        }
-    </script>
-
-    <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap" async defer></script>
-
 </body>
 
 </html>
