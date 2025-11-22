@@ -2,6 +2,10 @@
 
 A hyper-local business directory and affiliate store website built with **HTML/CSS/JavaScript** on the frontend and powered by **Google Sheets** as the CMS (Content Management System) via Google Apps Script.
 
+
+[Google form](https://forms.gle/HrJppPH3BHZLSCPD7)
+
+
 ## 🌟 Features
 
   * **Dynamic Content:** All listings and products are fetched in real-time from a Google Sheet.
