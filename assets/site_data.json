@@ -1,45 +1,6 @@
 {
-  "last_updated": "2025-11-22 13:21:25",
+  "last_updated": "2025-11-22 13:27:31",
   "news": [
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Jessica Jani",
-      "title": "Mint Explainer | Why the drug regulator is cracking down on small and medium-sized pharma companies",
-      "description": "India's drug regulator is tightening quality control measures, demanding compliance from MSME pharmaceutical manufacturers. What has the regulator ordered and why these companies struggle to comply with industry standards?",
-      "url": "https://www.livemint.com/industry/india-pharma-crackdown-dcgi-drug-manufacturing-msme-cough-syrup-deaths-safety-medicine-11762858555108.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2025/11/11/1600x900/logo/INDIA-HEALTH-COUGH-SYRUP-1_1759940944186_1759940967822_1762863022516.JPG",
-      "publishedAt": "2025-11-11T12:29:43Z",
-      "content": "Indias top drug regulator has ordered a nationwide crackdown on pharmaceutical manufacturers to enforce stricter quality standards. Indias Drugs Controller General of India (DCGI) has directed states\u2026 [+5312 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Saurabh Parashar",
-      "title": "Communal tension in Himachal\u2019s Mandi: After \u2018attempted abduction\u2019 of minor girl, man \u2018beaten up\u2019 by locals before handing him over to police",
-      "description": "The police filed a Pocso case against the man and booked the family members of the girl for allegedly thrashing him.",
-      "url": "https://indianexpress.com/article/cities/communal-tension-himachals-mandi-attempted-abduction-of-minor-man-beaten-10349131/",
-      "urlToImage": "https://images.indianexpress.com/2025/05/nainital.jpg",
-      "publishedAt": "2025-11-06T06:58:41Z",
-      "content": "Tension gripped a town in Himachal Pradesh\u2019s Mandi district Wednesday night after members of two communities came face to face over allegations of harassment and an attempted abduction of a minor sch\u2026 [+2145 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sporting News"
-      },
-      "author": "Dan Gibbs",
-      "title": "Where to watch India vs. South Africa free live stream, TV channel, start time for 2nd Test cricket match",
-      "description": "India vs. South Africa start time: Here\u2019s how to watch the 2nd Test match on TV and live stream. The Sporting News takes you through all the information you need to follow the game.",
-      "url": "https://www.sportingnews.com/us/tsn/news/watch-india-vs-south-africa-free-live-stream-time-2nd-test-cricket/73aa1e9d55fd2a740112287c",
-      "urlToImage": "https://media.zenfs.com/en/the_sporting_news_articles_584/9b2963755fb901bd227a2b4172f1165c",
-      "publishedAt": "2025-11-21T13:00:02Z",
-      "content": "Where to watch India vs. South Africa free live stream, TV channel, start time for 2nd Test cricket match originally appeared on The Sporting News. Add The Sporting News as a Preferred Source by clic\u2026 [+2620 chars]"
-    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -55,29 +16,68 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Royal Society of Chemistry"
+        "id": "the-times-of-india",
+        "name": "The Times of India"
       },
-      "author": "Ravindra Kumar Upadhyay, Keshav Kumar Saini, Ravi Kant, Neha Chaudhary, Yogita Tonger, Arun Kumar, Rakesh Kumar",
-      "title": "Design and synthesis of novel spirocyclic oxindole based hybrid scaffolds: in silico docking approach towards therapeutic target exploration",
-      "description": "RSC Adv., 2025, 15,45619-45627DOI: 10.1039/D5RA07175E, Paper Open Access &nbsp This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported Licence.Ravindra Kumar Upadhyay, Keshav Kumar Saini, Ravi Kant, Neha Chaudhary, Yogita Tong\u2026",
-      "url": "https://pubs.rsc.org/en/content/articlelanding/2025/ra/d5ra07175e",
-      "urlToImage": "https://pubs.rsc.org/en/Content/Image/GA/D5RA07175E",
-      "publishedAt": "2025-11-21T00:00:00Z",
-      "content": "* \r\n Corresponding authors\r\na\r\n Bioorganic Laboratory, Department of Chemistry, University of Delhi, Delhi-110007, India\r\nE-mail:rakeshkp@email.com\r\nb\r\n Department of Chemistry, Sri Venkateswara Coll\u2026 [+520 chars]"
+      "author": "PTI",
+      "title": "Sanjauli mosque row: Protest and hunger strike until death called off after 'demands met'",
+      "description": "A Hindu group has called off its protest in Shimla after the administration reportedly agreed to seal an illegal mosque. The Devbhoomi Sangharsh Samiti's demands included immediate sealing, disconnection of utilities, and withdrawal of an FIR. A hunger strike\u2026",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/sanjauli-mosque-row-protest-and-hunger-strike-until-death-called-off-after-demands-met/articleshow/125483586.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125483635,width-1200,height-630,imgsize-100030,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-11-21T10:09:51Z",
+      "content": "Demanding the immediate sealing of the Sanjauli mosque here, which has been declared illegal by a court, the Devbhoomi Sangharsh Samiti on Friday called off their protest and said their demands were \u2026 [+2199 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Statetimes.in"
+        "name": "Yahoo Entertainment"
       },
-      "author": "statetimes_editor",
-      "title": "Srinagar police receives recognition for recovery of lost, stolen phones",
-      "description": "SRINAGAR: The Srinagar police has been recognised for its mobile recovery performance by the Centre, as it traced and recovered around 900 stolen or lost phones in over two years, valued at Rs 3.5 crore, an official said on Thursday. The Central Equipment Ide\u2026",
-      "url": "https://statetimes.in/srinagar-police-receives-recognition-for-recovery-of-lost-stolen-phones/",
-      "urlToImage": "https://statetimes.in/wp-content/uploads/2025/11/Srinagar-police-receives-recognition-for-recovery-of-lost-stolen-phones-4-1024x792.jpg",
-      "publishedAt": "2025-11-20T16:47:54Z",
-      "content": "SRINAGAR: The Srinagar police has been recognised for its mobile recovery performance by the Centre, as it traced and recovered around 900 stolen or lost phones in over two years, valued at Rs 3.5 cr\u2026 [+1423 chars]"
+      "author": "South China Morning Post",
+      "title": "3SBio spin-off Mandi banks on hair-loss and weight-loss drugs in Hong Kong IPO bid",
+      "description": "Mandi, the Alibaba Health-backed consumer healthcare arm being spun off from mainland drug maker 3SBio, filed for an initial public offering in Hong Kong on ...",
+      "url": "https://finance.yahoo.com/news/3sbio-spin-off-mandi-banks-093000207.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/L13V.87k7vWVNbwPPSnq0g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/south_china_morning_post_us_228/342e3aaf1862a7650aa5c5a5e0032350",
+      "publishedAt": "2025-11-21T09:30:00Z",
+      "content": "Mandi, the Alibaba Health-backed consumer healthcare arm being spun off from mainland drug maker 3SBio, filed for an initial public offering in Hong Kong on Friday, betting that its market-leading mi\u2026 [+4151 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "scmp.com",
+      "title": "3SBio spin-off Mandi banks on hair-loss and weight-loss drugs in Hong Kong IPO",
+      "description": "Mandi, the Alibaba Health-backed consumer healthcare arm being spun off from mainland drug maker 3SBio, filed for an initial public offering in Hong Kong on Friday, betting that its market-leading minoxidil hair-loss products will attract investors.\nThe deal \u2026",
+      "url": "https://biztoc.com/x/01ca84462355dc8c",
+      "urlToImage": "https://biztoc.com/cdn/01ca84462355dc8c_s.webp",
+      "publishedAt": "2025-11-21T05:42:15Z",
+      "content": "Mandi, the Alibaba Health-backed consumer healthcare arm being spun off from mainland drug maker 3SBio, filed for an initial public offering in Hong Kong on Friday, betting that its market-leading mi\u2026 [+139 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheBlaze"
+      },
+      "author": "Carlos Garcia",
+      "title": "AI chatbot encouraged autistic boy to harm himself \u2014 and his parents, lawsuit says",
+      "description": "The family of an autistic boy says that an artificial intelligence chatbot encouraged him to harm himself and his parents, according to a lawsuit.Mandi Furniss appeared on Fox News to explain why her family filed a lawsuit against the Character.AI software af\u2026",
+      "url": "https://www.theblaze.com/news/ai-chatbot-boy-harm-parents",
+      "urlToImage": "https://www.theblaze.com/media-library/ai-chatbot-encouraged-autistic-boy-to-harm-himself-and-his-parents-lawsuit-says.jpg?id=62214644&width=1200&height=600&coordinates=0%2C182%2C0%2C183",
+      "publishedAt": "2025-11-19T20:05:00Z",
+      "content": "The family of an autistic boy says that an artificial intelligence chatbot encouraged him to harm himself and his parents, according to a lawsuit.\r\nMandi Furniss appeared on Fox News to explain why h\u2026 [+3386 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ComputerWeekly.com"
+      },
+      "author": "Adrian Bridgwater",
+      "title": "Self-service tools - PagerDuty: The shift from \u2018we deploy\u2019 to \u2018you deploy, we observe'",
+      "description": "This is a guest post for the Computer Weekly Developer Network written by Mandi Walls, DevOps advocate at PagerDuty. Walls, in her inimitable style, writes in full as follows\u2026 Organisations are ...",
+      "url": "https://www.computerweekly.com/blog/CW-Developer-Network/Self-service-tools-PagerDuty-The-shift-from-we-deploy-to-you-deploy-we-observe",
+      "urlToImage": null,
+      "publishedAt": "2025-11-18T16:35:41Z",
+      "content": "This is a guest post for the Computer Weekly Developer Network written by Mandi Walls, DevOps advocate at PagerDuty.\r\nWalls, in her inimitable style, writes in full as follows\r\nOrganisations are adop\u2026 [+5874 chars]"
     }
   ],
   "directory": []
