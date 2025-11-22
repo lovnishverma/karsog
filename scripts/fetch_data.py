@@ -12,37 +12,54 @@ MONGO_URI = os.environ.get('MONGO_URI')
 data_output = {
     "last_updated": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
     "news": [],
-    "directory": []  # From MongoDB
+    "directory": [] 
 }
 
-# 2. FETCH NEWS (Only 1 call per run!)
+# 2. FETCH NEWS
 try:
-    print("Fetching News...")
-    url = f"https://newsapi.org/v2/everything?q=Karsog&apiKey={NEWS_API_KEY}"
+    print("--- FETCHING NEWS ---")
+    # CHANGED: Broadened query to "Himachal Pradesh" to ensure we get results
+    url = f"https://newsapi.org/v2/everything?q=Himachal Pradesh&sortBy=publishedAt&language=en&apiKey={NEWS_API_KEY}"
+    
     response = requests.get(url)
     if response.status_code == 200:
-        data_output["news"] = response.json().get(
-            "articles", [])[:6]  # Keep top 6
+        articles = response.json().get("articles", [])
+        # Filter out removed articles
+        valid_articles = [a for a in articles if a['title'] != '[Removed]']
+        data_output["news"] = valid_articles[:6] # Keep top 6
+        print(f"Success: Found {len(valid_articles)} news articles.")
+    else:
+        print(f"News API Error: Status {response.status_code}")
+        print(response.text)
 except Exception as e:
-    print(f"News Error: {e}")
+    print(f"News Script Error: {e}")
 
-# 3. FETCH MONGODB (Securely!)
+# 3. FETCH MONGODB
 try:
-    print("Fetching MongoDB...")
+    print("\n--- FETCHING MONGODB ---")
     client = MongoClient(MONGO_URI)
-    db = client["karsog_db"]  # Change to your DB name
-    collection = db["businesses"]  # Change to your collection
+    
+    # DEBUG: Print all database names to help you find the right one
+    print(f"Available Databases in Cluster: {client.list_database_names()}")
 
-    # Get all documents, exclude '_id' because it's not JSON serializable
+    # IMPORTANT: Make sure this matches one of the names printed above!
+    db = client["karsog_db"] 
+    collection = db["businesses"] 
+
+    # Get all documents, exclude '_id'
     documents = list(collection.find({}, {"_id": 0}))
     data_output["directory"] = documents
+    print(f"Success: Found {len(documents)} directory items.")
+    
 except Exception as e:
-    print(f"Mongo Error: {e}")
+    print(f"Mongo Script Error: {e}")
 
 # 4. SAVE TO FILE
-# We save this to the 'assets' folder so your website can read it
-os.makedirs("assets", exist_ok=True)
-with open("assets/site_data.json", "w") as f:
-    json.dump(data_output, f, indent=2)
-
-print("Data update complete!")
+try:
+    os.makedirs("assets", exist_ok=True)
+    with open("assets/site_data.json", "w") as f:
+        json.dump(data_output, f, indent=2)
+    print("\n--- SAVED SUCCESSFULLY ---")
+    print("File saved to assets/site_data.json")
+except Exception as e:
+    print(f"Save Error: {e}")
