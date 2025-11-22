@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-22 13:27:31",
+  "last_updated": "2025-11-22 13:47:10",
   "news": [
     {
       "source": {
@@ -30,32 +30,6 @@
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "South China Morning Post",
-      "title": "3SBio spin-off Mandi banks on hair-loss and weight-loss drugs in Hong Kong IPO bid",
-      "description": "Mandi, the Alibaba Health-backed consumer healthcare arm being spun off from mainland drug maker 3SBio, filed for an initial public offering in Hong Kong on ...",
-      "url": "https://finance.yahoo.com/news/3sbio-spin-off-mandi-banks-093000207.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/L13V.87k7vWVNbwPPSnq0g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/south_china_morning_post_us_228/342e3aaf1862a7650aa5c5a5e0032350",
-      "publishedAt": "2025-11-21T09:30:00Z",
-      "content": "Mandi, the Alibaba Health-backed consumer healthcare arm being spun off from mainland drug maker 3SBio, filed for an initial public offering in Hong Kong on Friday, betting that its market-leading mi\u2026 [+4151 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "scmp.com",
-      "title": "3SBio spin-off Mandi banks on hair-loss and weight-loss drugs in Hong Kong IPO",
-      "description": "Mandi, the Alibaba Health-backed consumer healthcare arm being spun off from mainland drug maker 3SBio, filed for an initial public offering in Hong Kong on Friday, betting that its market-leading minoxidil hair-loss products will attract investors.\nThe deal \u2026",
-      "url": "https://biztoc.com/x/01ca84462355dc8c",
-      "urlToImage": "https://biztoc.com/cdn/01ca84462355dc8c_s.webp",
-      "publishedAt": "2025-11-21T05:42:15Z",
-      "content": "Mandi, the Alibaba Health-backed consumer healthcare arm being spun off from mainland drug maker 3SBio, filed for an initial public offering in Hong Kong on Friday, betting that its market-leading mi\u2026 [+139 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "TheBlaze"
       },
       "author": "Carlos Garcia",
@@ -78,6 +52,32 @@
       "urlToImage": null,
       "publishedAt": "2025-11-18T16:35:41Z",
       "content": "This is a guest post for the Computer Weekly Developer Network written by Mandi Walls, DevOps advocate at PagerDuty.\r\nWalls, in her inimitable style, writes in full as follows\r\nOrganisations are adop\u2026 [+5874 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Saurabh Parashar",
+      "title": "Himachal to handover 2.7427 ha of non-forest land for Shimla Ropeway",
+      "description": "Given the land\u2019s non-forest nature, RTDC and the state will not require permission from MoEFCC",
+      "url": "https://indianexpress.com/article/cities/chandigarh/himachal-to-handover-2-7427-ha-of-non-forest-land-for-shimla-ropeway-10372888/",
+      "urlToImage": "https://images.indianexpress.com/2025/11/shimla_20251118152504.jpg",
+      "publishedAt": "2025-11-18T14:58:24Z",
+      "content": "Along with the 6.1909 hectares of forest land in Shimla, the Himachal Pradesh government is also in the process of handing over 2.7427 hectares of non-forest land for the 13.73 km-long Shimla ropeway\u2026 [+3248 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Saurabh Parashar",
+      "title": "Shimla ropeway clears key hurdle as 820 trees face the axe",
+      "description": "According to the Forest Survey of India\u2019s 2021 assessment, 47.21 percent of Shimla\u2019s 5,131 sq km geographical area is under forest cover.",
+      "url": "https://indianexpress.com/article/cities/chandigarh/shimla-ropeway-trees-face-the-axe-10371174/",
+      "urlToImage": "https://images.indianexpress.com/2025/11/Himachal-4.jpg",
+      "publishedAt": "2025-11-17T15:12:27Z",
+      "content": "The forests that cradle Shimla with their misty slopes and deodar-scented ridges may soon lose a slice of their quiet canopy. About 820 trees are set to be felled across 6.1990 hectares of forest lan\u2026 [+4079 chars]"
     }
   ],
   "directory": []
