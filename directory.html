@@ -980,12 +980,22 @@
                 <p style="color: var(--text-muted);">Trusted businesses verified by us.</p>
             </div>
             <div class="filter-bar">
-                <button class="filter-btn active" onclick="filterByCategory('all', this)">All</button>
-                <button class="filter-btn" onclick="filterByCategory('Hotel', this)">Hotels</button>
-                <button class="filter-btn" onclick="filterByCategory('Food', this)">Restaurants</button>
-                <button class="filter-btn" onclick="filterByCategory('Taxi', this)">Taxis</button>
-                <button class="filter-btn" onclick="filterByCategory('Shop', this)">Shopping</button>
-                <button class="filter-btn" onclick="filterByCategory('Service', this)">Services</button>
+                <button class="filter-btn active" data-value="all" onclick="filterByCategory('all', this)">All</button>
+
+                <button class="filter-btn" data-value="Hotel" onclick="filterByCategory('Hotel', this)">Hotels</button>
+
+                <button class="filter-btn" data-value="Food"
+                    onclick="filterByCategory('Food', this)">Restaurants</button>
+
+                <button class="filter-btn" data-value="Taxi" onclick="filterByCategory('Taxi', this)">Taxis</button>
+
+                <button class="filter-btn" data-value="Shop" onclick="filterByCategory('Shop', this)">Shopping</button>
+
+                <button class="filter-btn" data-value="Service"
+                    onclick="filterByCategory('Service', this)">Services</button>
+
+                <button class="filter-btn" data-value="Health"
+                    onclick="filterByCategory('Health', this)">Health</button>
             </div>
         </div>
 
@@ -1364,9 +1374,11 @@
             let visibleCount = 0;
             let currentCategory = 'all';
 
+            // 1. Find the active button and get its DATA-VALUE, not text
             document.querySelectorAll('.filter-btn').forEach(btn => {
                 if (btn.classList.contains('active')) {
-                    currentCategory = btn.innerText.toLowerCase();
+                    // This is the key fix:
+                    currentCategory = btn.getAttribute('data-value').toLowerCase();
                 }
             });
 
@@ -1374,11 +1386,8 @@
                 const title = card.getAttribute('data-title').toLowerCase();
                 const category = card.getAttribute('data-category').toLowerCase();
 
-                let categoryMatch = (currentCategory === 'all') ||
-                    (currentCategory === 'restaurants' && category === 'food') ||
-                    (currentCategory === 'shopping' && category === 'shop') ||
-                    (currentCategory === 'taxis' && category === 'taxi') ||
-                    (category === currentCategory);
+                // 2. Simplified matching logic
+                let categoryMatch = (currentCategory === 'all') || (category === currentCategory);
 
                 if ((title.includes(input) || category.includes(input)) && categoryMatch) {
                     card.style.display = "flex";
@@ -1399,14 +1408,14 @@
 
         function setCategory(catName) {
             const btns = document.querySelectorAll('.filter-btn');
+
             btns.forEach(btn => {
-                const t = btn.innerText.toLowerCase();
-                if (t === catName.toLowerCase() ||
-                    (catName === 'Shop' && t === 'shopping') ||
-                    (catName === 'Food' && t === 'restaurants')) {
+                // Compare the requested category with the button's data-value
+                if (btn.getAttribute('data-value') === catName) {
                     filterByCategory(catName, btn);
                 }
             });
+
             document.getElementById('directory').scrollIntoView();
         }
 
