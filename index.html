@@ -4,28 +4,75 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Karsog.com | Discover the Hidden Himalayan Paradise</title>
-    <meta name="description"
-        content="Welcome to Karsog Valley - Your complete guide to temples, tourism, local businesses, and Himalayan culture in Himachal Pradesh.">
 
-    <meta property="og:title" content="Karsog.com | Hidden Himalayan Paradise">
+    <title>Karsog Valley Tourism | Hotels, Trekking & News - Karsog.com</title>
+    <meta name="description"
+        content="The official guide to Karsog Valley (Himachal Pradesh). Find local hotels, trekking routes to Shikari Devi, live weather updates, and latest news from Mandi district.">
+    <meta name="keywords"
+        content="Karsog Valley, Karsog Tourism, Shikari Devi Trek, Mamleshwar Temple, Karsog Hotels, Mandi News, Himachal Tourism, Kamaksha Devi">
+    <meta name="author" content="Karsog.com">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://karsog.com/">
+
+    <meta property="og:site_name" content="Karsog.com">
+    <meta property="og:title" content="Karsog Valley | The Hidden Gem of Himachal Pradesh">
     <meta property="og:description"
-        content="Explore ancient temples, trekking trails, and authentic mountain culture in Karsog Valley, Himachal Pradesh.">
+        content="Plan your trip to Karsog. Explore ancient temples like Mamleshwar, trek to Shikari Devi, and find the best local stays.">
     <meta property="og:image"
         content="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&h=630&fit=crop">
     <meta property="og:url" content="https://karsog.com">
     <meta property="og:type" content="website">
+    <meta property="og:locale" content="en_IN">
 
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Discover Karsog Valley - Himachal's Hidden Paradise">
+    <meta name="twitter:description" content="Your complete guide to tourism, news, and culture in Karsog, Mandi.">
+    <meta name="twitter:image"
+        content="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&h=630&fit=crop">
 
-    <link rel="shortcut icon" type="image/x-icon" href="assets/img/karsog.png" />
+    <link rel="shortcut icon" type="image/png" href="assets/img/karsog.png" />
     <link rel="apple-touch-icon" href="assets/img/karsog.png" />
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link
         href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Playfair+Display:wght@600;700;800;900&display=swap"
         rel="stylesheet">
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "TouristDestination",
+          "name": "Karsog Valley",
+          "description": "A scenic valley in Mandi district, Himachal Pradesh, known for apple orchards and ancient temples.",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Karsog",
+            "addressRegion": "Himachal Pradesh",
+            "addressCountry": "IN"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 31.3813,
+            "longitude": 77.2046
+          }
+        },
+        {
+          "@type": "WebSite",
+          "name": "Karsog.com",
+          "url": "https://karsog.com",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://karsog.com/directory.html?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        }
+      ]
+    }
+    </script>
 
     <style>
         :root {
@@ -140,10 +187,6 @@
             display: flex;
             align-items: center;
             gap: 0.5rem;
-        }
-
-        .logo span {
-            color: var(--primary);
         }
 
         .nav-links {
@@ -724,8 +767,7 @@
                     <circle cx="20" cy="16" r="3" fill="#f59e0b" />
                     <text x="50" y="28" font-family="'Outfit', sans-serif" font-size="24" font-weight="800"
                         fill="var(--text-main)">
-                        Karsog
-                        <tspan dx="-4" font-family="'Inter', sans-serif" font-size="16" font-weight="600"
+                        Karsog <tspan dx="-4" font-family="'Inter', sans-serif" font-size="16" font-weight="600"
                             fill="#3b82f6">.com</tspan>
                     </text>
                 </svg>
@@ -759,12 +801,10 @@
             </p>
             <div class="cta-buttons">
                 <a href="directory.html" class="btn btn-primary">
-                    <i class="fas fa-compass"></i>
-                    Explore Directory
+                    <i class="fas fa-compass"></i> Explore Directory
                 </a>
                 <a href="travel.html" class="btn btn-outline">
-                    <i class="fas fa-hiking"></i>
-                    Plan Your Trip
+                    <i class="fas fa-hiking"></i> Plan Your Trip
                 </a>
             </div>
         </div>
@@ -798,7 +838,7 @@
             <div class="weather-main">
                 <i class="fas fa-cloud-sun weather-icon-large" id="weatherIcon" style="color: var(--accent);"></i>
                 <div>
-                    <h2 style="margin-bottom: 0.5rem;">Live Weather</h2>
+                    <h2 style="margin-bottom: 0.5rem;">Karsog Live Weather</h2>
                     <div class="weather-temp" id="temperature">--°C</div>
                     <p style="color: var(--text-muted); font-size: 1.1rem;" id="weatherDesc">Loading...</p>
                 </div>
@@ -838,67 +878,50 @@
 
     <section class="features-section reveal">
         <div class="section-header">
-            <h2>Everything You Need to Know</h2>
-            <p>Your complete guide to Karsog Valley</p>
+            <h2>Explore Karsog Valley</h2>
+            <p>Your complete guide to local attractions</p>
         </div>
         <div class="features-grid">
             <div class="feature-card">
-                <div class="feature-icon">
-                    <i class="fas fa-building"></i>
-                </div>
+                <div class="feature-icon"><i class="fas fa-building"></i></div>
                 <h3>Local Directory</h3>
                 <p>Find hotels, restaurants, taxis, shops, and services. Connect with verified local businesses
                     instantly.</p>
                 <a href="directory.html" class="btn btn-primary"
                     style="margin-top: 1rem; padding: 0.75rem 1.5rem; font-size: 0.9rem;">Browse Directory</a>
             </div>
-
             <div class="feature-card">
-                <div class="feature-icon">
-                    <i class="fas fa-suitcase-rolling"></i>
-                </div>
+                <div class="feature-icon"><i class="fas fa-suitcase-rolling"></i></div>
                 <h3>Travel Packages</h3>
                 <p>Curated tour packages, trekking expeditions, and premium stays. Book your Himalayan adventure today.
                 </p>
                 <a href="travel.html" class="btn btn-primary"
                     style="margin-top: 1rem; padding: 0.75rem 1.5rem; font-size: 0.9rem;">Explore Packages</a>
             </div>
-
             <div class="feature-card">
-                <div class="feature-icon">
-                    <i class="fas fa-gopuram"></i>
-                </div>
+                <div class="feature-icon"><i class="fas fa-gopuram"></i></div>
                 <h3>Sacred Temples</h3>
                 <p>Visit Mamleshwar Mahadev, Kamaksha Devi, Shikari Devi, and 50+ ancient temples with rich mythology.
                 </p>
                 <a href="#temples" class="btn btn-primary"
                     style="margin-top: 1rem; padding: 0.75rem 1.5rem; font-size: 0.9rem;">Discover Temples</a>
             </div>
-
             <div class="feature-card">
-                <div class="feature-icon">
-                    <i class="fas fa-hiking"></i>
-                </div>
+                <div class="feature-icon"><i class="fas fa-hiking"></i></div>
                 <h3>Trekking Routes</h3>
                 <p>Shikari Devi trek (3,359m), Kunho Dhar trails, and pristine mountain paths through cedar forests.</p>
                 <a href="travel.html" class="btn btn-primary"
                     style="margin-top: 1rem; padding: 0.75rem 1.5rem; font-size: 0.9rem;">Start Trekking</a>
             </div>
-
             <div class="feature-card">
-                <div class="feature-icon">
-                    <i class="fas fa-apple-alt"></i>
-                </div>
+                <div class="feature-icon"><i class="fas fa-apple-alt"></i></div>
                 <h3>Local Agriculture</h3>
                 <p>Famous for apples, wheat, corn, and organic produce. Visit orchards and experience farm life.</p>
                 <a href="#agriculture" class="btn btn-primary"
                     style="margin-top: 1rem; padding: 0.75rem 1.5rem; font-size: 0.9rem;">Learn More</a>
             </div>
-
             <div class="feature-card">
-                <div class="feature-icon">
-                    <i class="fas fa-book-open"></i>
-                </div>
+                <div class="feature-icon"><i class="fas fa-book-open"></i></div>
                 <h3>Rich Heritage</h3>
                 <p>Pandava legends, ancient folklore, and centuries-old traditions preserved in every village.</p>
                 <a href="#heritage" class="btn btn-primary"
@@ -913,7 +936,7 @@
             <span>Auto-Updated</span>
         </div>
         <div class="section-header">
-            <h2>Latest from Karsog</h2>
+            <h2>Latest Karsog News</h2>
             <p>Stay updated with recent news and developments</p>
             <p id="lastUpdated" style="font-size: 0.8rem; margin-top: 0.5rem; color: var(--primary);"></p>
         </div>
@@ -962,7 +985,6 @@
                             class="fab fa-whatsapp"></i></a>
                 </div>
             </div>
-
             <div class="footer-section">
                 <h4>Quick Links</h4>
                 <ul class="footer-links">
@@ -973,7 +995,6 @@
                     <li><a href="#contact">Contact Us</a></li>
                 </ul>
             </div>
-
             <div class="footer-section">
                 <h4>Popular Places</h4>
                 <ul class="footer-links">
@@ -984,7 +1005,6 @@
                     <li><a href="#mahunag">Mahunag Temple</a></li>
                 </ul>
             </div>
-
             <div class="footer-section">
                 <h4>Contact Info</h4>
                 <ul class="footer-links">
@@ -1000,7 +1020,6 @@
                 </ul>
             </div>
         </div>
-
         <div class="footer-bottom">
             <p>&copy; 2025 Karsog.com - The Official Gateway to Karsog Valley. All Rights Reserved.</p>
             <p style="margin-top: 0.5rem; font-size: 0.9rem;">
@@ -1011,66 +1030,35 @@
     </footer>
 
     <script>
-        // ==================== CONFIGURATION ====================
         const CONFIG = {
-            // NOTE: API Key removed. Data now comes from assets/site_data.json
-            CACHE_DURATION: 3600000, // 1 hour in milliseconds
-            WEATHER_REFRESH_INTERVAL: 600000, // 10 minutes
+            CACHE_DURATION: 3600000,
+            WEATHER_REFRESH_INTERVAL: 600000,
             KARSOG_LAT: 31.3813,
             KARSOG_LON: 77.2046
         };
 
-        // ==================== CACHE MANAGER (Used for Weather) ====================
         class CacheManager {
             constructor(key, duration) {
                 this.key = key;
                 this.duration = duration;
             }
-
             set(data) {
-                const cacheData = {
-                    timestamp: Date.now(),
-                    data: data
-                };
-                try {
-                    localStorage.setItem(this.key, JSON.stringify(cacheData));
-                    return true;
-                } catch (e) {
-                    console.warn('Cache storage failed:', e);
-                    return false;
-                }
+                const cacheData = { timestamp: Date.now(), data: data };
+                try { localStorage.setItem(this.key, JSON.stringify(cacheData)); return true; } catch (e) { return false; }
             }
-
             get() {
                 try {
                     const cached = localStorage.getItem(this.key);
                     if (!cached) return null;
-
                     const cacheData = JSON.parse(cached);
                     const now = Date.now();
-
-                    if (now - cacheData.timestamp < this.duration) {
-                        return cacheData.data;
-                    } else {
-                        this.clear();
-                        return null;
-                    }
-                } catch (e) {
-                    console.warn('Cache retrieval failed:', e);
-                    return null;
-                }
+                    if (now - cacheData.timestamp < this.duration) return cacheData.data;
+                    else { this.clear(); return null; }
+                } catch (e) { return null; }
             }
-
-            clear() {
-                try {
-                    localStorage.removeItem(this.key);
-                } catch (e) {
-                    console.warn('Cache clear failed:', e);
-                }
-            }
+            clear() { try { localStorage.removeItem(this.key); } catch (e) { } }
         }
 
-        // ==================== THEME MANAGER ====================
         function toggleTheme() {
             const html = document.documentElement;
             const current = html.getAttribute('data-theme') || 'dark';
@@ -1086,54 +1074,37 @@
             document.getElementById('themeIcon').className = savedTheme === 'dark' ? 'fas fa-moon' : 'fas fa-sun';
         });
 
-        // ==================== MOBILE MENU ====================
         function toggleMenu() {
             document.getElementById('navLinks').classList.toggle('active');
         }
 
-        // ==================== SCROLL REVEAL ====================
         const revealElements = document.querySelectorAll('.reveal');
         const revealObserver = new IntersectionObserver((entries) => {
             entries.forEach(entry => {
-                if (entry.isIntersecting) {
-                    entry.target.classList.add('active');
-                }
+                if (entry.isIntersecting) entry.target.classList.add('active');
             });
         }, { threshold: 0.1 });
-
         revealElements.forEach(el => revealObserver.observe(el));
 
-        // ==================== WEATHER API ====================
         const weatherCache = new CacheManager('karsog_weather', CONFIG.CACHE_DURATION);
 
         async function fetchWeather() {
             const cachedWeather = weatherCache.get();
-            if (cachedWeather) {
-                displayWeather(cachedWeather);
-                return;
-            }
-
+            if (cachedWeather) { displayWeather(cachedWeather); return; }
             try {
-                const response = await fetch(
-                    `https://api.open-meteo.com/v1/forecast?latitude=${CONFIG.KARSOG_LAT}&longitude=${CONFIG.KARSOG_LON}&current_weather=true&hourly=temperature_2m,relativehumidity_2m,windspeed_10m,visibility`
-                );
+                const response = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${CONFIG.KARSOG_LAT}&longitude=${CONFIG.KARSOG_LON}&current_weather=true&hourly=temperature_2m,relativehumidity_2m,windspeed_10m,visibility`);
                 const data = await response.json();
-
                 if (data && data.current_weather) {
                     weatherCache.set(data);
                     displayWeather(data);
                 }
-            } catch (error) {
-                console.error('Weather fetch error:', error);
-                displayWeatherFallback();
-            }
+            } catch (error) { displayWeatherFallback(); }
         }
 
         function displayWeather(data) {
             const weather = data.current_weather;
             const hourly = data.hourly;
             const currentHour = new Date().getHours();
-
             document.getElementById('temperature').textContent = Math.round(weather.temperature) + '°C';
             document.getElementById('weatherDesc').textContent = getWeatherDescription(weather.weathercode);
             document.getElementById('weatherIcon').className = `${getWeatherIcon(weather.weathercode)} weather-icon-large`;
@@ -1146,10 +1117,6 @@
         function displayWeatherFallback() {
             document.getElementById('temperature').textContent = '15°C';
             document.getElementById('weatherDesc').textContent = 'Pleasant mountain weather';
-            document.getElementById('humidity').textContent = '65%';
-            document.getElementById('windSpeed').textContent = '12 km/h';
-            document.getElementById('visibility').textContent = '10 km';
-            document.getElementById('feelsLike').textContent = '13°C';
         }
 
         function getWeatherDescription(code) {
@@ -1178,20 +1145,12 @@
             return 'fas fa-cloud-sun';
         }
 
-        // ==================== NEWS FETCHING (FROM LOCAL JSON) ====================
-
         async function fetchNews() {
             try {
-                // Fetch the static file generated by your Python script
                 const response = await fetch('./assets/site_data.json');
-
-                if (!response.ok) {
-                    throw new Error('Local data file not found');
-                }
-
+                if (!response.ok) throw new Error('Local data file not found');
                 const data = await response.json();
 
-                // Display News
                 if (data.news && data.news.length > 0) {
                     displayNews(data.news);
                     document.getElementById('cacheIndicator').style.display = 'flex';
@@ -1199,20 +1158,11 @@
                     displayNewsFallback();
                 }
 
-                // Show last updated time
                 if (data.last_updated) {
                     const updateTime = new Date(data.last_updated).toLocaleString();
                     document.getElementById('lastUpdated').textContent = `Last Updated: ${updateTime}`;
                 }
-
-                // Log Directory Data (For your debugging/future use)
-                if (data.directory) {
-                    console.log("Business Directory Loaded:", data.directory);
-                }
-
             } catch (error) {
-                console.error('Error loading local data:', error);
-                // Fallback if the script hasn't run yet or file is missing
                 displayNewsFallback();
             }
         }
@@ -1220,7 +1170,6 @@
         function displayNews(articles) {
             const newsGrid = document.getElementById('newsGrid');
             newsGrid.innerHTML = '';
-
             articles.forEach(article => {
                 const newsCard = `
                     <div class="news-card">
@@ -1255,32 +1204,21 @@
                     description: 'This year\'s apple harvest in Karsog has broken all previous records with over 50,000 metric tons, benefiting thousands of local farmers.',
                     urlToImage: 'https://images.unsplash.com/photo-1568702846914-96b305d2aaeb?w=400&h=300&fit=crop',
                     url: '#'
-                },
-                {
-                    title: 'New Road Connectivity Improves Tourism Access',
-                    publishedAt: '2025-11-15',
-                    description: 'The newly constructed road from Shimla to Karsog has reduced travel time by 40%, making the valley more accessible to tourists.',
-                    urlToImage: 'https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=400&h=300&fit=crop',
-                    url: '#'
                 }
             ];
             displayNews(fallbackNews);
         }
 
-        // ==================== SMOOTH SCROLL ====================
         document.querySelectorAll('a[href^="#"]').forEach(anchor => {
             anchor.addEventListener('click', function (e) {
                 const href = this.getAttribute('href');
                 if (href !== '#' && document.querySelector(href)) {
                     e.preventDefault();
-                    document.querySelector(href).scrollIntoView({
-                        behavior: 'smooth'
-                    });
+                    document.querySelector(href).scrollIntoView({ behavior: 'smooth' });
                 }
             });
         });
 
-        // ==================== PARALLAX EFFECT ====================
         window.addEventListener('scroll', () => {
             const scrolled = window.pageYOffset;
             const hero = document.querySelector('.hero-content');
@@ -1290,30 +1228,15 @@
             }
         });
 
-        // ==================== INITIALIZE ====================
         window.addEventListener('load', () => {
             fetchWeather();
             fetchNews();
-
-            // Refresh weather periodically
             setInterval(fetchWeather, CONFIG.WEATHER_REFRESH_INTERVAL);
-
-            // Update footer year
             const yearElements = document.querySelectorAll('.footer-bottom p');
             if (yearElements[0]) {
                 yearElements[0].textContent = yearElements[0].textContent.replace('2025', new Date().getFullYear());
             }
         });
-
-        // ==================== PERFORMANCE MONITORING ====================
-        if ('performance' in window) {
-            window.addEventListener('load', () => {
-                setTimeout(() => {
-                    const perfData = performance.getEntriesByType('navigation')[0];
-                    console.log('Page Load Time:', Math.round(perfData.loadEventEnd - perfData.fetchStart), 'ms');
-                }, 0);
-            });
-        }
     </script>
 </body>
 
