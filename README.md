@@ -1,6 +1,6 @@
 # Karsog.com - Valley Tourism & Business Directory
 
-A hyper-local platform for Karsog Valley acting as a **Business Directory**, **Travel Portal**, and **News Aggregator**. 
+A great hyper-local platform for Karsog Valley acting as a **Business Directory**, **Travel Portal**, and **News Aggregator**. 
 
 Built with **HTML/CSS/JavaScript** on the frontend, powered by **Google Sheets** as the primary CMS, and enhanced with **Python/GitHub Actions** for automated news updates.
 
@@ -134,6 +134,15 @@ To enable the automated news feed:
   * **Automation:** Python 3.9, GitHub Actions.
   * **External APIs:** NewsAPI, Open-Meteo (Weather).
 
-## 📄 License
+## ⛔ License & Copyright
 
-This project is proprietary.
+**Copyright © 2025 Karsog.com. All Rights Reserved.**
+
+This source code is **PROPRIETARY** and **CONFIDENTIAL**.
+
+  * **No Use Allowed:** You are **NOT** allowed to copy, modify, distribute, sub-license, or use this code for any commercial or non-commercial purpose.
+  * **Personal Use Only:** This repository is intended solely for the portfolio and personal use of the owner/author.
+  * **No Derivatives:** Creating derivative works based on this code is strictly prohibited.
+
+Unauthorized copying of this project, via any medium, is strictly prohibited.
+
