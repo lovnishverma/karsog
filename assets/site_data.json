@@ -1,27 +1,5 @@
 {
-  "last_updated": "2025-11-22 12:00:00",
-  "news": [
-    {
-      "title": "Welcome to Karsog.com",
-      "description": "Our new website is live! We are now bringing you the latest updates from the valley directly to your screen.",
-      "url": "#",
-      "urlToImage": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop",
-      "publishedAt": "2025-11-22T10:00:00Z"
-    },
-    {
-      "title": "Winter Trekking Season Begins",
-      "description": "The paths to Shikari Devi are now open for winter trekking enthusiasts. Please carry adequate warm clothing.",
-      "url": "#",
-      "urlToImage": "https://images.unsplash.com/photo-1482938289607-e9573fc25ebb?w=400&h=300&fit=crop",
-      "publishedAt": "2025-11-21T09:30:00Z"
-    },
-    {
-      "title": "Local Business Directory Launched",
-      "description": "Find the best hotels, homestays, and shops in Karsog using our new trusted directory feature.",
-      "url": "directory.html",
-      "urlToImage": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400&h=300&fit=crop",
-      "publishedAt": "2025-11-20T14:15:00Z"
-    }
-  ],
+  "last_updated": "2025-11-22 13:02:15",
+  "news": [],
   "directory": []
 }
