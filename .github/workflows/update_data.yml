@@ -2,9 +2,9 @@ name: Update Site Data
 
 on:
   schedule:
-    # Run every 4 hours (approx 6 times a day = 6 API calls. Safe!)
+    # Run every 4 hours (approx 6 times a day)
     - cron: '0 */4 * * *' 
-  workflow_dispatch: # Allows you to run it manually if needed
+  workflow_dispatch: # Allows you to run it manually
 
 permissions:
   contents: write
@@ -36,3 +36,9 @@ jobs:
         with:
           commit_message: "🤖 Auto-update: News & Mongo Data"
           file_pattern: "assets/site_data.json"
+          
+          # YOUR IDENTITY SETTINGS
+          # This ensures the green square goes to your profile
+          commit_user_name: "lovnishverma"
+          commit_user_email: "princelv84@gmail.com"
+          commit_author: "lovnishverma <princelv84@gmail.com>"
