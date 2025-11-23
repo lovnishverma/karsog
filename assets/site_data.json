@@ -1,6 +1,19 @@
 {
-  "last_updated": "2025-11-23 16:10:35",
+  "last_updated": "2025-11-23 20:10:57",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "Vinay Kumar appointed Himachal Congress chief, quits Dy Speaker post",
+      "description": "Vinay Kumar was appointed as the state Congress president on Saturday. He then tendered his resignation as Himachal Pradesh Deputy Speaker.",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/vinay-kumar-appointed-himachal-congress-chief-quits-dy-speaker-post/articleshow/125508170.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125508189,width-1200,height-630,imgsize-54102,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-11-22T16:37:15Z",
+      "content": "Investment Ideas\r\nGrow your wealth with stock ideas &amp; sectoral trends.\r\nStock Reports Plus\r\nBuy low &amp; sell high with access to Stock Score, Upside potential &amp; more. \r\nBigBull Portfolio\r\nG\u2026 [+439 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://images.indianexpress.com/2025/11/Himachal-4.jpg",
       "publishedAt": "2025-11-17T15:12:27Z",
       "content": "The forests that cradle Shimla with their misty slopes and deodar-scented ridges may soon lose a slice of their quiet canopy. About 820 trees are set to be felled across 6.1990 hectares of forest lan\u2026 [+4079 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Statetimes.in"
-      },
-      "author": "statetimes_editor",
-      "title": "Amit Shah to chair NZC meet in Faridabad on Monday",
-      "description": "STATE TIMES NEWS NEW DELHI: Union Home Minister Amit Shah will chair a meeting of the Northern Zonal Council (NZC) that will be held on Monday in Faridabad, Haryana, officials said.Chief ministers of Punjab, Haryana and Himachal Pradesh, lieutenant governors \u2026",
-      "url": "https://statetimes.in/amit-shah-to-chair-nzc-meet-in-faridabad-on-monday/",
-      "urlToImage": "https://statetimes.in/wp-content/uploads/2025/04/Amit-Shah-dials-all-CMs-asks-them-to-ensure-no-Pakistani-stays-in-India-beyond-deadline.jpg",
-      "publishedAt": "2025-11-15T19:21:07Z",
-      "content": "STATE TIMES NEWS\r\nNEW DELHI: Union Home Minister Amit Shah will chair a meeting of the Northern Zonal Council (NZC) that will be held on Monday in Faridabad, Haryana, officials said.Chief ministers o\u2026 [+2048 chars]"
     }
   ],
   "directory": []
