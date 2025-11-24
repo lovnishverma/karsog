@@ -1,6 +1,19 @@
 {
-  "last_updated": "2025-11-24 16:10:57",
+  "last_updated": "2025-11-24 20:11:43",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Statetimes.in"
+      },
+      "author": "statetimes_editor",
+      "title": "Wife\u2019s final salute and a heartbreaking farewell; Wing Commander Syal cremated",
+      "description": "SHIMLA: Sobbing inconsolably, the IAF officer wife of Wing Commander Namansh Syal, died in the Tejas crash at the Dubai Air show, managed a farewell salute with their six-year-old daughter clinging to her as his mortal remains were consigned to flames in Hima\u2026",
+      "url": "https://statetimes.in/wifes-final-salute-and-a-heartbreaking-farewell-wing-commander-syal-cremated/",
+      "urlToImage": "https://statetimes.in/wp-content/uploads/2025/11/Wing-Commander-Syal-cremated-6-820x1024.jpg",
+      "publishedAt": "2025-11-23T16:28:03Z",
+      "content": "SHIMLA: Sobbing inconsolably, the IAF officer wife of Wing Commander Namansh Syal, died in the Tejas crash at the Dubai Air show, managed a farewell salute with their six-year-old daughter clinging t\u2026 [+2039 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-125490032,width-1200,height-630,imgsize-541577,overlay-etdefence/articleshow.jpg",
       "publishedAt": "2025-11-21T16:00:51Z",
       "content": "Tejas pilot death: India is mourning the tragic loss of Wing Commander Namansh Syal, the Indian Air Force pilot from Kangra district in Himachal Pradesh, who died after an LCA Tejas fighter jet crash\u2026 [+3098 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "Telangana, HP's drone policies be studied for replication in Delhi: L-G Saxena to chief secy after Red Fort blast",
-      "description": "Delhi Lieutenant Governor V K Saxena is examining drone policies from Telangana and Himachal Pradesh. This follows a recent blast near the Red Fort. The move aims to enhance security and balance development with safety. The government is also looking into bac\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/telangana-hps-drone-policies-be-studied-for-replication-in-delhi-l-g-saxena-to-chief-secy-after-red-fort-blast/articleshow/125486215.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-125486240,width-1200,height-630,imgsize-118202,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-11-21T12:11:24Z",
-      "content": "New Delhi: Lieutenant Governor V K Saxena has directed the Delhi chief secretary to examine the possibility of replicating the drone policies of Telangana and Himachal Pradesh in the national capital\u2026 [+3439 chars]"
     }
   ],
   "directory": []
