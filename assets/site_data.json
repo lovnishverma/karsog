@@ -1,6 +1,19 @@
 {
-  "last_updated": "2025-11-24 12:19:38",
+  "last_updated": "2025-11-24 16:10:57",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Wife's final salute and a heartbreaking farewell; Wing Commander Syal cremated",
+      "description": "Wing Commander Namansh Syal, who died in a Tejas crash at the Dubai Airshow, was cremated with full military honours in Himachal Pradesh. His wife and daughter paid their respects as locals remembered him as a dedicated athlete who saved lives by diverting th\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/wifes-final-salute-and-a-heartbreaking-farewell-wing-commander-syal-cremated/articleshow/125521583.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125521592,width-1200,height-630,imgsize-254656,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-11-23T15:22:28Z",
+      "content": "Shimla, Sobbing inconsolably, the IAF officer wife of Wing Commander Namansh Syal, killed in the Tejas crash at the Dubai Air show, managed a farewell salute with their six-year-old daughter clinging\u2026 [+2038 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-125486240,width-1200,height-630,imgsize-118202,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2025-11-21T12:11:24Z",
       "content": "New Delhi: Lieutenant Governor V K Saxena has directed the Delhi chief secretary to examine the possibility of replicating the drone policies of Telangana and Himachal Pradesh in the national capital\u2026 [+3439 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "Sanjauli mosque row: Protest and hunger strike until death called off after 'demands met'",
-      "description": "A Hindu group has called off its protest in Shimla after the administration reportedly agreed to seal an illegal mosque. The Devbhoomi Sangharsh Samiti's demands included immediate sealing, disconnection of utilities, and withdrawal of an FIR. A hunger strike\u2026",
-      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/sanjauli-mosque-row-protest-and-hunger-strike-until-death-called-off-after-demands-met/articleshow/125483586.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-125483635,width-1200,height-630,imgsize-100030,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-11-21T10:09:51Z",
-      "content": "Demanding the immediate sealing of the Sanjauli mosque here, which has been declared illegal by a court, the Devbhoomi Sangharsh Samiti on Friday called off their protest and said their demands were \u2026 [+2199 chars]"
     }
   ],
   "directory": []
