@@ -1,6 +1,32 @@
 {
-  "last_updated": "2025-11-24 08:15:35",
+  "last_updated": "2025-11-24 12:19:38",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Himachal's education revolution: State government announces massive interest subsidy on educational loans; Aims to boost opportunities for local students",
+      "description": "Students from Himachal Pradesh have a golden opportunity to secure education loans at just 1% interest through the Dr. Yashwant Singh Parmar Vidyarthi Rhin Yojna. This fantastic state initiative is tailor-made for genuine Himachalis venturing into professiona\u2026",
+      "url": "https://timesofindia.indiatimes.com/education/news/himachals-education-revolution-state-government-announces-massive-interest-subsidy-on-educational-loans-aims-to-boost-opportunities-for-local-students/articleshow/125518323.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-125518323,width-1070,height-580,imgsize-70482,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+      "publishedAt": "2025-11-23T10:09:37Z",
+      "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>Himachal's education revolution: State government announces massive interest subsidy on educational loans; Aims to boost opportunities f\u2026 [+2410 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ANI",
+      "title": "Himachal Pradesh: Mortal remains of Wing Commander Namansh Syal reach his native village in Kangra",
+      "description": "Wing Commander Namansh Syal's mortal remains returned to his native village in Kangra, Himachal Pradesh, following his tragic demise in a Tejas aircraft crash during the Dubai Air Show. Villagers and former schoolmates mourned the loss of the \"gem\" and \"pride\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/himachal-pradesh-mortal-remains-of-wing-commander-namansh-syal-reach-his-native-village-in-kangra/articleshow/125518075.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125518080,width-1200,height-630,imgsize-95398,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-11-23T09:35:16Z",
+      "content": "Mortal remains of Wing Commander Namansh Syal, who lost his life in the LCA Tejas crash during the Dubai Air Show, were brought to his native village of Patialkar in Himachal Pradesh's Kangra on Sund\u2026 [+1596 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-125483635,width-1200,height-630,imgsize-100030,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2025-11-21T10:09:51Z",
       "content": "Demanding the immediate sealing of the Sanjauli mosque here, which has been declared illegal by a court, the Devbhoomi Sangharsh Samiti on Friday called off their protest and said their demands were \u2026 [+2199 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Saurabh Parashar",
-      "title": "Himachal to handover 2.7427 ha of non-forest land for Shimla Ropeway",
-      "description": "Given the land\u2019s non-forest nature, RTDC and the state will not require permission from MoEFCC",
-      "url": "https://indianexpress.com/article/cities/chandigarh/himachal-to-handover-2-7427-ha-of-non-forest-land-for-shimla-ropeway-10372888/",
-      "urlToImage": "https://images.indianexpress.com/2025/11/shimla_20251118152504.jpg",
-      "publishedAt": "2025-11-18T14:58:24Z",
-      "content": "Along with the 6.1909 hectares of forest land in Shimla, the Himachal Pradesh government is also in the process of handing over 2.7427 hectares of non-forest land for the 13.73 km-long Shimla ropeway\u2026 [+3248 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Saurabh Parashar",
-      "title": "Shimla ropeway clears key hurdle as 820 trees face the axe",
-      "description": "According to the Forest Survey of India\u2019s 2021 assessment, 47.21 percent of Shimla\u2019s 5,131 sq km geographical area is under forest cover.",
-      "url": "https://indianexpress.com/article/cities/chandigarh/shimla-ropeway-trees-face-the-axe-10371174/",
-      "urlToImage": "https://images.indianexpress.com/2025/11/Himachal-4.jpg",
-      "publishedAt": "2025-11-17T15:12:27Z",
-      "content": "The forests that cradle Shimla with their misty slopes and deodar-scented ridges may soon lose a slice of their quiet canopy. About 820 trees are set to be felled across 6.1990 hectares of forest lan\u2026 [+4079 chars]"
     }
   ],
   "directory": []
