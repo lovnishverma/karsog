@@ -4,7 +4,7 @@ A great hyper-local platform for Karsog Valley acting as a **Business Directory*
 
 Built with **HTML/CSS/JavaScript** on the frontend, powered by **Google Sheets** as the primary CMS, and enhanced with **Python/GitHub Actions** for automated news updates.
 
-[Google Form for Listings](https://forms.gle/HrJppPH3BHZLSCPD7) | [Live Site](https://www.karsog.com)
+[Google Form for Listings](https://forms.gle/HrJppPH3BHZLSCPD7) | [Live Site](https://www.karsog.com)  |  [Sheet Link](https://docs.google.com/spreadsheets/d/1Q-8aMzjNJGlc8oJF_bcRV4S4BSZq-fxcGheZ_d9ii78/edit?usp=sharing)
 
 ## 🌟 Features
 
