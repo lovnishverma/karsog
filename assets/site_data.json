@@ -1,6 +1,19 @@
 {
-  "last_updated": "2025-11-25 08:15:10",
+  "last_updated": "2025-11-25 12:20:51",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ANI",
+      "title": "Himachal cabinet raises disaster relief to Rs 8 lakh, clears major recruitments; panchayat poll delay issue still sub judice",
+      "description": "Himachal Pradesh Cabinet approved a Rs 1 lakh hike in disaster relief, raising compensation for destroyed homes to Rs 8 lakh. Major recruitment drives for health, police, and engineering roles were also cleared. The government also greenlit a 40% subsidy for \u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/himachal-cabinet-raises-disaster-relief-to-rs-8-lakh-clears-major-recruitments-panchayat-poll-delay-issue-still-sub-judice/articleshow/125540575.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125540604,width-1200,height-630,imgsize-80472,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-11-24T12:01:19Z",
+      "content": "The Himachal Pradesh Cabinet on Monday approved a significant increase in disaster relief assistance, raised major recruitment proposals, and cleared multiple administrative decisions, even as the po\u2026 [+1822 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-125508189,width-1200,height-630,imgsize-54102,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2025-11-22T16:37:15Z",
       "content": "Investment Ideas\r\nGrow your wealth with stock ideas &amp; sectoral trends.\r\nStock Reports Plus\r\nBuy low &amp; sell high with access to Stock Score, Upside potential &amp; more. \r\nBigBull Portfolio\r\nG\u2026 [+439 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "Tejas pilot death: Who was Wing Commander Namansh Syal, Himachal\u2019s brave IAF officer killed in Dubai Air Show crash?",
-      "description": "Tejas pilot death: Wing Commander Namansh Syal tragically died when an LCA Tejas fighter jet crashed during an aerial display at the Dubai Air Show. The indigenous aircraft nosedived, erupting in a fireball, marking the first fatal incident for the Tejas duri\u2026",
-      "url": "https://economictimes.indiatimes.com/news/defence/tejas-pilot-death-who-was-wing-commander-namnash-syal-himachals-brave-iaf-officer-killed-in-dubai-air-show-crash/articleshow/125489988.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-125490032,width-1200,height-630,imgsize-541577,overlay-etdefence/articleshow.jpg",
-      "publishedAt": "2025-11-21T16:00:51Z",
-      "content": "Tejas pilot death: India is mourning the tragic loss of Wing Commander Namansh Syal, the Indian Air Force pilot from Kangra district in Himachal Pradesh, who died after an LCA Tejas fighter jet crash\u2026 [+3098 chars]"
     }
   ],
   "directory": []
