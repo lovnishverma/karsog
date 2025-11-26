@@ -1,6 +1,19 @@
 {
-  "last_updated": "2025-11-26 16:12:43",
+  "last_updated": "2025-11-26 20:11:04",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Ndtvprofit.com"
+      },
+      "author": "PTI",
+      "title": "Himachal Pradesh Government To Conduct Recruitment Drive For Jobs In UAE",
+      "description": "The Himachal Pradesh State Electronics Development Corporation is set to organise a special recruitment drive for 300 delivery riders in the United Arab Emirates (UAE) in the first week of next month. An official spokesperson on Tuesday informed that the stat\u2026",
+      "url": "https://www.ndtvprofit.com/business/himachal-pradesh-government-to-conduct-recruitment-drive-for-jobs-in-uae",
+      "urlToImage": "https://media.assettype.com/bloombergquint%2F2024-08-10%2F16h16jr7%2Fjob-search-with-job-sign_104165-18.avif?rect=0%2C52%2C900%2C473&w=1200&auto=format%2Ccompress&ogImage=true",
+      "publishedAt": "2025-11-25T16:33:19Z",
+      "content": "\"The recruitment is being conducted by HPSEDC, in collaboration with the Department of Labour &amp; Employment, and a recruitment agency registered with the Union Ministry of External Affairs (MEA). \u2026 [+157 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-125521592,width-1200,height-630,imgsize-254656,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2025-11-23T15:22:28Z",
       "content": "Shimla, Sobbing inconsolably, the IAF officer wife of Wing Commander Namansh Syal, killed in the Tejas crash at the Dubai Air show, managed a farewell salute with their six-year-old daughter clinging\u2026 [+2038 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "Himachal's education revolution: State government announces massive interest subsidy on educational loans; Aims to boost opportunities for local students",
-      "description": "Students from Himachal Pradesh have a golden opportunity to secure education loans at just 1% interest through the Dr. Yashwant Singh Parmar Vidyarthi Rhin Yojna. This fantastic state initiative is tailor-made for genuine Himachalis venturing into professiona\u2026",
-      "url": "https://timesofindia.indiatimes.com/education/news/himachals-education-revolution-state-government-announces-massive-interest-subsidy-on-educational-loans-aims-to-boost-opportunities-for-local-students/articleshow/125518323.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-125518323,width-1070,height-580,imgsize-70482,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-      "publishedAt": "2025-11-23T10:09:37Z",
-      "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>Himachal's education revolution: State government announces massive interest subsidy on educational loans; Aims to boost opportunities f\u2026 [+2410 chars]"
     }
   ],
   "directory": []
