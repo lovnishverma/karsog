@@ -1,6 +1,19 @@
 {
-  "last_updated": "2025-11-28 04:14:03",
+  "last_updated": "2025-11-28 08:15:06",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Education",
+      "title": "HPBOSE Class 10th, 12th datesheet 2025 released: Direct link to download here",
+      "description": "The Himachal Pradesh Board of School Education has released the 2026 date sheets for Class 10 and Class 12 board exams, scheduled to begin on March 3. Class 10 papers will continue till March 28, while Class 12 exams will conclude on April 1. The board has al\u2026",
+      "url": "https://timesofindia.indiatimes.com/education/news/hpbose-class-10th-12th-datesheet-2025-released-direct-link-to-download-here/articleshow/125606454.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-125606465,width-1070,height-580,imgsize-150412,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+      "publishedAt": "2025-11-27T06:07:47Z",
+      "content": "The Himachal Pradesh Board of School Education has released the 2026 date sheets for Class 10 and Class 12 board exams, scheduled to begin on March 3. Class 10 papers will continue till March 28, whi\u2026 [+2217 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://statetimes.in/wp-content/uploads/2025/11/Wing-Commander-Syal-cremated-6-820x1024.jpg",
       "publishedAt": "2025-11-23T16:28:03Z",
       "content": "SHIMLA: Sobbing inconsolably, the IAF officer wife of Wing Commander Namansh Syal, died in the Tejas crash at the Dubai Air show, managed a farewell salute with their six-year-old daughter clinging t\u2026 [+2039 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "Wife's final salute and a heartbreaking farewell; Wing Commander Syal cremated",
-      "description": "Wing Commander Namansh Syal, who died in a Tejas crash at the Dubai Airshow, was cremated with full military honours in Himachal Pradesh. His wife and daughter paid their respects as locals remembered him as a dedicated athlete who saved lives by diverting th\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/wifes-final-salute-and-a-heartbreaking-farewell-wing-commander-syal-cremated/articleshow/125521583.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-125521592,width-1200,height-630,imgsize-254656,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-11-23T15:22:28Z",
-      "content": "Shimla, Sobbing inconsolably, the IAF officer wife of Wing Commander Namansh Syal, killed in the Tejas crash at the Dubai Air show, managed a farewell salute with their six-year-old daughter clinging\u2026 [+2038 chars]"
     }
   ],
   "directory": []
