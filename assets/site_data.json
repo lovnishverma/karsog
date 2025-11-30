@@ -1,6 +1,19 @@
 {
-  "last_updated": "2025-11-30 08:12:32",
+  "last_updated": "2025-11-30 12:17:19",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Economictimes.com"
+      },
+      "author": "iStock",
+      "title": "7 most beautiful hill stations in India to visit this year",
+      "description": "Known for its breathtaking snow-capped peaks, adventure sports, and scenic valleys, Manali is a favorite getaway. Enjoy Solang Valley skiing, Rohtang Pass views, and cozy riverside stays. Manali, Himachal Pradesh",
+      "url": "https://m.economictimes.com/news/india/7-most-beautiful-hill-stations-in-india-to-visit-this-year/manali-himachal-pradesh/slideshow/125655184.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125655184,width-1070,height-580,overlay-economictimes/slideshow.jpg",
+      "publishedAt": "2025-11-29T09:39:29Z",
+      "content": "Nov 29, 2025, 03:10:26 PM IST\r\nKnown for its breathtaking snow-capped peaks, adventure sports, and scenic valleys, Manali is a favorite getaway. Enjoy Solang Valley skiing, Rohtang Pass views, and co\u2026 [+1056 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://images.indianexpress.com/2025/11/Delivery-agent.jpg",
       "publishedAt": "2025-11-25T13:47:35Z",
       "content": "The Himachal Pradesh government has announced a new overseas employment opportunity for the youth of the state.A state spokesperson said that the Himachal Pradesh State Electronics Development Corpor\u2026 [+1408 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ANI",
-      "title": "Himachal cabinet raises disaster relief to Rs 8 lakh, clears major recruitments; panchayat poll delay issue still sub judice",
-      "description": "Himachal Pradesh Cabinet approved a Rs 1 lakh hike in disaster relief, raising compensation for destroyed homes to Rs 8 lakh. Major recruitment drives for health, police, and engineering roles were also cleared. The government also greenlit a 40% subsidy for \u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/himachal-cabinet-raises-disaster-relief-to-rs-8-lakh-clears-major-recruitments-panchayat-poll-delay-issue-still-sub-judice/articleshow/125540575.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-125540604,width-1200,height-630,imgsize-80472,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-11-24T12:01:19Z",
-      "content": "The Himachal Pradesh Cabinet on Monday approved a significant increase in disaster relief assistance, raised major recruitment proposals, and cleared multiple administrative decisions, even as the po\u2026 [+1822 chars]"
     }
   ],
   "directory": []
