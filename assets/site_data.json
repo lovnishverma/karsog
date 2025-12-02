@@ -1,6 +1,19 @@
 {
-  "last_updated": "2025-12-02 12:21:12",
+  "last_updated": "2025-12-02 16:14:16",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Himachal Pradesh govt facing acute financial crunch; MLAs have to wait for funds, hiked salaries: CM Sukhu",
+      "description": "In a challenging financial landscape, MLAs in Himachal Pradesh must now exercise patience as they await their area development funds and proposed salary increases. Chief Minister Sukhvinder Singh Sukhu announced that due to dwindling central grants and tighte\u2026",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/himachal-pradesh-govt-facing-acute-financial-crunch-mlas-have-to-wait-for-funds-hiked-salaries-cm-sukhu/articleshow/125698243.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125698314,width-1200,height-630,imgsize-150990,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-12-01T15:48:53Z",
+      "content": "Himachal Pradesh MLAs shall have to wait for release of the third installment of local area development fund and their enhanced salaries and allowances as the state is facing acute financial crisis, \u2026 [+2111 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-125606465,width-1070,height-580,imgsize-150412,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
       "publishedAt": "2025-11-27T06:07:47Z",
       "content": "The Himachal Pradesh Board of School Education has released the 2026 date sheets for Class 10 and Class 12 board exams, scheduled to begin on March 3. Class 10 papers will continue till March 28, whi\u2026 [+2217 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ndtvprofit.com"
-      },
-      "author": "PTI",
-      "title": "Himachal Pradesh Government To Conduct Recruitment Drive For Jobs In UAE",
-      "description": "The Himachal Pradesh State Electronics Development Corporation is set to organise a special recruitment drive for 300 delivery riders in the United Arab Emirates (UAE) in the first week of next month. An official spokesperson on Tuesday informed that the stat\u2026",
-      "url": "https://www.ndtvprofit.com/business/himachal-pradesh-government-to-conduct-recruitment-drive-for-jobs-in-uae",
-      "urlToImage": "https://media.assettype.com/bloombergquint%2F2024-08-10%2F16h16jr7%2Fjob-search-with-job-sign_104165-18.avif?rect=0%2C52%2C900%2C473&w=1200&auto=format%2Ccompress&ogImage=true",
-      "publishedAt": "2025-11-25T16:33:19Z",
-      "content": "\"The recruitment is being conducted by HPSEDC, in collaboration with the Department of Labour &amp; Employment, and a recruitment agency registered with the Union Ministry of External Affairs (MEA). \u2026 [+157 chars]"
     }
   ],
   "directory": []
