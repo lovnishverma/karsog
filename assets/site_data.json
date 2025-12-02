@@ -1,6 +1,19 @@
 {
-  "last_updated": "2025-12-02 08:15:44",
+  "last_updated": "2025-12-02 12:21:12",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Trending Desk",
+      "title": "Anand Mahindra shares \u2018unreal\u2019 view of a Mandir in Himachal that looks like Switzerland, here's how you can reach this place",
+      "description": "Anand Mahindra shared a breathtaking image of Rishi Parashar Mandir in Mandi, Himachal Pradesh, calling its beauty 'almost unreal.' The industrialist revealed a personal connection, regretting not visiting the region his late aunt praised. This blend of famil\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/anand-mahindra-shares-unreal-view-of-a-mandir-in-himachal-that-looks-like-switzerland-heres-how-you-can-reach-this-place/articleshow/125690832.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125691292,width-1200,height-630,imgsize-120386,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-12-01T10:08:42Z",
+      "content": "Anand Mahindra shared a stunning image of the Rishi Parashar Mandir in Mandi, Himachal Pradesh a frame he described as so beautiful that it felt almost unreal. The industrialist posted the photo on X\u2026 [+3658 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://media.assettype.com/bloombergquint%2F2024-08-10%2F16h16jr7%2Fjob-search-with-job-sign_104165-18.avif?rect=0%2C52%2C900%2C473&w=1200&auto=format%2Ccompress&ogImage=true",
       "publishedAt": "2025-11-25T16:33:19Z",
       "content": "\"The recruitment is being conducted by HPSEDC, in collaboration with the Department of Labour &amp; Employment, and a recruitment agency registered with the Union Ministry of External Affairs (MEA). \u2026 [+157 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "Dreaming of working abroad? HP govt launches UAE job drive with monthly earnings up to Rs 1 lakh: Check details inside",
-      "description": "The Himachal Pradesh State Electronics Development Corporation is organising a special recruitment drive for 300 delivery rider positions in the United Arab Emirates. This initiative offers new overseas employment opportunities for the youth of Himachal Prade\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/dreaming-of-working-abroad-hp-govt-launches-uae-job-drive-with-monthly-earnings-up-to-rs-1-lakh-check-details-inside/articleshow/125568320.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-125568352,width-1200,height-630,imgsize-1125154,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-11-25T15:54:05Z",
-      "content": "The Himachal Pradesh State Electronics Development Corporation (HPSEDC) is set to organise a special recruitment drive for 300 delivery rider positions in the United Arab Emirates (UAE) in the first \u2026 [+2031 chars]"
     }
   ],
   "directory": []
