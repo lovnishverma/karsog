@@ -1,6 +1,19 @@
 {
-  "last_updated": "2025-12-03 04:19:16",
+  "last_updated": "2025-12-03 08:15:13",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Saurabh Parashar",
+      "title": "Will draw a Re1 salary until Himachal emerges from financial crisis: BJP MLA Prakash Rana",
+      "description": "The reduction in capital expenditure and a minuscule increase in the budget size by mere Rs 71 crore over last year clearly reflects the fiscal stress the state is facing.",
+      "url": "https://indianexpress.com/article/cities/chandigarh/will-draw-a-re1-salary-until-himachal-emerges-from-financial-crisis-bjp-mla-prakash-rana-10397395/",
+      "urlToImage": "https://images.indianexpress.com/2025/12/Untitled-design-13.png",
+      "publishedAt": "2025-12-02T06:41:54Z",
+      "content": "A BJP MLA Monday informed the Vidhan Sabha that he will take drawn only Re 1 as salary till Himachal Pradesh does not come out of the financial crisis.Participating in a debate on the issue of natura\u2026 [+3133 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-125655184,width-1070,height-580,overlay-economictimes/slideshow.jpg",
       "publishedAt": "2025-11-29T09:39:29Z",
       "content": "Nov 29, 2025, 03:10:26 PM IST\r\nKnown for its breathtaking snow-capped peaks, adventure sports, and scenic valleys, Manali is a favorite getaway. Enjoy Solang Valley skiing, Rohtang Pass views, and co\u2026 [+1056 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Saurabh Parashar",
-      "title": "Amid Opposition onslaught, Himachal CM Sukhu says panchayat elections only after Disaster Management Act is revoked",
-      "description": "Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu was replying to the debate on an Adjournment Motion regarding the delay in gram panchayat and local bodies\u2019 elections in the Assembly.",
-      "url": "https://indianexpress.com/article/cities/chandigarh/himachal-sukhu-panchayat-elections-disaster-management-act-10389373/",
-      "urlToImage": "https://images.indianexpress.com/2025/11/sukhu_305cfd.jpg",
-      "publishedAt": "2025-11-27T12:00:55Z",
-      "content": "A day after the Opposition Bharatiya Janata Party (BJP) sparred with the government over the delay in panchayat elections in Himachal Pradesh, Chief Minister Sukhvinder Singh Sukhu Thursday clarified\u2026 [+2819 chars]"
     }
   ],
   "directory": []
