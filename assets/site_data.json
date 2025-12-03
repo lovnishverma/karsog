@@ -1,6 +1,19 @@
 {
-  "last_updated": "2025-12-03 12:20:32",
+  "last_updated": "2025-12-03 16:14:49",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Saurabh Parashar",
+      "title": "\u2018Hired senior advocates to protect interests of Himachal, will continue to do so\u2019: Sukhu",
+      "description": "Speaking during the Question Hour, Sukhu informed the House that the state government will continue to hire the senior advocates on the basis of their expertise to protect the interests of the state.",
+      "url": "https://indianexpress.com/article/cities/chandigarh/senior-advocates-protect-interests-state-sukhu-10398641/",
+      "urlToImage": "https://images.indianexpress.com/2025/12/ch1953189.jpg",
+      "publishedAt": "2025-12-02T14:54:40Z",
+      "content": "Chief Minister Sukhvinder Singh Sukhu Tuesday defended the hiring of senior advocates, including Abhishek Manu Singhvi and Kapil Sibal, to present legal matters related to Himachal Pradesh in the hig\u2026 [+2185 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-125675819,width-1200,height-630,imgsize-40378,overlay-etpanache/articleshow.jpg",
       "publishedAt": "2025-11-30T16:05:34Z",
       "content": "Anand Mahindra recently lauded the ancient Rishi Parashar Mandir in Mandi, Himachal Pradesh. This 14th-century temple, built in pagoda style, showcases Himalayan craftsmanship. It sits beside the mes\u2026 [+176 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Economictimes.com"
-      },
-      "author": "iStock",
-      "title": "7 most beautiful hill stations in India to visit this year",
-      "description": "Known for its breathtaking snow-capped peaks, adventure sports, and scenic valleys, Manali is a favorite getaway. Enjoy Solang Valley skiing, Rohtang Pass views, and cozy riverside stays. Manali, Himachal Pradesh",
-      "url": "https://m.economictimes.com/news/india/7-most-beautiful-hill-stations-in-india-to-visit-this-year/manali-himachal-pradesh/slideshow/125655184.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-125655184,width-1070,height-580,overlay-economictimes/slideshow.jpg",
-      "publishedAt": "2025-11-29T09:39:29Z",
-      "content": "Nov 29, 2025, 03:10:26 PM IST\r\nKnown for its breathtaking snow-capped peaks, adventure sports, and scenic valleys, Manali is a favorite getaway. Enjoy Solang Valley skiing, Rohtang Pass views, and co\u2026 [+1056 chars]"
     }
   ],
   "directory": []
