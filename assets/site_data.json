@@ -1,6 +1,19 @@
 {
-  "last_updated": "2025-12-04 16:14:09",
+  "last_updated": "2025-12-04 20:11:46",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Statetimes.in"
+      },
+      "author": "statetimes_editor",
+      "title": "Northern Railways to resume operation of narrow gauge trains in Kangra Valley",
+      "description": "JAMMU: The Northern Railways will resume the operation of narrow gauge trains in the Kangra Valley of Himachal Pradesh from December 5, officials said. Train services in Himachal Pradesh were suspended following heavy rains and landslides in September this ye\u2026",
+      "url": "https://statetimes.in/northern-railways-to-resume-operation-of-narrow-gauge-trains-in-kangra-valley/",
+      "urlToImage": "https://statetimes.in/wp-content/uploads/2025/12/narrow-gauge-trains-india.jpg",
+      "publishedAt": "2025-12-03T18:01:23Z",
+      "content": "JAMMU: The Northern Railways will resume the operation of narrow gauge trains in the Kangra Valley of Himachal Pradesh from December 5, officials said.\r\nTrain services in Himachal Pradesh were suspen\u2026 [+993 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-125691292,width-1200,height-630,imgsize-120386,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2025-12-01T10:08:42Z",
       "content": "Anand Mahindra shared a stunning image of the Rishi Parashar Mandir in Mandi, Himachal Pradesh a frame he described as so beautiful that it felt almost unreal. The industrialist posted the photo on X\u2026 [+3658 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "'Beauty almost unreal': Anand Mahindra regrets not visiting a hidden Himachal Pradesh treasure for years",
-      "description": "Anand Mahindra recently lauded the ancient Rishi Parashar Mandir in Mandi, Himachal Pradesh. This 14th-century temple, built in pagoda style, showcases Himalayan craftsmanship. It sits beside the mesmerizing Parashar Lake, famous for its floating island. The \u2026",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/beauty-almost-unreal-anand-mahindra-regrets-not-visiting-a-hidden-himachal-pradesh-treasure-for-years/articleshow/125675625.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-125675819,width-1200,height-630,imgsize-40378,overlay-etpanache/articleshow.jpg",
-      "publishedAt": "2025-11-30T16:05:34Z",
-      "content": "Anand Mahindra recently lauded the ancient Rishi Parashar Mandir in Mandi, Himachal Pradesh. This 14th-century temple, built in pagoda style, showcases Himalayan craftsmanship. It sits beside the mes\u2026 [+176 chars]"
     }
   ],
   "directory": []
