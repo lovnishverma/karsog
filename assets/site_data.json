@@ -1,6 +1,19 @@
 {
-  "last_updated": "2025-12-06 04:11:39",
+  "last_updated": "2025-12-06 08:12:56",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "INDIA- INDONESIA JOINT SPECIAL FORCES EXERCISE GARUDA SHAKTI COMMENCES IN HIMACHAL PRADESH",
+      "description": "The 10th edition of the India- Indonesia Joint Special Forces Exercise GARUDA SHAKTI has commenced at the Special Forces Training School, Bakloh, Himachal Pradesh",
+      "url": "https://www.globalsecurity.org/wmd/library/news/india/2025/india-251204-india-pib02.htm",
+      "urlToImage": null,
+      "publishedAt": "2025-12-05T06:34:28Z",
+      "content": "India - Press Information Bureau\r\nMinistry of Defence\r\nPosted On: 04 DEC 2025 4:26PM by PIB Delhi\r\nThe 10th edition of the India- Indonesia Joint Special Forces Exercise GARUDA SHAKTI has commenced a\u2026 [+1427 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-125708643,width-1200,height-630,imgsize-249938,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2025-12-02T03:35:12Z",
       "content": "Bengaluru is likely to experience significantly lower-than-normal temperatures and light rain in the first week of December due to the impact of cyclone Ditwah on the Tamil Nadu coast, the India Mete\u2026 [+3164 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "Himachal Pradesh govt facing acute financial crunch; MLAs have to wait for funds, hiked salaries: CM Sukhu",
-      "description": "In a challenging financial landscape, MLAs in Himachal Pradesh must now exercise patience as they await their area development funds and proposed salary increases. Chief Minister Sukhvinder Singh Sukhu announced that due to dwindling central grants and tighte\u2026",
-      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/himachal-pradesh-govt-facing-acute-financial-crunch-mlas-have-to-wait-for-funds-hiked-salaries-cm-sukhu/articleshow/125698243.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-125698314,width-1200,height-630,imgsize-150990,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-12-01T15:48:53Z",
-      "content": "Himachal Pradesh MLAs shall have to wait for release of the third installment of local area development fund and their enhanced salaries and allowances as the state is facing acute financial crisis, \u2026 [+2111 chars]"
     }
   ],
   "directory": []
