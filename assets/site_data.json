@@ -1,6 +1,19 @@
 {
-  "last_updated": "2025-12-09 12:20:39",
+  "last_updated": "2025-12-09 16:13:57",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Manraj Grewal Sharma",
+      "title": "Alba Smeriglio takes charge as British Deputy High Commissioner in Chandigarh",
+      "description": "To represent the UK across Punjab, Haryana, Himachal Pradesh, Uttarakhand and Chandigarh",
+      "url": "https://indianexpress.com/article/cities/chandigarh/alba-smeriglio-takes-charge-as-british-deputy-high-commissioner-in-chandigarh-10409384/",
+      "urlToImage": "https://images.indianexpress.com/2025/12/BRITISH.jpg",
+      "publishedAt": "2025-12-08T12:58:38Z",
+      "content": "Alba Smeriglio has assumed office as the new British Deputy High Commissioner in Chandigarh, taking charge of the UKs diplomatic engagement across four northern statesPunjab, Haryana, Himachal Prades\u2026 [+633 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://images.indianexpress.com/2025/12/ch1953189.jpg",
       "publishedAt": "2025-12-02T14:54:40Z",
       "content": "Chief Minister Sukhvinder Singh Sukhu Tuesday defended the hiring of senior advocates, including Abhishek Manu Singhvi and Kapil Sibal, to present legal matters related to Himachal Pradesh in the hig\u2026 [+2185 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Saurabh Parashar",
-      "title": "Will draw a Re1 salary until Himachal emerges from financial crisis: BJP MLA Prakash Rana",
-      "description": "The reduction in capital expenditure and a minuscule increase in the budget size by mere Rs 71 crore over last year clearly reflects the fiscal stress the state is facing.",
-      "url": "https://indianexpress.com/article/cities/chandigarh/will-draw-a-re1-salary-until-himachal-emerges-from-financial-crisis-bjp-mla-prakash-rana-10397395/",
-      "urlToImage": "https://images.indianexpress.com/2025/12/Untitled-design-13.png",
-      "publishedAt": "2025-12-02T06:41:54Z",
-      "content": "A BJP MLA Monday informed the Vidhan Sabha that he will take drawn only Re 1 as salary till Himachal Pradesh does not come out of the financial crisis.Participating in a debate on the issue of natura\u2026 [+3133 chars]"
     }
   ],
   "directory": []
