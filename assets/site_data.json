@@ -1,6 +1,19 @@
 {
-  "last_updated": "2025-12-12 04:24:43",
+  "last_updated": "2025-12-12 08:15:38",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Education",
+      "title": "HPCET 2026 schedule announced at himtu.ac.in: Check details here",
+      "description": "Himachal Pradesh Technical University (HPTU), Hamirpur, has released the official schedule for HPCET 2026. The Common Entrance Test for UG and PG programmes will be held on May 10, 2026, with separate morning and afternoon sessions. Candidates are advised to \u2026",
+      "url": "https://timesofindia.indiatimes.com/education/news/hpcet-2026-schedule-announced-at-himtu-ac-in-check-details-here/articleshow/125905859.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-125905907,width-1070,height-580,imgsize-553660,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+      "publishedAt": "2025-12-11T07:26:57Z",
+      "content": "Himachal Pradesh Technical University (HPTU), Hamirpur, has released the official schedule for HPCET 2026. The Common Entrance Test for UG and PG programmes will be held on May 10, 2026, with separat\u2026 [+293 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://statetimes.in/wp-content/uploads/2025/12/narrow-gauge-trains-india.jpg",
       "publishedAt": "2025-12-03T18:01:23Z",
       "content": "JAMMU: The Northern Railways will resume the operation of narrow gauge trains in the Kangra Valley of Himachal Pradesh from December 5, officials said.\r\nTrain services in Himachal Pradesh were suspen\u2026 [+993 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Saurabh Parashar",
-      "title": "\u2018Hired senior advocates to protect interests of Himachal, will continue to do so\u2019: Sukhu",
-      "description": "Speaking during the Question Hour, Sukhu informed the House that the state government will continue to hire the senior advocates on the basis of their expertise to protect the interests of the state.",
-      "url": "https://indianexpress.com/article/cities/chandigarh/senior-advocates-protect-interests-state-sukhu-10398641/",
-      "urlToImage": "https://images.indianexpress.com/2025/12/ch1953189.jpg",
-      "publishedAt": "2025-12-02T14:54:40Z",
-      "content": "Chief Minister Sukhvinder Singh Sukhu Tuesday defended the hiring of senior advocates, including Abhishek Manu Singhvi and Kapil Sibal, to present legal matters related to Himachal Pradesh in the hig\u2026 [+2185 chars]"
     }
   ],
   "directory": []
