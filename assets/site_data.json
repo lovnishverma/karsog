@@ -1,6 +1,19 @@
 {
-  "last_updated": "2025-12-13 16:11:16",
+  "last_updated": "2025-12-13 20:10:44",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Teena Thacker",
+      "title": "Himachal drug cos under stop orders found operational",
+      "description": "Himachal Pradesh's drug regulation bodies came across a concerning trend: numerous pharmaceutical companies were found to be operating illicitly, despite official directives to cease manufacturing after failing quality evaluations. Inspections indicated these\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/himachal-drug-cos-under-stop-orders-found-operational/articleshow/125939802.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-125939865,width-1200,height-630,imgsize-315930,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-12-12T19:27:59Z",
+      "content": "New Delhi: Despite a prohibitory order, several pharma companies were found to be carrying operations in pharma hub Himachal Pradesh. An inspection was carried out by the state drug authorities this \u2026 [+2496 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-125818463,width-1070,height-580,imgsize-810713,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
       "publishedAt": "2025-12-07T15:46:12Z",
       "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>HPRCA Assistant Staff Nurse recruitment 2025: Notification released for 312 posts; registration begins on this date at hprca.hp.gov.in</\u2026 [+501 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalsecurity.org"
-      },
-      "author": "John Pike",
-      "title": "INDIA- INDONESIA JOINT SPECIAL FORCES EXERCISE GARUDA SHAKTI COMMENCES IN HIMACHAL PRADESH",
-      "description": "The 10th edition of the India- Indonesia Joint Special Forces Exercise GARUDA SHAKTI has commenced at the Special Forces Training School, Bakloh, Himachal Pradesh",
-      "url": "https://www.globalsecurity.org/wmd/library/news/india/2025/india-251204-india-pib02.htm",
-      "urlToImage": null,
-      "publishedAt": "2025-12-05T06:34:28Z",
-      "content": "India - Press Information Bureau\r\nMinistry of Defence\r\nPosted On: 04 DEC 2025 4:26PM by PIB Delhi\r\nThe 10th edition of the India- Indonesia Joint Special Forces Exercise GARUDA SHAKTI has commenced a\u2026 [+1427 chars]"
     }
   ],
   "directory": []
