@@ -1,6 +1,19 @@
 {
-  "last_updated": "2025-12-12 20:11:16",
+  "last_updated": "2025-12-13 00:46:17",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Saurabh Parashar",
+      "title": "Himachal Pradesh CM Sukhvinder Singh Sukhu blows 2027 poll bugle: \u2018Political war over next 2 years\u2019",
+      "description": "The Congress government in the hill state marked the completion of its three years in power with a massive show of strength at Mandi\u2019s Paddal ground.",
+      "url": "https://indianexpress.com/article/cities/chandigarh/himachal-pradesh-cm-sukhvinder-singh-sukhu-blows-2027-poll-bugle-political-war-over-next-2-years-10416055/",
+      "urlToImage": "https://images.indianexpress.com/2025/12/sukhu_305cfd_20251211234847.jpg",
+      "publishedAt": "2025-12-11T23:50:13Z",
+      "content": "Declaring the three years of his governance as public welfare and vyavastha parivartan (change in system), Himachal Pradesh CM Sukhvinder Singh Sukhu Thursday said the next two years will not just be\u2026 [+791 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://www.boredpanda.com/blog/wp-content/uploads/2025/12/himachal-pradesh-by-devesh-joshi-fb.png",
       "publishedAt": "2025-12-04T14:17:15Z",
       "content": "Himachal Pradesh is one of those rare places that manages to feel familiar even if it\u2019s your first time there. Maybe it\u2019s the crisp mountain air, the smell of deodar trees, or the way the towns cling\u2026 [+4724 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Statetimes.in"
-      },
-      "author": "statetimes_editor",
-      "title": "Northern Railways to resume operation of narrow gauge trains in Kangra Valley",
-      "description": "JAMMU: The Northern Railways will resume the operation of narrow gauge trains in the Kangra Valley of Himachal Pradesh from December 5, officials said. Train services in Himachal Pradesh were suspended following heavy rains and landslides in September this ye\u2026",
-      "url": "https://statetimes.in/northern-railways-to-resume-operation-of-narrow-gauge-trains-in-kangra-valley/",
-      "urlToImage": "https://statetimes.in/wp-content/uploads/2025/12/narrow-gauge-trains-india.jpg",
-      "publishedAt": "2025-12-03T18:01:23Z",
-      "content": "JAMMU: The Northern Railways will resume the operation of narrow gauge trains in the Kangra Valley of Himachal Pradesh from December 5, officials said.\r\nTrain services in Himachal Pradesh were suspen\u2026 [+993 chars]"
     }
   ],
   "directory": []
