@@ -1,6 +1,19 @@
 {
-  "last_updated": "2025-12-14 08:13:12",
+  "last_updated": "2025-12-14 12:17:50",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Express Web Desk",
+      "title": "IMD forecasts light rain, snow in Chamba, Kullu, Lahaul and Spiti",
+      "description": "Minimum temperatures over high hill areas in Himachal Pradesh may fall by 2 to 4\u00b0C in the next few days, as per the weather forecast.",
+      "url": "https://indianexpress.com/article/cities/chandigarh/imd-forecasts-light-rain-snow-in-chamba-kullu-lahaul-and-spiti-10418685/",
+      "urlToImage": "https://images.indianexpress.com/2025/10/Shimla_20251029054834.jpg",
+      "publishedAt": "2025-12-13T12:11:35Z",
+      "content": "The India Meteorological Department (IMD) has forecast light rain or snowfall at isolated places over high hill areas, including Chamba, Kullu, Sirmour and Lahaul and Spiti, in Himachal Pradesh in th\u2026 [+1600 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://images.indianexpress.com/2025/12/BRITISH.jpg",
       "publishedAt": "2025-12-08T12:58:38Z",
       "content": "Alba Smeriglio has assumed office as the new British Deputy High Commissioner in Chandigarh, taking charge of the UKs diplomatic engagement across four northern statesPunjab, Haryana, Himachal Prades\u2026 [+633 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Education",
-      "title": "HPRCA Assistant Staff Nurse recruitment 2025: Notification released for 312 posts; registration begins on this date at hprca.hp.gov.in",
-      "description": "Himachal Pradesh Rajya Chayan Aayog is recruiting 312 Assistant Staff Nurses for a five-year tenure with a \u20b925,000 monthly honorarium. Applications open on December 12, 2025, and close on January 16, 2026. Eligibility requires a B.Sc. Nursing or GNM diploma, \u2026",
-      "url": "https://timesofindia.indiatimes.com/education/news/hprca-assistant-staff-nurse-recruitment-2025-notification-released-for-312-posts-registration-begins-on-this-date-at-hprca-hp-gov-in/articleshow/125818197.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-125818463,width-1070,height-580,imgsize-810713,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-      "publishedAt": "2025-12-07T15:46:12Z",
-      "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>HPRCA Assistant Staff Nurse recruitment 2025: Notification released for 312 posts; registration begins on this date at hprca.hp.gov.in</\u2026 [+501 chars]"
     }
   ],
   "directory": []
