@@ -1,6 +1,19 @@
 {
-  "last_updated": "2025-12-21 16:11:24",
+  "last_updated": "2025-12-21 20:10:49",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Statetimes.in"
+      },
+      "author": "statetimes_editor",
+      "title": "Fog envelopes northern states; wet weather with snow forecast for parts of J&K, Himachal",
+      "description": "NEW DELHI: As the year draws to a close, mercury hovered around its wintry lows and normal life was affected across northern states due to foggy conditions, with red alert warning issued in Uttar Pradesh on Saturday. The national capital was in the grip of a \u2026",
+      "url": "https://statetimes.in/fog-envelopes-northern-states-wet-weather-with-snow-forecast-for-parts-of-jk-himachal/",
+      "urlToImage": "https://statetimes.in/wp-content/uploads/2025/12/1-1024x591.jpg",
+      "publishedAt": "2025-12-20T16:42:25Z",
+      "content": "NEW DELHI: As the year draws to a close, mercury hovered around its wintry lows and normal life was affected across northern states due to foggy conditions, with red alert warning issued in Uttar Pra\u2026 [+10038 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-125969142,width-1200,height-630,imgsize-2022266,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2025-12-15T02:39:25Z",
       "content": "Bengaluru is likely to experience clear skies and chilly mornings with temperatures expected to drop further, the India Meteorological Centre (IMD) has warned. According to the weather forecast, the \u2026 [+3247 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ndtvprofit.com"
-      },
-      "author": "NDTV Profit Sports Desk",
-      "title": "India vs South Africa Live Streaming: How To Watch IND vs SA 3rd T20I Live On TV And Online?",
-      "description": "India will face South Africa in the 3rd T20I of the five-match series on Sunday. The 3rd IND vs SA T20I match will be played at the Himachal Pradesh Cricket Association Stadium in Dharamsala from 7 p.m. IST onwards. The countdown to save his place in the play\u2026",
-      "url": "https://www.ndtvprofit.com/sports/india-vs-south-africa-live-streaming-how-to-watch-ind-vs-sa-3rd-t20i-live-on-tv-and-online",
-      "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-12-14%2Fzj2now9a%2FG1omz0JW0AA8nMp.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-      "publishedAt": "2025-12-14T11:20:35Z",
-      "content": "The countdown to save his place in the playing XI begins for a beleaguered Shubman Gill, who is likely to get three matches against South Africa to prove his worth before the Indian team management s\u2026 [+1860 chars]"
     }
   ],
   "directory": []
