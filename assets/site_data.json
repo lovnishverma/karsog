@@ -1,6 +1,19 @@
 {
-  "last_updated": "2025-12-21 00:55:00",
+  "last_updated": "2025-12-21 04:28:47",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Saurabh Parashar",
+      "title": "The night\u2019s watch of Laghat: Women take on drug problem in Himachal village",
+      "description": "The gram panchayat under which Laghat falls has been recognised as one of the most affected by chitta menace in Himachal",
+      "url": "https://indianexpress.com/article/cities/chandigarh/the-nights-watch-of-laghat-women-take-on-drug-problem-in-himachal-village-10429621/",
+      "urlToImage": "https://images.indianexpress.com/2025/12/hp-women-NEW-3col.jpg",
+      "publishedAt": "2025-12-20T01:30:23Z",
+      "content": "Every night, as the rest of Laghat village in Himachals Bilaspur district gets into their warm beds, a bunch of bobbing lights appear on a link road connecting it to the state highway. The women of L\u2026 [+6690 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-12-14%2Fzj2now9a%2FG1omz0JW0AA8nMp.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
       "publishedAt": "2025-12-14T11:20:35Z",
       "content": "The countdown to save his place in the playing XI begins for a beleaguered Shubman Gill, who is likely to get three matches against South Africa to prove his worth before the Indian team management s\u2026 [+1860 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "CM: Ban on students carrying mobile phones in Himachal schools from next academic session",
-      "description": "Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu announced a complete ban on students carrying mobile phones in schools from pre-nursery to Class XII starting next academic session. The CM also inaugurated advanced digital facilities at the Directorate \u2026",
-      "url": "https://timesofindia.indiatimes.com/education/news/cm-ban-on-students-carrying-mobile-phones-in-himachal-schools-from-next-academic-session/articleshow/125957513.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-125957525,width-1070,height-580,imgsize-38822,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-      "publishedAt": "2025-12-14T04:35:09Z",
-      "content": "<ul><li>News</li>\r\n<li>CM: Ban on students carrying mobile phones in Himachal schools from next academic session</li></ul>\r\nHimachal Pradesh Chief Minister Sukhvinder Singh Sukhu announced a complete\u2026 [+3772 chars]"
     }
   ],
   "directory": []
