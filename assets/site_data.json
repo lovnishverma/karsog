@@ -1,6 +1,19 @@
 {
-  "last_updated": "2025-12-21 20:10:49",
+  "last_updated": "2025-12-22 00:54:00",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "High court seeks report from chief secretary on steps to unclog Shimla traffic",
+      "description": "Himachal Pradesh High Court has demanded a comprehensive report from the chief secretary regarding Shimla's persistent traffic woes. Noting a prior action report, the court seeks an update on proposed solutions like ropeways and mass transit, emphasizing the \u2026",
+      "url": "https://timesofindia.indiatimes.com/india/high-court-seeks-report-from-chief-secretary-on-steps-to-unclog-shimla-traffic/articleshow/126098288.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-126098295,width-1070,height-580,imgsize-1350248,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+      "publishedAt": "2025-12-20T20:54:59Z",
+      "content": "<ul><li>News</li>\r\n<li>India News</li>\r\n<li>High court seeks report from chief secretary on steps to unclog Shimla traffic</li></ul>\r\nFollow Us On Social Media\r\nUNDER 18 ONLY: Epstein Verified Girls \u2026 [+3276 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://images.indianexpress.com/2025/12/crypto.jpg",
       "publishedAt": "2025-12-15T17:14:09Z",
       "content": "The Enforcement Directorate (ED)\u2019s Shimla wing carried out search operations at eight premises located in Himachal Pradesh and Punjab in connection with an ongoing investigation into an alleged Rs 2,\u2026 [+2680 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Trending Desk",
-      "title": "Bangalore temperature: Bengaluru braces for chilly winter nights like Shimla as mercury likely to plunge further Check IMD's weekly forecast",
-      "description": "The temperatures in Bengaluru are expected to dip further with IMD warning of misty mornings and colder nights in the coming days. According to the weather agency, the minimum temperature in Bengaluru might dip to 14 degrees Celsius. Bengaluru is witnessing c\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/bangalore-temperature-bengaluru-braces-for-chilly-winter-nights-like-shimla-as-mercury-likely-to-plunge-further-check-imds-weekly-forecast/articleshow/125969108.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-125969142,width-1200,height-630,imgsize-2022266,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-12-15T02:39:25Z",
-      "content": "Bengaluru is likely to experience clear skies and chilly mornings with temperatures expected to drop further, the India Meteorological Centre (IMD) has warned. According to the weather forecast, the \u2026 [+3247 chars]"
     }
   ],
   "directory": []
