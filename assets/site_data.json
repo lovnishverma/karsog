@@ -1,6 +1,19 @@
 {
-  "last_updated": "2025-12-22 12:21:07",
+  "last_updated": "2025-12-22 16:12:58",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Snowfall, rain in Kashmir; fog undeterred in Delhi, Punjab, UP",
+      "description": "The India Meteorological Department (IMD) predicted heavy snowfall and rainfall, accompanied by snowstorms at isolated places over the higher reaches of Jammu, Kashmir, Ladakh and northeast Himachal Pradesh until Monday.",
+      "url": "https://economictimes.indiatimes.com/news/india/snowfall-rain-in-kashmir-fog-undeterred-in-delhi-punjab-up/articleshow/126106238.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126106271,width-1200,height-630,imgsize-475834,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-12-21T14:23:21Z",
+      "content": "New Delhi: The year-end chill settled unevenly over northern India on Sunday as snowfall in the upper reaches and rain in the plains pushed up the minimum temperature in Jammu and Kashmir, while Punj\u2026 [+8110 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://statetimes.in/wp-content/uploads/2025/12/JK-Bank-holds-Customer-Meet-at-Dharamshala-15-1.jpg",
       "publishedAt": "2025-12-15T18:45:32Z",
       "content": "STATE TIMES NEWS\r\nSRINAGAR: J&amp;K Bank on Monday held a Customer Meet at its Dharamshala Branch in Himachal Pradesh, which was chaired by the Bank\u2019s Executive Director Sudhir Gupta. The meeting was\u2026 [+2115 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Express News Service",
-      "title": "Rs 2,300-cr crypto-based scam: ED raids 8 locations in HP and Punjab, seizes documents",
-      "description": "The Enforcement Directorate (ED)\u2019s Shimla wing carried out search operations at eight premises located in Himachal Pradesh and Punjab in connection with an ongoing investigation into an alleged Rs 2,300-crore cryptocurrency-based ponzi and multi-level marketi\u2026",
-      "url": "https://indianexpress.com/article/cities/chandigarh/rs-2300-cr-crypto-based-scam-ed-raids-8-locations-in-hp-and-punjab-seizes-documents-10422050/",
-      "urlToImage": "https://images.indianexpress.com/2025/12/crypto.jpg",
-      "publishedAt": "2025-12-15T17:14:09Z",
-      "content": "The Enforcement Directorate (ED)\u2019s Shimla wing carried out search operations at eight premises located in Himachal Pradesh and Punjab in connection with an ongoing investigation into an alleged Rs 2,\u2026 [+2680 chars]"
     }
   ],
   "directory": []
