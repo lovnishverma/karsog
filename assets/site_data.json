@@ -1,6 +1,19 @@
 {
-  "last_updated": "2025-12-23 16:13:10",
+  "last_updated": "2025-12-23 20:11:24",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Assault over 'tu': Doctor suspended for hitting patient in Shimla hospital",
+      "description": "A doctor at Shimla's IGMC was suspended after a video showed him brutally assaulting a patient who objected to being addressed disrespectfully. The patient alleged the doctor began punching him after he asked for politeness. An inquiry is underway, with autho\u2026",
+      "url": "https://timesofindia.indiatimes.com/india/assault-over-tu-doctor-suspended-for-hitting-patient-in-shimla-hospital/articleshow/126128359.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-126128376,width-1070,height-580,imgsize-679782,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+      "publishedAt": "2025-12-22T19:30:23Z",
+      "content": "<ul><li>News</li>\r\n<li>India News</li>\r\n<li>Assault over 'tu': Doctor suspended for hitting patient in Shimla hospital</li></ul>\r\nFollow Us On Social Media\r\nCopyright \u00a9 2025 Bennett, Coleman &amp; Co\u2026 [+72 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://statetimes.in/wp-content/uploads/2025/12/1-1024x591.jpg",
       "publishedAt": "2025-12-20T16:42:25Z",
       "content": "NEW DELHI: As the year draws to a close, mercury hovered around its wintry lows and normal life was affected across northern states due to foggy conditions, with red alert warning issued in Uttar Pra\u2026 [+10038 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Saurabh Parashar",
-      "title": "The night\u2019s watch of Laghat: Women take on drug problem in Himachal village",
-      "description": "The gram panchayat under which Laghat falls has been recognised as one of the most affected by chitta menace in Himachal",
-      "url": "https://indianexpress.com/article/cities/chandigarh/the-nights-watch-of-laghat-women-take-on-drug-problem-in-himachal-village-10429621/",
-      "urlToImage": "https://images.indianexpress.com/2025/12/hp-women-NEW-3col.jpg",
-      "publishedAt": "2025-12-20T01:30:23Z",
-      "content": "Every night, as the rest of Laghat village in Himachals Bilaspur district gets into their warm beds, a bunch of bobbing lights appear on a link road connecting it to the state highway. The women of L\u2026 [+6690 chars]"
     }
   ],
   "directory": []
