@@ -1,6 +1,32 @@
 {
-  "last_updated": "2025-12-23 08:16:11",
+  "last_updated": "2025-12-23 12:20:25",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Saurabh Parashar",
+      "title": "Patient alleges assault by 2 doctors at Shimla medical college; relatives protest demanding their arrest",
+      "description": "The patient was resting after undergoing a bronchoscopy at Shimla\u2019s Indira Gandhi Medical College and Hospital (IGMC) when the assault took place, according to his friend.",
+      "url": "https://indianexpress.com/article/cities/chandigarh/patient-alleges-assault-2-doctors-shimla-medical-college-arrest-10433301/",
+      "urlToImage": "https://images.indianexpress.com/2025/12/shimla-doctor-assault.jpg",
+      "publishedAt": "2025-12-22T12:14:21Z",
+      "content": "A 36-year-old patient who visited Shimlas Indira Gandhi Medical College and Hospital (IGMC) for a bronchoscopy was allegedly assaulted by two doctors on Monday, triggering widespread protests at the \u2026 [+2256 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Sports Desk",
+      "title": "Shubman Gill, Abhishek Sharma and Arshdeep Singh named in Punjab squad for Vijay Hazare Trophy",
+      "description": "Punjab will play their first two games against Maharashtra (December 24) and Chattisgarh (December 26). They are in the same group as Mumbai, Maharashtra, Himachal Pradesh, Uttarakhand, Goa, Chhattisgarh and Sikkim.",
+      "url": "https://indianexpress.com/article/sports/cricket/shubman-gill-abhishek-arshdeep-punjab-squad-vijay-hazare-trophy-10433256/",
+      "urlToImage": "https://images.indianexpress.com/2025/12/Gill-Arshdeep-abhishek.jpg",
+      "publishedAt": "2025-12-22T12:06:10Z",
+      "content": "India\u2019s ODI skipper Shubman Gill and T20 World Cup-bound Abhishek Sharma and Arshdeep Singh were named in Punjab\u2019s squad for the Vijay Hazare Trophy on Monday. This is because of BCCI\u2019s diktat of man\u2026 [+1809 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://images.indianexpress.com/2025/12/hp-women-NEW-3col.jpg",
       "publishedAt": "2025-12-20T01:30:23Z",
       "content": "Every night, as the rest of Laghat village in Himachals Bilaspur district gets into their warm beds, a bunch of bobbing lights appear on a link road connecting it to the state highway. The women of L\u2026 [+6690 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ndtvprofit.com"
-      },
-      "author": "PTI",
-      "title": "Govt Information Department's Facebook Page Has Become Cong's Propaganda Platform: Himachal BJP",
-      "description": "Accusing the Congress government in Himachal Pradesh led by Chief Minister Sukhvinder Singh Sukhu of targeting small fish and leaving the big ones in its campaign against drug abuse, especially chitta (adulterated heroin), the BJP on Tuesday questioned why th\u2026",
-      "url": "https://www.ndtvprofit.com/nation/govt-information-departments-facebook-page-has-become-congs-propaganda-platform-himachal-bjp",
-      "urlToImage": "https://media.assettype.com/bloombergquint%2F2025-11-18%2Fsd8b4mlg%2FFacebookappicononsmartphonescreenperspectiverender49896915791-1.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-      "publishedAt": "2025-12-17T01:52:55Z",
-      "content": "Launching a scathing attack on the Congress government over a post on the official Facebook page of Department of Information and Public Relations, Himachal Pradesh, he said that it is completely ina\u2026 [+162 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Statetimes.in"
-      },
-      "author": "statetimes_editor",
-      "title": "Direct interaction with our customers gives us valuable insights into their expectations: ED Sudhir Gupta",
-      "description": "J&K Bank holds Customer Meet at Dharamshala STATE TIMES NEWS SRINAGAR: J&K Bank on Monday held a Customer Meet at its Dharamshala Branch in Himachal Pradesh, which was chaired by the Bank\u2019s Executive Director Sudhir Gupta. The meeting was held in the presence\u2026",
-      "url": "https://statetimes.in/direct-interaction-with-our-customers-gives-us-valuable-insights-into-their-expectations-ed-sudhir-gupta/",
-      "urlToImage": "https://statetimes.in/wp-content/uploads/2025/12/JK-Bank-holds-Customer-Meet-at-Dharamshala-15-1.jpg",
-      "publishedAt": "2025-12-15T18:45:32Z",
-      "content": "STATE TIMES NEWS\r\nSRINAGAR: J&amp;K Bank on Monday held a Customer Meet at its Dharamshala Branch in Himachal Pradesh, which was chaired by the Bank\u2019s Executive Director Sudhir Gupta. The meeting was\u2026 [+2115 chars]"
     }
   ],
   "directory": []
