@@ -1,6 +1,19 @@
 {
-  "last_updated": "2025-12-24 04:26:44",
+  "last_updated": "2025-12-24 08:15:28",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "Himachal doctor seen assaulting patient in viral video at IGMC Shimla suspended; high-level inquiry ordered",
+      "description": "A doctor at Indira Gandhi Medical College and Hospital has been suspended after a video of him assaulting a patient surfaced. The state government has formed a high-level inquiry committee to investigate the incident. The patient's relative alleged the doctor\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/himachal-doctor-seen-assaulting-patient-in-viral-video-at-igmc-shimla-suspended-high-level-inquiry-ordered/articleshow/126134478.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126134589,width-1200,height-630,imgsize-36866,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-12-23T06:17:44Z",
+      "content": "Investment Ideas\r\nGrow your wealth with stock ideas &amp; sectoral trends.\r\nStock Reports Plus\r\nBuy low &amp; sell high with access to Stock Score, Upside potential &amp; more. \r\nBigBull Portfolio\r\nG\u2026 [+439 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-126098295,width-1070,height-580,imgsize-1350248,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
       "publishedAt": "2025-12-20T20:54:59Z",
       "content": "<ul><li>News</li>\r\n<li>India News</li>\r\n<li>High court seeks report from chief secretary on steps to unclog Shimla traffic</li></ul>\r\nFollow Us On Social Media\r\nUNDER 18 ONLY: Epstein Verified Girls \u2026 [+3276 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Statetimes.in"
-      },
-      "author": "statetimes_editor",
-      "title": "Fog envelopes northern states; wet weather with snow forecast for parts of J&K, Himachal",
-      "description": "NEW DELHI: As the year draws to a close, mercury hovered around its wintry lows and normal life was affected across northern states due to foggy conditions, with red alert warning issued in Uttar Pradesh on Saturday. The national capital was in the grip of a \u2026",
-      "url": "https://statetimes.in/fog-envelopes-northern-states-wet-weather-with-snow-forecast-for-parts-of-jk-himachal/",
-      "urlToImage": "https://statetimes.in/wp-content/uploads/2025/12/1-1024x591.jpg",
-      "publishedAt": "2025-12-20T16:42:25Z",
-      "content": "NEW DELHI: As the year draws to a close, mercury hovered around its wintry lows and normal life was affected across northern states due to foggy conditions, with red alert warning issued in Uttar Pra\u2026 [+10038 chars]"
     }
   ],
   "directory": []
