@@ -1,6 +1,19 @@
 {
-  "last_updated": "2025-12-25 04:29:06",
+  "last_updated": "2025-12-25 08:15:07",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Express News Service",
+      "title": "Fresh CBI case against ED officer, brother over disproportionate assets",
+      "description": "Senior ED officer Vishal Deep, who had been arrested by the CBI for allegedly seeking bribes from two private college administrators in Himachal Pradesh, was granted bail last month.",
+      "url": "https://indianexpress.com/article/india/fresh-cbi-case-against-ed-officer-brother-over-disproportionate-assets-10436013/",
+      "urlToImage": "https://images.indianexpress.com/2025/12/CBI-court-_20251224044216.png",
+      "publishedAt": "2025-12-24T05:11:04Z",
+      "content": "The Central Bureau of Investigation (CBI) has registered a fresh case of corruption against senior Enforcement Directorate (ED) officer Vishal Deep and his brother Vikas Deep, a Punjab National Bank \u2026 [+2369 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://images.indianexpress.com/2025/12/shimla-doctor-assault.jpg",
       "publishedAt": "2025-12-22T12:14:21Z",
       "content": "A 36-year-old patient who visited Shimlas Indira Gandhi Medical College and Hospital (IGMC) for a bronchoscopy was allegedly assaulted by two doctors on Monday, triggering widespread protests at the \u2026 [+2256 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Sports Desk",
-      "title": "Shubman Gill, Abhishek Sharma and Arshdeep Singh named in Punjab squad for Vijay Hazare Trophy",
-      "description": "Punjab will play their first two games against Maharashtra (December 24) and Chattisgarh (December 26). They are in the same group as Mumbai, Maharashtra, Himachal Pradesh, Uttarakhand, Goa, Chhattisgarh and Sikkim.",
-      "url": "https://indianexpress.com/article/sports/cricket/shubman-gill-abhishek-arshdeep-punjab-squad-vijay-hazare-trophy-10433256/",
-      "urlToImage": "https://images.indianexpress.com/2025/12/Gill-Arshdeep-abhishek.jpg",
-      "publishedAt": "2025-12-22T12:06:10Z",
-      "content": "India\u2019s ODI skipper Shubman Gill and T20 World Cup-bound Abhishek Sharma and Arshdeep Singh were named in Punjab\u2019s squad for the Vijay Hazare Trophy on Monday. This is because of BCCI\u2019s diktat of man\u2026 [+1809 chars]"
     }
   ],
   "directory": []
