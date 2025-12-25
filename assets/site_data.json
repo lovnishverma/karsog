@@ -1,6 +1,19 @@
 {
-  "last_updated": "2025-12-25 08:15:07",
+  "last_updated": "2025-12-25 12:19:51",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Leopard runs riot in three villages in Himachal's Mandi; kills one, injures 9 before being slain",
+      "description": "A leopard attacked villagers in Mandi district early Wednesday. One person died and nine were injured. The big cat ran amok in Chandyal, Badhyal, and Malwana villages. Villagers armed with weapons cornered and killed the leopard. Forest officials took the ani\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/leopard-runs-riot-in-three-villages-in-himachals-mandi-kills-one-injures-9-before-being-slain/articleshow/126160102.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126160111,width-1200,height-630,imgsize-26892,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-12-24T11:58:04Z",
+      "content": "Shimla, A leopard attacked locals in three villages in Mandi district early on Wednesday morning, leaving one person dead and nine others injured, before it was slain by the villagers, officials said\u2026 [+1198 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-126128376,width-1070,height-580,imgsize-679782,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
       "publishedAt": "2025-12-22T19:30:23Z",
       "content": "<ul><li>News</li>\r\n<li>India News</li>\r\n<li>Assault over 'tu': Doctor suspended for hitting patient in Shimla hospital</li></ul>\r\nFollow Us On Social Media\r\nCopyright \u00a9 2025 Bennett, Coleman &amp; Co\u2026 [+72 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Saurabh Parashar",
-      "title": "Patient alleges assault by 2 doctors at Shimla medical college; relatives protest demanding their arrest",
-      "description": "The patient was resting after undergoing a bronchoscopy at Shimla\u2019s Indira Gandhi Medical College and Hospital (IGMC) when the assault took place, according to his friend.",
-      "url": "https://indianexpress.com/article/cities/chandigarh/patient-alleges-assault-2-doctors-shimla-medical-college-arrest-10433301/",
-      "urlToImage": "https://images.indianexpress.com/2025/12/shimla-doctor-assault.jpg",
-      "publishedAt": "2025-12-22T12:14:21Z",
-      "content": "A 36-year-old patient who visited Shimlas Indira Gandhi Medical College and Hospital (IGMC) for a bronchoscopy was allegedly assaulted by two doctors on Monday, triggering widespread protests at the \u2026 [+2256 chars]"
     }
   ],
   "directory": []
