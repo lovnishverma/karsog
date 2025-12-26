@@ -1,6 +1,19 @@
 {
-  "last_updated": "2025-12-26 16:11:56",
+  "last_updated": "2025-12-26 20:10:41",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Hakeem Irfan Rashid",
+      "title": "J&K leaders Mufti, Aga, Engineer Rashid demand action against people targeting Kashmiris in Uttarakhand, Himachal Pradesh",
+      "description": "Kashmiri leaders voiced strong condemnation over assaults on traders in Uttarakhand and Himachal Pradesh, demanding swift legal action. Jailed MP Engineer Rashid and NC leader Aga Ruhullah Mehdi highlighted the violation of constitutional rights and human dig\u2026",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/jk-leaders-mufti-aga-engineer-rashid-demand-action-against-people-targeting-kashmiris-in-uttarakhand-himachal-pradesh/articleshow/126176418.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126176415,width-1200,height-630,imgsize-1147005,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-12-25T17:18:37Z",
+      "content": "Kashmiri leaders expressed concern over the reports of assault on Kashmiri traders in Uttarakhand and Himachal Pradesh and urged the concerned governments to take legal action against the perpetrator\u2026 [+2944 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://statetimes.in/wp-content/uploads/2025/12/Tu-reference-triggered-doctor-patient-brawl-at-Shimlas-IGMC.jpg",
       "publishedAt": "2025-12-23T14:46:57Z",
       "content": "SHIMLA: An objection to being addressed as \u201ctu\u201d led to a physical scuffle between a senior resident doctor and a patient in the pulmonary ward of Indira Gandhi Medical College here on Monday, officia\u2026 [+4401 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "author": "Gulzar Bhat",
-      "title": "India\u2013New Zealand trade deal on apples raises fears among growers in Kashmir, Himachal",
-      "description": "Apple growers in hill States are already under pressure from rising input costs, climate-related losses and weak infrastructure, says AFFI",
-      "url": "https://www.thehindubusinessline.com/news/indianew-zealand-trade-deal-on-apples-raises-fears-among-growers-in-kashmir-himachal/article70430129.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/mg5lz7/article70430244.ece/alternates/LANDSCAPE_1200/12205_6_10_2024_10_5_33_3_03_KASHMIRAGRICULTURE_SGR_06_10_2024.JPG",
-      "publishedAt": "2025-12-23T13:47:49Z",
-      "content": "Indias decision to lower import tariffs on apples from New Zealand under a newly signed free trade agreement(FTA) has sparked concern among apple growers in Jammu and Kashmir and Himachal Pradesh, wh\u2026 [+3387 chars]"
     }
   ],
   "directory": []
