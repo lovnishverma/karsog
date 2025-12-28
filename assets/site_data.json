@@ -1,6 +1,19 @@
 {
-  "last_updated": "2025-12-27 20:11:03",
+  "last_updated": "2025-12-28 00:57:23",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Himachal Pradesh: Doctors launch indefinite strike after colleague sacked over assault; demand immediate reinstatement",
+      "description": "Resident doctors in Himachal Pradesh have launched an indefinite strike, demanding the reinstatement of a doctor sacked for assaulting a patient. Despite a promise of a fresh inquiry, doctors deem the termination unjust, citing a lack of consideration for the\u2026",
+      "url": "https://timesofindia.indiatimes.com/india/himachal-pradesh-doctors-launch-indefinite-strike-after-colleague-sacked-over-assault-demand-immediate-reinstatement/articleshow/126198150.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-126198157,width-1070,height-580,imgsize-877125,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+      "publishedAt": "2025-12-26T23:13:17Z",
+      "content": "Theres a video of Raghav Nirula thrashing the patient, but Resident Doctors Association says his side of the story hasnt been considered"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202512253619077_202512.jpg",
       "publishedAt": "2025-12-25T14:16:13Z",
       "content": "Shimla, Dec 25 The Congress government in Himachal Pradesh on Thursday condemned the Union governments apple import policies, saying successive decisions taken by it reflected a clear anti-farmer and\u2026 [+1983 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Express News Service",
-      "title": "Assault at Shimla hospital: IGMC admn yet to submit probe report as another video surfaces",
-      "description": "Latest video shows argument between patient and doctor",
-      "url": "https://indianexpress.com/article/cities/chandigarh/assault-shimla-hospital-igmc-probe-report-video-surfaces-10437493/",
-      "urlToImage": "https://images.indianexpress.com/2025/12/indian-express-logo-5_20251223051139_20251224040901.jpg",
-      "publishedAt": "2025-12-24T15:51:48Z",
-      "content": "Two days after the alleged assault on a patient by two doctors at Indira Gandhi Medical College and Hospital (IGMC) Shimla, a video of which went viral on social media, another video surfaced on Wedn\u2026 [+1959 chars]"
     }
   ],
   "directory": []
