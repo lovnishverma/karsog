@@ -1,6 +1,19 @@
 {
-  "last_updated": "2025-12-28 04:35:49",
+  "last_updated": "2025-12-28 08:13:37",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Medical services severely hit across Himachal Pradesh as doctors go on indefinite strike",
+      "description": "Resident doctors in Himachal Pradesh have begun an indefinite strike, severely impacting medical services except for emergencies. The strike was initiated after the termination of a doctor involved in a physical altercation with a patient. Patients, particula\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/medical-services-severely-hit-across-himachal-pradesh-as-doctors-go-on-indefinite-strike/articleshow/126201269.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126201278,width-1200,height-630,imgsize-965815,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-12-27T07:07:41Z",
+      "content": "Medical services, barring emergency services, were severely affected across several hospitals in Himachal Pradesh as resident doctors went on an indefinite strike on Saturday against the termination \u2026 [+3305 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-126176415,width-1200,height-630,imgsize-1147005,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2025-12-25T17:18:37Z",
       "content": "Kashmiri leaders expressed concern over the reports of assault on Kashmiri traders in Uttarakhand and Himachal Pradesh and urged the concerned governments to take legal action against the perpetrator\u2026 [+2944 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lokmattimes.com"
-      },
-      "author": "Ians",
-      "title": "Himachal condemns Centre\u2019s apple import policies - www.lokmattimes.com",
-      "description": "Himachal condemns Centre\u2019s apple import policies - Shimla, Dec 25 The Congress government in Himachal Pradesh on Thursday condemned the Union government's apple import policies, ... - Latest News. Find Breaking Headlines, Current and Latest business news at L\u2026",
-      "url": "https://www.lokmattimes.com/business/himachal-condemns-centres-apple-import-policies-1/",
-      "urlToImage": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202512253619077_202512.jpg",
-      "publishedAt": "2025-12-25T14:16:13Z",
-      "content": "Shimla, Dec 25 The Congress government in Himachal Pradesh on Thursday condemned the Union governments apple import policies, saying successive decisions taken by it reflected a clear anti-farmer and\u2026 [+1983 chars]"
     }
   ],
   "directory": []
