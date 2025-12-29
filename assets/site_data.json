@@ -1,6 +1,32 @@
 {
-  "last_updated": "2025-12-29 00:56:03",
+  "last_updated": "2025-12-29 04:39:58",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Himachal: Pilot killed in paragliding accident at Bir Billing",
+      "description": "A paragliding accident at Bir Billing claimed the life of an experienced pilot. The tandem paraglider malfunctioned shortly after takeoff. The pilot, Mohan Singh, died from injuries sustained in the crash. The accompanying tourist survived with injuries. An i\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/himachal-pilot-killed-in-paragliding-accident-at-bir-billing/articleshow/126211765.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126211776,width-1200,height-630,imgsize-49336,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-12-28T03:16:14Z",
+      "content": "Dharamshala: An experienced pilot was killed when a tandem paraglider developed a technical malfunction shortly after take off and crashed near the road below the launch site in Kangra district, offi\u2026 [+1601 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ANI",
+      "title": "Mehbooba Mufti calls for JK CM intervention on FTAs; Expresses fear of dilution of apple import duties",
+      "description": "PDP leader Mehbooba Mufti and Himachal Pradesh apple growers are raising serious concerns over potential import duty cuts on apples in upcoming FTAs with Europe, the US, and Chile. They warn that further reductions, following a previous cut with New Zealand, \u2026",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/mehbooba-mufti-calls-for-jk-cm-intervention-on-ftas-expresses-fear-of-dilution-of-apple-import-duties/articleshow/126211577.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126211584,width-1200,height-630,imgsize-194414,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-12-28T02:40:12Z",
+      "content": "Expressing serious concern over reports of possible dilution of import duties on apples under proposed Free Trade Agreements (FTAs) with Europe, the United States and Chile, PDP (Jammu and Kashmir Pe\u2026 [+5026 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-126198157,width-1070,height-580,imgsize-877125,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
       "publishedAt": "2025-12-26T23:13:17Z",
       "content": "Theres a video of Raghav Nirula thrashing the patient, but Resident Doctors Association says his side of the story hasnt been considered"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Saurabh Parashar",
-      "title": "Shimla doctor\u2019s dismissal sparks mass leave protest; IGMC services hit",
-      "description": "A delegation of the Resident Doctors\u2019 Association, IGMC Shimla, met Chief Minister Sukhvinder Singh Sukhu, seeking that Senior Resident Dr Raghav Narula be reinstated.",
-      "url": "https://indianexpress.com/article/cities/chandigarh/shimla-doctors-dismissal-sparks-mass-leave-protest-igmc-services-hit-10440084/",
-      "urlToImage": "https://images.indianexpress.com/2025/12/IGMC-shimla-express-photo.jpg",
-      "publishedAt": "2025-12-26T10:44:39Z",
-      "content": "Patients at the Indira Gandhi Medical College and Hospital (IGMC), Shimla, faced significant inconvenience on Friday as resident doctors proceeded on mass casual leave across the city and other parts\u2026 [+3064 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ANI",
-      "title": "Shimla targets drug networks; 50 repeat traffickers identified",
-      "description": "Himachal Pradesh is waging a strong war against drugs. Shimla police are using a new strategy to stop drug sales on the streets. They are identifying frequent drug dealers and proposing their preventive detention. This aims to break drug supply chains and pro\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/shimla-targets-drug-networks-50-repeat-traffickers-identified/articleshow/126188294.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126188346,width-1200,height-630,imgsize-58040,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-12-26T10:14:58Z",
-      "content": "Shimla: The Himachal Pradesh government has launched an aggressive state-wide campaign to eradicate chitta (heroin) and other narcotics. Shimla district police have developed a new preventive policin\u2026 [+3996 chars]"
     }
   ],
   "directory": []
