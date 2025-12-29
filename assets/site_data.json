@@ -1,6 +1,19 @@
 {
-  "last_updated": "2025-12-28 20:11:15",
+  "last_updated": "2025-12-29 00:56:03",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Himachal Pradesh: Government doctors launch indefinite strike; healthcare services hit",
+      "description": "Himachal Pradesh government hospitals saw services halt Saturday as doctors struck indefinitely. They demand the reinstatement of a doctor sacked for assaulting a patient, arguing his side was ignored. While emergency care continues, non-urgent procedures are\u2026",
+      "url": "https://timesofindia.indiatimes.com/india/himachal-pradesh-government-doctors-launch-indefinite-strike-healthcare-services-hit/articleshow/126209087.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-126209090,width-1070,height-580,imgsize-1658333,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+      "publishedAt": "2025-12-27T20:53:17Z",
+      "content": "Doctors raise slogans during an indefinite strike against the termination of services of a fellow doctor at IGMC in Shimla"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-126188346,width-1200,height-630,imgsize-58040,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2025-12-26T10:14:58Z",
       "content": "Shimla: The Himachal Pradesh government has launched an aggressive state-wide campaign to eradicate chitta (heroin) and other narcotics. Shimla district police have developed a new preventive policin\u2026 [+3996 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ANI",
-      "title": "Himachal CM Promises Fresh Probe Into Patient Assault Case; Doctors To Call Off Strike",
-      "description": "Resident doctors in Himachal Pradesh will go on a day-long mass leave. This follows Chief Minister Sukhvinder Singh Sukhu's assurance of a fresh inquiry into a patient assault controversy. The controversy led to the termination of a senior resident doctor at \u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/himachal-cm-promises-fresh-probe-into-patient-assault-case-doctors-to-call-off-strike/articleshow/126187408.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126187476,width-1200,height-630,imgsize-111890,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-12-26T09:18:56Z",
-      "content": "Shimla: As resident doctors across Himachal Pradesh had announced to proceed on a day-long mass leave on Friday, Chief Minister Sukhvinder Singh Sukhu assured a fresh inquiry into the patient assault\u2026 [+2113 chars]"
     }
   ],
   "directory": []
