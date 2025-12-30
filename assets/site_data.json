@@ -1,6 +1,19 @@
 {
-  "last_updated": "2025-12-29 20:12:16",
+  "last_updated": "2025-12-30 00:51:31",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Himachal Pradesh: Doctors end stir as CM Sukhvinder Sukhu assures sacking 'review'",
+      "description": "Himachal Pradesh Chief Minister Sukhvinder Sukhu's appeal led to the Resident Doctors Association of IGMC-Shimla ending their strike. Following assurances of a detailed inquiry and a review of Dr. Raghav Narula's termination, doctors are set to resume duties.\u2026",
+      "url": "https://timesofindia.indiatimes.com/india/himachal-pradesh-doctors-end-stir-as-cm-sukhvinder-sukhu-assures-sacking-review/articleshow/126221977.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-126221983,width-1070,height-580,imgsize-1222911,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+      "publishedAt": "2025-12-28T23:27:32Z",
+      "content": "File photo: Himachal Pradesh CM Sukhvinder Sukhu"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-126201278,width-1200,height-630,imgsize-965815,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2025-12-27T07:07:41Z",
       "content": "Medical services, barring emergency services, were severely affected across several hospitals in Himachal Pradesh as resident doctors went on an indefinite strike on Saturday against the termination \u2026 [+3305 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TNN",
-      "title": "Himachal Pradesh: Doctors launch indefinite strike after colleague sacked over assault; demand immediate reinstatement",
-      "description": "Resident doctors in Himachal Pradesh have launched an indefinite strike, demanding the reinstatement of a doctor sacked for assaulting a patient. Despite a promise of a fresh inquiry, doctors deem the termination unjust, citing a lack of consideration for the\u2026",
-      "url": "https://timesofindia.indiatimes.com/india/himachal-pradesh-doctors-launch-indefinite-strike-after-colleague-sacked-over-assault-demand-immediate-reinstatement/articleshow/126198150.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-126198157,width-1070,height-580,imgsize-877125,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-      "publishedAt": "2025-12-26T23:13:17Z",
-      "content": "Theres a video of Raghav Nirula thrashing the patient, but Resident Doctors Association says his side of the story hasnt been considered"
     }
   ],
   "directory": []
