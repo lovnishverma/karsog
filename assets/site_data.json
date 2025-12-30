@@ -1,6 +1,19 @@
 {
-  "last_updated": "2025-12-30 12:20:36",
+  "last_updated": "2025-12-30 16:13:19",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "'Attack' on Kashmiri sellers in Himachal: JKSA seeks Amit Shah's intervention",
+      "description": "The Jammu and Kashmir Students Association has urged Union Home Minister Amit Shah to intervene regarding alleged harassment and violence against Kashmiri students and shawl vendors in Himachal Pradesh. The association highlighted a recent assault and stated \u2026",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/attack-on-kashmiri-sellers-in-himachal-jksa-seeks-amit-shahs-intervention/articleshow/126235338.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126235364,width-1200,height-630,imgsize-30328,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-12-29T15:48:17Z",
+      "content": "The Jammu and Kashmir Students Association (JKSA) has written to Union Home Minister Amit Shah seeking his intervention over what it termed a \"rise in incidents of harassment and violence\" against Ka\u2026 [+2656 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-126209090,width-1070,height-580,imgsize-1658333,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
       "publishedAt": "2025-12-27T20:53:17Z",
       "content": "Doctors raise slogans during an indefinite strike against the termination of services of a fellow doctor at IGMC in Shimla"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Naseer Ganai",
-      "title": "J&K students association says another Kashmiri shawl seller assaulted",
-      "description": "A Kashmiri shawl seller suffered severe injuries, including fractures, after an alleged assault in Himachal Pradesh. The J&K Students Association condemned the incident, marking it as the 16th targeting Kashmiri traders in the state this year. They urged the \u2026",
-      "url": "https://timesofindia.indiatimes.com/india/jk-students-association-says-another-kashmiri-shawl-seller-assaulted/articleshow/126208024.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-126208219,width-1070,height-580,imgsize-854555,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-      "publishedAt": "2025-12-27T18:32:19Z",
-      "content": "<ul><li>News</li>\r\n<li>J&amp;K students association says another Kashmiri shawl seller assaulted</li></ul>\r\nFollow Us On Social Media\r\nThawe temple theft accused injured in police encounterTwo new me\u2026 [+1233 chars]"
     }
   ],
   "directory": []
