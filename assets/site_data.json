@@ -1,6 +1,19 @@
 {
-  "last_updated": "2025-12-31 16:13:07",
+  "last_updated": "2025-12-31 20:11:33",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Express News Service",
+      "title": "\u2018Assault\u2019 on Kashmiri shawl sellers in Haryana, Himachal Pradesh: FIRs registered, manhunt on to nab the accused",
+      "description": "Two separate FIRs have been filed in Haryana and Himachal Pradesh after incidents of alleged assaults on Kashmiri shawl sellers were reported in both the states. In the Himachal Pradesh incident, Superintendent of Police (SP), Bilaspur, Sandeep Dhawal said th\u2026",
+      "url": "https://indianexpress.com/article/cities/chandigarh/assault-kashmiri-shawl-sellers-haryana-himachal-pradesh-fir-accused-10447242/",
+      "urlToImage": "https://images.indianexpress.com/2025/12/kashmiri-shawl-seller-1.jpg",
+      "publishedAt": "2025-12-30T16:47:24Z",
+      "content": "In the Himachal Pradesh incident, Superintendent of Police (SP), Bilaspur, Sandeep Dhawal said the FIR was registered on the complaint of Abdul Ahad Khan, a shawl vendor from Kupwara district of Jamm\u2026 [+4372 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-126211776,width-1200,height-630,imgsize-49336,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2025-12-28T03:16:14Z",
       "content": "Dharamshala: An experienced pilot was killed when a tandem paraglider developed a technical malfunction shortly after take off and crashed near the road below the launch site in Kangra district, offi\u2026 [+1601 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ANI",
-      "title": "Mehbooba Mufti calls for JK CM intervention on FTAs; Expresses fear of dilution of apple import duties",
-      "description": "PDP leader Mehbooba Mufti and Himachal Pradesh apple growers are raising serious concerns over potential import duty cuts on apples in upcoming FTAs with Europe, the US, and Chile. They warn that further reductions, following a previous cut with New Zealand, \u2026",
-      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/mehbooba-mufti-calls-for-jk-cm-intervention-on-ftas-expresses-fear-of-dilution-of-apple-import-duties/articleshow/126211577.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126211584,width-1200,height-630,imgsize-194414,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-12-28T02:40:12Z",
-      "content": "Expressing serious concern over reports of possible dilution of import duties on apples under proposed Free Trade Agreements (FTAs) with Europe, the United States and Chile, PDP (Jammu and Kashmir Pe\u2026 [+5026 chars]"
     }
   ],
   "directory": []
