@@ -1,6 +1,19 @@
 {
-  "last_updated": "2025-12-31 12:19:54",
+  "last_updated": "2025-12-31 16:13:07",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Statetimes.in"
+      },
+      "author": "statetimes_editor",
+      "title": "Army conducts 1,212-km cycling expedition to mark diamond jubilee of 1965 Indo-Pak war",
+      "description": "JAMMU: The Army\u2019s Tiger Division has successfully conducted a 1,212-km cycling expedition commemorating the diamond jubilee of the 1965 Indo-Pak war, a defence spokesperson said on Tuesday. The expedition commenced from Jammu, touched Keylong in Himachal Prad\u2026",
+      "url": "https://statetimes.in/army-conducts-1212-km-cycling-expedition-to-mark-diamond-jubilee-of-1965-indo-pak-war/",
+      "urlToImage": "https://statetimes.in/wp-content/uploads/2025/12/Army-conducts-1212-km-cycling-expedition-to-mark-diamond-jubilee-of-1965-Indo-Pak-war.jpg",
+      "publishedAt": "2025-12-30T15:40:32Z",
+      "content": "JAMMU: The Army\u2019s Tiger Division has successfully conducted a 1,212-km cycling expedition commemorating the diamond jubilee of the 1965 Indo-Pak war, a defence spokesperson said on Tuesday.\r\nThe expe\u2026 [+1090 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-126211584,width-1200,height-630,imgsize-194414,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2025-12-28T02:40:12Z",
       "content": "Expressing serious concern over reports of possible dilution of import duties on apples under proposed Free Trade Agreements (FTAs) with Europe, the United States and Chile, PDP (Jammu and Kashmir Pe\u2026 [+5026 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TNN",
-      "title": "Himachal Pradesh: Government doctors launch indefinite strike; healthcare services hit",
-      "description": "Himachal Pradesh government hospitals saw services halt Saturday as doctors struck indefinitely. They demand the reinstatement of a doctor sacked for assaulting a patient, arguing his side was ignored. While emergency care continues, non-urgent procedures are\u2026",
-      "url": "https://timesofindia.indiatimes.com/india/himachal-pradesh-government-doctors-launch-indefinite-strike-healthcare-services-hit/articleshow/126209087.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-126209090,width-1070,height-580,imgsize-1658333,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-      "publishedAt": "2025-12-27T20:53:17Z",
-      "content": "Doctors raise slogans during an indefinite strike against the termination of services of a fellow doctor at IGMC in Shimla"
     }
   ],
   "directory": []
