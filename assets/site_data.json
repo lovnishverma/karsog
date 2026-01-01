@@ -1,6 +1,19 @@
 {
-  "last_updated": "2025-12-31 20:11:33",
+  "last_updated": "2026-01-01 00:57:55",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Assault row: Sacked Himachal doctor, patient patch up with a hug",
+      "description": "A doctor and patient involved in a Shimla assault case publicly reconciled, shaking hands and embracing after apologizing for their scuffle. The incident, which led to a statewide doctors' strike, was resolved through dialogue, with both parties expressing re\u2026",
+      "url": "https://timesofindia.indiatimes.com/india/assault-row-sacked-himachal-doctor-patient-patch-up-with-a-hug/articleshow/126259525.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-126259524,width-1070,height-580,imgsize-36866,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+      "publishedAt": "2025-12-30T20:44:13Z",
+      "content": "<ul><li>News</li>\r\n<li>India News</li>\r\n<li>Assault row: Sacked Himachal doctor, patient patch up with a hug</li></ul>\r\nFollow Us On Social Media\r\nSmoked Meth During Evaluation, Released Anyway: Why \u2026 [+3386 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-126221983,width-1070,height-580,imgsize-1222911,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
       "publishedAt": "2025-12-28T23:27:32Z",
       "content": "File photo: Himachal Pradesh CM Sukhvinder Sukhu"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "Himachal: Pilot killed in paragliding accident at Bir Billing",
-      "description": "A paragliding accident at Bir Billing claimed the life of an experienced pilot. The tandem paraglider malfunctioned shortly after takeoff. The pilot, Mohan Singh, died from injuries sustained in the crash. The accompanying tourist survived with injuries. An i\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/himachal-pilot-killed-in-paragliding-accident-at-bir-billing/articleshow/126211765.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126211776,width-1200,height-630,imgsize-49336,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-12-28T03:16:14Z",
-      "content": "Dharamshala: An experienced pilot was killed when a tandem paraglider developed a technical malfunction shortly after take off and crashed near the road below the launch site in Kangra district, offi\u2026 [+1601 chars]"
     }
   ],
   "directory": []
