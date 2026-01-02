@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-01-02 00:52:48",
+  "last_updated": "2026-01-02 04:31:28",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Ashish Shaji",
+      "title": "Right to life v. right to livelihood: Why Himachal Pradesh High Court ordered immediate closure of Kangra poultry farm",
+      "description": "Justice Ajay Mohan Goel held that the right to livelihood of the poultry farm owner cannot prevail over the right to life of the petitioner and other persons residing in the near vicinity of the poultry farm.",
+      "url": "https://indianexpress.com/article/legal-news/right-to-life-livelihood-himachal-pradesh-high-court-order-closure-poultry-10448493/",
+      "urlToImage": "https://images.indianexpress.com/2025/12/HP-High-Court.jpg",
+      "publishedAt": "2026-01-01T04:00:49Z",
+      "content": "Observing that the right to livelihood cannot overweigh the right to life and people have the right to live in a clean and hygienic environment, the Himachal Pradesh High Court has ordered closure of\u2026 [+3405 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-126223003,width-1070,height-580,imgsize-25736,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
       "publishedAt": "2025-12-29T02:45:15Z",
       "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>School holidays 2025: Cold wave forces closures in UP, Bihar, Jharkhand and Himachal Pradesh, and other states</li></ul>\r\nFollow Us On S\u2026 [+1768 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TNN",
-      "title": "Himachal Pradesh: Doctors end stir as CM Sukhvinder Sukhu assures sacking 'review'",
-      "description": "Himachal Pradesh Chief Minister Sukhvinder Sukhu's appeal led to the Resident Doctors Association of IGMC-Shimla ending their strike. Following assurances of a detailed inquiry and a review of Dr. Raghav Narula's termination, doctors are set to resume duties.\u2026",
-      "url": "https://timesofindia.indiatimes.com/india/himachal-pradesh-doctors-end-stir-as-cm-sukhvinder-sukhu-assures-sacking-review/articleshow/126221977.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-126221983,width-1070,height-580,imgsize-1222911,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-      "publishedAt": "2025-12-28T23:27:32Z",
-      "content": "File photo: Himachal Pradesh CM Sukhvinder Sukhu"
     }
   ],
   "directory": []
