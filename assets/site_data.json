@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-01-03 12:18:17",
+  "last_updated": "2026-01-03 16:12:05",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "Himachal IED blast under lens for possible Pakistan-backed plot; Babbar Khalsa claims responsibility: Report",
+      "description": "An IED blast near a Nalagarh police station has raised suspicions of a Pakistan-linked terror plot, with Punjab Police believing the ISI orchestrated the attack to destabilize the region. Babbar Khalsa International and Punjab Sovereignty Alliance claimed res\u2026",
+      "url": "https://economictimes.indiatimes.com/news/defence/himachal-ied-blast-under-lens-for-possible-pakistan-backed-plot-babbar-khalsa-claims-responsibility-report/articleshow/126309064.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126309070,width-1200,height-630,imgsize-562202,overlay-etdefence/articleshow.jpg",
+      "publishedAt": "2026-01-02T15:49:39Z",
+      "content": "An IED blast near a police station in Nalagarh, Himachal Pradesh on New Year's day, is being examined by Punjab Police as part of a suspected Pakistan-linked plot, with investigators believing the at\u2026 [+4080 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Education Desk",
+      "title": "HPTET November 2025 Result Out: How to check at hpbose.org",
+      "description": "The Himachal Pradesh Board of School Education (HPBOSE) on January 2 declared the results of the Himachal Pradesh Teacher Eligibility Test (HP TET) 2025. Candidates who appeared for the examination can now check their results on the official website \u2014 hpbose.\u2026",
+      "url": "https://indianexpress.com/article/education/hptet-november-2025-result-out-how-to-check-at-hpbose-org-10451930/",
+      "urlToImage": "https://images.indianexpress.com/2026/01/hptet.jpg",
+      "publishedAt": "2026-01-02T13:12:19Z",
+      "content": "The Himachal Pradesh Board of School Education (HPBOSE) on January 2 declared the results of the Himachal Pradesh Teacher Eligibility Test (HP TET) 2025. Candidates who appeared for the examination c\u2026 [+1626 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://images.indianexpress.com/2025/12/kashmiri-shawl-seller-1.jpg",
       "publishedAt": "2025-12-30T16:47:24Z",
       "content": "In the Himachal Pradesh incident, Superintendent of Police (SP), Bilaspur, Sandeep Dhawal said the FIR was registered on the complaint of Abdul Ahad Khan, a shawl vendor from Kupwara district of Jamm\u2026 [+4372 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Statetimes.in"
-      },
-      "author": "statetimes_editor",
-      "title": "Army conducts 1,212-km cycling expedition to mark diamond jubilee of 1965 Indo-Pak war",
-      "description": "JAMMU: The Army\u2019s Tiger Division has successfully conducted a 1,212-km cycling expedition commemorating the diamond jubilee of the 1965 Indo-Pak war, a defence spokesperson said on Tuesday. The expedition commenced from Jammu, touched Keylong in Himachal Prad\u2026",
-      "url": "https://statetimes.in/army-conducts-1212-km-cycling-expedition-to-mark-diamond-jubilee-of-1965-indo-pak-war/",
-      "urlToImage": "https://statetimes.in/wp-content/uploads/2025/12/Army-conducts-1212-km-cycling-expedition-to-mark-diamond-jubilee-of-1965-Indo-Pak-war.jpg",
-      "publishedAt": "2025-12-30T15:40:32Z",
-      "content": "JAMMU: The Army\u2019s Tiger Division has successfully conducted a 1,212-km cycling expedition commemorating the diamond jubilee of the 1965 Indo-Pak war, a defence spokesperson said on Tuesday.\r\nThe expe\u2026 [+1090 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "'Attack' on Kashmiri sellers in Himachal: JKSA seeks Amit Shah's intervention",
-      "description": "The Jammu and Kashmir Students Association has urged Union Home Minister Amit Shah to intervene regarding alleged harassment and violence against Kashmiri students and shawl vendors in Himachal Pradesh. The association highlighted a recent assault and stated \u2026",
-      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/attack-on-kashmiri-sellers-in-himachal-jksa-seeks-amit-shahs-intervention/articleshow/126235338.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126235364,width-1200,height-630,imgsize-30328,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-12-29T15:48:17Z",
-      "content": "The Jammu and Kashmir Students Association (JKSA) has written to Union Home Minister Amit Shah seeking his intervention over what it termed a \"rise in incidents of harassment and violence\" against Ka\u2026 [+2656 chars]"
     }
   ],
   "directory": []
