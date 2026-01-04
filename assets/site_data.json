@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-01-04 04:40:00",
+  "last_updated": "2026-01-04 08:14:13",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "UGC sets up committee to probe Dharamshala college student death",
+      "description": "The University Grants Commission is investigating a student's death at a Himachal Pradesh college. Allegations of ragging and sexual harassment have surfaced. A fact-finding committee has been formed. Police have booked three students and a professor. The stu\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/ugc-sets-up-committee-to-probe-dharamshala-college-student-death/articleshow/126318045.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126318045,width-1200,height-630,imgsize-23034,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-01-03T06:37:25Z",
+      "content": "New Delhi, The University Grants Commission (UGC) on Saturday ordered a probe into the death of a student at a government college in Himachal Pradesh's Dharamshala following allegations of ragging, a\u2026 [+1522 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "\u2018They would kill me\u2019: Student\u2019s father claims bottle attack in Himachal 'sexual harassment' case; victim treated at 7 hosps before her death",
+      "description": "A 19-year-old student who alleged sexual harassment and ragging died in a Ludhiana hospital. An FIR has been filed against a professor and three female students at Govt College, Dharamshala, for their alleged involvement in the incident. Authorities are inves\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/shimla/they-would-kill-me-students-father-claims-bottle-attack-in-himachal-sexual-harassment-case-victim-treated-at-7-hosps-before-her-death/articleshow/126317101.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-126317431,width-1070,height-580,imgsize-19956,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+      "publishedAt": "2026-01-03T05:41:04Z",
+      "content": "<ul><li>News</li>\r\n<li>City News</li>\r\n<li>shimla News</li>\r\n<li>They would kill me: Students father claims bottle attack in Himachal 'sexual harassment' case; victim treated at 7 hosps before her de\u2026 [+156 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-126304493,width-1070,height-580,imgsize-397145,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
       "publishedAt": "2026-01-02T10:52:19Z",
       "content": "<ul><li>News</li>\r\n<li>HP TET 2025 November results declared at hpbose.org: Direct link, qualifying details here</li></ul>\r\nFollow Us On Social Media\r\nQatarEnergy announces lower fuel prices for Janu\u2026 [+1570 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Ashish Shaji",
-      "title": "Right to life v. right to livelihood: Why Himachal Pradesh High Court ordered immediate closure of Kangra poultry farm",
-      "description": "Justice Ajay Mohan Goel held that the right to livelihood of the poultry farm owner cannot prevail over the right to life of the petitioner and other persons residing in the near vicinity of the poultry farm.",
-      "url": "https://indianexpress.com/article/legal-news/right-to-life-livelihood-himachal-pradesh-high-court-order-closure-poultry-10448493/",
-      "urlToImage": "https://images.indianexpress.com/2025/12/HP-High-Court.jpg",
-      "publishedAt": "2026-01-01T04:00:49Z",
-      "content": "Observing that the right to livelihood cannot overweigh the right to life and people have the right to live in a clean and hygienic environment, the Himachal Pradesh High Court has ordered closure of\u2026 [+3405 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TNN",
-      "title": "Assault row: Sacked Himachal doctor, patient patch up with a hug",
-      "description": "A doctor and patient involved in a Shimla assault case publicly reconciled, shaking hands and embracing after apologizing for their scuffle. The incident, which led to a statewide doctors' strike, was resolved through dialogue, with both parties expressing re\u2026",
-      "url": "https://timesofindia.indiatimes.com/india/assault-row-sacked-himachal-doctor-patient-patch-up-with-a-hug/articleshow/126259525.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-126259524,width-1070,height-580,imgsize-36866,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-      "publishedAt": "2025-12-30T20:44:13Z",
-      "content": "<ul><li>News</li>\r\n<li>India News</li>\r\n<li>Assault row: Sacked Himachal doctor, patient patch up with a hug</li></ul>\r\nFollow Us On Social Media\r\nSmoked Meth During Evaluation, Released Anyway: Why \u2026 [+3386 chars]"
     }
   ],
   "directory": []
