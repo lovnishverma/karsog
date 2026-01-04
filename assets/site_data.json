@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-01-04 00:58:06",
+  "last_updated": "2026-01-04 04:40:00",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "\u2018Sir would go after me\u2019: Himachal Pradesh college student dies after 'sexual harassment', ragging; FIR against professor, 3 pupils",
+      "description": "A Himachal Pradesh college professor and three students face charges of sexual harassment and ragging following the death of a 19-year-old student. The victim had accused them of mistreatment, which her father claims led to her depression and eventual death. \u2026",
+      "url": "https://timesofindia.indiatimes.com/city/shimla/sir-would-go-after-me-himachal-pradesh-college-student-dies-after-sexual-harassment-ragging-fir-against-professor-3-pupils/articleshow/126315922.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-126315962,width-1070,height-580,imgsize-1001723,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+      "publishedAt": "2026-01-03T02:15:38Z",
+      "content": "<ul><li>News</li>\r\n<li>City News</li>\r\n<li>shimla News</li>\r\n<li>Sir would go after me: Himachal Pradesh college student dies after 'sexual harassment', ragging; FIR against professor, 3 pupils</li><\u2026 [+1932 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-126259524,width-1070,height-580,imgsize-36866,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
       "publishedAt": "2025-12-30T20:44:13Z",
       "content": "<ul><li>News</li>\r\n<li>India News</li>\r\n<li>Assault row: Sacked Himachal doctor, patient patch up with a hug</li></ul>\r\nFollow Us On Social Media\r\nSmoked Meth During Evaluation, Released Anyway: Why \u2026 [+3386 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Express News Service",
-      "title": "\u2018Assault\u2019 on Kashmiri shawl sellers in Haryana, Himachal Pradesh: FIRs registered, manhunt on to nab the accused",
-      "description": "Two separate FIRs have been filed in Haryana and Himachal Pradesh after incidents of alleged assaults on Kashmiri shawl sellers were reported in both the states. In the Himachal Pradesh incident, Superintendent of Police (SP), Bilaspur, Sandeep Dhawal said th\u2026",
-      "url": "https://indianexpress.com/article/cities/chandigarh/assault-kashmiri-shawl-sellers-haryana-himachal-pradesh-fir-accused-10447242/",
-      "urlToImage": "https://images.indianexpress.com/2025/12/kashmiri-shawl-seller-1.jpg",
-      "publishedAt": "2025-12-30T16:47:24Z",
-      "content": "In the Himachal Pradesh incident, Superintendent of Police (SP), Bilaspur, Sandeep Dhawal said the FIR was registered on the complaint of Abdul Ahad Khan, a shawl vendor from Kupwara district of Jamm\u2026 [+4372 chars]"
     }
   ],
   "directory": []
