@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-01-05 16:15:09",
+  "last_updated": "2026-01-05 20:12:55",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Dharamshala case accused denies ragging; also claims prof named in FIR is innocent",
+      "description": "An accused student in a Himachal Pradesh college ragging and sexual harassment case, where a classmate died, denied all charges in a social media video. She claimed innocence for herself and two other accused students, asserting they were all classmates and b\u2026",
+      "url": "https://timesofindia.indiatimes.com/india/dharamshala-case-accused-denies-ragging-also-claims-prof-named-in-fir-is-innocent/articleshow/126339198.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-126339250,width-1070,height-580,imgsize-762081,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+      "publishedAt": "2026-01-04T18:44:13Z",
+      "content": "<ul><li>News</li>\r\n<li>India News</li>\r\n<li>Dharamshala case accused denies ragging; also claims prof named in FIR is innocent</li></ul>\r\nFollow Us On Social Media\r\nHoroscope Today, January 5, 2026: \u2026 [+1414 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-126315962,width-1070,height-580,imgsize-1001723,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
       "publishedAt": "2026-01-03T02:15:38Z",
       "content": "<ul><li>News</li>\r\n<li>City News</li>\r\n<li>shimla News</li>\r\n<li>Sir would go after me: Himachal Pradesh college student dies after 'sexual harassment', ragging; FIR against professor, 3 pupils</li><\u2026 [+1932 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "Himachal IED blast under lens for possible Pakistan-backed plot; Babbar Khalsa claims responsibility: Report",
-      "description": "An IED blast near a Nalagarh police station has raised suspicions of a Pakistan-linked terror plot, with Punjab Police believing the ISI orchestrated the attack to destabilize the region. Babbar Khalsa International and Punjab Sovereignty Alliance claimed res\u2026",
-      "url": "https://economictimes.indiatimes.com/news/defence/himachal-ied-blast-under-lens-for-possible-pakistan-backed-plot-babbar-khalsa-claims-responsibility-report/articleshow/126309064.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126309070,width-1200,height-630,imgsize-562202,overlay-etdefence/articleshow.jpg",
-      "publishedAt": "2026-01-02T15:49:39Z",
-      "content": "An IED blast near a police station in Nalagarh, Himachal Pradesh on New Year's day, is being examined by Punjab Police as part of a suspected Pakistan-linked plot, with investigators believing the at\u2026 [+4080 chars]"
     }
   ],
   "directory": []
