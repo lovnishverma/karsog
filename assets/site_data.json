@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-01-08 00:52:43",
+  "last_updated": "2026-01-08 04:30:02",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Trending Desk",
+      "title": "Delhi, Noida, Gurgaon to see cold days as IMD predicts more snow in J&K, Himachal and Uttarakhand",
+      "description": "Weather Today: North India is experiencing severe cold, with Delhi facing cold day conditions and sub-zero temperatures recorded in hill states. Light rain or snowfall is expected in Jammu and Kashmir, Himachal Pradesh, and Uttarakhand. Coldwave alerts have b\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/delhi-noida-gurgaon-to-see-cold-days-as-imd-predicts-more-snow-in-jk-himachal-and-uttarakhand/articleshow/126385091.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126385171,width-1200,height-630,imgsize-1877240,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-01-07T02:17:55Z",
+      "content": "Weather Today: Winter has tightened its grip across North India, with Delhi-NCR witnessing cold nights, as the India Meteorological Department (IMD) warned that cold day and coldwave conditions are l\u2026 [+3754 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-126339250,width-1070,height-580,imgsize-762081,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
       "publishedAt": "2026-01-04T18:44:13Z",
       "content": "<ul><li>News</li>\r\n<li>India News</li>\r\n<li>Dharamshala case accused denies ragging; also claims prof named in FIR is innocent</li></ul>\r\nFollow Us On Social Media\r\nHoroscope Today, January 5, 2026: \u2026 [+1414 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Trends Desk",
-      "title": "Shirtless men dance with hookahs in snow-covered Himachal, video sparks backlash",
-      "description": "The viral video shows five to six young men dancing to loud music, with their car parked on the roadside.",
-      "url": "https://indianexpress.com/article/trending/trending-in-india/shirtless-men-dance-with-hookahs-in-snow-covered-himachal-video-sparks-backlash-10455079/",
-      "urlToImage": "https://images.indianexpress.com/2026/01/Shirtless-men-dancing-in-Himachal-.jpg",
-      "publishedAt": "2026-01-04T12:06:48Z",
-      "content": "A video from the snow-covered Lahaul-Spiti region in Himachal Pradesh has been drawing widespread attention for all the wrong reasons. The clip shows a group of tourists dancing in the middle of a ro\u2026 [+2416 chars]"
     }
   ],
   "directory": []
