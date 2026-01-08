@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-01-08 04:30:02",
+  "last_updated": "2026-01-08 08:16:22",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Lifestyle Desk",
+      "title": "Shimla is packed \u2014 here are 5 hill destinations Indians are choosing instead",
+      "description": "As winter travel peaks, Shimla is once again feeling the strain of mass tourism. Traffic jams stretching for kilometres, fully booked hotels, and packed public spaces have turned what was meant to be a relaxed hill getaway into a test of patience for many tra\u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/travel/destinations/shimla-is-packed-here-are-5-hill-destinations-indians-are-choosing-instead/photostory/126387571.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-126387685,width-1070,height-580,imgsize-342746,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+      "publishedAt": "2026-01-07T05:41:19Z",
+      "content": "Chakrata is also becoming a major hub for tourists, particularly those hailing from Delhi, who wish to give a miss to the crowded Shimla destinations. Chakrata, a peaceful cantonment town, has still \u2026 [+418 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-126350471,width-1070,height-580,imgsize-307018,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
       "publishedAt": "2026-01-05T11:04:53Z",
       "content": "Follow Us On Social Media\r\nKSPCB clearance delay threatens rural start-ups, job opportunities under PMFME Scheme49 crypto exchanges register with FIU; focus on curbing money laundering, terror fundin\u2026 [+1675 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TNN",
-      "title": "Dharamshala case accused denies ragging; also claims prof named in FIR is innocent",
-      "description": "An accused student in a Himachal Pradesh college ragging and sexual harassment case, where a classmate died, denied all charges in a social media video. She claimed innocence for herself and two other accused students, asserting they were all classmates and b\u2026",
-      "url": "https://timesofindia.indiatimes.com/india/dharamshala-case-accused-denies-ragging-also-claims-prof-named-in-fir-is-innocent/articleshow/126339198.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-126339250,width-1070,height-580,imgsize-762081,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-      "publishedAt": "2026-01-04T18:44:13Z",
-      "content": "<ul><li>News</li>\r\n<li>India News</li>\r\n<li>Dharamshala case accused denies ragging; also claims prof named in FIR is innocent</li></ul>\r\nFollow Us On Social Media\r\nHoroscope Today, January 5, 2026: \u2026 [+1414 chars]"
     }
   ],
   "directory": []
