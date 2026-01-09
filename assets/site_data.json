@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-01-09 00:53:02",
+  "last_updated": "2026-01-09 04:30:51",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Sonal Gupta",
+      "title": "Daily Briefing: The Venezuelan oil gamble",
+      "description": "Also in today's edition: why silver prices are rising; the mess inside Indian football; a satellite town near Shimla; and more",
+      "url": "https://indianexpress.com/article/live-news/top-news-today-briefing-10461333/",
+      "urlToImage": "https://images.indianexpress.com/2026/01/newsletter-feat-image-4.jpg",
+      "publishedAt": "2026-01-08T04:25:37Z",
+      "content": "Good morning,Silver prices are soaring and showing no signs of slowing down. After surging more than 160% in 2025, prices jumped another 7% in just the first week of 2026. Gold, too, has been shining\u2026 [+5813 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-126352243,width-1070,height-580,imgsize-715130,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
       "publishedAt": "2026-01-05T11:36:56Z",
       "content": "<ul><li>News</li>\r\n<li>HP SET 2026 notification released: Registration begins online, direct link to apply here</li></ul>\r\nFollow Us On Social Media"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Anjali Singh",
-      "title": "What goes wrong after take-off: A spate of fatal paragliding crashes raises alarm",
-      "description": "A prime destination for adventure lovers, Himachal Pradesh has recently seen several paragliding accidents across its scenic hills. Accidents that ended with the death of tourists who were both locals and foreigners took place in paragliding areas like Manali\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/shimla/what-goes-wrong-after-take-off-a-spate-of-fatal-paragliding-crashes-raises-alarm/articleshow/126345380.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-126350471,width-1070,height-580,imgsize-307018,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-      "publishedAt": "2026-01-05T11:04:53Z",
-      "content": "Follow Us On Social Media\r\nKSPCB clearance delay threatens rural start-ups, job opportunities under PMFME Scheme49 crypto exchanges register with FIU; focus on curbing money laundering, terror fundin\u2026 [+1675 chars]"
     }
   ],
   "directory": []
