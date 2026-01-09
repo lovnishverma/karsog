@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-01-09 08:16:10",
+  "last_updated": "2026-01-09 12:21:27",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ANI",
+      "title": "Fresh snowfall in Himachal Pradesh's Kullu delights tourists",
+      "description": "Tourists are flocking to Kullu, Himachal Pradesh, to witness fresh snowfall and enjoy winter adventure activities. Visitors from across India are experiencing the picturesque snow-covered mountains, with many praising the safety and hospitality of the locals.\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/shimla/fresh-snowfall-in-himachal-pradeshs-kullu-delights-tourists/articleshow/126410692.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-126411512,width-1070,height-580,imgsize-1090863,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+      "publishedAt": "2026-01-08T09:34:00Z",
+      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-126354450,width-1200,height-630,imgsize-125760,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-01-05T13:10:40Z",
       "content": "Mumbai: Indian ODI vice-captain Shreyas Iyer has been announced as Mumbai's captain for the remainder of the Vijay Hazare Trophy (VHT) 2025-26 league fixtures, with all-rounder Shardul Thakur being r\u2026 [+1729 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Education",
-      "title": "HP SET 2026 notification released: Registration begins online, direct link to apply here",
-      "description": "The Himachal Pradesh Public Service Commission has announced the HP SET 2026 examination for aspiring Assistant Professors. Applications are open from January 3 to January 30, 2026, for candidates with a Master's degree and specific marks based on category. Q\u2026",
-      "url": "https://timesofindia.indiatimes.com/education/news/hp-set-2026-notification-released-registration-begins-online-direct-link-to-apply-here/articleshow/126352256.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-126352243,width-1070,height-580,imgsize-715130,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-      "publishedAt": "2026-01-05T11:36:56Z",
-      "content": "<ul><li>News</li>\r\n<li>HP SET 2026 notification released: Registration begins online, direct link to apply here</li></ul>\r\nFollow Us On Social Media"
     }
   ],
   "directory": []
