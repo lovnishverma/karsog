@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-01-09 12:21:27",
+  "last_updated": "2026-01-09 16:13:56",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Chopper services from Shimla to Kullu, Kinnaur from January 14: Officials",
+      "description": "The initiative is part of the union government's regional connectivity scheme, UDAN, they said.",
+      "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/chopper-services-from-shimla-to-kullu-kinnaur-from-january-14-officials/articleshow/126418088.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126418104,width-1200,height-630,imgsize-615662,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-01-08T15:46:39Z",
+      "content": "Shimla: Daily helicopter flights from Sanjauli in Shimla to Bhunter in Kullu and Shimla to Reckong Peo in Kinnaur will be started by Heritage Aviation from January 14 onwards, officials said on Thurs\u2026 [+570 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-126377487,width-1070,height-580,imgsize-13072,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
       "publishedAt": "2026-01-06T15:30:10Z",
       "content": "<ul><li>News</li>\r\n<li>India News</li>\r\n<li>Punjab AAP accuses Himachal govt of imposing Rs 500 crore 'illegal financial burden' on Beas Board</li></ul>\r\nFollow Us On Social Media\r\nCopyright \u00a9 2026 B\u2026 [+96 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ANI",
-      "title": "Shreyas Iyer appointed Mumbai captain for remaining league stage Vijay Hazare Trophy matches",
-      "description": "Shreyas Iyer will lead Mumbai in the Vijay Hazare Trophy. He replaces injured Shardul Thakur. Iyer returns to competitive cricket after a spleen injury. Mumbai plays Himachal Pradesh and Punjab in Jaipur. Qualification for the knockout stage appears likely. I\u2026",
-      "url": "https://economictimes.indiatimes.com/news/sports/shreyas-iyer-appointed-mumbai-captain-for-remaining-league-stage-vijay-hazare-trophy-matches/articleshow/126354369.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126354450,width-1200,height-630,imgsize-125760,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-01-05T13:10:40Z",
-      "content": "Mumbai: Indian ODI vice-captain Shreyas Iyer has been announced as Mumbai's captain for the remainder of the Vijay Hazare Trophy (VHT) 2025-26 league fixtures, with all-rounder Shardul Thakur being r\u2026 [+1729 chars]"
     }
   ],
   "directory": []
