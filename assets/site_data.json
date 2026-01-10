@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-01-10 16:11:37",
+  "last_updated": "2026-01-10 20:10:42",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "14 killed as bus plunges into 500m-deep Himachal gorge",
+      "description": "India News: SHIMLA: At least 14 passengers died, and 52 others were injured when the private bus carrying them plunged into a 500m-deep gorge near Haripurdhar in .",
+      "url": "https://timesofindia.indiatimes.com/india/14-killed-as-bus-plunges-into-500m-deep-himachal-gorge/articleshow/126442548.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-126442547,width-1070,height-580,imgsize-1368050,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+      "publishedAt": "2026-01-09T18:47:54Z",
+      "content": "Follow Us On Social Media\r\nIran In LOCKDOWN: Muslim Nations Cut Air Links As Deadly Protests Shake Khamenei RegimeVenezuelan Political Prisoners Freed; Trump Claims Credit After Maduro ExitPortland M\u2026 [+1411 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Statetimes.in"
+      },
+      "author": "statetimes_editor",
+      "title": "Nine killed, around 40 injured as private bus falls into 500-feet deep gorge in Himachal\u2019s Sirmaur",
+      "description": "NAHAN (HP): Nine people died while about 40 others were injured after a private bus fell into a 500-feet deep gorge in Himachal Pradesh\u2019s Sirmaur district on Friday afternoon, police said. The accident occurred when the bus en route from Shimla to Kupvi via R\u2026",
+      "url": "https://statetimes.in/nine-killed-around-40-injured-as-private-bus-falls-into-500-feet-deep-gorge-in-himachals-sirmaur/",
+      "urlToImage": "https://statetimes.in/wp-content/uploads/2026/01/Nine-killed-around-40-injured-as-private-bus-falls-into-500-feet-deep-gorge-in-Himachals-Sirmaur.jpg",
+      "publishedAt": "2026-01-09T16:37:17Z",
+      "content": "NAHAN (HP): Nine people died while about 40 others were injured after a private bus fell into a 500-feet deep gorge in Himachal Pradeshs Sirmaur district on Friday afternoon, police said.\r\nThe accide\u2026 [+1872 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-126411512,width-1070,height-580,imgsize-1090863,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
       "publishedAt": "2026-01-08T09:34:00Z",
       "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Sonal Gupta",
-      "title": "Daily Briefing: The Venezuelan oil gamble",
-      "description": "Also in today's edition: why silver prices are rising; the mess inside Indian football; a satellite town near Shimla; and more",
-      "url": "https://indianexpress.com/article/live-news/top-news-today-briefing-10461333/",
-      "urlToImage": "https://images.indianexpress.com/2026/01/newsletter-feat-image-4.jpg",
-      "publishedAt": "2026-01-08T04:25:37Z",
-      "content": "Good morning,Silver prices are soaring and showing no signs of slowing down. After surging more than 160% in 2025, prices jumped another 7% in just the first week of 2026. Gold, too, has been shining\u2026 [+5813 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Lifestyle Desk",
-      "title": "Shimla is packed \u2014 here are 5 hill destinations Indians are choosing instead",
-      "description": "As winter travel peaks, Shimla is once again feeling the strain of mass tourism. Traffic jams stretching for kilometres, fully booked hotels, and packed public spaces have turned what was meant to be a relaxed hill getaway into a test of patience for many tra\u2026",
-      "url": "https://timesofindia.indiatimes.com/life-style/travel/destinations/shimla-is-packed-here-are-5-hill-destinations-indians-are-choosing-instead/photostory/126387571.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-126387685,width-1070,height-580,imgsize-342746,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-      "publishedAt": "2026-01-07T05:41:19Z",
-      "content": "Chakrata is also becoming a major hub for tourists, particularly those hailing from Delhi, who wish to give a miss to the crowded Shimla destinations. Chakrata, a peaceful cantonment town, has still \u2026 [+418 chars]"
     }
   ],
   "directory": []
