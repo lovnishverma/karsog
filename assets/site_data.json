@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-01-12 12:22:40",
+  "last_updated": "2026-01-12 16:15:41",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ANI",
+      "title": "Himachal Pradesh govt strengthens social security support; over 8.42 lakh beneficiaries covered",
+      "description": "Himachal Pradesh's government has expanded social security, benefiting over 8.42 lakh individuals with pensions and welfare. Reforms like removing income ceilings for certain groups and increasing monthly pensions to Rs 1,500 for women under 69 aim for inclus\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/himachal-pradesh-govt-strengthens-social-security-support-over-8-42-lakh-beneficiaries-covered/articleshow/126466389.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126466396,width-1200,height-630,imgsize-74184,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-01-11T14:15:21Z",
+      "content": "Shimla: The Himachal Pradesh government, under the leadership of Chief Minister Sukhvinder Singh Sukhu, has further strengthened social security support across the state, with over 8.42 lakh benefici\u2026 [+2425 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-126418104,width-1200,height-630,imgsize-615662,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-01-08T15:46:39Z",
       "content": "Shimla: Daily helicopter flights from Sanjauli in Shimla to Bhunter in Kullu and Shimla to Reckong Peo in Kinnaur will be started by Heritage Aviation from January 14 onwards, officials said on Thurs\u2026 [+570 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ANI",
-      "title": "Fresh snowfall in Himachal Pradesh's Kullu delights tourists",
-      "description": "Tourists are flocking to Kullu, Himachal Pradesh, to witness fresh snowfall and enjoy winter adventure activities. Visitors from across India are experiencing the picturesque snow-covered mountains, with many praising the safety and hospitality of the locals.\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/shimla/fresh-snowfall-in-himachal-pradeshs-kullu-delights-tourists/articleshow/126410692.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-126411512,width-1070,height-580,imgsize-1090863,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-      "publishedAt": "2026-01-08T09:34:00Z",
-      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
     }
   ],
   "directory": []
