@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-01-13 08:16:08",
+  "last_updated": "2026-01-13 12:22:15",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Trending Desk",
+      "title": "Gurgaon colder than Shimla! Minimum temperature in Gurugram drops to 0.6 degree, hill capital at 4\u00b0C",
+      "description": "Gurgaon Weather Today: Gurugram experienced its coldest day with temperatures dropping to 0.6 degrees Celsius. The temperature in the millennium city in Haryana was lower than the hill station Shimla, where minimum temperature of 4 degree was  recorded today.\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/gurgaon-colder-than-shimla-minimum-temperature-in-gurugram-drops-to-0-6-degree-hill-capital-at-4c/articleshow/126480910.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126481394,width-1200,height-630,imgsize-72608,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-01-12T10:10:40Z",
+      "content": "Investment Ideas\r\nGrow your wealth with stock ideas &amp; sectoral trends.\r\nStock Reports Plus\r\nBuy low &amp; sell high with access to Stock Score, Upside potential &amp; more. \r\nBigBull Portfolio\r\nG\u2026 [+439 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-126430400,width-1070,height-580,imgsize-171997,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
       "publishedAt": "2026-01-09T07:42:16Z",
       "content": "<ul><li>News</li>\r\n<li>HPBOSE SOS Class 10th and 12th improvement result released at hpbose.org: Direct links to download here</li></ul>\r\nFollow Us On Social Media\r\nPutin Drops WW3 Bombshell As US Ca\u2026 [+1715 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "Himachal: Villagers raise issue of Shoolini Khud pollution, submit memorandum to Solan DC",
-      "description": "Villagers from Sirmaur and Solan districts of Himachal Pradesh have accused some educational institutions, hotels and industrial units of discharging .",
-      "url": "https://timesofindia.indiatimes.com/city/shimla/himachal-villagers-raise-issue-of-shoolini-khud-pollution-submit-memorandum-to-solan-dc/articleshow/126420162.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-126420196,width-1070,height-580,imgsize-833437,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-      "publishedAt": "2026-01-08T17:49:17Z",
-      "content": "<ul><li>News</li>\r\n<li>Himachal: Villagers raise issue of Shoolini Khud pollution, submit memorandum to Solan DC</li></ul>\r\nFollow Us On Social Media\r\nWho is Marta Xargay Casademont? Exploring life a\u2026 [+1692 chars]"
     }
   ],
   "directory": []
