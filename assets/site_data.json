@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-01-13 04:30:46",
+  "last_updated": "2026-01-13 08:16:08",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "Sissu bans tourists in Himachal\u2019s Lahaul-Spiti to protect local spiritual and cultural traditions",
+      "description": "Sissu valley in Himachal Pradesh will suspend all tourism activities for 40 days, from January 20 to February 28, to protect traditional religious rituals and customs. This decision, supported by local bodies, aims to prevent disruptions during important fest\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/sissu-bans-tourists-in-himachals-lahaul-spiti-to-protect-local-spiritual-and-cultural-traditions/articleshow/126477743.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126478352,width-1200,height-630,imgsize-64914,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-01-12T07:23:56Z",
+      "content": "Sissu valley in Himachal Pradesh will suspend all tourism activities for 40 days, from January 20 to February 28, to protect traditional religious rituals and customs. This decision, supported by loc\u2026 [+144 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-126420196,width-1070,height-580,imgsize-833437,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
       "publishedAt": "2026-01-08T17:49:17Z",
       "content": "<ul><li>News</li>\r\n<li>Himachal: Villagers raise issue of Shoolini Khud pollution, submit memorandum to Solan DC</li></ul>\r\nFollow Us On Social Media\r\nWho is Marta Xargay Casademont? Exploring life a\u2026 [+1692 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "Chopper services from Shimla to Kullu, Kinnaur from January 14: Officials",
-      "description": "The initiative is part of the union government's regional connectivity scheme, UDAN, they said.",
-      "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/chopper-services-from-shimla-to-kullu-kinnaur-from-january-14-officials/articleshow/126418088.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126418104,width-1200,height-630,imgsize-615662,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-01-08T15:46:39Z",
-      "content": "Shimla: Daily helicopter flights from Sanjauli in Shimla to Bhunter in Kullu and Shimla to Reckong Peo in Kinnaur will be started by Heritage Aviation from January 14 onwards, officials said on Thurs\u2026 [+570 chars]"
     }
   ],
   "directory": []
