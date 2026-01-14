@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-01-14 04:38:17",
+  "last_updated": "2026-01-14 08:15:46",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Khabarhub.com"
+      },
+      "author": "Khabarhub",
+      "title": "Nine Nepalis killed in gas cylinder blast in India\u2019s Himachal Pradesh",
+      "description": "HIMACHAL PRADESH/INDIA: Nine Nepali citizens were killed in a gas cylinder explosion in Himachal Pradesh, India, according to confirmations from family members. All the victims were from two families residing in Siddha Kumakha Rural Municipality\u20132 of Salyan d\u2026",
+      "url": "https://english.khabarhub.com/2026/13/515804/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2026/01/Blast-Himachal-Pradesh.webp",
+      "publishedAt": "2026-01-13T08:02:49Z",
+      "content": "HIMACHAL PRADESH/INDIA: Nine Nepali citizens were killed in a gas cylinder explosion in Himachal Pradesh, India, according to confirmations from family members. All the victims were from two families\u2026 [+1069 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://statetimes.in/wp-content/uploads/2026/01/Nine-killed-around-40-injured-as-private-bus-falls-into-500-feet-deep-gorge-in-Himachals-Sirmaur.jpg",
       "publishedAt": "2026-01-09T16:37:17Z",
       "content": "NAHAN (HP): Nine people died while about 40 others were injured after a private bus fell into a 500-feet deep gorge in Himachal Pradeshs Sirmaur district on Friday afternoon, police said.\r\nThe accide\u2026 [+1872 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Education",
-      "title": "HPBOSE SOS Class 10th and 12th improvement result released at hpbose.org: Direct links to download here",
-      "description": "The Himachal Pradesh Board of School Education has announced the HPBOSE State Open School Special Marks Improvement Result 2025 for Classes 10 and 12. Students who appeared in the September 2025 exams can check their scores at hpbose.org using their SOS roll \u2026",
-      "url": "https://timesofindia.indiatimes.com/education/news/hpbose-sos-class-10th-and-12th-improvement-result-released-at-hpbose-org-direct-links-to-download-here/articleshow/126430218.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-126430400,width-1070,height-580,imgsize-171997,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-      "publishedAt": "2026-01-09T07:42:16Z",
-      "content": "<ul><li>News</li>\r\n<li>HPBOSE SOS Class 10th and 12th improvement result released at hpbose.org: Direct links to download here</li></ul>\r\nFollow Us On Social Media\r\nPutin Drops WW3 Bombshell As US Ca\u2026 [+1715 chars]"
     }
   ],
   "directory": []
