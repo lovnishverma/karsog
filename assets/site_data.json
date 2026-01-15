@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-01-15 16:20:53",
+  "last_updated": "2026-01-15 20:13:00",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Senior IPS officer Rakesh Aggarwal appointed NIA chief",
+      "description": "Aggarwal, a 1994 batch Indian Police Service (IPS) officer of Himachal Pradesh cadre, is currently special director general in the anti-terror agency. He has also been holding the additional charge of the post of DG, NIA.",
+      "url": "https://economictimes.indiatimes.com/news/india/senior-ips-officer-rakesh-aggarwal-appointed-nia-chief/articleshow/126531644.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126531672,width-1200,height-630,imgsize-132044,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-01-14T17:11:12Z",
+      "content": "Aggarwal, a 1994 batch Indian Police Service (IPS) officer of Himachal Pradesh cadre, is currently special director general in the anti-terror agency. He has also been holding the additional charge o\u2026 [+21 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-126481394,width-1200,height-630,imgsize-72608,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-01-12T10:10:40Z",
       "content": "Investment Ideas\r\nGrow your wealth with stock ideas &amp; sectoral trends.\r\nStock Reports Plus\r\nBuy low &amp; sell high with access to Stock Score, Upside potential &amp; more. \r\nBigBull Portfolio\r\nG\u2026 [+439 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "Sissu bans tourists in Himachal\u2019s Lahaul-Spiti to protect local spiritual and cultural traditions",
-      "description": "Sissu valley in Himachal Pradesh will suspend all tourism activities for 40 days, from January 20 to February 28, to protect traditional religious rituals and customs. This decision, supported by local bodies, aims to prevent disruptions during important fest\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/sissu-bans-tourists-in-himachals-lahaul-spiti-to-protect-local-spiritual-and-cultural-traditions/articleshow/126477743.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126478352,width-1200,height-630,imgsize-64914,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-01-12T07:23:56Z",
-      "content": "Sissu valley in Himachal Pradesh will suspend all tourism activities for 40 days, from January 20 to February 28, to protect traditional religious rituals and customs. This decision, supported by loc\u2026 [+144 chars]"
     }
   ],
   "directory": []
