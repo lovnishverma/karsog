@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-01-15 12:21:22",
+  "last_updated": "2026-01-15 16:20:53",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Express News Service",
+      "title": "Will open 77 new eco-tourism sites to generate Rs 200 crore over 5 years: Himachal CM",
+      "description": "The chief minister said Himachal is witnessing a historic transformation in tourism under the Congress government\u2019s vision of \u2018Vyavastha Parivartan\u2019.",
+      "url": "https://indianexpress.com/article/cities/chandigarh/new-eco-tourism-sites-rs-200-crore-over-5-years-himachal-cm-10473883/",
+      "urlToImage": "https://images.indianexpress.com/2026/01/Sukhvinder-Singh-Sukhu-.jpg",
+      "publishedAt": "2026-01-14T16:02:16Z",
+      "content": "Chief Minister Sukhvinder Singh Sukhu said on Wednesday that under the Eco-Tourism Policy, the Himachal Pradeshgovernment plans to open 77 new eco-tourism sites, which are expected to generate nearly\u2026 [+1676 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Express News Service",
+      "title": "ARTRAC organises 10th Armed Forces Veterans\u2019 Day to enhance awareness and satisfaction among veterans",
+      "description": "A large number of veterans from Shimla district attended the event presided over by Lieutenant General Sukriti Singh Dahiya, Chief of Staff, ARTRAC",
+      "url": "https://indianexpress.com/article/cities/chandigarh/artrac-organises-10th-armed-forces-veterans-day-enhance-awareness-satisfaction-among-veterans-10473726/",
+      "urlToImage": "https://images.indianexpress.com/2026/01/express-logo-1600x900-1.jpg",
+      "publishedAt": "2026-01-14T14:55:07Z",
+      "content": "The Headquarters of the Indian Army Training Command (ARTRAC) organised the 10th Armed Forces Veterans Day interaction for the veterans in Shimla on Wednesday.\r\nA large number of veterans from Shimla\u2026 [+1510 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-126478352,width-1200,height-630,imgsize-64914,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-01-12T07:23:56Z",
       "content": "Sissu valley in Himachal Pradesh will suspend all tourism activities for 40 days, from January 20 to February 28, to protect traditional religious rituals and customs. This decision, supported by loc\u2026 [+144 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ANI",
-      "title": "Himachal Pradesh govt strengthens social security support; over 8.42 lakh beneficiaries covered",
-      "description": "Himachal Pradesh's government has expanded social security, benefiting over 8.42 lakh individuals with pensions and welfare. Reforms like removing income ceilings for certain groups and increasing monthly pensions to Rs 1,500 for women under 69 aim for inclus\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/himachal-pradesh-govt-strengthens-social-security-support-over-8-42-lakh-beneficiaries-covered/articleshow/126466389.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126466396,width-1200,height-630,imgsize-74184,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-01-11T14:15:21Z",
-      "content": "Shimla: The Himachal Pradesh government, under the leadership of Chief Minister Sukhvinder Singh Sukhu, has further strengthened social security support across the state, with over 8.42 lakh benefici\u2026 [+2425 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TNN",
-      "title": "14 killed as bus plunges into 500m-deep Himachal gorge",
-      "description": "India News: SHIMLA: At least 14 passengers died, and 52 others were injured when the private bus carrying them plunged into a 500m-deep gorge near Haripurdhar in .",
-      "url": "https://timesofindia.indiatimes.com/india/14-killed-as-bus-plunges-into-500m-deep-himachal-gorge/articleshow/126442548.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-126442547,width-1070,height-580,imgsize-1368050,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-      "publishedAt": "2026-01-09T18:47:54Z",
-      "content": "Follow Us On Social Media\r\nIran In LOCKDOWN: Muslim Nations Cut Air Links As Deadly Protests Shake Khamenei RegimeVenezuelan Political Prisoners Freed; Trump Claims Credit After Maduro ExitPortland M\u2026 [+1411 chars]"
     }
   ],
   "directory": []
