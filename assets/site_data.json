@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-01-15 00:50:44",
+  "last_updated": "2026-01-15 04:31:49",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Himachal fire tragedy: Toll rises to 10 in Arki market blaze; 9 Nepalese nationals, 8-year-old among dead",
+      "description": "A fierce blaze swept through the bustling Arki market in Solan, claiming 10 precious lives, among them nine Nepalese nationals and an eight-year-old boy from Bihar. The fire erupted, devastating the area due to multiple cylinder explosions in a wooden edifice\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/shimla/no-complete-body-recovered-arki-market-fire-death-toll-climbs-to-10-6-lpg-cylinders-exploded-in-building/articleshow/126516993.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-126517188,width-1070,height-580,imgsize-1105687,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+      "publishedAt": "2026-01-14T04:18:20Z",
+      "content": "<ul><li>News</li>\r\n<li>City News</li>\r\n<li>shimla News</li>\r\n<li>Himachal fire tragedy: Toll rises to 10 in Arki market blaze; 9 Nepalese nationals, 8-year-old among dead</li></ul>\r\nFollow Us On Soci\u2026 [+7 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-126442547,width-1070,height-580,imgsize-1368050,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
       "publishedAt": "2026-01-09T18:47:54Z",
       "content": "Follow Us On Social Media\r\nIran In LOCKDOWN: Muslim Nations Cut Air Links As Deadly Protests Shake Khamenei RegimeVenezuelan Political Prisoners Freed; Trump Claims Credit After Maduro ExitPortland M\u2026 [+1411 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Statetimes.in"
-      },
-      "author": "statetimes_editor",
-      "title": "Nine killed, around 40 injured as private bus falls into 500-feet deep gorge in Himachal\u2019s Sirmaur",
-      "description": "NAHAN (HP): Nine people died while about 40 others were injured after a private bus fell into a 500-feet deep gorge in Himachal Pradesh\u2019s Sirmaur district on Friday afternoon, police said. The accident occurred when the bus en route from Shimla to Kupvi via R\u2026",
-      "url": "https://statetimes.in/nine-killed-around-40-injured-as-private-bus-falls-into-500-feet-deep-gorge-in-himachals-sirmaur/",
-      "urlToImage": "https://statetimes.in/wp-content/uploads/2026/01/Nine-killed-around-40-injured-as-private-bus-falls-into-500-feet-deep-gorge-in-Himachals-Sirmaur.jpg",
-      "publishedAt": "2026-01-09T16:37:17Z",
-      "content": "NAHAN (HP): Nine people died while about 40 others were injured after a private bus fell into a 500-feet deep gorge in Himachal Pradeshs Sirmaur district on Friday afternoon, police said.\r\nThe accide\u2026 [+1872 chars]"
     }
   ],
   "directory": []
