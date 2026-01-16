@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-01-16 04:30:39",
+  "last_updated": "2026-01-16 08:15:37",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Trending Desk",
+      "title": "Delhi-NCR holidays: Are schools in Delhi, Noida and Gurugram shut on January 16 as region experiences more cold than Shimla, Dehradun? Check details",
+      "description": "Delhi-NCR school holidays: At a time when Delhi, Noida, and Gurugram are colder than Shimla and Dehradun, parents and students are wondering if schools will reopen in the NCR region from January 16. As of now, there is no official confirmation that schools wi\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/delhi-ncr-holidays-are-schools-in-delhi-noida-and-gurugram-shut-on-january-16-as-region-experiences-more-cold-than-shimla-dehradun-check-details/articleshow/126538338.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126538413,width-1200,height-630,imgsize-106586,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-01-15T04:52:58Z",
+      "content": "The residents of Delhi-NCR woke up to an intense cold wave on Thursday for the fourth consecutive day. According to the India Meteorological Department (IMD), early morning temperatures in the city d\u2026 [+5470 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-126517188,width-1070,height-580,imgsize-1105687,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
       "publishedAt": "2026-01-14T04:18:20Z",
       "content": "<ul><li>News</li>\r\n<li>City News</li>\r\n<li>shimla News</li>\r\n<li>Himachal fire tragedy: Toll rises to 10 in Arki market blaze; 9 Nepalese nationals, 8-year-old among dead</li></ul>\r\nFollow Us On Soci\u2026 [+7 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Khabarhub.com"
-      },
-      "author": "Khabarhub",
-      "title": "Nine Nepalis killed in gas cylinder blast in India\u2019s Himachal Pradesh",
-      "description": "HIMACHAL PRADESH/INDIA: Nine Nepali citizens were killed in a gas cylinder explosion in Himachal Pradesh, India, according to confirmations from family members. All the victims were from two families residing in Siddha Kumakha Rural Municipality\u20132 of Salyan d\u2026",
-      "url": "https://english.khabarhub.com/2026/13/515804/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2026/01/Blast-Himachal-Pradesh.webp",
-      "publishedAt": "2026-01-13T08:02:49Z",
-      "content": "HIMACHAL PRADESH/INDIA: Nine Nepali citizens were killed in a gas cylinder explosion in Himachal Pradesh, India, according to confirmations from family members. All the victims were from two families\u2026 [+1069 chars]"
     }
   ],
   "directory": []
