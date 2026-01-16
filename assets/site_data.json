@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-01-15 20:13:00",
+  "last_updated": "2026-01-16 00:53:41",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Express News Service",
+      "title": "Govt appoints Rakesh Aggarwal as NIA\u2008chief, former Haryana DGP to head ITBP",
+      "description": "Aggarwal, a 1994-batch IPS officer of Himachal Pradesh cadre, was holding the additional charge of NIA DG\u2019s post since last month after his predecessor Sadanand Vasant Date was repatriated to parent cadre Maharashtra.",
+      "url": "https://indianexpress.com/article/india/govt-appoints-rakesh-aggarwal-as-nia-chief-former-haryana-dgp-to-head-itbp-10474237/",
+      "urlToImage": "https://images.indianexpress.com/2026/01/NIA-office03-3col.jpg",
+      "publishedAt": "2026-01-14T23:02:04Z",
+      "content": "Senior IPS officer Rakesh Aggarwal was on Wednesday appointed as the Director General of the National Investigation Agency (NIA), while former Haryana DGP Shatrujeet Singh Kapoor was named as the Dir\u2026 [+1356 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2026/01/Blast-Himachal-Pradesh.webp",
       "publishedAt": "2026-01-13T08:02:49Z",
       "content": "HIMACHAL PRADESH/INDIA: Nine Nepali citizens were killed in a gas cylinder explosion in Himachal Pradesh, India, according to confirmations from family members. All the victims were from two families\u2026 [+1069 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Trending Desk",
-      "title": "Gurgaon colder than Shimla! Minimum temperature in Gurugram drops to 0.6 degree, hill capital at 4\u00b0C",
-      "description": "Gurgaon Weather Today: Gurugram experienced its coldest day with temperatures dropping to 0.6 degrees Celsius. The temperature in the millennium city in Haryana was lower than the hill station Shimla, where minimum temperature of 4 degree was  recorded today.\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/gurgaon-colder-than-shimla-minimum-temperature-in-gurugram-drops-to-0-6-degree-hill-capital-at-4c/articleshow/126480910.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126481394,width-1200,height-630,imgsize-72608,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-01-12T10:10:40Z",
-      "content": "Investment Ideas\r\nGrow your wealth with stock ideas &amp; sectoral trends.\r\nStock Reports Plus\r\nBuy low &amp; sell high with access to Stock Score, Upside potential &amp; more. \r\nBigBull Portfolio\r\nG\u2026 [+439 chars]"
     }
   ],
   "directory": []
