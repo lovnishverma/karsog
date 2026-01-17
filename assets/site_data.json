@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-01-17 08:13:45",
+  "last_updated": "2026-01-17 12:18:18",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Education",
+      "title": "HP Patwari Recruitment 2025: Registration ends today for 530 posts, direct link to apply here",
+      "description": "Himachal Pradesh Rajya Chayan Aayog has announced 530 Patwari (Job Trainee) vacancies for Class 12 pass candidates. The online application process is now open. Selection involves a written exam covering General Knowledge, English, Hindi, Maths, and Reasoning,\u2026",
+      "url": "https://timesofindia.indiatimes.com/education/news/hp-patwari-recruitment-2025-registration-ends-today-for-530-posts-direct-link-to-apply-here/articleshow/126562421.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-126562410,width-1070,height-580,imgsize-90515,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+      "publishedAt": "2026-01-16T09:16:03Z",
+      "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>HP Patwari Recruitment 2025: Registration ends today for 530 posts, direct link to apply here</li></ul>\r\nFollow Us On Social Media"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://images.indianexpress.com/2026/01/Sukhvinder-Singh-Sukhu-.jpg",
       "publishedAt": "2026-01-14T16:02:16Z",
       "content": "Chief Minister Sukhvinder Singh Sukhu said on Wednesday that under the Eco-Tourism Policy, the Himachal Pradeshgovernment plans to open 77 new eco-tourism sites, which are expected to generate nearly\u2026 [+1676 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Express News Service",
-      "title": "ARTRAC organises 10th Armed Forces Veterans\u2019 Day to enhance awareness and satisfaction among veterans",
-      "description": "A large number of veterans from Shimla district attended the event presided over by Lieutenant General Sukriti Singh Dahiya, Chief of Staff, ARTRAC",
-      "url": "https://indianexpress.com/article/cities/chandigarh/artrac-organises-10th-armed-forces-veterans-day-enhance-awareness-satisfaction-among-veterans-10473726/",
-      "urlToImage": "https://images.indianexpress.com/2026/01/express-logo-1600x900-1.jpg",
-      "publishedAt": "2026-01-14T14:55:07Z",
-      "content": "The Headquarters of the Indian Army Training Command (ARTRAC) organised the 10th Armed Forces Veterans Day interaction for the veterans in Shimla on Wednesday.\r\nA large number of veterans from Shimla\u2026 [+1510 chars]"
     }
   ],
   "directory": []
