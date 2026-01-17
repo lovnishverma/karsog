@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-01-17 12:18:18",
+  "last_updated": "2026-01-17 16:11:18",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Gujarat, Arunachal, Goa best states in providing strong ecosystem for startups: DPIIT ranking",
+      "description": "Gujarat, Arunachal Pradesh, and Goa lead in developing startup ecosystems. Gujarat has been the top performer for five years. Karnataka, Punjab, Tamil Nadu, Uttar Pradesh, and Himachal Pradesh are also top performers. This yearly ranking by DPIIT encourages s\u2026",
+      "url": "https://economictimes.indiatimes.com/tech/startups/gujarat-arunachal-goa-best-states-in-providing-strong-ecosystem-for-startups-dpiit-ranking/articleshow/126570159.cms",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-11368,resizemode-75,msid-126570159/tech/startups/gujarat-arunachal-goa-best-states-in-providing-strong-ecosystem-for-startups-dpiit-ranking.jpg",
+      "publishedAt": "2026-01-16T13:30:42Z",
+      "content": "Gujarat, Arunachal Pradesh and Goa ranked as the 'best performers' in developing a startup ecosystem for budding entrepreneurs, according to the ranking of states and Union territories by the Departm\u2026 [+3677 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Unexplained-mysteries.com"
+      },
+      "author": "unexplained-mysteries.com",
+      "title": "Creepy video allegedly shows 'ghost' climbing up a mountain in India",
+      "description": "A video clip showing an eerie figure in India's Himachal Pradesh region has recently gone viral online. Filmed after dark, the clip, which was reporte...",
+      "url": "https://www.unexplained-mysteries.com/news/393832/creepy-video-allegedly-shows-ghost-climbing-up-a-mountain-in-india",
+      "urlToImage": "https://www.unexplained-mysteries.com/images/news_large_retina/news-hq-ghost-woman-india.jpg",
+      "publishedAt": "2026-01-16T13:09:31Z",
+      "content": "Ghosts &amp; Hauntings\r\nBy T.K. RandallJanuary 16, 2026 \u00b7 \u00a00 commentsWho or what is this ? Image Credit: X / @iNikhilsainiA video clip showing an eerie figure in India's Himachal Pradesh region has r\u2026 [+1448 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://images.indianexpress.com/2026/01/NIA-office03-3col.jpg",
       "publishedAt": "2026-01-14T23:02:04Z",
       "content": "Senior IPS officer Rakesh Aggarwal was on Wednesday appointed as the Director General of the National Investigation Agency (NIA), while former Haryana DGP Shatrujeet Singh Kapoor was named as the Dir\u2026 [+1356 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "Senior IPS officer Rakesh Aggarwal appointed NIA chief",
-      "description": "Aggarwal, a 1994 batch Indian Police Service (IPS) officer of Himachal Pradesh cadre, is currently special director general in the anti-terror agency. He has also been holding the additional charge of the post of DG, NIA.",
-      "url": "https://economictimes.indiatimes.com/news/india/senior-ips-officer-rakesh-aggarwal-appointed-nia-chief/articleshow/126531644.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126531672,width-1200,height-630,imgsize-132044,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-01-14T17:11:12Z",
-      "content": "Aggarwal, a 1994 batch Indian Police Service (IPS) officer of Himachal Pradesh cadre, is currently special director general in the anti-terror agency. He has also been holding the additional charge o\u2026 [+21 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Express News Service",
-      "title": "Will open 77 new eco-tourism sites to generate Rs 200 crore over 5 years: Himachal CM",
-      "description": "The chief minister said Himachal is witnessing a historic transformation in tourism under the Congress government\u2019s vision of \u2018Vyavastha Parivartan\u2019.",
-      "url": "https://indianexpress.com/article/cities/chandigarh/new-eco-tourism-sites-rs-200-crore-over-5-years-himachal-cm-10473883/",
-      "urlToImage": "https://images.indianexpress.com/2026/01/Sukhvinder-Singh-Sukhu-.jpg",
-      "publishedAt": "2026-01-14T16:02:16Z",
-      "content": "Chief Minister Sukhvinder Singh Sukhu said on Wednesday that under the Eco-Tourism Policy, the Himachal Pradeshgovernment plans to open 77 new eco-tourism sites, which are expected to generate nearly\u2026 [+1676 chars]"
     }
   ],
   "directory": []
