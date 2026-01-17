@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-01-17 16:11:18",
+  "last_updated": "2026-01-17 20:10:32",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Express News Service",
+      "title": "Three days later, one Cabinet colleague backs PWD minister, Vikramaditya Singh",
+      "description": "Himachal CM should resolve Vikramaditya\u2019s concerns on IAS, IPS officers: Rohit Thakur",
+      "url": "https://indianexpress.com/article/india/one-cabinet-colleague-backs-pwd-minister-vikramaditya-singh-10478312/",
+      "urlToImage": "https://images.indianexpress.com/2026/01/Vikramaditya-Singh.jpg",
+      "publishedAt": "2026-01-16T16:41:52Z",
+      "content": "Himachal Pradesh Education Minister Rohit Thakur Friday extended support to his cabinet colleague, Vikramaditya Singh, who triggered a war of words among ministers and bureaucrats in the state by que\u2026 [+3088 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-126538413,width-1200,height-630,imgsize-106586,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-01-15T04:52:58Z",
       "content": "The residents of Delhi-NCR woke up to an intense cold wave on Thursday for the fourth consecutive day. According to the India Meteorological Department (IMD), early morning temperatures in the city d\u2026 [+5470 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Express News Service",
-      "title": "Govt appoints Rakesh Aggarwal as NIA\u2008chief, former Haryana DGP to head ITBP",
-      "description": "Aggarwal, a 1994-batch IPS officer of Himachal Pradesh cadre, was holding the additional charge of NIA DG\u2019s post since last month after his predecessor Sadanand Vasant Date was repatriated to parent cadre Maharashtra.",
-      "url": "https://indianexpress.com/article/india/govt-appoints-rakesh-aggarwal-as-nia-chief-former-haryana-dgp-to-head-itbp-10474237/",
-      "urlToImage": "https://images.indianexpress.com/2026/01/NIA-office03-3col.jpg",
-      "publishedAt": "2026-01-14T23:02:04Z",
-      "content": "Senior IPS officer Rakesh Aggarwal was on Wednesday appointed as the Director General of the National Investigation Agency (NIA), while former Haryana DGP Shatrujeet Singh Kapoor was named as the Dir\u2026 [+1356 chars]"
     }
   ],
   "directory": []
