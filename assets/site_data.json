@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-01-17 20:10:32",
+  "last_updated": "2026-01-18 00:57:02",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Anumeha Chaturvedi",
+      "title": "Gen Z, millennials drive Republic Day travel rush across hotels and airlines",
+      "description": "Travel bookings for the January 26 long weekend are surging. Gen Z and millennials are prioritizing short, experience-focused trips. Popular domestic destinations include Rajasthan, Himachal Pradesh, and Goa. Short international trips to Sri Lanka, Maldives, \u2026",
+      "url": "https://economictimes.indiatimes.com/industry/services/travel/gen-z-millennials-drive-republic-day-travel-rush-across-hotels-and-airlines/articleshow/126591165.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126591396,width-1200,height-630,imgsize-59102,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-01-17T00:28:00Z",
+      "content": "New Delhi: Everyone seems to be planning a trip around January 26, looking to capitalise on the first long weekend of this year. Hotels, travel portals and tour operators said long-weekend bookings a\u2026 [+3560 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://bl-i.thgim.com/public/incoming/nhtbbg/article70512485.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_UO46BDHMQ_R1566487128_5_225921f6-e591-4fce-a89c-db9dedc332d6.jpg",
       "publishedAt": "2026-01-15T09:27:16Z",
       "content": "Frozen food manufacturer Amar Pure Gold has signed a memorandum of commitment with Himachal Pradesh's government to develop an agro-food park with an investment of 250 crore, the company said on Thur\u2026 [+825 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Trending Desk",
-      "title": "Delhi-NCR holidays: Are schools in Delhi, Noida and Gurugram shut on January 16 as region experiences more cold than Shimla, Dehradun? Check details",
-      "description": "Delhi-NCR school holidays: At a time when Delhi, Noida, and Gurugram are colder than Shimla and Dehradun, parents and students are wondering if schools will reopen in the NCR region from January 16. As of now, there is no official confirmation that schools wi\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/delhi-ncr-holidays-are-schools-in-delhi-noida-and-gurugram-shut-on-january-16-as-region-experiences-more-cold-than-shimla-dehradun-check-details/articleshow/126538338.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126538413,width-1200,height-630,imgsize-106586,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-01-15T04:52:58Z",
-      "content": "The residents of Delhi-NCR woke up to an intense cold wave on Thursday for the fourth consecutive day. According to the India Meteorological Department (IMD), early morning temperatures in the city d\u2026 [+5470 chars]"
     }
   ],
   "directory": []
