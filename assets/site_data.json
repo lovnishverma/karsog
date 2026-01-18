@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-01-18 16:11:50",
+  "last_updated": "2026-01-18 20:11:43",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Dipak K Dash",
+      "title": "Despite key role in funding local bodies, state finance panels remain weak: Study",
+      "description": "India Business News: NEW DELHI: Only seven states \u2014 Rajasthan, Haryana, Tamil Nadu, Bihar, Kerala, Assam and Himachal Pradesh \u2014 have constituted all seven State Finance Co.",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/despite-key-role-in-funding-local-bodies-state-finance-panels-remain-weak-study/articleshow/126625335.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-126625548,width-1280,height-720,imgsize-912149,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-01-17T18:40:29Z",
+      "content": "EMI CalculatorDetermine the monthly installment amount for a loan"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-11368,resizemode-75,msid-126570159/tech/startups/gujarat-arunachal-goa-best-states-in-providing-strong-ecosystem-for-startups-dpiit-ranking.jpg",
       "publishedAt": "2026-01-16T13:30:42Z",
       "content": "Gujarat, Arunachal Pradesh and Goa ranked as the 'best performers' in developing a startup ecosystem for budding entrepreneurs, according to the ranking of states and Union territories by the Departm\u2026 [+3677 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Unexplained-mysteries.com"
-      },
-      "author": "unexplained-mysteries.com",
-      "title": "Creepy video allegedly shows 'ghost' climbing up a mountain in India",
-      "description": "A video clip showing an eerie figure in India's Himachal Pradesh region has recently gone viral online. Filmed after dark, the clip, which was reporte...",
-      "url": "https://www.unexplained-mysteries.com/news/393832/creepy-video-allegedly-shows-ghost-climbing-up-a-mountain-in-india",
-      "urlToImage": "https://www.unexplained-mysteries.com/images/news_large_retina/news-hq-ghost-woman-india.jpg",
-      "publishedAt": "2026-01-16T13:09:31Z",
-      "content": "Ghosts &amp; Hauntings\r\nBy T.K. RandallJanuary 16, 2026 \u00b7 \u00a00 commentsWho or what is this ? Image Credit: X / @iNikhilsainiA video clip showing an eerie figure in India's Himachal Pradesh region has r\u2026 [+1448 chars]"
     }
   ],
   "directory": []
