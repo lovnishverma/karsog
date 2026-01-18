@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-01-18 04:33:20",
+  "last_updated": "2026-01-18 08:14:04",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Bus accident in Himachal Pradesh\u2019s Mandi district leaves seven injured",
+      "description": "A Himachal Pradesh road transport bus met with an accident near Tapoun village on Saturday morning. The bus was enroute to Sarkaghat when the driver lost control. At least seven people sustained injuries in the incident. A police team from Sarkaghat promptly \u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/bus-accident-in-himachal-pradeshs-mandi-district-leaves-seven-injured/articleshow/126605152.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126605216,width-1200,height-630,imgsize-143560,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-01-17T06:33:34Z",
+      "content": "A Himachal Pradesh road transport bus met with an accident near Tapoun village on Saturday morning. The bus was enroute to Sarkaghat when the driver lost control. At least seven people sustained inju\u2026 [+77 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://www.unexplained-mysteries.com/images/news_large_retina/news-hq-ghost-woman-india.jpg",
       "publishedAt": "2026-01-16T13:09:31Z",
       "content": "Ghosts &amp; Hauntings\r\nBy T.K. RandallJanuary 16, 2026 \u00b7 \u00a00 commentsWho or what is this ? Image Credit: X / @iNikhilsainiA video clip showing an eerie figure in India's Himachal Pradesh region has r\u2026 [+1448 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Education",
-      "title": "HP Patwari Recruitment 2025: Registration ends today for 530 posts, direct link to apply here",
-      "description": "Himachal Pradesh Rajya Chayan Aayog has announced 530 Patwari (Job Trainee) vacancies for Class 12 pass candidates. The online application process is now open. Selection involves a written exam covering General Knowledge, English, Hindi, Maths, and Reasoning,\u2026",
-      "url": "https://timesofindia.indiatimes.com/education/news/hp-patwari-recruitment-2025-registration-ends-today-for-530-posts-direct-link-to-apply-here/articleshow/126562421.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-126562410,width-1070,height-580,imgsize-90515,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-      "publishedAt": "2026-01-16T09:16:03Z",
-      "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>HP Patwari Recruitment 2025: Registration ends today for 530 posts, direct link to apply here</li></ul>\r\nFollow Us On Social Media"
     }
   ],
   "directory": []
