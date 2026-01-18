@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-01-18 00:57:02",
+  "last_updated": "2026-01-18 04:33:20",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Neelanjit Das",
+      "title": "Qualified but rejected: How an M.Sc. subject cost a teacher her job and how HP High Court\u2019s ruling brings relief",
+      "description": "A teacher has won a significant legal battle in the Himachal Pradesh High Court. She was denied an assistant professor position despite holding a Ph.D. in the relevant subject. The university had overlooked her M.Sc. in Botany, deeming it not a concerned subj\u2026",
+      "url": "https://economictimes.indiatimes.com/wealth/legal/will/qualified-but-rejected-how-an-m-sc-subject-cost-a-teacher-her-job-and-how-hp-high-courts-ruling-brings-relief/articleshow/126571070.cms",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-79522,resizemode-75,msid-126571070/wealth/legal/will/qualified-but-rejected-how-an-m-sc-subject-cost-a-teacher-her-job-and-how-hp-high-courts-ruling-brings-relief.jpg",
+      "publishedAt": "2026-01-17T02:30:00Z",
+      "content": "The Himachal Pradesh High Court granted relief to Smt. Sharma, a guest teacher, who was turned down for an assistant professor position. The court ruled that the university cant adopt a different sta\u2026 [+13447 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-126562410,width-1070,height-580,imgsize-90515,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
       "publishedAt": "2026-01-16T09:16:03Z",
       "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>HP Patwari Recruitment 2025: Registration ends today for 530 posts, direct link to apply here</li></ul>\r\nFollow Us On Social Media"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "author": "PTI",
-      "title": "Amar Pure Gold to invest \u20b9250 crore in Himachal Pradesh food park",
-      "description": "Amar Pure Gold plans to invest Rs 250 crore in a Himachal Pradesh agro-food park, creating 450 jobs.",
-      "url": "https://www.thehindubusinessline.com/economy/agri-business/amar-pure-gold-to-invest-250-crore-in-himachal-pradesh-food-park/article70512459.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/nhtbbg/article70512485.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_UO46BDHMQ_R1566487128_5_225921f6-e591-4fce-a89c-db9dedc332d6.jpg",
-      "publishedAt": "2026-01-15T09:27:16Z",
-      "content": "Frozen food manufacturer Amar Pure Gold has signed a memorandum of commitment with Himachal Pradesh's government to develop an agro-food park with an investment of 250 crore, the company said on Thur\u2026 [+825 chars]"
     }
   ],
   "directory": []
