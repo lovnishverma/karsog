@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-01-19 16:15:35",
+  "last_updated": "2026-01-19 20:12:29",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Nidhi Sharma",
+      "title": "Himachal Pradesh plans two satellite townships like Gurugram and Noida",
+      "description": "Himachal Pradesh is planning two new satellite townships, one near Chandigarh and another near Kangra, to create economic hubs with high-rise residential and retail spaces. The government aims to develop these on the pattern of Gurugram and Noida, utilizing a\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/himachal-pradesh-plans-two-satellite-townships-like-gurugram-and-noida/articleshow/126660639.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126660728,width-1200,height-630,imgsize-218872,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-01-18T19:03:54Z",
+      "content": "New Delhi: Himachal Pradesh is planning two new satellite townships, one on the border with Chandigarh and another near Kangra, where private developers will build high-rise residential complexes and\u2026 [+2282 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-126591396,width-1200,height-630,imgsize-59102,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-01-17T00:28:00Z",
       "content": "New Delhi: Everyone seems to be planning a trip around January 26, looking to capitalise on the first long weekend of this year. Hotels, travel portals and tour operators said long-weekend bookings a\u2026 [+3560 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Express News Service",
-      "title": "Three days later, one Cabinet colleague backs PWD minister, Vikramaditya Singh",
-      "description": "Himachal CM should resolve Vikramaditya\u2019s concerns on IAS, IPS officers: Rohit Thakur",
-      "url": "https://indianexpress.com/article/india/one-cabinet-colleague-backs-pwd-minister-vikramaditya-singh-10478312/",
-      "urlToImage": "https://images.indianexpress.com/2026/01/Vikramaditya-Singh.jpg",
-      "publishedAt": "2026-01-16T16:41:52Z",
-      "content": "Himachal Pradesh Education Minister Rohit Thakur Friday extended support to his cabinet colleague, Vikramaditya Singh, who triggered a war of words among ministers and bureaucrats in the state by que\u2026 [+3088 chars]"
     }
   ],
   "directory": []
