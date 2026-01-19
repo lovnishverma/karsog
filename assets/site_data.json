@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-01-19 04:42:23",
+  "last_updated": "2026-01-19 08:18:35",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Trending Desk",
+      "title": "Republic Day 2026 weekend escape: From Auli to Ranthambore, here's a list of travel ideas from Delhi-NCR, places to go and a complete itinerary",
+      "description": "Republic Day 2026 travel plans: This year, Republic Day 2026 falls on a Monday, which can be a perfect time for travellers to pack their bags and explore some weekend gateways. If you stay in Delhi-NCR, you can explore Manali, Rishikesh, Haridwar, Auli, Ranth\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/republic-day-2026-weekend-escape-from-auli-to-ranthambore-heres-a-list-of-travel-ideas-from-delhi-ncr-places-to-go-and-a-complete-itinerary/articleshow/126637901.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126637950,width-1200,height-630,imgsize-2925786,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-01-18T05:36:02Z",
+      "content": "As Republic Day 2026 falls on a Monday, the holiday conveniently falls close to the weekend allowing travel-loving Indians a rare four-to-five-day escape by taking a break from work. The upcoming lon\u2026 [+5038 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://images.indianexpress.com/2026/01/Vikramaditya-Singh.jpg",
       "publishedAt": "2026-01-16T16:41:52Z",
       "content": "Himachal Pradesh Education Minister Rohit Thakur Friday extended support to his cabinet colleague, Vikramaditya Singh, who triggered a war of words among ministers and bureaucrats in the state by que\u2026 [+3088 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "Gujarat, Arunachal, Goa best states in providing strong ecosystem for startups: DPIIT ranking",
-      "description": "Gujarat, Arunachal Pradesh, and Goa lead in developing startup ecosystems. Gujarat has been the top performer for five years. Karnataka, Punjab, Tamil Nadu, Uttar Pradesh, and Himachal Pradesh are also top performers. This yearly ranking by DPIIT encourages s\u2026",
-      "url": "https://economictimes.indiatimes.com/tech/startups/gujarat-arunachal-goa-best-states-in-providing-strong-ecosystem-for-startups-dpiit-ranking/articleshow/126570159.cms",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-11368,resizemode-75,msid-126570159/tech/startups/gujarat-arunachal-goa-best-states-in-providing-strong-ecosystem-for-startups-dpiit-ranking.jpg",
-      "publishedAt": "2026-01-16T13:30:42Z",
-      "content": "Gujarat, Arunachal Pradesh and Goa ranked as the 'best performers' in developing a startup ecosystem for budding entrepreneurs, according to the ranking of states and Union territories by the Departm\u2026 [+3677 chars]"
     }
   ],
   "directory": []
