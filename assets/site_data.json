@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-01-20 04:36:36",
+  "last_updated": "2026-01-20 08:17:20",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Education",
+      "title": "HP PAT, LEET 2026 tentative exam dates out at hptechboard.com: Check details here",
+      "description": "Himachal Pradesh Board of Technical Education has announced tentative dates for PAT and LEET 2026 admissions. The PAT exam is scheduled for May 17, 2026, and LEET for May 24, 2026. Applications for PAT are expected in March 2026, and for LEET in April 2026. E\u2026",
+      "url": "https://timesofindia.indiatimes.com/education/news/hp-pat-leet-2026-tentative-exam-dates-out-at-hptechboard-com-check-details-here/articleshow/126669513.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-126669871,width-1280,height-720,imgsize-262559,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-01-19T06:12:47Z",
+      "content": "Follow Us On Social Media\r\nKarthi reacts to Kaithi 2 buzz after Lokesh Kanagaraj confirms AA23 with Allu ArjunGujarat govt delegation to Davos under Dy CM to meet top business leaders, investors, pol\u2026 [+1670 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-79522,resizemode-75,msid-126571070/wealth/legal/will/qualified-but-rejected-how-an-m-sc-subject-cost-a-teacher-her-job-and-how-hp-high-courts-ruling-brings-relief.jpg",
       "publishedAt": "2026-01-17T02:30:00Z",
       "content": "The Himachal Pradesh High Court granted relief to Smt. Sharma, a guest teacher, who was turned down for an assistant professor position. The court ruled that the university cant adopt a different sta\u2026 [+13447 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Anumeha Chaturvedi",
-      "title": "Gen Z, millennials drive Republic Day travel rush across hotels and airlines",
-      "description": "Travel bookings for the January 26 long weekend are surging. Gen Z and millennials are prioritizing short, experience-focused trips. Popular domestic destinations include Rajasthan, Himachal Pradesh, and Goa. Short international trips to Sri Lanka, Maldives, \u2026",
-      "url": "https://economictimes.indiatimes.com/industry/services/travel/gen-z-millennials-drive-republic-day-travel-rush-across-hotels-and-airlines/articleshow/126591165.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126591396,width-1200,height-630,imgsize-59102,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-01-17T00:28:00Z",
-      "content": "New Delhi: Everyone seems to be planning a trip around January 26, looking to capitalise on the first long weekend of this year. Hotels, travel portals and tour operators said long-weekend bookings a\u2026 [+3560 chars]"
     }
   ],
   "directory": []
