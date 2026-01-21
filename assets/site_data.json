@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-01-21 16:23:08",
+  "last_updated": "2026-01-21 20:19:06",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Nidhi Sharma",
+      "title": "Between setback and survival: AAP's bid to stay in the game",
+      "description": "Following a Delhi election setback, Aam Aadmi Party (AAP) is focusing on Punjab, its sole ruling state. The party is rebuilding its organization and identifying new leaders for upcoming elections in states like Goa, Gujarat, Himachal Pradesh, and Uttar Prades\u2026",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/between-setback-and-survival-aaps-bid-to-stay-in-the-game/articleshow/126831248.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126831351,width-1200,height-630,imgsize-395672,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-01-20T16:24:32Z",
+      "content": "New Delhi: Three days after Aam Aadmi Party (AAP) was routed in Delhi Assembly elections 2025, party founder and national convenor Arvind Kejriwal convened a meeting in Kapurthala House in the capita\u2026 [+6740 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-126605216,width-1200,height-630,imgsize-143560,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-01-17T06:33:34Z",
       "content": "A Himachal Pradesh road transport bus met with an accident near Tapoun village on Saturday morning. The bus was enroute to Sarkaghat when the driver lost control. At least seven people sustained inju\u2026 [+77 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Neelanjit Das",
-      "title": "Qualified but rejected: How an M.Sc. subject cost a teacher her job and how HP High Court\u2019s ruling brings relief",
-      "description": "A teacher has won a significant legal battle in the Himachal Pradesh High Court. She was denied an assistant professor position despite holding a Ph.D. in the relevant subject. The university had overlooked her M.Sc. in Botany, deeming it not a concerned subj\u2026",
-      "url": "https://economictimes.indiatimes.com/wealth/legal/will/qualified-but-rejected-how-an-m-sc-subject-cost-a-teacher-her-job-and-how-hp-high-courts-ruling-brings-relief/articleshow/126571070.cms",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-79522,resizemode-75,msid-126571070/wealth/legal/will/qualified-but-rejected-how-an-m-sc-subject-cost-a-teacher-her-job-and-how-hp-high-courts-ruling-brings-relief.jpg",
-      "publishedAt": "2026-01-17T02:30:00Z",
-      "content": "The Himachal Pradesh High Court granted relief to Smt. Sharma, a guest teacher, who was turned down for an assistant professor position. The court ruled that the university cant adopt a different sta\u2026 [+13447 chars]"
     }
   ],
   "directory": []
