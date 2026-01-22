@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-01-22 04:39:14",
+  "last_updated": "2026-01-22 08:17:01",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Vijay C Roy",
+      "title": "Mint explainer: Why is India setting up a second crop gene bank in Himachal\u2019s Keylong?",
+      "description": "India plans a second national crop gene bank in Himachal\u2019s Keylong to back up vital seeds, protect biodiversity, and insure food security against climate shocks, disasters and geopolitical risks.",
+      "url": "https://www.livemint.com/industry/agriculture/mint-explainer-india-setting-up-second-crop-gene-bank-himachal-s-keylong-11768965991347.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2026/01/21/1600x900/logo/PTI01-06-2026-000223A-0_1768975133073_1768975143584.jpg",
+      "publishedAt": "2026-01-21T06:49:17Z",
+      "content": "India is planning a second national gene bank for crops in Keylong, Himachal Pradesh, as insurance against climate change, natural disasters and future food risks. The new facility will back up India\u2026 [+3977 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-126625548,width-1280,height-720,imgsize-912149,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-01-17T18:40:29Z",
       "content": "EMI CalculatorDetermine the monthly installment amount for a loan"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "Bus accident in Himachal Pradesh\u2019s Mandi district leaves seven injured",
-      "description": "A Himachal Pradesh road transport bus met with an accident near Tapoun village on Saturday morning. The bus was enroute to Sarkaghat when the driver lost control. At least seven people sustained injuries in the incident. A police team from Sarkaghat promptly \u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/bus-accident-in-himachal-pradeshs-mandi-district-leaves-seven-injured/articleshow/126605152.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126605216,width-1200,height-630,imgsize-143560,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-01-17T06:33:34Z",
-      "content": "A Himachal Pradesh road transport bus met with an accident near Tapoun village on Saturday morning. The bus was enroute to Sarkaghat when the driver lost control. At least seven people sustained inju\u2026 [+77 chars]"
     }
   ],
   "directory": []
