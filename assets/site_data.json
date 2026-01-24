@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-01-24 00:04:32",
+  "last_updated": "2026-01-24 04:12:23",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Trending Desk",
+      "title": "Weather today: Rain in Delhi, snow in Himachal, hail alert for Rajasthan and UP; IMD explains why and what\u2019s the forecast till January 27",
+      "description": "Today's Weather Alert: Northern India is set for a spell of active winter weather. A strong western disturbance will bring widespread rainfall, snowfall, thunderstorms, and fog across north and northwest India. The western Himalayas will see heavy rain and sn\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/weather-today-rain-in-delhi-snow-in-himachal-hail-alert-for-rajasthan-and-up-imd-explains-why-and-whats-the-forecast-till-january-27/articleshow/127228565.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-127230360,width-1200,height-630,imgsize-36132,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-01-23T04:10:39Z",
+      "content": "North India, including Delhi, Gurgaon, areas in Uttar Pradesh and Rajasthan are likely to witness a fresh spell of active winter weather over the next few days as a strong western disturbance moves a\u2026 [+5713 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Trending Desk",
+      "title": "Himachal Pradesh on snowfall alert: Manali may freeze at 0 degrees today. Check what IMD has predicted for Shimla, Kullu, Lahaul and Spiti",
+      "description": "Himachal Pradesh snowfall: Heavy rain and snowfall has been predicted for Himachal Pradesh today by the IMD. Manali may freeze at 0 degrees today with the weather office predicting rainfall and snowfall for the day. An orange alert has been sounded for Kullu,\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/himachal-pradesh-on-snowfall-alert-manali-may-freeze-at-0-degrees-today-check-what-imd-has-predicted-for-shimla-kullu-lahaul-and-spiti/articleshow/127226552.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-127226885,width-1200,height-630,imgsize-206732,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-01-23T03:22:31Z",
+      "content": "A cold wave has gripped several parts of Himachal Pradesh and the Meteorological Center has predicted light to moderate snowfall in the state. The residents of Shimla and Manali woke up to snowfall o\u2026 [+3712 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -52,32 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-126660728,width-1200,height-630,imgsize-218872,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-01-18T19:03:54Z",
       "content": "New Delhi: Himachal Pradesh is planning two new satellite townships, one on the border with Chandigarh and another near Kangra, where private developers will build high-rise residential complexes and\u2026 [+2282 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Trending Desk",
-      "title": "Republic Day 2026 weekend escape: From Auli to Ranthambore, here's a list of travel ideas from Delhi-NCR, places to go and a complete itinerary",
-      "description": "Republic Day 2026 travel plans: This year, Republic Day 2026 falls on a Monday, which can be a perfect time for travellers to pack their bags and explore some weekend gateways. If you stay in Delhi-NCR, you can explore Manali, Rishikesh, Haridwar, Auli, Ranth\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/republic-day-2026-weekend-escape-from-auli-to-ranthambore-heres-a-list-of-travel-ideas-from-delhi-ncr-places-to-go-and-a-complete-itinerary/articleshow/126637901.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126637950,width-1200,height-630,imgsize-2925786,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-01-18T05:36:02Z",
-      "content": "As Republic Day 2026 falls on a Monday, the holiday conveniently falls close to the weekend allowing travel-loving Indians a rare four-to-five-day escape by taking a break from work. The upcoming lon\u2026 [+5038 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Dipak K Dash",
-      "title": "Despite key role in funding local bodies, state finance panels remain weak: Study",
-      "description": "India Business News: NEW DELHI: Only seven states \u2014 Rajasthan, Haryana, Tamil Nadu, Bihar, Kerala, Assam and Himachal Pradesh \u2014 have constituted all seven State Finance Co.",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/despite-key-role-in-funding-local-bodies-state-finance-panels-remain-weak-study/articleshow/126625335.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-126625548,width-1280,height-720,imgsize-912149,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-01-17T18:40:29Z",
-      "content": "EMI CalculatorDetermine the monthly installment amount for a loan"
     }
   ],
   "directory": []
