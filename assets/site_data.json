@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-01-25 04:22:29",
+  "last_updated": "2026-01-25 08:01:38",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Lifestyle Desk",
+      "title": "Season\u2019s first heavy snowfall turns these 5 popular destinations in Himachal Pradesh into a winter wonderland",
+      "description": "After weeks of dry cold spell and wait, winter finally arrived in Himachal Pradesh. A western disturbance moved across the region and brought the first major snowfall of this season, changing the landscape almost overnight. High-altitude and tribal areas star\u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/travel/news/seasons-first-heavy-snowfall-turns-these-5-popular-destinations-in-himachal-pradesh-into-a-winter-wonderland/photostory/127374426.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-127375385,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-01-24T07:36:19Z",
+      "content": "Shimla saw its first proper snowfall of the season early in the day, with snow falling on and off for several hours. By morning, roads, rooftops, and trees across the city were covered in white, givi\u2026 [+476 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "Team BL",
+      "title": "National Weather Live Updates 24 January 2026: Heavy snowfall leaves several stranded in Uttarakhand, Himachal Pradesh; chilly conditions reported from many parts of the country",
+      "description": "Weather live updates on 24 January 2026: Many parts of the country are experiencing chilly winter conditions, with snowfall reported in several areas. \nIn Himachal Pradesh, heavy snowfall forced the closure of 535 roads, including four National Highways, whil\u2026",
+      "url": "https://www.thehindubusinessline.com/news/weather-live-updates-january-24-2026/article70545253.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/j925jc/article70545276.ece/alternates/LANDSCAPE_1200/4col_Lead_StoryG6PFFSB4M.3.jpg.jpg",
+      "publishedAt": "2026-01-24T04:26:36Z",
+      "content": "Heavy snowfall on Friday night left vehicles and people stranded at several locations in the high-altitude areas of Nainital, Uttarkashi, and Tehri Garhwal districts.\u00a0\r\nBased on information received \u2026 [+463 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-126831351,width-1200,height-630,imgsize-395672,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-01-20T16:24:32Z",
       "content": "New Delhi: Three days after Aam Aadmi Party (AAP) was routed in Delhi Assembly elections 2025, party founder and national convenor Arvind Kejriwal convened a meeting in Kapurthala House in the capita\u2026 [+6740 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Education",
-      "title": "HP PAT, LEET 2026 tentative exam dates out at hptechboard.com: Check details here",
-      "description": "Himachal Pradesh Board of Technical Education has announced tentative dates for PAT and LEET 2026 admissions. The PAT exam is scheduled for May 17, 2026, and LEET for May 24, 2026. Applications for PAT are expected in March 2026, and for LEET in April 2026. E\u2026",
-      "url": "https://timesofindia.indiatimes.com/education/news/hp-pat-leet-2026-tentative-exam-dates-out-at-hptechboard-com-check-details-here/articleshow/126669513.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-126669871,width-1280,height-720,imgsize-262559,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-01-19T06:12:47Z",
-      "content": "Follow Us On Social Media\r\nKarthi reacts to Kaithi 2 buzz after Lokesh Kanagaraj confirms AA23 with Allu ArjunGujarat govt delegation to Davos under Dy CM to meet top business leaders, investors, pol\u2026 [+1670 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Nidhi Sharma",
-      "title": "Himachal Pradesh plans two satellite townships like Gurugram and Noida",
-      "description": "Himachal Pradesh is planning two new satellite townships, one near Chandigarh and another near Kangra, to create economic hubs with high-rise residential and retail spaces. The government aims to develop these on the pattern of Gurugram and Noida, utilizing a\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/himachal-pradesh-plans-two-satellite-townships-like-gurugram-and-noida/articleshow/126660639.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126660728,width-1200,height-630,imgsize-218872,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-01-18T19:03:54Z",
-      "content": "New Delhi: Himachal Pradesh is planning two new satellite townships, one on the border with Chandigarh and another near Kangra, where private developers will build high-rise residential complexes and\u2026 [+2282 chars]"
     }
   ],
   "directory": []
