@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-01-25 16:01:30",
+  "last_updated": "2026-01-25 20:01:29",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "Heavy snowfall chokes Manali roads, tourists stranded as authorities issue warning",
+      "description": "Heavy snowfall in Manali has caused massive traffic congestion, stranding tourists and prompting authorities to advise against unnecessary travel. Himachal Pradesh experienced widespread rain and snow, significantly lowering temperatures and disrupting normal\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/heavy-snowfall-chokes-manali-roads-tourists-stranded-as-authorities-issue-warning/articleshow/127420562.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-127420939,width-1200,height-630,imgsize-436944,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-01-24T19:00:45Z",
+      "content": "Heavy snowfall has blanketed roads in Manali, triggering massive traffic congestion and prompting the local administration to advise tourists against unnecessary travel. Meanwhile, authorities on Sat\u2026 [+3517 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://www.livemint.com/lm-img/img/2026/01/21/1600x900/logo/PTI01-06-2026-000223A-0_1768975133073_1768975143584.jpg",
       "publishedAt": "2026-01-21T06:49:17Z",
       "content": "India is planning a second national gene bank for crops in Keylong, Himachal Pradesh, as insurance against climate change, natural disasters and future food risks. The new facility will back up India\u2026 [+3977 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Nidhi Sharma",
-      "title": "Between setback and survival: AAP's bid to stay in the game",
-      "description": "Following a Delhi election setback, Aam Aadmi Party (AAP) is focusing on Punjab, its sole ruling state. The party is rebuilding its organization and identifying new leaders for upcoming elections in states like Goa, Gujarat, Himachal Pradesh, and Uttar Prades\u2026",
-      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/between-setback-and-survival-aaps-bid-to-stay-in-the-game/articleshow/126831248.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126831351,width-1200,height-630,imgsize-395672,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-01-20T16:24:32Z",
-      "content": "New Delhi: Three days after Aam Aadmi Party (AAP) was routed in Delhi Assembly elections 2025, party founder and national convenor Arvind Kejriwal convened a meeting in Kapurthala House in the capita\u2026 [+6740 chars]"
     }
   ],
   "directory": []
