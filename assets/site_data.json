@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-01-26 04:23:49",
+  "last_updated": "2026-01-26 08:01:58",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ANI",
+      "title": "Cold wave persists following heavy rain, snow in Himachal after long dry spell",
+      "description": "Himachal Pradesh experienced widespread rain and snowfall, significantly dropping temperatures and disrupting normal life after a dry spell. The precipitation has brought relief to farmers and the tourism sector, with IMD forecasting further weather improveme\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/shimla/cold-wave-persists-following-heavy-rain-snow-in-himachal-after-long-dry-spell/articleshow/127453104.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-127454058,width-1280,height-720,imgsize-101192,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-01-25T05:42:15Z",
+      "content": "Follow Us On Social Media\r\nHeart, bones, and hormones: The health basics every woman needs to understandWeekly Lal Kitab Horoscope, January 26 to February 1, 2026: Energetic alignment shatters illusi\u2026 [+1676 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-127226885,width-1200,height-630,imgsize-206732,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-01-23T03:22:31Z",
       "content": "A cold wave has gripped several parts of Himachal Pradesh and the Meteorological Center has predicted light to moderate snowfall in the state. The residents of Shimla and Manali woke up to snowfall o\u2026 [+3712 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Vijay C Roy",
-      "title": "Mint explainer: Why is India setting up a second crop gene bank in Himachal\u2019s Keylong?",
-      "description": "India plans a second national crop gene bank in Himachal\u2019s Keylong to back up vital seeds, protect biodiversity, and insure food security against climate shocks, disasters and geopolitical risks.",
-      "url": "https://www.livemint.com/industry/agriculture/mint-explainer-india-setting-up-second-crop-gene-bank-himachal-s-keylong-11768965991347.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2026/01/21/1600x900/logo/PTI01-06-2026-000223A-0_1768975133073_1768975143584.jpg",
-      "publishedAt": "2026-01-21T06:49:17Z",
-      "content": "India is planning a second national gene bank for crops in Keylong, Himachal Pradesh, as insurance against climate change, natural disasters and future food risks. The new facility will back up India\u2026 [+3977 chars]"
     }
   ],
   "directory": []
