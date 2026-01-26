@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-01-26 12:02:07",
+  "last_updated": "2026-01-26 16:03:50",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ANI",
+      "title": "IMD issues orange alert for heavy rain, snowfall in Himachal Pradesh from January 26",
+      "description": "According to the Meteorological Centre, Shimla, isolated spells of heavy rainfall and snowfall are very likely on January 27, particularly in the high-altitude districts of Chamba, Kullu, Kinnaur and Lahaul-Spiti.",
+      "url": "https://economictimes.indiatimes.com/news/india/imd-issues-orange-alert-for-heavy-rain-snowfall-in-himachal-pradesh-from-january-26/articleshow/127479687.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-127480468,width-1200,height-630,imgsize-105212,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-01-25T14:03:51Z",
+      "content": "Shimla (Himachal Pradesh): The India Meteorological Department (IMD) on Sunday issued an Orange Alert for parts of Himachal Pradesh, warning of widespread rain and snowfall from the night of January \u2026 [+1768 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-127230360,width-1200,height-630,imgsize-36132,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-01-23T04:10:39Z",
       "content": "North India, including Delhi, Gurgaon, areas in Uttar Pradesh and Rajasthan are likely to witness a fresh spell of active winter weather over the next few days as a strong western disturbance moves a\u2026 [+5713 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Trending Desk",
-      "title": "Himachal Pradesh on snowfall alert: Manali may freeze at 0 degrees today. Check what IMD has predicted for Shimla, Kullu, Lahaul and Spiti",
-      "description": "Himachal Pradesh snowfall: Heavy rain and snowfall has been predicted for Himachal Pradesh today by the IMD. Manali may freeze at 0 degrees today with the weather office predicting rainfall and snowfall for the day. An orange alert has been sounded for Kullu,\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/himachal-pradesh-on-snowfall-alert-manali-may-freeze-at-0-degrees-today-check-what-imd-has-predicted-for-shimla-kullu-lahaul-and-spiti/articleshow/127226552.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-127226885,width-1200,height-630,imgsize-206732,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-01-23T03:22:31Z",
-      "content": "A cold wave has gripped several parts of Himachal Pradesh and the Meteorological Center has predicted light to moderate snowfall in the state. The residents of Shimla and Manali woke up to snowfall o\u2026 [+3712 chars]"
     }
   ],
   "directory": []
