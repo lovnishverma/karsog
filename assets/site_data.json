@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-01-26 16:03:50",
+  "last_updated": "2026-01-26 20:01:48",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Express News Service",
+      "title": "Temperatures in Himachal Pradesh to plummet by 4-8 degrees as snow returns",
+      "description": "The weather was clear almost throughout the state on Sunday, giving authorities ample time to clear roads blocked by heavy snow.",
+      "url": "https://indianexpress.com/article/cities/chandigarh/temperatures-himachal-pradesh-4-8-degrees-snow-10494505/",
+      "urlToImage": "https://images.indianexpress.com/2026/01/himachal_4b48b1.jpg",
+      "publishedAt": "2026-01-25T16:21:29Z",
+      "content": "The meteorological department Sunday forecast widespread rainfall and snowfall across Himachal Pradesh from the night of January 26 till the morning of January 28, under the influence of an active we\u2026 [+3111 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://bl-i.thgim.com/public/incoming/j925jc/article70545276.ece/alternates/LANDSCAPE_1200/4col_Lead_StoryG6PFFSB4M.3.jpg.jpg",
       "publishedAt": "2026-01-24T04:26:36Z",
       "content": "Heavy snowfall on Friday night left vehicles and people stranded at several locations in the high-altitude areas of Nainital, Uttarkashi, and Tehri Garhwal districts.\u00a0\r\nBased on information received \u2026 [+463 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Trending Desk",
-      "title": "Weather today: Rain in Delhi, snow in Himachal, hail alert for Rajasthan and UP; IMD explains why and what\u2019s the forecast till January 27",
-      "description": "Today's Weather Alert: Northern India is set for a spell of active winter weather. A strong western disturbance will bring widespread rainfall, snowfall, thunderstorms, and fog across north and northwest India. The western Himalayas will see heavy rain and sn\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/weather-today-rain-in-delhi-snow-in-himachal-hail-alert-for-rajasthan-and-up-imd-explains-why-and-whats-the-forecast-till-january-27/articleshow/127228565.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-127230360,width-1200,height-630,imgsize-36132,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-01-23T04:10:39Z",
-      "content": "North India, including Delhi, Gurgaon, areas in Uttar Pradesh and Rajasthan are likely to witness a fresh spell of active winter weather over the next few days as a strong western disturbance moves a\u2026 [+5713 chars]"
     }
   ],
   "directory": []
