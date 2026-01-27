@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-01-27 04:18:41",
+  "last_updated": "2026-01-27 08:01:40",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "15 km traffic jam in Manali forces tourists to haul trolley bags on icy roads; watch video and photos",
+      "description": "Thousands of tourists were stranded in Manali for a second day due to icy roads and unprecedented traffic, with exit routes severely impacted. Many endured sub-zero temperatures and over 10-hour journeys for short distances, with some abandoning vehicles. Aut\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/15-km-traffic-jam-in-manali-forces-tourists-to-haul-trolley-bags-on-icy-roads-watch-video-and-photos/articleshow/127526583.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-127526799,width-1200,height-630,imgsize-336090,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-01-26T04:46:52Z",
+      "content": "Thousands of tourists were stranded in Manali for a second straight day on Sunday as icy roads and an unprecedented surge in traffic brought the hill town in Himachal Pradeshs Kullu district to a sta\u2026 [+2457 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-127375385,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-01-24T07:36:19Z",
       "content": "Shimla saw its first proper snowfall of the season early in the day, with snow falling on and off for several hours. By morning, roads, rooftops, and trees across the city were covered in white, givi\u2026 [+476 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "author": "Team BL",
-      "title": "National Weather Live Updates 24 January 2026: Heavy snowfall leaves several stranded in Uttarakhand, Himachal Pradesh; chilly conditions reported from many parts of the country",
-      "description": "Weather live updates on 24 January 2026: Many parts of the country are experiencing chilly winter conditions, with snowfall reported in several areas. \nIn Himachal Pradesh, heavy snowfall forced the closure of 535 roads, including four National Highways, whil\u2026",
-      "url": "https://www.thehindubusinessline.com/news/weather-live-updates-january-24-2026/article70545253.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/j925jc/article70545276.ece/alternates/LANDSCAPE_1200/4col_Lead_StoryG6PFFSB4M.3.jpg.jpg",
-      "publishedAt": "2026-01-24T04:26:36Z",
-      "content": "Heavy snowfall on Friday night left vehicles and people stranded at several locations in the high-altitude areas of Nainital, Uttarkashi, and Tehri Garhwal districts.\u00a0\r\nBased on information received \u2026 [+463 chars]"
     }
   ],
   "directory": []
