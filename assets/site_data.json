@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-01-28 08:01:36",
+  "last_updated": "2026-01-28 12:02:09",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "School assembly news headlines January 28: Top national, international, sports, and business updates",
+      "description": "Maharashtra's ITIs will implement PM SETU for skill development, while Himachal Pradesh braces for heavy snowfall. A Supreme Court plea challenges UGC's caste discrimination definition. Internationally, India and the EU finalized a landmark free trade deal, b\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/school-assembly-news-headlines-january-28-top-national-international-sports-and-business-updates/articleshow/127620979.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-127621112,width-1200,height-630,imgsize-27056,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-01-27T11:35:32Z",
+      "content": "Every morning offers a new opportunity to gain meaningful knowledge. Staying updated with the news goes beyond simply knowing whats happeningit helps us understand the world beyond our classrooms. Ne\u2026 [+4460 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Himachal Pradesh to witness heavy snowfall, rain: Met office",
+      "description": "Himachal Pradesh's higher reaches are bracing for heavy snowfall and rain, with an orange warning issued for Kullu, Chamba, Kinnaur, and Lahaul and Spiti districts. Light snowfall has already been recorded in several areas, with Gondla village in Lahaul and S\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/himachal-pradesh-to-witness-heavy-snowfall-rain-met-office/articleshow/127610444.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-127610464,width-1200,height-630,imgsize-443732,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-01-27T08:49:45Z",
+      "content": "Shimla: The higher reaches of Himachal Pradesh is likely to receive heavy snowfall and rains, the meteorological centre in Shimla said on Tuesday.It has issued an orange warning for Kullu, Chamba, Ki\u2026 [+756 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-127480468,width-1200,height-630,imgsize-105212,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-01-25T14:03:51Z",
       "content": "Shimla (Himachal Pradesh): The India Meteorological Department (IMD) on Sunday issued an Orange Alert for parts of Himachal Pradesh, warning of widespread rain and snowfall from the night of January \u2026 [+1768 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ANI",
-      "title": "Cold wave persists following heavy rain, snow in Himachal after long dry spell",
-      "description": "Himachal Pradesh experienced widespread rain and snowfall, significantly dropping temperatures and disrupting normal life after a dry spell. The precipitation has brought relief to farmers and the tourism sector, with IMD forecasting further weather improveme\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/shimla/cold-wave-persists-following-heavy-rain-snow-in-himachal-after-long-dry-spell/articleshow/127453104.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-127454058,width-1280,height-720,imgsize-101192,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-01-25T05:42:15Z",
-      "content": "Follow Us On Social Media\r\nHeart, bones, and hormones: The health basics every woman needs to understandWeekly Lal Kitab Horoscope, January 26 to February 1, 2026: Energetic alignment shatters illusi\u2026 [+1676 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "Heavy snowfall chokes Manali roads, tourists stranded as authorities issue warning",
-      "description": "Heavy snowfall in Manali has caused massive traffic congestion, stranding tourists and prompting authorities to advise against unnecessary travel. Himachal Pradesh experienced widespread rain and snow, significantly lowering temperatures and disrupting normal\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/heavy-snowfall-chokes-manali-roads-tourists-stranded-as-authorities-issue-warning/articleshow/127420562.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-127420939,width-1200,height-630,imgsize-436944,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-01-24T19:00:45Z",
-      "content": "Heavy snowfall has blanketed roads in Manali, triggering massive traffic congestion and prompting the local administration to advise tourists against unnecessary travel. Meanwhile, authorities on Sat\u2026 [+3517 chars]"
     }
   ],
   "directory": []
