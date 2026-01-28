@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-01-28 16:06:05",
+  "last_updated": "2026-01-28 20:02:55",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Trending Desk",
+      "title": "After the owner died, a dog stayed by the body for four days in freezing snow",
+      "description": "A heartwarming story from Bharmour, Himachal Pradesh, has captured attention. A pet dog remained by its owner's body for four days amidst heavy snowfall. The loyal animal guarded the deceased, refusing to leave even in extreme cold. This incident highlights t\u2026",
+      "url": "https://timesofindia.indiatimes.com/etimes/trending/after-the-owner-died-a-dog-stayed-by-the-body-for-four-days-in-freezing-snow/articleshow/127641907.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-127641962,width-1280,height-720,imgsize-46138,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-01-27T17:18:05Z",
+      "content": "Follow Us On Social Media\r\nUAE-India energy partnership to double: UAE industry minister'Was invited only one or two days before': Shashi Tharoor skips another Congress meet, says he was in Dubai35% \u2026 [+1439 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "J&K, Himachal & Uttarakhand snowfall: Western disturbance worsens winter in North India; Flights cancelled, 700+ roads blocked, and more updates",
+      "description": "Weather Today: A potent Western Disturbance has brought heavy snowfall and rain to Jammu & Kashmir, Himachal Pradesh, and Uttarakhand, disrupting normal life. Flights were grounded, key highways like the Jammu-Srinagar National Highway closed, and thousands s\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/jk-himachal-uttarakhand-snowfall-western-disturbance-worsens-winter-in-north-india-flights-cancelled-700-roads-blocked-and-more-updates/articleshow/127639520.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-127639973,width-1200,height-630,imgsize-1446238,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-01-27T16:48:39Z",
+      "content": "Winter made a strong comeback across the Himalayan belt as a fresh Western Disturbance swept through North India, bringing heavy snowfall and rain to Jammu &amp; Kashmir, Himachal Pradesh and Uttarak\u2026 [+3905 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-127526799,width-1200,height-630,imgsize-336090,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-01-26T04:46:52Z",
       "content": "Thousands of tourists were stranded in Manali for a second straight day on Sunday as icy roads and an unprecedented surge in traffic brought the hill town in Himachal Pradeshs Kullu district to a sta\u2026 [+2457 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Express News Service",
-      "title": "Temperatures in Himachal Pradesh to plummet by 4-8 degrees as snow returns",
-      "description": "The weather was clear almost throughout the state on Sunday, giving authorities ample time to clear roads blocked by heavy snow.",
-      "url": "https://indianexpress.com/article/cities/chandigarh/temperatures-himachal-pradesh-4-8-degrees-snow-10494505/",
-      "urlToImage": "https://images.indianexpress.com/2026/01/himachal_4b48b1.jpg",
-      "publishedAt": "2026-01-25T16:21:29Z",
-      "content": "The meteorological department Sunday forecast widespread rainfall and snowfall across Himachal Pradesh from the night of January 26 till the morning of January 28, under the influence of an active we\u2026 [+3111 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ANI",
-      "title": "IMD issues orange alert for heavy rain, snowfall in Himachal Pradesh from January 26",
-      "description": "According to the Meteorological Centre, Shimla, isolated spells of heavy rainfall and snowfall are very likely on January 27, particularly in the high-altitude districts of Chamba, Kullu, Kinnaur and Lahaul-Spiti.",
-      "url": "https://economictimes.indiatimes.com/news/india/imd-issues-orange-alert-for-heavy-rain-snowfall-in-himachal-pradesh-from-january-26/articleshow/127479687.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-127480468,width-1200,height-630,imgsize-105212,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-01-25T14:03:51Z",
-      "content": "Shimla (Himachal Pradesh): The India Meteorological Department (IMD) on Sunday issued an Orange Alert for parts of Himachal Pradesh, warning of widespread rain and snowfall from the night of January \u2026 [+1768 chars]"
     }
   ],
   "directory": []
