@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-01-28 00:04:36",
+  "last_updated": "2026-01-28 04:17:33",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Trending Desk",
+      "title": "Himachal under winter siege: Cold day warning in Shimla, Manali may freeze at -1 degrees with heavy snowfall. Check IMD's prediction for Kullu, Chamba and more",
+      "description": "Himachal Pradesh weather: At a time when tourists are stranded in Manali and Shimla, the IMD has warned of more snowfall in the state for the next few days. Shimla may see a cold day today and a yellow alert has been issued. Manali may also see snowfall today\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/himachal-under-winter-siege-cold-day-warning-in-shimla-manali-may-freeze-at-1-degrees-with-heavy-snowfall-check-imds-prediction-for-kullu-chamba-and-more/articleshow/127592107.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-127592240,width-1200,height-630,imgsize-209094,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-01-27T03:24:35Z",
+      "content": "Himachal Pradesh is likely to witness heavy snowfall in the higher hills on Tuesday, the Met office has predicted. The IMD has issued orange alert for Kullu, Kinnaur, Chamba, and Lahaul and Spiti dis\u2026 [+5265 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-127420939,width-1200,height-630,imgsize-436944,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-01-24T19:00:45Z",
       "content": "Heavy snowfall has blanketed roads in Manali, triggering massive traffic congestion and prompting the local administration to advise tourists against unnecessary travel. Meanwhile, authorities on Sat\u2026 [+3517 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Lifestyle Desk",
-      "title": "Season\u2019s first heavy snowfall turns these 5 popular destinations in Himachal Pradesh into a winter wonderland",
-      "description": "After weeks of dry cold spell and wait, winter finally arrived in Himachal Pradesh. A western disturbance moved across the region and brought the first major snowfall of this season, changing the landscape almost overnight. High-altitude and tribal areas star\u2026",
-      "url": "https://timesofindia.indiatimes.com/life-style/travel/news/seasons-first-heavy-snowfall-turns-these-5-popular-destinations-in-himachal-pradesh-into-a-winter-wonderland/photostory/127374426.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-127375385,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-01-24T07:36:19Z",
-      "content": "Shimla saw its first proper snowfall of the season early in the day, with snow falling on and off for several hours. By morning, roads, rooftops, and trees across the city were covered in white, givi\u2026 [+476 chars]"
     }
   ],
   "directory": []
