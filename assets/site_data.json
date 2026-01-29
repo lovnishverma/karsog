@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-01-29 12:04:27",
+  "last_updated": "2026-01-29 16:08:06",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Dineshkhabar.com"
+      },
+      "author": "editor",
+      "title": "Loyal dog waits four days beside owner\u2019s body after brothers die in snowstorm",
+      "description": "Himachal Pradesh: A tragic incident in Chamba district has deeply moved people, highlighting the extraordinary loyalty of a pet dog named Sheroo. Nineteen-year-old Vikas Rana and his 13-year-old brother Piyush lost their lives in a snowstorm while in the moun\u2026",
+      "url": "https://dineshkhabar.com/article/131111",
+      "urlToImage": "https://dineshkhabar.com/sites/default/files/styles/featured/public/field/image/d_7EiOYwvMwL_0.jpg?itok=PShuShx7",
+      "publishedAt": "2026-01-28T12:13:12Z",
+      "content": "Himachal Pradesh: A tragic incident in Chamba district has deeply moved people, highlighting the extraordinary loyalty of a pet dog named Sheroo. Nineteen-year-old Vikas Rana and his 13-year-old brot\u2026 [+1005 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-127592240,width-1200,height-630,imgsize-209094,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-01-27T03:24:35Z",
       "content": "Himachal Pradesh is likely to witness heavy snowfall in the higher hills on Tuesday, the Met office has predicted. The IMD has issued orange alert for Kullu, Kinnaur, Chamba, and Lahaul and Spiti dis\u2026 [+5265 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "15 km traffic jam in Manali forces tourists to haul trolley bags on icy roads; watch video and photos",
-      "description": "Thousands of tourists were stranded in Manali for a second day due to icy roads and unprecedented traffic, with exit routes severely impacted. Many endured sub-zero temperatures and over 10-hour journeys for short distances, with some abandoning vehicles. Aut\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/15-km-traffic-jam-in-manali-forces-tourists-to-haul-trolley-bags-on-icy-roads-watch-video-and-photos/articleshow/127526583.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-127526799,width-1200,height-630,imgsize-336090,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-01-26T04:46:52Z",
-      "content": "Thousands of tourists were stranded in Manali for a second straight day on Sunday as icy roads and an unprecedented surge in traffic brought the hill town in Himachal Pradeshs Kullu district to a sta\u2026 [+2457 chars]"
     }
   ],
   "directory": []
