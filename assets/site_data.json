@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-02-01 12:02:14",
+  "last_updated": "2026-02-01 16:02:20",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "LatestLY"
+      },
+      "author": "Team Latestly",
+      "title": "\u2018Ghatak 2\u2019: Amid Sunny Deol\u2019s \u2018Border 2\u2019 Success, Is Rajkumar Santoshi Planning Sequel to His Iconic 1996 Film? Here\u2019s What We Know",
+      "description": "Bollywood star Sunny Deol, who is currently enjoying the success of his latest release &#039;Border 2&#039;, is reportedly set to meet filmmaker Rajkumar Santoshi in Manali. If latest reports are to be believed, the director will narrate the script of &#039;G\u2026",
+      "url": "https://www.latestly.com/entertainment/bollywood/ghatak-2-amid-sunny-deols-border-2-success-is-rajkumar-santoshi-planning-sequel-to-his-iconic-1996-film-heres-what-we-know-7295866.html",
+      "urlToImage": "https://st1.latestly.com/wp-content/uploads/2026/01/31-165503831-784x441.jpg",
+      "publishedAt": "2026-01-31T14:02:04Z",
+      "content": "Following the massive box office triumph of Border 2, veteran filmmaker Rajkumar Santoshi is reportedly moving to revive one of Bollywoods most enduring action legacies. Sources close to the director\u2026 [+2662 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-127610464,width-1200,height-630,imgsize-443732,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-01-27T08:49:45Z",
       "content": "Shimla: The higher reaches of Himachal Pradesh is likely to receive heavy snowfall and rains, the meteorological centre in Shimla said on Tuesday.It has issued an orange warning for Kullu, Chamba, Ki\u2026 [+756 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Trending Desk",
-      "title": "Himachal under winter siege: Cold day warning in Shimla, Manali may freeze at -1 degrees with heavy snowfall. Check IMD's prediction for Kullu, Chamba and more",
-      "description": "Himachal Pradesh weather: At a time when tourists are stranded in Manali and Shimla, the IMD has warned of more snowfall in the state for the next few days. Shimla may see a cold day today and a yellow alert has been issued. Manali may also see snowfall today\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/himachal-under-winter-siege-cold-day-warning-in-shimla-manali-may-freeze-at-1-degrees-with-heavy-snowfall-check-imds-prediction-for-kullu-chamba-and-more/articleshow/127592107.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-127592240,width-1200,height-630,imgsize-209094,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-01-27T03:24:35Z",
-      "content": "Himachal Pradesh is likely to witness heavy snowfall in the higher hills on Tuesday, the Met office has predicted. The IMD has issued orange alert for Kullu, Kinnaur, Chamba, and Lahaul and Spiti dis\u2026 [+5265 chars]"
     }
   ],
   "directory": []
