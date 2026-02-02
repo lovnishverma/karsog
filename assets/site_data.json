@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-02-02 00:05:33",
+  "last_updated": "2026-02-02 04:38:08",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "Weather alert: Himachal Pradesh, Uttarakhand, Jammu & Kashmir to see more snowfall as IMD predicts rain and snow across North India",
+      "description": "Weather Today: Fresh rain and snowfall are predicted for Himachal Pradesh, Uttarakhand, and Jammu & Kashmir from February 1. Temperatures will drop significantly over the next few days. Thunderstorms and strong winds are also possible. Residents and tourists \u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/weather-alert-himachal-pradesh-uttarakhand-jammu-kashmir-to-see-more-snowfall-as-imd-predicts-rain-and-snow-across-north-india/articleshow/127832578.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-127832618,width-1200,height-630,imgsize-1560360,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-02-01T04:31:29Z",
+      "content": "Investment Ideas\r\nGrow your wealth with stock ideas &amp; sectoral trends.\r\nStock Reports Plus\r\nBuy low &amp; sell high with access to Stock Score, Upside potential &amp; more. \r\nBigBull Portfolio\r\nG\u2026 [+439 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Arun Sharma",
+      "title": "Race against nature: BRO clears 5 feet of snow in 72 hours to reopen vital Kishtwar-Sansari lifeline at 8,700 feet",
+      "description": "The Kishtwar-Sansari road is a lifeline for the region and links the Chenab Valley in J&K with Lahaul Spiti in Himachal Pradesh",
+      "url": "https://indianexpress.com/article/india/4-5-ft-snow-over-8000-ft-altitude-communities-cutoff-bro-restores-vital-kishtwar-sansari-road-in-72-hours-10506094/",
+      "urlToImage": "https://images.indianexpress.com/2026/02/1000183128.jpg",
+      "publishedAt": "2026-02-01T01:31:24Z",
+      "content": "The Border Roads Organisation (BRO) on Saturday said it restored the 112-km Kishtwar-Sansari road, connecting Jammu and Kashmirs Kishtwar district with Lahaul Spiti in Himachal Pradesh, in a record 7\u2026 [+1924 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -52,32 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-127639973,width-1200,height-630,imgsize-1446238,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-01-27T16:48:39Z",
       "content": "Winter made a strong comeback across the Himalayan belt as a fresh Western Disturbance swept through North India, bringing heavy snowfall and rain to Jammu &amp; Kashmir, Himachal Pradesh and Uttarak\u2026 [+3905 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "School assembly news headlines January 28: Top national, international, sports, and business updates",
-      "description": "Maharashtra's ITIs will implement PM SETU for skill development, while Himachal Pradesh braces for heavy snowfall. A Supreme Court plea challenges UGC's caste discrimination definition. Internationally, India and the EU finalized a landmark free trade deal, b\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/school-assembly-news-headlines-january-28-top-national-international-sports-and-business-updates/articleshow/127620979.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-127621112,width-1200,height-630,imgsize-27056,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-01-27T11:35:32Z",
-      "content": "Every morning offers a new opportunity to gain meaningful knowledge. Staying updated with the news goes beyond simply knowing whats happeningit helps us understand the world beyond our classrooms. Ne\u2026 [+4460 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "Himachal Pradesh to witness heavy snowfall, rain: Met office",
-      "description": "Himachal Pradesh's higher reaches are bracing for heavy snowfall and rain, with an orange warning issued for Kullu, Chamba, Kinnaur, and Lahaul and Spiti districts. Light snowfall has already been recorded in several areas, with Gondla village in Lahaul and S\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/himachal-pradesh-to-witness-heavy-snowfall-rain-met-office/articleshow/127610444.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-127610464,width-1200,height-630,imgsize-443732,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-01-27T08:49:45Z",
-      "content": "Shimla: The higher reaches of Himachal Pradesh is likely to receive heavy snowfall and rains, the meteorological centre in Shimla said on Tuesday.It has issued an orange warning for Kullu, Chamba, Ki\u2026 [+756 chars]"
     }
   ],
   "directory": []
