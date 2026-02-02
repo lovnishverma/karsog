@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-02-02 08:08:09",
+  "last_updated": "2026-02-02 12:04:44",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Trending Desk",
+      "title": "Anand Mahindra wonders why the world is not flocking to this The Dalai Lama-linked Key Monastery: Check how to reach, best time to visit",
+      "description": "Anand Mahindra Sunday Wanderer: Industrialist Anand Mahindra recently shared details about the stunning Key Monastery in Himachal Pradesh's Spiti and called it 'Heaven on Earth'. Key Monastery is the largest monastery in Spiti and holds deep cultural and spir\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/anand-mahindra-wonders-why-the-world-is-not-flocking-to-this-the-dalai-lama-linked-key-monastery-check-how-to-reach-best-time-to-visit/articleshow/127837030.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-127837146,width-1200,height-630,imgsize-2062106,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-02-01T08:20:45Z",
+      "content": "Anand Mahindra, veteran industrialist and Chairman of Mahindra and Mahindra, known for sharing travel-related musings on social media, is surprised that the world is not flocking to Key Monastery in \u2026 [+4795 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-127641962,width-1280,height-720,imgsize-46138,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-01-27T17:18:05Z",
       "content": "Follow Us On Social Media\r\nUAE-India energy partnership to double: UAE industry minister'Was invited only one or two days before': Shashi Tharoor skips another Congress meet, says he was in Dubai35% \u2026 [+1439 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "J&K, Himachal & Uttarakhand snowfall: Western disturbance worsens winter in North India; Flights cancelled, 700+ roads blocked, and more updates",
-      "description": "Weather Today: A potent Western Disturbance has brought heavy snowfall and rain to Jammu & Kashmir, Himachal Pradesh, and Uttarakhand, disrupting normal life. Flights were grounded, key highways like the Jammu-Srinagar National Highway closed, and thousands s\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/jk-himachal-uttarakhand-snowfall-western-disturbance-worsens-winter-in-north-india-flights-cancelled-700-roads-blocked-and-more-updates/articleshow/127639520.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-127639973,width-1200,height-630,imgsize-1446238,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-01-27T16:48:39Z",
-      "content": "Winter made a strong comeback across the Himalayan belt as a fresh Western Disturbance swept through North India, bringing heavy snowfall and rain to Jammu &amp; Kashmir, Himachal Pradesh and Uttarak\u2026 [+3905 chars]"
     }
   ],
   "directory": []
