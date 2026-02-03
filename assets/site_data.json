@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-02-03 08:06:51",
+  "last_updated": "2026-02-03 12:04:51",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "PTI",
+      "title": "Two airports, nine helipads identified in Himachal Pradesh under UDAN scheme: Govt",
+      "description": "Union Civil Aviation Minister K Rammohan Naidu said that through UDAN scheme, the government has been able to operationalise 657 routes, and 1.59 crore passengers have travelled on these routes as well",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/two-airports-nine-helipads-identified-in-himachal-pradesh-under-udan-scheme-govt/article70582596.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/bng38n/article70582615.ece/alternates/LANDSCAPE_1200/IMG_BL13_Flight_Invite_2_1_2L9TJBMV.jpg",
+      "publishedAt": "2026-02-02T10:33:52Z",
+      "content": "The government on Monday informed the Rajya Sabha that two airports and nine helipads have been identified in Himachal Pradesh for operating flights under the UDAN scheme providing air connectivity t\u2026 [+4041 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "ANI",
+      "title": "Rail connectivity may drive tourism to hill states, but budget lacks incentives: Stakeholders",
+      "description": "Mahendra Seth pointed out that Himachal Pradesh currently has only three small airports, which can handle limited aircraft operations, restricting air connectivity to the state",
+      "url": "https://www.thehindubusinessline.com/news/national/rail-connectivity-may-drive-tourism-to-hill-states-but-budget-lacks-incentives-stakeholders/article70581722.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/wgqso/article70582271.ece/alternates/LANDSCAPE_1200/PTI02_02_2026_000129A.jpg",
+      "publishedAt": "2026-02-02T08:55:33Z",
+      "content": "Tourism stakeholders in Himachal Pradesh have welcomed the Union Budget's emphasis on improving rail connectivity to hill states, saying it could significantly boost tourist inflow, but expressed dis\u2026 [+2874 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://st1.latestly.com/wp-content/uploads/2026/01/31-165503831-784x441.jpg",
       "publishedAt": "2026-01-31T14:02:04Z",
       "content": "Following the massive box office triumph of Border 2, veteran filmmaker Rajkumar Santoshi is reportedly moving to revive one of Bollywoods most enduring action legacies. Sources close to the director\u2026 [+2662 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Dineshkhabar.com"
-      },
-      "author": "editor",
-      "title": "Loyal dog waits four days beside owner\u2019s body after brothers die in snowstorm",
-      "description": "Himachal Pradesh: A tragic incident in Chamba district has deeply moved people, highlighting the extraordinary loyalty of a pet dog named Sheroo. Nineteen-year-old Vikas Rana and his 13-year-old brother Piyush lost their lives in a snowstorm while in the moun\u2026",
-      "url": "https://dineshkhabar.com/article/131111",
-      "urlToImage": "https://dineshkhabar.com/sites/default/files/styles/featured/public/field/image/d_7EiOYwvMwL_0.jpg?itok=PShuShx7",
-      "publishedAt": "2026-01-28T12:13:12Z",
-      "content": "Himachal Pradesh: A tragic incident in Chamba district has deeply moved people, highlighting the extraordinary loyalty of a pet dog named Sheroo. Nineteen-year-old Vikas Rana and his 13-year-old brot\u2026 [+1005 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Trending Desk",
-      "title": "After the owner died, a dog stayed by the body for four days in freezing snow",
-      "description": "A heartwarming story from Bharmour, Himachal Pradesh, has captured attention. A pet dog remained by its owner's body for four days amidst heavy snowfall. The loyal animal guarded the deceased, refusing to leave even in extreme cold. This incident highlights t\u2026",
-      "url": "https://timesofindia.indiatimes.com/etimes/trending/after-the-owner-died-a-dog-stayed-by-the-body-for-four-days-in-freezing-snow/articleshow/127641907.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-127641962,width-1280,height-720,imgsize-46138,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-01-27T17:18:05Z",
-      "content": "Follow Us On Social Media\r\nUAE-India energy partnership to double: UAE industry minister'Was invited only one or two days before': Shashi Tharoor skips another Congress meet, says he was in Dubai35% \u2026 [+1439 chars]"
     }
   ],
   "directory": []
