@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-02-04 08:07:29",
+  "last_updated": "2026-02-04 12:04:55",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Express News Service",
+      "title": "3 killed, many injured after Himachal Pradesh bus plunged into a gorge on Uttarakhand border",
+      "description": "Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu instructed officials to airlift the critically injured passengers to Shimla.",
+      "url": "https://indianexpress.com/article/india/3-killed-himachal-pradesh-bus-plunged-gorge-uttarakhand-border-10511051/",
+      "urlToImage": "https://images.indianexpress.com/2026/02/bus-accident.jpg",
+      "publishedAt": "2026-02-03T09:52:48Z",
+      "content": "At least three people were killed, and around three dozen others were injured after a bus of Himachal Road Transport Corporation (HRTC) plunged into the 100-foot-deep gorge on the Himachal Pradesh an\u2026 [+1279 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://images.indianexpress.com/2026/02/1000183128.jpg",
       "publishedAt": "2026-02-01T01:31:24Z",
       "content": "The Border Roads Organisation (BRO) on Saturday said it restored the 112-km Kishtwar-Sansari road, connecting Jammu and Kashmirs Kishtwar district with Lahaul Spiti in Himachal Pradesh, in a record 7\u2026 [+1924 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "LatestLY"
-      },
-      "author": "Team Latestly",
-      "title": "\u2018Ghatak 2\u2019: Amid Sunny Deol\u2019s \u2018Border 2\u2019 Success, Is Rajkumar Santoshi Planning Sequel to His Iconic 1996 Film? Here\u2019s What We Know",
-      "description": "Bollywood star Sunny Deol, who is currently enjoying the success of his latest release &#039;Border 2&#039;, is reportedly set to meet filmmaker Rajkumar Santoshi in Manali. If latest reports are to be believed, the director will narrate the script of &#039;G\u2026",
-      "url": "https://www.latestly.com/entertainment/bollywood/ghatak-2-amid-sunny-deols-border-2-success-is-rajkumar-santoshi-planning-sequel-to-his-iconic-1996-film-heres-what-we-know-7295866.html",
-      "urlToImage": "https://st1.latestly.com/wp-content/uploads/2026/01/31-165503831-784x441.jpg",
-      "publishedAt": "2026-01-31T14:02:04Z",
-      "content": "Following the massive box office triumph of Border 2, veteran filmmaker Rajkumar Santoshi is reportedly moving to revive one of Bollywoods most enduring action legacies. Sources close to the director\u2026 [+2662 chars]"
     }
   ],
   "directory": []
