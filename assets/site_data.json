@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-02-06 08:08:20",
+  "last_updated": "2026-02-06 12:05:03",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Thepahadify.com"
+      },
+      "author": "MyselfNikhil",
+      "title": "Show HN: Pahadify \u2013 A client-side image editor built with Vanilla JavaScript",
+      "description": "Hello HN,I am a solo developer based in INDIA. I wanted to share Pahadify, a lightweight image editing utility I've been working on.The Problem: I was tired of simple image tools that require uploading private files to a server or downloading heavy 500MB+ sof\u2026",
+      "url": "https://thepahadify.com/",
+      "urlToImage": "https://thepahadify.com/icon-512.png",
+      "publishedAt": "2026-02-05T09:03:00Z",
+      "content": "NIKHIL KUMAR just an ordinary boy with extraordinary vision who dared to bring world-class technology to the remote mountains of Himachal Pradesh. Welcome to PAHADIFY, a platform born out of necessit\u2026 [+6174 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-127832618,width-1200,height-630,imgsize-1560360,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-02-01T04:31:29Z",
       "content": "Investment Ideas\r\nGrow your wealth with stock ideas &amp; sectoral trends.\r\nStock Reports Plus\r\nBuy low &amp; sell high with access to Stock Score, Upside potential &amp; more. \r\nBigBull Portfolio\r\nG\u2026 [+439 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Arun Sharma",
-      "title": "Race against nature: BRO clears 5 feet of snow in 72 hours to reopen vital Kishtwar-Sansari lifeline at 8,700 feet",
-      "description": "The Kishtwar-Sansari road is a lifeline for the region and links the Chenab Valley in J&K with Lahaul Spiti in Himachal Pradesh",
-      "url": "https://indianexpress.com/article/india/4-5-ft-snow-over-8000-ft-altitude-communities-cutoff-bro-restores-vital-kishtwar-sansari-road-in-72-hours-10506094/",
-      "urlToImage": "https://images.indianexpress.com/2026/02/1000183128.jpg",
-      "publishedAt": "2026-02-01T01:31:24Z",
-      "content": "The Border Roads Organisation (BRO) on Saturday said it restored the 112-km Kishtwar-Sansari road, connecting Jammu and Kashmirs Kishtwar district with Lahaul Spiti in Himachal Pradesh, in a record 7\u2026 [+1924 chars]"
     }
   ],
   "directory": []
