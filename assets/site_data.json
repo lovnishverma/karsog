@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-02-07 04:29:00",
+  "last_updated": "2026-02-07 08:02:29",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Express News Service",
+      "title": "11 IPS officers transferred in Himachal Pradesh; Gaurav Singh is Shimla\u2019s new SP",
+      "description": "New Superintendents of Police appointed for Shimla, Solan, and Mandi in major administrative shake-up",
+      "url": "https://indianexpress.com/article/cities/chandigarh/11-ips-officers-transferred-in-himachal-pradesh-gaurav-singh-is-shimlas-new-sp-10516814/",
+      "urlToImage": "https://images.indianexpress.com/2026/02/Shimla-SP.jpg",
+      "publishedAt": "2026-02-06T06:36:16Z",
+      "content": "In a major administrative reshuffle, the Himachal Pradesh Government on Thursday ordered the transfer and posting of 11 Indian Police Service (IPS) officers, including Superintendents of Police (SPs)\u2026 [+1767 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://bl-i.thgim.com/public/incoming/wgqso/article70582271.ece/alternates/LANDSCAPE_1200/PTI02_02_2026_000129A.jpg",
       "publishedAt": "2026-02-02T08:55:33Z",
       "content": "Tourism stakeholders in Himachal Pradesh have welcomed the Union Budget's emphasis on improving rail connectivity to hill states, saying it could significantly boost tourist inflow, but expressed dis\u2026 [+2874 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Trending Desk",
-      "title": "Anand Mahindra wonders why the world is not flocking to this The Dalai Lama-linked Key Monastery: Check how to reach, best time to visit",
-      "description": "Anand Mahindra Sunday Wanderer: Industrialist Anand Mahindra recently shared details about the stunning Key Monastery in Himachal Pradesh's Spiti and called it 'Heaven on Earth'. Key Monastery is the largest monastery in Spiti and holds deep cultural and spir\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/anand-mahindra-wonders-why-the-world-is-not-flocking-to-this-the-dalai-lama-linked-key-monastery-check-how-to-reach-best-time-to-visit/articleshow/127837030.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-127837146,width-1200,height-630,imgsize-2062106,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-02-01T08:20:45Z",
-      "content": "Anand Mahindra, veteran industrialist and Chairman of Mahindra and Mahindra, known for sharing travel-related musings on social media, is surprised that the world is not flocking to Key Monastery in \u2026 [+4795 chars]"
     }
   ],
   "directory": []
