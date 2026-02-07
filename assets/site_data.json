@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-02-07 00:06:49",
+  "last_updated": "2026-02-07 04:29:00",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Mumbai tourist dies from cold exposure in freezing Manali",
+      "description": "A Mumbai tourist tragically died from suspected cold exposure in Manali's freezing Solang Valley. Meanwhile, Kullu witnessed a rare winter landslide, and avalanches pose a threat in higher altitudes. A minor earthquake also rattled Kinnaur. These events highl\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/shimla/mumbai-tourist-dies-from-cold-exposure-in-freezing-manali/articleshow/127965904.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-127966874,width-1280,height-720,imgsize-165226,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-02-06T03:12:14Z",
+      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-127837146,width-1200,height-630,imgsize-2062106,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-02-01T08:20:45Z",
       "content": "Anand Mahindra, veteran industrialist and Chairman of Mahindra and Mahindra, known for sharing travel-related musings on social media, is surprised that the world is not flocking to Key Monastery in \u2026 [+4795 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "Weather alert: Himachal Pradesh, Uttarakhand, Jammu & Kashmir to see more snowfall as IMD predicts rain and snow across North India",
-      "description": "Weather Today: Fresh rain and snowfall are predicted for Himachal Pradesh, Uttarakhand, and Jammu & Kashmir from February 1. Temperatures will drop significantly over the next few days. Thunderstorms and strong winds are also possible. Residents and tourists \u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/weather-alert-himachal-pradesh-uttarakhand-jammu-kashmir-to-see-more-snowfall-as-imd-predicts-rain-and-snow-across-north-india/articleshow/127832578.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-127832618,width-1200,height-630,imgsize-1560360,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-02-01T04:31:29Z",
-      "content": "Investment Ideas\r\nGrow your wealth with stock ideas &amp; sectoral trends.\r\nStock Reports Plus\r\nBuy low &amp; sell high with access to Stock Score, Upside potential &amp; more. \r\nBigBull Portfolio\r\nG\u2026 [+439 chars]"
     }
   ],
   "directory": []
