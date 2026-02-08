@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-02-08 04:42:52",
+  "last_updated": "2026-02-08 08:03:50",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Ailing man on stretcher, villagers trek 10km in snow",
+      "description": "Kullu: Bone-chilling cold and closed roads did not deter villagers in Seraj area of Himachal's Mandi district to carry an ailing man on a makeshift st.",
+      "url": "https://timesofindia.indiatimes.com/city/shimla/ailing-man-on-stretcher-villagers-trek-10km-in-snow/articleshow/128021906.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-128021928,width-1280,height-720,imgsize-98602,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-02-07T05:47:23Z",
+      "content": "Follow Us On Social Media\r\nNew 6-bed ICU brings specialised lung care for children to RML Hospital5 times Vaibhav Suryavanshis father Sanjeev Suryavanshi cheered the loudest for his sonIs wearing bla\u2026 [+1348 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://bl-i.thgim.com/public/incoming/bng38n/article70582615.ece/alternates/LANDSCAPE_1200/IMG_BL13_Flight_Invite_2_1_2L9TJBMV.jpg",
       "publishedAt": "2026-02-02T10:33:52Z",
       "content": "The government on Monday informed the Rajya Sabha that two airports and nine helipads have been identified in Himachal Pradesh for operating flights under the UDAN scheme providing air connectivity t\u2026 [+4041 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "author": "ANI",
-      "title": "Rail connectivity may drive tourism to hill states, but budget lacks incentives: Stakeholders",
-      "description": "Mahendra Seth pointed out that Himachal Pradesh currently has only three small airports, which can handle limited aircraft operations, restricting air connectivity to the state",
-      "url": "https://www.thehindubusinessline.com/news/national/rail-connectivity-may-drive-tourism-to-hill-states-but-budget-lacks-incentives-stakeholders/article70581722.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/wgqso/article70582271.ece/alternates/LANDSCAPE_1200/PTI02_02_2026_000129A.jpg",
-      "publishedAt": "2026-02-02T08:55:33Z",
-      "content": "Tourism stakeholders in Himachal Pradesh have welcomed the Union Budget's emphasis on improving rail connectivity to hill states, saying it could significantly boost tourist inflow, but expressed dis\u2026 [+2874 chars]"
     }
   ],
   "directory": []
