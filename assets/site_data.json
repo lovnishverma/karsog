@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-02-10 04:42:56",
+  "last_updated": "2026-02-10 08:11:06",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Saurabh Parashar",
+      "title": "\u2018Palanquin\u2019 to \u2018pyre\u2019: the 7-km final journey of elderly Himachal man who died after being carried through snow to hospital",
+      "description": "Shiv Lal\u2019s family claimed they had repeatedly urged officials to clear the snowbound road in Himachal Pradesh\u2019s Mandi district, but no action was taken.",
+      "url": "https://indianexpress.com/article/cities/chandigarh/palanquin-to-pyre-the-7-km-final-journey-of-elderly-himachal-man-who-died-after-being-carried-through-snow-to-hospital-10522190/",
+      "urlToImage": "https://images.indianexpress.com/2026/02/Mandi-man.jpg",
+      "publishedAt": "2026-02-09T07:42:17Z",
+      "content": "Four days after 75-year-old Shiv Lal was carried from his snowbound Challai village in Himachal Pradesh on a makeshift palanquin to access medical treatment, he returned home the same waythis time on\u2026 [+2818 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-127966874,width-1280,height-720,imgsize-165226,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-02-06T03:12:14Z",
       "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thepahadify.com"
-      },
-      "author": "MyselfNikhil",
-      "title": "Show HN: Pahadify \u2013 A client-side image editor built with Vanilla JavaScript",
-      "description": "Hello HN,I am a solo developer based in INDIA. I wanted to share Pahadify, a lightweight image editing utility I've been working on.The Problem: I was tired of simple image tools that require uploading private files to a server or downloading heavy 500MB+ sof\u2026",
-      "url": "https://thepahadify.com/",
-      "urlToImage": "https://thepahadify.com/icon-512.png",
-      "publishedAt": "2026-02-05T09:03:00Z",
-      "content": "NIKHIL KUMAR just an ordinary boy with extraordinary vision who dared to bring world-class technology to the remote mountains of Himachal Pradesh. Welcome to PAHADIFY, a platform born out of necessit\u2026 [+6174 chars]"
     }
   ],
   "directory": []
