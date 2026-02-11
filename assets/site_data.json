@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-02-11 04:41:58",
+  "last_updated": "2026-02-11 08:10:13",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Trending Desk",
+      "title": "Manali\u2013Mandi \u2018traffic police\u2019 scam: Viral video claims 'fake collectors' are charging \u20b9300 in broad daylight. Watch",
+      "description": "Fake collectors in safety vests are extorting \u20b9300 from drivers on the Manali-Mandi highway using bogus receipts, a social media user claiemd. A viral video highlighted that a scam is running in broad daylight, with authorities like Himachal Police and NHAI r\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/manalimandi-traffic-police-scam-viral-video-claims-fake-collectors-are-charging-300-in-broad-daylight-watch/articleshow/128147012.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128147841,width-1200,height-630,imgsize-41418,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-02-10T07:43:38Z",
+      "content": "Fake collectors wearing bright safety vests are stopping vehicles on the busy ManaliMandi highway in Himachal Pradesh and collecting 300 from drivers using bogus receipts that look like official toll\u2026 [+3111 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-128021928,width-1280,height-720,imgsize-98602,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-02-07T05:47:23Z",
       "content": "Follow Us On Social Media\r\nNew 6-bed ICU brings specialised lung care for children to RML Hospital5 times Vaibhav Suryavanshis father Sanjeev Suryavanshi cheered the loudest for his sonIs wearing bla\u2026 [+1348 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Express News Service",
-      "title": "11 IPS officers transferred in Himachal Pradesh; Gaurav Singh is Shimla\u2019s new SP",
-      "description": "New Superintendents of Police appointed for Shimla, Solan, and Mandi in major administrative shake-up",
-      "url": "https://indianexpress.com/article/cities/chandigarh/11-ips-officers-transferred-in-himachal-pradesh-gaurav-singh-is-shimlas-new-sp-10516814/",
-      "urlToImage": "https://images.indianexpress.com/2026/02/Shimla-SP.jpg",
-      "publishedAt": "2026-02-06T06:36:16Z",
-      "content": "In a major administrative reshuffle, the Himachal Pradesh Government on Thursday ordered the transfer and posting of 11 Indian Police Service (IPS) officers, including Superintendents of Police (SPs)\u2026 [+1767 chars]"
     }
   ],
   "directory": []
