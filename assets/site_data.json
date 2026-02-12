@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-02-12 12:07:41",
+  "last_updated": "2026-02-12 16:15:31",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "BL Kolkata Bureau",
+      "title": "Jupiter International commissions third solar cell manufacturing unit in Himachal Pradesh",
+      "description": "With this commissioning, the company has added 1 GW of mono PERC capacity to its existing 959 MW base, taking its total installed capacity to nearly 2 GW",
+      "url": "https://www.thehindubusinessline.com/companies/jupiter-international-commissions-third-solar-cell-manufacturing-unit-in-himachal-pradesh/article70620950.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/ls2fti/article70621001.ece/alternates/LANDSCAPE_1200/IMG_BL1404_Clean_Snippet_2_1_23E86LNA.jpg",
+      "publishedAt": "2026-02-11T15:58:50Z",
+      "content": "Solar cell maker Jupiter International Limited on Wednesday said it has commissioned its third solar cell manufacturing unit in Himachal Pradeshs Baddi. \r\nThis marked a significant leap in Kolkata-ba\u2026 [+1297 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-128147841,width-1200,height-630,imgsize-41418,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-02-10T07:43:38Z",
       "content": "Fake collectors wearing bright safety vests are stopping vehicles on the busy ManaliMandi highway in Himachal Pradesh and collecting 300 from drivers using bogus receipts that look like official toll\u2026 [+3111 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Trending Desk",
-      "title": "Chocolate Day shock: Family claims live worm found inside chocolate made by a well-known company",
-      "description": "A family in Bilaspur district, Himachal Pradesh, reported a disturbing discovery on Chocolate Day. They found a live worm and eggs inside a chocolate bar purchased for their child. The chocolate's expiry date was still valid. The family plans legal action. Fo\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/chocolate-day-shock-family-claims-live-worm-found-inside-chocolate-made-by-a-well-known-company/articleshow/128110167.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-128110490,width-1200,height-630,imgsize-28720,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-02-09T10:43:49Z",
-      "content": "Valentine Weeks Chocolate Day, usually about sweet exchanges and small surprises, took a disturbing turn in Himachal Pradesh on Monday. A family in Bilaspur district claimed they found a live worm wi\u2026 [+2144 chars]"
     }
   ],
   "directory": []
