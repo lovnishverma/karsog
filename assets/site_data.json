@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-02-12 00:05:40",
+  "last_updated": "2026-02-12 04:37:41",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Yanko Design"
+      },
+      "author": "Tanvi Joshi",
+      "title": "An Art Retreat in the Himalayas Where Architecture Follows the Mountain\u2019s Rhythm",
+      "description": "An Art Retreat in the Himalayas Where Architecture Follows the Mountain\u2019s RhythmHigh above the Naggar valley in Himachal Pradesh, Eila reveals itself slowly. It is not the kind of resort that announces its presence with grand...",
+      "url": "https://www.yankodesign.com/2026/02/10/an-art-retreat-in-the-himalayas-where-architecture-follows-the-mountains-rhythm/",
+      "urlToImage": "https://www.yankodesign.com/images/design_news/2026/02/an-art-retreat-in-the-himalayas-where-architecture-follows-the-mountains-rhythm/Eila_resort_architecture_01.jpg",
+      "publishedAt": "2026-02-11T00:30:36Z",
+      "content": "High above the Naggar valley in Himachal Pradesh, Eila reveals itself slowly. It is not the kind of resort that announces its presence with grand fa\u00e7ades or rigid terraces. Instead, it feels as if th\u2026 [+4370 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://images.indianexpress.com/2025/12/sukhu_305cfd_20251211234847_20251224081140.jpg",
       "publishedAt": "2026-02-08T12:57:13Z",
       "content": "Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu Sunday said the proposed withdrawal of Revenue Deficit Grant (RDG) by the Centre would have around 30 per cent adverse impact on the state budge\u2026 [+2572 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TNN",
-      "title": "Ailing man on stretcher, villagers trek 10km in snow",
-      "description": "Kullu: Bone-chilling cold and closed roads did not deter villagers in Seraj area of Himachal's Mandi district to carry an ailing man on a makeshift st.",
-      "url": "https://timesofindia.indiatimes.com/city/shimla/ailing-man-on-stretcher-villagers-trek-10km-in-snow/articleshow/128021906.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-128021928,width-1280,height-720,imgsize-98602,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-02-07T05:47:23Z",
-      "content": "Follow Us On Social Media\r\nNew 6-bed ICU brings specialised lung care for children to RML Hospital5 times Vaibhav Suryavanshis father Sanjeev Suryavanshi cheered the loudest for his sonIs wearing bla\u2026 [+1348 chars]"
     }
   ],
   "directory": []
