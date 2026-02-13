@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-02-13 16:11:29",
+  "last_updated": "2026-02-13 20:06:50",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Bureau",
+      "title": "RERA only benefits defaulting builders, best to abolish it: SC",
+      "description": "The Supreme Court on Thursday questioned the functioning of the Real Estate Regulatory Authority (RERA) in several states and said it was time for states to revisit how the body is constituted. The remarks came during a hearing on a Himachal Pradesh governmen\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/rera-only-benefits-defaulting-builders-best-to-abolish-it-sc/articleshow/128270102.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128270102,width-1200,height-630,imgsize-63088,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-02-12T17:49:53Z",
+      "content": "Disappointed with the functioning of the Real Estate Regulatory Authority (RERA) in many states, the Supreme Court on Thursday verbally observed that \"it is high time that all the states should revis\u2026 [+1346 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://images.indianexpress.com/2025/07/apple-growers.jpg",
       "publishedAt": "2026-02-11T09:45:32Z",
       "content": "The India-US trade deal has sparked concern among fruit growers in the Kashmir Valley, who fear that if American apples get easy access to the Indian market, it could deal a devastating blow to local\u2026 [+2337 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "Jupiter International commissions 3rd solar cell plant, doubles capacity",
-      "description": "Jupiter International has significantly expanded its solar cell manufacturing. A new 1 GW unit in Baddi, Himachal Pradesh, doubles the company's production capacity to nearly 2 GW. This expansion focuses on high-efficiency mono PERC technology. The move is se\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/renewables/jupiter-international-commissions-3rd-solar-cell-plant-doubles-capacity/articleshow/128194378.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-128194430,width-1200,height-630,imgsize-553674,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-02-11T07:18:20Z",
-      "content": "New Delhi: Jupiter International on Wednesday announced the commissioning of its third solar cell manufacturing unit in Baddi, Himachal Pradesh, marking a major capacity expansion that effectively do\u2026 [+1458 chars]"
     }
   ],
   "directory": []
