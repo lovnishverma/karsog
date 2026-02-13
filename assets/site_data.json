@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-02-13 12:05:03",
+  "last_updated": "2026-02-13 16:11:29",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Bhavini Mishra",
+      "title": "'Better to abolish RERA': Supreme Court raps States over regulator's role",
+      "description": "Supreme Court criticises functioning of RERAs across States, sets aside Himachal Pradesh High Court stay on shifting State regulator's office to Dharamshala",
+      "url": "https://www.business-standard.com/industry/news/sc-slams-states-over-rera-functioning-allows-hp-shift-126021201451_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-01/05/thumb/fitandfill/1200X630/1767594294-2022.jpg",
+      "publishedAt": "2026-02-12T13:25:49Z",
+      "content": "The Supreme Court criticised RERAs for failing homebuyers, set aside a High Court stay, and allowed Himachal Pradesh to shift the RERA headquarters from Shimla to Dharamshala. (Photo: PTI)"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Shaghil Bilali",
+      "title": "RERA should be abolished if it helps only builders, says Supreme Court",
+      "description": "The Supreme Court strongly criticized the Real Estate Regulatory Authority, RERA. Judges suggested abolishing the institution, stating it only helps defaulting builders. The court allowed Himachal Pradesh to shift its RERA office to Dharamshala. This decision\u2026",
+      "url": "https://economictimes.indiatimes.com/wealth/legal/will/rera-should-be-abolished-if-it-helps-only-builders-says-supreme-court/articleshow/128260236.cms",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-206100,resizemode-75,msid-128260236/small-biz/legal/rera-should-be-abolished-if-it-helps-only-builders-says-supreme-court.jpg",
+      "publishedAt": "2026-02-12T13:20:44Z",
+      "content": "The Supreme Court on Thursday came down heavily on RERA (Real Estate Regulatory Authority), saying the real estate body is doing nothing except facilitating defaulting builders and it won't mind if t\u2026 [+3377 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -52,32 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-128194430,width-1200,height-630,imgsize-553674,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-02-11T07:18:20Z",
       "content": "New Delhi: Jupiter International on Wednesday announced the commissioning of its third solar cell manufacturing unit in Baddi, Himachal Pradesh, marking a major capacity expansion that effectively do\u2026 [+1458 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yanko Design"
-      },
-      "author": "Tanvi Joshi",
-      "title": "An Art Retreat in the Himalayas Where Architecture Follows the Mountain\u2019s Rhythm",
-      "description": "An Art Retreat in the Himalayas Where Architecture Follows the Mountain\u2019s RhythmHigh above the Naggar valley in Himachal Pradesh, Eila reveals itself slowly. It is not the kind of resort that announces its presence with grand...",
-      "url": "https://www.yankodesign.com/2026/02/10/an-art-retreat-in-the-himalayas-where-architecture-follows-the-mountains-rhythm/",
-      "urlToImage": "https://www.yankodesign.com/images/design_news/2026/02/an-art-retreat-in-the-himalayas-where-architecture-follows-the-mountains-rhythm/Eila_resort_architecture_01.jpg",
-      "publishedAt": "2026-02-11T00:30:36Z",
-      "content": "High above the Naggar valley in Himachal Pradesh, Eila reveals itself slowly. It is not the kind of resort that announces its presence with grand fa\u00e7ades or rigid terraces. Instead, it feels as if th\u2026 [+4370 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Trending Desk",
-      "title": "Manali\u2013Mandi \u2018traffic police\u2019 scam: Viral video claims 'fake collectors' are charging \u20b9300 in broad daylight. Watch",
-      "description": "Fake collectors in safety vests are extorting \u20b9300 from drivers on the Manali-Mandi highway using bogus receipts, a social media user claiemd. A viral video highlighted that a scam is running in broad daylight, with authorities like Himachal Police and NHAI r\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/manalimandi-traffic-police-scam-viral-video-claims-fake-collectors-are-charging-300-in-broad-daylight-watch/articleshow/128147012.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-128147841,width-1200,height-630,imgsize-41418,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-02-10T07:43:38Z",
-      "content": "Fake collectors wearing bright safety vests are stopping vehicles on the busy ManaliMandi highway in Himachal Pradesh and collecting 300 from drivers using bogus receipts that look like official toll\u2026 [+3111 chars]"
     }
   ],
   "directory": []
