@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-02-15 00:05:53",
+  "last_updated": "2026-02-15 04:36:46",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Dhananjay Mahapatra",
+      "title": "You must let elected govts function, SC advises Himachal Pradesh high court",
+      "description": "India News: NEW DELHI: Supreme Court on Friday frowned on Himachal Pradesh HC's repeated interference in the state govt's decisions and said it appeared that the .",
+      "url": "https://timesofindia.indiatimes.com/india/you-must-let-elected-govts-function-sc-advises-himachal-pradesh-high-court/articleshow/128330123.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-128330158,width-1280,height-720,imgsize-746160,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-02-14T01:24:22Z",
+      "content": "<ul><li>News</li>\r\n<li>India News</li>\r\n<li>You must let elected govts function, SC advises Himachal Pradesh high court</li></ul>\r\nFollow Us On Social Media\r\nNordic Nations Confront U.S. Over Greenla\u2026 [+3511 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-206100,resizemode-75,msid-128260236/small-biz/legal/rera-should-be-abolished-if-it-helps-only-builders-says-supreme-court.jpg",
       "publishedAt": "2026-02-12T13:20:44Z",
       "content": "The Supreme Court on Thursday came down heavily on RERA (Real Estate Regulatory Authority), saying the real estate body is doing nothing except facilitating defaulting builders and it won't mind if t\u2026 [+3377 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "author": "BL Kolkata Bureau",
-      "title": "Jupiter International commissions third solar cell manufacturing unit in Himachal Pradesh",
-      "description": "With this commissioning, the company has added 1 GW of mono PERC capacity to its existing 959 MW base, taking its total installed capacity to nearly 2 GW",
-      "url": "https://www.thehindubusinessline.com/companies/jupiter-international-commissions-third-solar-cell-manufacturing-unit-in-himachal-pradesh/article70620950.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/ls2fti/article70621001.ece/alternates/LANDSCAPE_1200/IMG_BL1404_Clean_Snippet_2_1_23E86LNA.jpg",
-      "publishedAt": "2026-02-11T15:58:50Z",
-      "content": "Solar cell maker Jupiter International Limited on Wednesday said it has commissioned its third solar cell manufacturing unit in Himachal Pradeshs Baddi. \r\nThis marked a significant leap in Kolkata-ba\u2026 [+1297 chars]"
     }
   ],
   "directory": []
