@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-02-17 08:09:58",
+  "last_updated": "2026-02-17 12:06:32",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Press Trust of India",
+      "title": "Himacha Budget Session: Guv ends address in 2 mins, skips key paragraphs",
+      "description": "In an unusual move, Himachal Pradesh Governor Shiv Pratap Shukla on Monday concluded his address to the state Legislative Assembly within two minutes, skipping a portion of the speech over what he termed as \"comments on a constitutional institution\".\nSpeaking\u2026",
+      "url": "https://www.business-standard.com/budget/news/hp-budget-session-guv-concludes-address-in-2-minutes-skips-portion-on-constitutional-institution-126021600748_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-02/16/thumb/fitandfill/1200X630/1771240909-5648.jpg",
+      "publishedAt": "2026-02-16T11:22:13Z",
+      "content": "In an unusual move, Himachal Pradesh Governor Shiv Pratap Shukla on Monday concluded his address to the state Legislative Assembly within two minutes, skipping a portion of the speech over what he te\u2026 [+3471 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-01/05/thumb/fitandfill/1200X630/1767594294-2022.jpg",
       "publishedAt": "2026-02-12T13:25:49Z",
       "content": "The Supreme Court criticised RERAs for failing homebuyers, set aside a High Court stay, and allowed Himachal Pradesh to shift the RERA headquarters from Shimla to Dharamshala. (Photo: PTI)"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Shaghil Bilali",
-      "title": "RERA should be abolished if it helps only builders, says Supreme Court",
-      "description": "The Supreme Court strongly criticized the Real Estate Regulatory Authority, RERA. Judges suggested abolishing the institution, stating it only helps defaulting builders. The court allowed Himachal Pradesh to shift its RERA office to Dharamshala. This decision\u2026",
-      "url": "https://economictimes.indiatimes.com/wealth/legal/will/rera-should-be-abolished-if-it-helps-only-builders-says-supreme-court/articleshow/128260236.cms",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-206100,resizemode-75,msid-128260236/small-biz/legal/rera-should-be-abolished-if-it-helps-only-builders-says-supreme-court.jpg",
-      "publishedAt": "2026-02-12T13:20:44Z",
-      "content": "The Supreme Court on Thursday came down heavily on RERA (Real Estate Regulatory Authority), saying the real estate body is doing nothing except facilitating defaulting builders and it won't mind if t\u2026 [+3377 chars]"
     }
   ],
   "directory": []
