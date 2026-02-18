@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-02-18 08:09:37",
+  "last_updated": "2026-02-18 12:06:26",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Education",
+      "title": "HP JBT admit card 2026 released at hprca.hp.gov.in: Direct link to download hall tickets here",
+      "description": "The Himachal Pradesh Rajya Chayan Aayog has released the HP JBT Admit Card 2026 on its official portal for candidates appearing in the Junior Basic Teacher recruitment exam. The CBT is scheduled from February 25 to 27, 2026. Applicants must download the hall \u2026",
+      "url": "https://timesofindia.indiatimes.com/education/news/hp-jbt-admit-card-2026-released-at-hprca-hp-gov-in-direct-link-to-download-hall-tickets-here/articleshow/128456133.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-128456372,width-1280,height-720,imgsize-33790,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-02-17T08:39:37Z",
+      "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>HP JBT admit card 2026 released at hprca.hp.gov.in: Direct link to download hall tickets here</li></ul>\r\nBigg Boss Marathi 6: Aayush San\u2026 [+1436 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-128270102,width-1200,height-630,imgsize-63088,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-02-12T17:49:53Z",
       "content": "Disappointed with the functioning of the Real Estate Regulatory Authority (RERA) in many states, the Supreme Court on Thursday verbally observed that \"it is high time that all the states should revis\u2026 [+1346 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Business Standard"
-      },
-      "author": "Bhavini Mishra",
-      "title": "'Better to abolish RERA': Supreme Court raps States over regulator's role",
-      "description": "Supreme Court criticises functioning of RERAs across States, sets aside Himachal Pradesh High Court stay on shifting State regulator's office to Dharamshala",
-      "url": "https://www.business-standard.com/industry/news/sc-slams-states-over-rera-functioning-allows-hp-shift-126021201451_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-01/05/thumb/fitandfill/1200X630/1767594294-2022.jpg",
-      "publishedAt": "2026-02-12T13:25:49Z",
-      "content": "The Supreme Court criticised RERAs for failing homebuyers, set aside a High Court stay, and allowed Himachal Pradesh to shift the RERA headquarters from Shimla to Dharamshala. (Photo: PTI)"
     }
   ],
   "directory": []
