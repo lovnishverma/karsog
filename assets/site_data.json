@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-02-19 12:07:08",
+  "last_updated": "2026-02-19 16:14:15",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Saurabh Parashar",
+      "title": "Himachal: An 80-yr-old reaches Vidhan Sabha, seeks relief from loan interest",
+      "description": "His younger son developed gangrene in 2019 and got his legs amputated, daughter with mental disability",
+      "url": "https://indianexpress.com/article/cities/chandigarh/himachal-80-yr-old-vidhan-sabha-relief-loan-interest-10539552/",
+      "urlToImage": "https://images.indianexpress.com/2026/02/himacha-vidhan-sabha.jpg",
+      "publishedAt": "2026-02-18T15:47:34Z",
+      "content": "Narpat Ram, an 80-year-old farmer from Mandis Khadumn village, on Wednesday reached the Vidhan Sabha in Shimla where the Budget session is underway, to seek administrative intervention and relief fro\u2026 [+2536 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Amid ruckus, HP CM promises MLA funds by March-end",
+      "description": "The Himachal Pradesh government will release Rs 1.10 crore in MLA Area Development Fund installments before March 31. Chief Minister Sukhwinder Singh Sukhu announced this in the Assembly. The government will also consider the MLA discretionary fund. Future di\u2026",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/amid-ruckus-hp-cm-promises-mla-funds-by-march-end/articleshow/128507391.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128507479,width-1200,height-630,imgsize-322266,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-02-18T12:18:22Z",
+      "content": "Shimla: The Himachal Pradesh government will release the remaining two instalments of the MLA Area Development Fund, amounting to Rs 1.10 crore, before March 31.Chief Minister Sukhwinder Singh Sukhu \u2026 [+1768 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-128304000,width-1200,height-630,imgsize-94142,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-02-13T11:28:51Z",
       "content": "New Delhi, In a significant relief to the Himachal Pradesh government, the Supreme Court on Friday extended from April 30 to May 31 the deadline fixed by the high court for holding polls for local bo\u2026 [+2361 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Education",
-      "title": "HPRCA Assistant Staff Nurse recruitment 2026: Register online for 390 posts, direct link here",
-      "description": "Himachal Pradesh is recruiting 390 Assistant Staff Nurses for government medical institutions. Eligible female candidates with a B.Sc. Nursing or GNM diploma and Himachal Pradesh registration can apply online until March 5, 2026. The process involves a writte\u2026",
-      "url": "https://timesofindia.indiatimes.com/education/news/hprca-assistant-staff-nurse-recruitment-2026-register-online-for-390-posts-direct-link-here/articleshow/128297322.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-128297368,width-1280,height-720,imgsize-86065,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-02-13T08:46:14Z",
-      "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>HPRCA Assistant Staff Nurse recruitment 2026: Register online for 390 posts, direct link here</li></ul>\r\nMichelle Yeoh Honoured With Lif\u2026 [+3292 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Bureau",
-      "title": "RERA only benefits defaulting builders, best to abolish it: SC",
-      "description": "The Supreme Court on Thursday questioned the functioning of the Real Estate Regulatory Authority (RERA) in several states and said it was time for states to revisit how the body is constituted. The remarks came during a hearing on a Himachal Pradesh governmen\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/rera-only-benefits-defaulting-builders-best-to-abolish-it-sc/articleshow/128270102.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-128270102,width-1200,height-630,imgsize-63088,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-02-12T17:49:53Z",
-      "content": "Disappointed with the functioning of the Real Estate Regulatory Authority (RERA) in many states, the Supreme Court on Thursday verbally observed that \"it is high time that all the states should revis\u2026 [+1346 chars]"
     }
   ],
   "directory": []
