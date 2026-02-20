@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-02-20 12:04:58",
+  "last_updated": "2026-02-20 16:08:19",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Education",
+      "title": "HPBoSE releases important notice regarding exam: Check details here",
+      "description": "The Himachal Pradesh Board of School Education will conduct the SMC Limited Direct Recruitment Test\u20132026 on February 22 from 11 am to 1 pm. As many as 1,437 candidates will appear for teaching posts including TGT and JBT categories. Admit cards have been rele\u2026",
+      "url": "https://timesofindia.indiatimes.com/education/news/hpbose-releases-important-notice-regarding-exam-check-details-here/articleshow/128559758.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-128559842,width-1280,height-720,imgsize-280402,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-02-19T13:06:50Z",
+      "content": "Follow Us On Social Media\r\nSpirit: Prabhas new photo sparks heated AI vs Real debate onlineHow 6,000 ISIS Prisoners Nearly Escaped From US-Controlled Jail In Middle East'Challenges At Sea More Comple\u2026 [+3032 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-128456372,width-1280,height-720,imgsize-33790,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-02-17T08:39:37Z",
       "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>HP JBT admit card 2026 released at hprca.hp.gov.in: Direct link to download hall tickets here</li></ul>\r\nBigg Boss Marathi 6: Aayush San\u2026 [+1436 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Business Standard"
-      },
-      "author": "Press Trust of India",
-      "title": "Himacha Budget Session: Guv ends address in 2 mins, skips key paragraphs",
-      "description": "In an unusual move, Himachal Pradesh Governor Shiv Pratap Shukla on Monday concluded his address to the state Legislative Assembly within two minutes, skipping a portion of the speech over what he termed as \"comments on a constitutional institution\".\nSpeaking\u2026",
-      "url": "https://www.business-standard.com/budget/news/hp-budget-session-guv-concludes-address-in-2-minutes-skips-portion-on-constitutional-institution-126021600748_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-02/16/thumb/fitandfill/1200X630/1771240909-5648.jpg",
-      "publishedAt": "2026-02-16T11:22:13Z",
-      "content": "In an unusual move, Himachal Pradesh Governor Shiv Pratap Shukla on Monday concluded his address to the state Legislative Assembly within two minutes, skipping a portion of the speech over what he te\u2026 [+3471 chars]"
     }
   ],
   "directory": []
