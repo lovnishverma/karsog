@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-02-20 20:03:15",
+  "last_updated": "2026-02-21 00:06:25",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Himachal raises entry tax, cars to now pay Rs 170",
+      "description": "India News: Travel to Himachal Pradesh will become costlier with the cash-strapped govt announcing a steep hike in entry fees for vehicles. Notified under Himacha.",
+      "url": "https://timesofindia.indiatimes.com/india/himachal-raises-entry-tax-cars-to-now-pay-rs-170/articleshow/128576956.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-128577018,width-1280,height-720,imgsize-38822,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-02-19T21:09:40Z",
+      "content": "Follow Us On Social Media\r\nBad Things Will Happen!: Trump Issues Final Warning To Iran On Nuke Deal | WatchLeave Now!: NATO Nation Orders Citizens To Flee Iran After Trumps Final War AnnouncementUS R\u2026 [+2849 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-128542515,width-1200,height-630,imgsize-637663,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-02-19T06:14:15Z",
       "content": "The Himachal Pradesh School Education Board (HPBOSE) has rejected 97 applications for the Limited Direct Recruitment (LDR) exam scheduled for February 22nd due to non-payment of the prescribed fees. \u2026 [+2633 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Education",
-      "title": "HPBOSE LDR exam 2026: 97 applications rejected; list released on official website",
-      "description": "Himachal Pradesh School Education Board has rejected 97 applications for the Limited Direct Recruitment exam on February 22, 2026. These candidates failed to pay the Rs 3,000 examination fee. The list of rejected applicants, who are SMC teachers with at least\u2026",
-      "url": "https://timesofindia.indiatimes.com/education/news/hpbose-ldr-exam-2026-97-applications-rejected-list-released-on-official-website/articleshow/128540508.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-128540543,width-1280,height-720,imgsize-163813,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-02-19T05:20:13Z",
-      "content": "Follow Us On Social Media\r\n'U.S Blockade Unacceptable': Putin Blasts Trump Over Cuba Action; Declares Russian Support To CubansYou Prey Upon Children For Profit: Zuckerberg Fumbles In Court, 'Fails' \u2026 [+3344 chars]"
     }
   ],
   "directory": []
