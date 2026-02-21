@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-02-21 04:28:48",
+  "last_updated": "2026-02-21 08:02:42",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "Himachal toll tax hiked: Check new rates you will have to pay to enter hills from April 1",
+      "description": "Himachal toll tax hike new rate: Himachal Pradesh is increasing entry fees for vehicles from April 1. This move aims to boost state revenue amid financial pressure.  Various vehicle categories will see higher charges. The state is also implementing tech-drive\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/himachal-toll-tax-hiked-check-new-rates-you-will-have-to-pay-to-enter-hills-from-april-1/articleshow/128592303.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128593817,width-1200,height-630,imgsize-80368,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-02-20T05:49:36Z",
+      "content": "A trip to Himachal Pradesh is about to become more expensive for visitors driving in from other states. The state government has sharply increased entry fees for vehicles, with revised rates coming i\u2026 [+4177 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://images.indianexpress.com/2026/02/ATM.jpg",
       "publishedAt": "2026-02-19T16:12:44Z",
       "content": "The Mohali police Thursday arrested two men, including an ATM security guard, for allegedly throwing chilli powder into a mans eyes and looting Rs 4 lakh from him at an Axis Bank ATM in Phase 7. The \u2026 [+1592 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Education",
-      "title": "HPBoSE releases important notice regarding exam: Check details here",
-      "description": "The Himachal Pradesh Board of School Education will conduct the SMC Limited Direct Recruitment Test\u20132026 on February 22 from 11 am to 1 pm. As many as 1,437 candidates will appear for teaching posts including TGT and JBT categories. Admit cards have been rele\u2026",
-      "url": "https://timesofindia.indiatimes.com/education/news/hpbose-releases-important-notice-regarding-exam-check-details-here/articleshow/128559758.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-128559842,width-1280,height-720,imgsize-280402,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-02-19T13:06:50Z",
-      "content": "Follow Us On Social Media\r\nSpirit: Prabhas new photo sparks heated AI vs Real debate onlineHow 6,000 ISIS Prisoners Nearly Escaped From US-Controlled Jail In Middle East'Challenges At Sea More Comple\u2026 [+3032 chars]"
     }
   ],
   "directory": []
