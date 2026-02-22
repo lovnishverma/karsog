@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-02-22 12:02:09",
+  "last_updated": "2026-02-22 16:02:44",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Express News Service",
+      "title": "Himachal Pradesh govt to launch special vaccination campaign against cervical cancer",
+      "description": "It was informed that ASHA workers will begin a door-to-door survey from March 1 to identify eligible beneficiaries.",
+      "url": "https://indianexpress.com/article/cities/chandigarh/himachal-pradesh-govt-to-launch-special-vaccination-campaign-against-cervical-cancer-10544904/",
+      "urlToImage": "https://images.indianexpress.com/2026/02/HPV-vaccine.jpg",
+      "publishedAt": "2026-02-21T16:01:40Z",
+      "content": "In a first-of-its-kind initiative, the government will launch a special vaccination campaign against cervical cancer, the second most common cancer type among women in India after breast cancer. A me\u2026 [+1444 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-128577018,width-1280,height-720,imgsize-38822,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-02-19T21:09:40Z",
       "content": "Follow Us On Social Media\r\nBad Things Will Happen!: Trump Issues Final Warning To Iran On Nuke Deal | WatchLeave Now!: NATO Nation Orders Citizens To Flee Iran After Trumps Final War AnnouncementUS R\u2026 [+2849 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": null,
-      "title": "In Srinagar, Himachal CM Sukhu warns India-US trade deal to hit apple growers in J&K, HP",
-      "description": "Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu expressed concerns over the recent India-US trade deal. He stated the agreement will adversely affect farmers in Jammu and Kashmir and Himachal Pradesh. Apple, almond, and walnut growers are expected to f\u2026",
-      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/in-srinagar-himachal-cm-sukhu-warns-india-us-trade-deal-to-hit-apple-growers-in-jk-hp/articleshow/128572183.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-128573498,width-1200,height-630,imgsize-339902,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-02-19T18:59:11Z",
-      "content": "Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu expressed concerns over the recent India-US trade deal. He stated the agreement will adversely affect farmers in Jammu and Kashmir and Himachal \u2026 [+183 chars]"
     }
   ],
   "directory": []
