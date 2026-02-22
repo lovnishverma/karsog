@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-02-22 16:02:44",
+  "last_updated": "2026-02-22 20:01:31",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Express News Service",
+      "title": "Himachal Police\u2019s Anti-Chitta\u2019 Campaign: Eight more traffickers detained \u2014 total 96 since November last",
+      "description": "Detailed investigation underway to verify movable and immovable properties of detained traffickers: police",
+      "url": "https://indianexpress.com/article/cities/chandigarh/himachal-polices-anti-chitta-campaign-eight-more-traffickers-detained-total-96-since-november-last-10544965/",
+      "urlToImage": "https://images.indianexpress.com/2025/11/himachal-pradesh_20251113181952.jpg",
+      "publishedAt": "2026-02-21T17:00:42Z",
+      "content": "The Himachal Pradesh Police has detained eight drug traffickers, taking the number of habitual and organised drug traffickers detained under the PIT-NDPS Act to 96, since the launch of the \u2018Anti-Chit\u2026 [+2061 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-128587939,width-1200,height-630,imgsize-163746,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-02-20T02:52:09Z",
       "content": "Srinagar: Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu on Thursday said that the recent India-US trade deal will negatively impact farmers across the country, especially in J&amp;K and Hima\u2026 [+1971 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TNN",
-      "title": "Himachal raises entry tax, cars to now pay Rs 170",
-      "description": "India News: Travel to Himachal Pradesh will become costlier with the cash-strapped govt announcing a steep hike in entry fees for vehicles. Notified under Himacha.",
-      "url": "https://timesofindia.indiatimes.com/india/himachal-raises-entry-tax-cars-to-now-pay-rs-170/articleshow/128576956.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-128577018,width-1280,height-720,imgsize-38822,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-02-19T21:09:40Z",
-      "content": "Follow Us On Social Media\r\nBad Things Will Happen!: Trump Issues Final Warning To Iran On Nuke Deal | WatchLeave Now!: NATO Nation Orders Citizens To Flee Iran After Trumps Final War AnnouncementUS R\u2026 [+2849 chars]"
     }
   ],
   "directory": []
