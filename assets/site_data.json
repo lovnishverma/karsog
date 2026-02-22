@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-02-22 04:32:48",
+  "last_updated": "2026-02-22 08:03:04",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ANI",
+      "title": "Himachal Pradesh going to face revenue deficit of Rs 10,000 crore: Dy CM Mukesh Agnihotri",
+      "description": "Himachal Pradesh faces a significant financial challenge. The state anticipates a Rs 10,000 crore revenue deficit. This comes after the Union Government stopped the Revenue Deficit Grant. The state government is implementing new policies. These include reform\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/himachal-pradesh-going-to-face-revenue-deficit-of-rs-10000-crore-dy-cm-mukesh-agnihotri/articleshow/128635614.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128635942,width-1200,height-630,imgsize-47002,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-02-21T06:26:53Z",
+      "content": "New Delhi: Himachal Pradesh Deputy Chief Minister Mukesh Agnihotri said that the State is staring at a revenue deficit of Rs 10, 000 crore following the discontinuation of Revenue Deficit Grant by th\u2026 [+2409 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-128573498,width-1200,height-630,imgsize-339902,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-02-19T18:59:11Z",
       "content": "Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu expressed concerns over the recent India-US trade deal. He stated the agreement will adversely affect farmers in Jammu and Kashmir and Himachal \u2026 [+183 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ANI",
-      "title": "Himachal Pradesh eyes toll reforms to raise revenue; Mukesh Agnihotri seeks PM backing",
-      "description": "Himachal Pradesh is boosting its income through new rules for liquor shops, toll collection, and vehicle entry fees. These changes aim to collect more revenue after a key grant ended. The government is using technology for better collection and transparency. \u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/himachal-pradesh-eyes-toll-reforms-to-raise-revenue-mukesh-agnihotri-seeks-pm-backing/articleshow/128569330.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-128569395,width-1200,height-630,imgsize-305702,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-02-19T17:11:34Z",
-      "content": "Facing mounting fiscal pressure after the discontinuation of the Revenue Deficit Grant (RDG) recommended by the 16th Finance Commission, the Himachal Pradesh government has stepped up internal resour\u2026 [+4422 chars]"
     }
   ],
   "directory": []
