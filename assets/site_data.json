@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-02-24 12:08:15",
+  "last_updated": "2026-02-24 16:18:11",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "HPPCL declares Patel Engineering as lowest bidder for Rs 910 crore dam project",
+      "description": "Patel Engineering has emerged as the lowest bidder for Package 1 of Himachal Pradesh's Renuka Ji Dam project, valued at Rs 910.08 crore. This crucial development, set to be completed in 30 months, involves constructing three significant diversion tunnels. The\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/engineering/hppcl-declares-patel-engineering-as-lowest-bidder-for-rs-910-crore-dam-project/articleshow/128714638.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128715786,width-1200,height-630,imgsize-287762,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-02-23T12:40:20Z",
+      "content": "Patel Engineering has been declared as the lowest bidder by Himachal Pradesh Power Corporation for the development of package 1 of the Renuka Ji Dam project valued at Rs 910.08 crore.The project, loc\u2026 [+1203 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-128622405,width-1280,height-720,imgsize-51262,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-02-20T19:31:43Z",
       "content": ""
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "Himachal toll tax hiked: Check new rates you will have to pay to enter hills from April 1",
-      "description": "Himachal toll tax hike new rate: Himachal Pradesh is increasing entry fees for vehicles from April 1. This move aims to boost state revenue amid financial pressure.  Various vehicle categories will see higher charges. The state is also implementing tech-drive\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/himachal-toll-tax-hiked-check-new-rates-you-will-have-to-pay-to-enter-hills-from-april-1/articleshow/128592303.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-128593817,width-1200,height-630,imgsize-80368,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-02-20T05:49:36Z",
-      "content": "A trip to Himachal Pradesh is about to become more expensive for visitors driving in from other states. The state government has sharply increased entry fees for vehicles, with revised rates coming i\u2026 [+4177 chars]"
     }
   ],
   "directory": []
