@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-02-24 08:10:05",
+  "last_updated": "2026-02-24 12:08:15",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Experiential escapes for a meaningful Valentine\u2019s Day",
+      "description": "Valentine's Day in India is evolving beyond typical celebrations, with couples seeking immersive experiences. Gujarat offers serene 'Silent Dinners' amidst nature, while Rajasthan promotes creativity through craft workshops with local artisans. Himachal Prade\u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/spotlight/reconnect-this-valentines-day-with-unique-experiential-escapes-in-india/articleshow/128708582.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-128709338,width-1280,height-720,imgsize-155860,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-02-23T10:27:24Z",
+      "content": "Follow Us On Social Media\r\nIndia rolls out first anti-terror doctrine PRAHAAR; cross-border terror, cyber and drone threat in focus'Ghost GDP': How the AI boom could upend middle-class workers, walle\u2026 [+1576 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-128593817,width-1200,height-630,imgsize-80368,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-02-20T05:49:36Z",
       "content": "A trip to Himachal Pradesh is about to become more expensive for visitors driving in from other states. The state government has sharply increased entry fees for vehicles, with revised rates coming i\u2026 [+4177 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Hakeem Irfan Rashid",
-      "title": "India-US trade deal an attack on Apple and other farmers in Kashmir: Himachal CM Sukhvinder Sukhu",
-      "description": "Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu has voiced concerns over the recent India-US trade deal. He believes it will adversely affect farmers across India, especially in Jammu and Kashmir and Himachal Pradesh. Apple, almond, and walnut growers \u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/india-us-trade-deal-an-attack-on-apple-and-other-farmers-in-kashmir-himachal-cm-sukhvinder-sukhu/articleshow/128587767.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-128587939,width-1200,height-630,imgsize-163746,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-02-20T02:52:09Z",
-      "content": "Srinagar: Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu on Thursday said that the recent India-US trade deal will negatively impact farmers across the country, especially in J&amp;K and Hima\u2026 [+1971 chars]"
     }
   ],
   "directory": []
