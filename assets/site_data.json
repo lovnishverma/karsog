@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-02-26 08:09:30",
+  "last_updated": "2026-02-26 12:08:04",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "INDIA-US JOINT SPECIAL FORCES EXERCISE VAJRA PRAHAR TO BE CONDUCTED IN HIMACHAL PRADESH",
+      "description": "The US Army contingent has arrived in India to participate in the 16th edition of the India-US Joint Special Forces Exercise VAJRA PRAHAR, scheduled to be conducted at the Special Forces Training School, Bakloh, Himachal Pradesh, from 24 February to 16 March \u2026",
+      "url": "https://www.globalsecurity.org/wmd/library/news/india/2026/india-260224-india-pib01.htm",
+      "urlToImage": null,
+      "publishedAt": "2026-02-25T10:55:17Z",
+      "content": "India - Press Information Bureau\r\nMinistry of Defence\r\nPosted On: 24 FEB 2026 6:08PM by PIB Delhi\r\nThe US Army contingent has arrived in India to participate in the 16th edition of the India-US Joint\u2026 [+1496 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Saurabh Parashar",
+      "title": "On holiday with friends, ex-Jharkhand CM Champai Soren\u2019s grandson dies in Manali",
+      "description": "Police say Champai Soren, who has reached Manali, has requested that no postmortem be conducted on his grandson Veer Soren.",
+      "url": "https://indianexpress.com/article/cities/chandigarh/grandson-of-former-jharkhand-cm-champai-soren-found-dead-in-manali-10551305/",
+      "urlToImage": "https://images.indianexpress.com/2026/02/Veer-Soren.jpg",
+      "publishedAt": "2026-02-25T08:28:10Z",
+      "content": "Veer Soren, grandson of former Jharkhand chief minister Champai Soren, was found dead at a homestay in Manali, Himachal Pradesh, on Tuesday, the police said on Wednesday.\r\nThe police said that Veer S\u2026 [+2033 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -52,32 +78,6 @@
       "urlToImage": "https://images.indianexpress.com/2025/11/himachal-pradesh_20251113181952.jpg",
       "publishedAt": "2026-02-21T17:00:42Z",
       "content": "The Himachal Pradesh Police has detained eight drug traffickers, taking the number of habitual and organised drug traffickers detained under the PIT-NDPS Act to 96, since the launch of the \u2018Anti-Chit\u2026 [+2061 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Express News Service",
-      "title": "Himachal Pradesh govt to launch special vaccination campaign against cervical cancer",
-      "description": "It was informed that ASHA workers will begin a door-to-door survey from March 1 to identify eligible beneficiaries.",
-      "url": "https://indianexpress.com/article/cities/chandigarh/himachal-pradesh-govt-to-launch-special-vaccination-campaign-against-cervical-cancer-10544904/",
-      "urlToImage": "https://images.indianexpress.com/2026/02/HPV-vaccine.jpg",
-      "publishedAt": "2026-02-21T16:01:40Z",
-      "content": "In a first-of-its-kind initiative, the government will launch a special vaccination campaign against cervical cancer, the second most common cancer type among women in India after breast cancer. A me\u2026 [+1444 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ANI",
-      "title": "Himachal Pradesh going to face revenue deficit of Rs 10,000 crore: Dy CM Mukesh Agnihotri",
-      "description": "Himachal Pradesh faces a significant financial challenge. The state anticipates a Rs 10,000 crore revenue deficit. This comes after the Union Government stopped the Revenue Deficit Grant. The state government is implementing new policies. These include reform\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/himachal-pradesh-going-to-face-revenue-deficit-of-rs-10000-crore-dy-cm-mukesh-agnihotri/articleshow/128635614.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-128635942,width-1200,height-630,imgsize-47002,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-02-21T06:26:53Z",
-      "content": "New Delhi: Himachal Pradesh Deputy Chief Minister Mukesh Agnihotri said that the State is staring at a revenue deficit of Rs 10, 000 crore following the discontinuation of Revenue Deficit Grant by th\u2026 [+2409 chars]"
     }
   ],
   "directory": []
