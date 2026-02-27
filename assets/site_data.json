@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-02-27 04:30:45",
+  "last_updated": "2026-02-27 08:08:05",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Trending Desk",
+      "title": "Who is IPS Aditi Singh? Himachal SP whose duties were handed to a junior after 25-day leave",
+      "description": "Himachal Pradesh police have issued a new directive concerning the Vigilance and Anti-Corruption Bureau. SP Aditi Singh's duties will now be overseen by a junior officer when she is away. This move aims to ensure the bureau's sensitive work continues without \u2026",
+      "url": "https://timesofindia.indiatimes.com/etimes/trending/who-is-ips-aditi-singh-himachal-sp-whose-duties-were-handed-to-a-junior-after-25-day-leave/articleshow/128804718.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-128804764,width-1280,height-720,imgsize-50316,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-02-26T06:39:32Z",
+      "content": "<ul><li>News</li>\r\n<li>lifestyle</li>\r\n<li>trending</li>\r\n<li>Who is IPS Aditi Singh? Himachal SP whose duties were handed to a junior after 25-day leave</li></ul>\r\nFollow Us On Social Media"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Alok Singh",
+      "title": "The drama and the procedure: What happened when police personnel of Delhi and Himachal Pradesh faced off over the arrest of three alleged Youth Congress workers?",
+      "description": "Why were Delhi Police booked for kidnapping in Shimla? What is the proper legal procedure for arresting a person in another state? What will now happen to the FIR against the Delhi Police personnel? Read on.",
+      "url": "https://indianexpress.com/article/cities/delhi/delhi-and-himachal-pradesh-arrest-of-three-alleged-youth-congress-workers-10553117/",
+      "urlToImage": "https://images.indianexpress.com/2026/02/Delhi-police-6.jpg",
+      "publishedAt": "2026-02-26T06:33:02Z",
+      "content": "An extraordinary stand-off between the police forces of Delhi and Himachal Pradesh took place in and around Shimla on Wednesday (February 25). A team from the Special Cell of the Delhi Police had pic\u2026 [+6150 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-128792723,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-02-25T18:47:48Z",
       "content": "<ul><li>News</li>\r\n<li>City News</li>\r\n<li>ranchi News</li>\r\n<li>Jharkhand CM Hemant Soren, Political Leaders Mourn Death of Champai Soren's Grandson Veer in Himachal Pradesh</li></ul>\r\nFollow Us On \u2026 [+2600 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalsecurity.org"
-      },
-      "author": "John Pike",
-      "title": "INDIA-US JOINT SPECIAL FORCES EXERCISE VAJRA PRAHAR TO BE CONDUCTED IN HIMACHAL PRADESH",
-      "description": "The US Army contingent has arrived in India to participate in the 16th edition of the India-US Joint Special Forces Exercise VAJRA PRAHAR, scheduled to be conducted at the Special Forces Training School, Bakloh, Himachal Pradesh, from 24 February to 16 March \u2026",
-      "url": "https://www.globalsecurity.org/wmd/library/news/india/2026/india-260224-india-pib01.htm",
-      "urlToImage": null,
-      "publishedAt": "2026-02-25T10:55:17Z",
-      "content": "India - Press Information Bureau\r\nMinistry of Defence\r\nPosted On: 24 FEB 2026 6:08PM by PIB Delhi\r\nThe US Army contingent has arrived in India to participate in the 16th edition of the India-US Joint\u2026 [+1496 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Saurabh Parashar",
-      "title": "On holiday with friends, ex-Jharkhand CM Champai Soren\u2019s grandson dies in Manali",
-      "description": "Police say Champai Soren, who has reached Manali, has requested that no postmortem be conducted on his grandson Veer Soren.",
-      "url": "https://indianexpress.com/article/cities/chandigarh/grandson-of-former-jharkhand-cm-champai-soren-found-dead-in-manali-10551305/",
-      "urlToImage": "https://images.indianexpress.com/2026/02/Veer-Soren.jpg",
-      "publishedAt": "2026-02-25T08:28:10Z",
-      "content": "Veer Soren, grandson of former Jharkhand chief minister Champai Soren, was found dead at a homestay in Manali, Himachal Pradesh, on Tuesday, the police said on Wednesday.\r\nThe police said that Veer S\u2026 [+2033 chars]"
     }
   ],
   "directory": []
