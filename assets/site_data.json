@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-02-27 08:08:05",
+  "last_updated": "2026-02-27 12:04:41",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Saurabh Parashar, Alok Singh",
+      "title": "15 hours, abduction charges, stolen DVR: a\u00a016-hour standoff over Youth Congress workers between police from Delhi and Himachal",
+      "description": "The standoff unfolded in and around Shimla as Himachal Pradesh Police repeatedly intercepted Delhi Police while transporting three arrested Indian Youth Congress workers, following complaints of abduction, trespass, and stolen property.",
+      "url": "https://indianexpress.com/article/cities/chandigarh/charges-youth-congress-workers-delhi-and-himachal-10553432/",
+      "urlToImage": "https://images.indianexpress.com/2026/02/Ai-2.jpg",
+      "publishedAt": "2026-02-26T08:55:29Z",
+      "content": "A tense, day-long standoff erupted between the Himachal Pradesh Police and the Delhi Police over the arrest of three Indian Youth Congress (IYC) workers, who were allegedly involved in the \u201cshirtless\u2026 [+6154 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-128800667,width-1200,height-630,imgsize-97680,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-02-26T02:59:39Z",
       "content": "A high-voltage standoff between the police teams of Delhi and Shimla came to an end after a dramatic 24 hours on Thursday morning, after the Delhi Police team was finally cleared to head back to the \u2026 [+7100 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Times News Network",
-      "title": "Jharkhand CM Hemant Soren, Political Leaders Mourn Death of Champai Soren's Grandson Veer in Himachal Pradesh",
-      "description": "Jharkhand's political landscape mourns the tragic passing of Veer, the 21-year-old grandson of former CM Champai Soren, who died in Himachal Pradesh. Veer reportedly fell ill after skating in Manali. Chief Minister Hemant Soren and other leaders expressed dee\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/ranchi/jharkhand-cm-hemant-soren-political-leaders-mourn-death-of-champai-sorens-grandson-veer-in-himachal-pradesh/articleshow/128792723.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-128792723,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-02-25T18:47:48Z",
-      "content": "<ul><li>News</li>\r\n<li>City News</li>\r\n<li>ranchi News</li>\r\n<li>Jharkhand CM Hemant Soren, Political Leaders Mourn Death of Champai Soren's Grandson Veer in Himachal Pradesh</li></ul>\r\nFollow Us On \u2026 [+2600 chars]"
     }
   ],
   "directory": []
