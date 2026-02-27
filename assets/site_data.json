@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-02-27 16:06:55",
+  "last_updated": "2026-02-27 20:03:56",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Rediff.com"
+      },
+      "author": "sports@rediff.co.in (Rediff Sports Desk)",
+      "title": "Kabaddi Championship: Quarterfinal Lineup Set",
+      "description": "Tamil Nadu, Chandigarh, Services, Uttar Pradesh, Maharashtra, Himachal Pradesh, Indian Railways and Bihar have qualified for the quarter-finals of the 72nd Senior men's National Kabaddi Championship.",
+      "url": "https://www.rediff.com/sports/report/kabaddi-senior-national-quarters-up-maharashtra-advance/20260226.htm",
+      "urlToImage": "https://im.rediff.com/1200-630/sports/2023/oct/07kabaddi2-1.jpg",
+      "publishedAt": "2026-02-26T16:43:18Z",
+      "content": "The 72nd Senior Men's National Kabaddi Championship witnessed thrilling upsets and dominant performances as Tamil Nadu, Uttar Pradesh, and other top teams advanced to the highly anticipated quarterfi\u2026 [+2465 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-128800126,width-1280,height-720,imgsize-5037967,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-02-26T03:17:08Z",
       "content": "<ul><li>News</li>\r\n<li>City News</li>\r\n<li>chandigarh News</li>\r\n<li>AI protest fallout: 20 Delhi cops detained, freed, halted again in Himachal Pradesh after arrests of Youth Congress members</li></\u2026 [+146 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "AI Summit protest: Dramatic standoff between Delhi, Shimla police ends after 24 hours",
-      "description": "A 24-hour standoff between the Delhi Police and Himachal Pradesh Police ended early Thursday after the Delhi team was allowed to return to the national capital with three Youth Congress activists arrested in connection with the February 20 \u201cshirtless protest\u201d\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/ai-summit-protest-dramatic-standoff-between-delhi-shimla-police-ends-after-24-hours/articleshow/128800595.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-128800667,width-1200,height-630,imgsize-97680,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-02-26T02:59:39Z",
-      "content": "A high-voltage standoff between the police teams of Delhi and Shimla came to an end after a dramatic 24 hours on Thursday morning, after the Delhi Police team was finally cleared to head back to the \u2026 [+7100 chars]"
     }
   ],
   "directory": []
