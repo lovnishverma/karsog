@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-02-28 08:01:40",
+  "last_updated": "2026-02-28 12:02:21",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Indian apple growers to protest US duty concession: Tarigami",
+      "description": "Apple growers from Jammu and Kashmir, Himachal Pradesh, and Uttarakhand will protest in Delhi next month to oppose a proposed duty concession on US apples under a trade pact that would allow duty-free imports from the United States. They warn the move could f\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/indian-apple-growers-to-protest-us-duty-concession-tarigami/articleshow/128841219.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128841279,width-1200,height-630,imgsize-296182,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-02-27T08:06:07Z",
+      "content": "Srinagar: Apple growers from Jammu and Kashmir, Himachal Pradesh and Uttarakhand will protest in Delhi next month against the proposed duty concession on US apples, in a bid to save domestic growers \u2026 [+1677 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-128801106,width-1200,height-630,imgsize-68254,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-02-26T03:29:10Z",
       "content": "A routine interstate arrest turned into a dramatic police-versus-police standoff on a Shimla highway, complete with barricades, counter-FIRs and midnight court appearances. The confrontation between \u2026 [+5137 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TNN",
-      "title": "AI protest fallout: 20 Delhi cops detained, freed, halted again in Himachal Pradesh after arrests of Youth Congress members",
-      "description": "A jurisdictional dispute erupted after Shimla Police filed an FIR against Delhi Police personnel for allegedly abducting three Youth Congress members. The Delhi team was detained, released by a court, and then detained again, escalating tensions between the t\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/ai-protest-arrests-delhi-cops-detained-freed-halted-again-in-hp/articleshow/128791219.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-128800126,width-1280,height-720,imgsize-5037967,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-02-26T03:17:08Z",
-      "content": "<ul><li>News</li>\r\n<li>City News</li>\r\n<li>chandigarh News</li>\r\n<li>AI protest fallout: 20 Delhi cops detained, freed, halted again in Himachal Pradesh after arrests of Youth Congress members</li></\u2026 [+146 chars]"
     }
   ],
   "directory": []
