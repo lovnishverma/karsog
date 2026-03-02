@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-03-02 16:08:52",
+  "last_updated": "2026-03-02 20:05:43",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Deepto Banerjee",
+      "title": "\u2018I thought it was a glitch\u2019: Meet Himachal boy who cleared CA Final with AIR 2 while working at EY",
+      "description": "Asked about three key principles that worked for him, Anirudh lists them around the teacher and own-self. \"First, trust your teachers. If you don\u2019t trust your teacher, you\u2019ll stay inconsistent.\u201d",
+      "url": "https://indianexpress.com/article/education/i-thought-it-was-a-glitch-meet-himachal-boy-anirudh-garg-who-cleared-ca-final-with-air-2-while-working-at-ey-icai-10559828/",
+      "urlToImage": "https://images.indianexpress.com/2026/03/CA-Final-Topper-Anirudh-Garg-hails-from-Himachal.jpg",
+      "publishedAt": "2026-03-01T16:54:43Z",
+      "content": "The Institute of Chartered Accountants of India (ICAI) declared the CA Final January 2026 results on Sunday. Along with 7590 candidates who became Chartered Accountants, Anirudh Garg from Himachal Pr\u2026 [+5533 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-128804764,width-1280,height-720,imgsize-50316,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-02-26T06:39:32Z",
       "content": "<ul><li>News</li>\r\n<li>lifestyle</li>\r\n<li>trending</li>\r\n<li>Who is IPS Aditi Singh? Himachal SP whose duties were handed to a junior after 25-day leave</li></ul>\r\nFollow Us On Social Media"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Alok Singh",
-      "title": "The drama and the procedure: What happened when police personnel of Delhi and Himachal Pradesh faced off over the arrest of three alleged Youth Congress workers?",
-      "description": "Why were Delhi Police booked for kidnapping in Shimla? What is the proper legal procedure for arresting a person in another state? What will now happen to the FIR against the Delhi Police personnel? Read on.",
-      "url": "https://indianexpress.com/article/cities/delhi/delhi-and-himachal-pradesh-arrest-of-three-alleged-youth-congress-workers-10553117/",
-      "urlToImage": "https://images.indianexpress.com/2026/02/Delhi-police-6.jpg",
-      "publishedAt": "2026-02-26T06:33:02Z",
-      "content": "An extraordinary stand-off between the police forces of Delhi and Himachal Pradesh took place in and around Shimla on Wednesday (February 25). A team from the Special Cell of the Delhi Police had pic\u2026 [+6150 chars]"
     }
   ],
   "directory": []
