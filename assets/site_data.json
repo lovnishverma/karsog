@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-03-05 00:06:40",
+  "last_updated": "2026-03-05 04:30:35",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Iran war worry for Himachal Pradesh hoteliers: Will Israelis come this summer?",
+      "description": "Hoteliers in Kullu Valley are anxiously monitoring the ongoing conflict, fearing a significant drop in Israeli tourist arrivals this summer. These visitors are crucial to the region's hospitality industry, and a prolonged war could lead to substantial economi\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/shimla/iran-war-worry-for-hp-hoteliers-will-israelis-come-this-summer/articleshow/129004326.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-129004497,width-1280,height-720,imgsize-154194,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-03-04T03:47:35Z",
+      "content": "Follow Us On Social Media\r\nIts all about making good decisions under pressure: Aiden MarkramBattle of Equals: South Africa, New Zealand eye spot in T20 World Cup finalIsraeli strike hits hotel in Bei\u2026 [+1400 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Education",
+      "title": "HP Home Guard recruitment 2026: Registration begins for 700 posts at himachal.nic.in; direct link to apply here",
+      "description": "Himachal Pradesh Home Guards is hiring 700 volunteers. Applications are open online until March 31, 2026. Positions include general duty, drivers, bandmen, and technical trades. Candidates need to meet educational and physical standards. The selection involve\u2026",
+      "url": "https://timesofindia.indiatimes.com/education/news/hp-home-guard-recruitment-2026-registration-begins-for-700-posts-at-himachal-nic-in-direct-link-to-apply-here/articleshow/129003145.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-129003408,width-1280,height-720,imgsize-931517,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-03-04T03:16:04Z",
+      "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>HP Home Guard recruitment 2026: Registration begins for 700 posts at himachal.nic.in; direct link to apply here</li></ul>\r\nFollow Us On \u2026 [+1583 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-128949677,width-1280,height-720,imgsize-749479,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-03-02T15:04:40Z",
       "content": "<ul><li>News</li>\r\n<li>lifestyle</li>\r\n<li>trending</li>\r\n<li>Who is Oshin Sharma? Himachal SDM under spotlight after promoting products on social media</li></ul>\r\nFollow Us On Social Media\r\n'Tanvi T\u2026 [+1747 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Education",
-      "title": "Himachal Board deploys \u2018third eye\u2019 surveillance to curb exam malpractice, enforces zero tolerance",
-      "description": "The Himachal Pradesh Board has introduced CCTV-based surveillance across sensitive board exam centres to ensure transparency and fairness during Class 10 and 12 examinations. The board has entered high-alert mode, using live monitoring from a control room to \u2026",
-      "url": "https://timesofindia.indiatimes.com/education/news/himachal-board-deploys-third-eye-surveillance-to-curb-exam-malpractice-enforces-zero-tolerance/articleshow/128949324.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-128949311,width-1280,height-720,imgsize-139414,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-03-02T14:36:28Z",
-      "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>Himachal Board deploys third eye surveillance to curb exam malpractice, enforces zero tolerance</li></ul>\r\nFollow Us On Social Media\r\nRi\u2026 [+1784 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "author": "ANI",
-      "title": "Himachal tourism takes hit as Israel-Iran war tensions disrupt flights",
-      "description": "The tourism industry in Himachal Pradesh expects a number of tourist arrivals starting in March, but the recent situation may impact business activities",
-      "url": "https://www.thehindubusinessline.com/news/himachal-tourism-takes-hit-as-israel-iran-war-tensions-disrupt-flights/article70695203.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/e03akb/article70695302.ece/alternates/LANDSCAPE_1200/20260202407L.jpg",
-      "publishedAt": "2026-03-02T11:52:33Z",
-      "content": "The recent Israel-Iran war is affecting the arrival of foreign tourists in Himachal Pradesh. Hundreds of flights were cancelled on the first of March due to the war, and the airspace to the Middle Ea\u2026 [+2220 chars]"
     }
   ],
   "directory": []
