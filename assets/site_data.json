@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-03-06 16:07:08",
+  "last_updated": "2026-03-06 20:03:53",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Statetimes.in"
+      },
+      "author": "statetimes_editor",
+      "title": "Kavinder new Governor Himachal Pradesh; Ata Hasnain Bihar Governor; Saxena LG Ladakh",
+      "description": "President appoints new Governors, LGs STATE TIMES NEWS NEW DELHI: The President of India, Droupadi Murmu, has approved a major reshuffle in the appointments of Governors and Lieutenant Governors across several states and Union Territories.In an official notif\u2026",
+      "url": "https://statetimes.in/kavinder-new-governor-himachal-pradesh-ata-hasnain-bihar-governor-saxena-lg-ladakh/",
+      "urlToImage": "https://statetimes.in/wp-content/uploads/2026/03/Kavinder-new-Governor-Himachal-Pradesh-Ata-Hasnain-Bihar-Governor-Saxena-LG-Ladakh.jpg",
+      "publishedAt": "2026-03-05T19:24:29Z",
+      "content": "STATE TIMES NEWS\r\nNEW DELHI: The President of India, Droupadi Murmu, has approved a major reshuffle in the appointments of Governors and Lieutenant Governors across several states and Union Territori\u2026 [+1251 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-128973253,width-1280,height-720,imgsize-33234,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-03-03T13:00:09Z",
       "content": "<ul><li>News</li>\r\n<li>Auto News</li>\r\n<li>News</li>\r\n<li>Himachal Pradesh mandates EV charging points in real estate projects</li></ul>\r\nFollow Us On Social Media\r\nSapthami Gowda slams objectionable\u2026 [+1821 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Express News Service",
-      "title": "Travel agents raise concerns on foreign tourists\u2019 arrival in Himachal Pradesh",
-      "description": "Mukesh Thakur, chairman, Manali Hotel Association, however, says that the domestic tourism will remain \u201cintact\u201d but the arrival of foreigners will affect badly.",
-      "url": "https://indianexpress.com/article/chandigarh/travel-agents-concerns-foreign-himachal-pradesh-10561690/",
-      "urlToImage": "https://images.indianexpress.com/2026/03/IE-photo-story-19-1.jpg",
-      "publishedAt": "2026-03-02T17:45:59Z",
-      "content": "Concerns on the foreign tourists arrival in Himachal Pradesh have deepened as the allies US and Israels conflict with Iran has spilled to the larger Gulf region.Mukesh Thakur, chairman, Manali Hotel \u2026 [+2772 chars]"
     }
   ],
   "directory": []
