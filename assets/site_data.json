@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-03-08 04:30:19",
+  "last_updated": "2026-03-08 08:02:20",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TIMESOFINDIA.COM",
+      "title": "Mahindra Bolero Pik-Up balances on pipes to cross deep gap, video viral",
+      "description": "A Mahindra Bolero Pik-Up is seen in a viral video attempting a perilous crossing over a deep trench in Himachal Pradesh, India. The driver skillfully navigated the vehicle across metal pipes laid between rocky edges, with onlookers assisting. The daring maneu\u2026",
+      "url": "https://timesofindia.indiatimes.com/auto/news/mahindra-bolero-pik-up-balances-on-pipes-to-cross-deep-gap-video-viral/articleshow/129199990.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-129200214,width-1280,height-720,imgsize-41086,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-03-07T06:45:22Z",
+      "content": "Copyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-129004497,width-1280,height-720,imgsize-154194,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-03-04T03:47:35Z",
       "content": "Follow Us On Social Media\r\nIts all about making good decisions under pressure: Aiden MarkramBattle of Equals: South Africa, New Zealand eye spot in T20 World Cup finalIsraeli strike hits hotel in Bei\u2026 [+1400 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Education",
-      "title": "HP Home Guard recruitment 2026: Registration begins for 700 posts at himachal.nic.in; direct link to apply here",
-      "description": "Himachal Pradesh Home Guards is hiring 700 volunteers. Applications are open online until March 31, 2026. Positions include general duty, drivers, bandmen, and technical trades. Candidates need to meet educational and physical standards. The selection involve\u2026",
-      "url": "https://timesofindia.indiatimes.com/education/news/hp-home-guard-recruitment-2026-registration-begins-for-700-posts-at-himachal-nic-in-direct-link-to-apply-here/articleshow/129003145.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-129003408,width-1280,height-720,imgsize-931517,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-03-04T03:16:04Z",
-      "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>HP Home Guard recruitment 2026: Registration begins for 700 posts at himachal.nic.in; direct link to apply here</li></ul>\r\nFollow Us On \u2026 [+1583 chars]"
     }
   ],
   "directory": []
