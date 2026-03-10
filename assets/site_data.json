@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-03-10 12:05:00",
+  "last_updated": "2026-03-10 16:18:09",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ANI",
+      "title": "Reliance Retail Limited acquires beauty and wellness brand 'Pahadi Local'",
+      "description": "Reliance Retail has made a significant investment in the beauty and wellness sector by acquiring Pahadi Local, a brand that embodies the essence of Himalayan beauty with its sustainable products. This acquisition not only bolsters Reliance's efforts in elevat\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/reliance-retail-limited-acquires-beauty-and-wellness-brand-pahadi-local/articleshow/129340168.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-129340329,width-1200,height-630,imgsize-160578,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-03-09T14:52:43Z",
+      "content": "Mumbai: Reliance Retail Limited, India's largest retailer, on Monday, announced that it has completed the acquisition of the brand 'Pahadi Local' along with the business from Pahadi Goodness Private \u2026 [+2997 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://statetimes.in/wp-content/uploads/2026/03/Kavinder-new-Governor-Himachal-Pradesh-Ata-Hasnain-Bihar-Governor-Saxena-LG-Ladakh.jpg",
       "publishedAt": "2026-03-05T19:24:29Z",
       "content": "STATE TIMES NEWS\r\nNEW DELHI: The President of India, Droupadi Murmu, has approved a major reshuffle in the appointments of Governors and Lieutenant Governors across several states and Union Territori\u2026 [+1251 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TNN",
-      "title": "Vijay Crishna, theatre & film stalwart, passes away at 80",
-      "description": "Mumbai: He walked kilometres to school in the hills of Shimla, climbed a 20,000-ft peak in Ladakh in his seventies, and trekked through Antarctica and.",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/vijay-crishna-theatre-film-stalwart-passes-away-at-80/articleshow/129042440.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-129042438,width-1280,height-720,imgsize-8796,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-03-04T18:24:00Z",
-      "content": "Follow Us On Social Media\r\nOxfords Ashmolean Museum returns stolen Tirumangai Alvar idol to Indian authorities in LondonI have seen the missile: Indian woman from first evacuation flight recounts ten\u2026 [+1807 chars]"
     }
   ],
   "directory": []
