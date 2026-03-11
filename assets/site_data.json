@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-03-10 20:04:55",
+  "last_updated": "2026-03-11 00:03:53",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "The Times Of India",
+      "title": "Heatwave alert as temperatures soar above normal in Himachal",
+      "description": "Shimla: Temperatures remained well above normal across most parts of Himachal Pradesh on Monday, with the weather department issuing a yellow alert fo.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/heatwave-alert-as-temperatures-soar-above-normal-in-himachal/articleshow/129352222.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-129352217,width-1280,height-720,imgsize-47896,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-03-09T23:34:06Z",
+      "content": "Follow Us On Social Media\r\nALL OIL FLOW MAY STOP! Putin Holds Emergency Meeting Amid IRAN WAR, Issues Dire WarningIran Missile Hits Central Israel, CCTV Captures Shocking; Injuries ReportedPutin Warn\u2026 [+2856 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Cong govt in Himachal facing instability and internal crisis: Thakur",
+      "description": "Shimla: The Congress govt in Himachal Pradesh is functioning in an atmosphere of instability and fear despite holding a clear majority in the legislat.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/cong-govt-in-himachal-facing-instability-and-internal-crisis-thakur/articleshow/129351851.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-129351847,width-1280,height-720,imgsize-33670,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-03-09T23:16:04Z",
+      "content": "Follow Us On Social Media\r\nALL OIL FLOW MAY STOP! Putin Holds Emergency Meeting Amid IRAN WAR, Issues Dire WarningIran Missile Hits Central Israel, CCTV Captures Shocking; Injuries ReportedPutin Warn\u2026 [+2927 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -52,32 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-129200214,width-1280,height-720,imgsize-41086,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-03-07T06:45:22Z",
       "content": "Copyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Statetimes.in"
-      },
-      "author": "statetimes_editor",
-      "title": "Matter of great pride to serve nation: Gupta after appointment as Himachal governor",
-      "description": "JAMMU: Senior BJP leader Kavinder Gupta on Friday called the responsibility to serve the nation a matter of great pride and expressed his gratitude to the president, prime minister and home minister after his appointment as the governor of Himachal Pradesh. G\u2026",
-      "url": "https://statetimes.in/matter-of-great-pride-to-serve-nation-gupta-after-appointment-as-himachal-governor/",
-      "urlToImage": "https://statetimes.in/wp-content/uploads/2026/03/Kavinder-Gupta.jpg",
-      "publishedAt": "2026-03-06T17:46:36Z",
-      "content": "JAMMU: Senior BJP leader Kavinder Gupta on Friday called the responsibility to serve the nation a matter of great pride and expressed his gratitude to the president, prime minister and home minister \u2026 [+1558 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Express News Service",
-      "title": "Haryana man released on parole in murder case found dead in Himachal",
-      "description": "The victim, identified as Sandeep Kumar, was a resident of Jakholi village in Kalayat sub-division Kaithal in Haryana.",
-      "url": "https://indianexpress.com/article/chandigarh/haryana-man-released-parole-murder-case-dead-himachal-10568702/",
-      "urlToImage": "https://images.indianexpress.com/2026/03/IE-photo-story-45.jpg",
-      "publishedAt": "2026-03-06T16:23:56Z",
-      "content": "A 34-year-old murder convict in Haryana, who was released on parole, was found dead on the bank of Satluj at Rampur in Shimla, it is learnt. Police said during the search, 22.26gm heroin was found st\u2026 [+1885 chars]"
     }
   ],
   "directory": []
