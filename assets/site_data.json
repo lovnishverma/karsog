@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-03-11 16:13:54",
+  "last_updated": "2026-03-11 20:05:19",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Statetimes.in"
+      },
+      "author": "statetimes_editor",
+      "title": "Kavinder Gupta sworn in as Himachal governor, says post belongs to no political party",
+      "description": "SHIMLA: Former Ladakh LG Kavinder Gupta was sworn in as the governor of Himachal Pradesh in a ceremony held at Lok Bhavan here on Tuesday, following which he said the position does not belong to any political party. The governor works for the overall developm\u2026",
+      "url": "https://statetimes.in/kavinder-gupta-sworn-in-as-himachal-governor-says-post-belongs-to-no-political-party/",
+      "urlToImage": "https://statetimes.in/wp-content/uploads/2026/03/Kavinder-Gupta-sworn-in-as-Himachal-governor-1.jpg",
+      "publishedAt": "2026-03-10T17:53:31Z",
+      "content": "SHIMLA: Former Ladakh LG Kavinder Gupta was sworn in as the governor of Himachal Pradesh in a ceremony held at Lok Bhavan here on Tuesday, following which he said the position does not belong to any \u2026 [+3978 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Kavinder Gupta sworn in as Himachal governor, says post belongs to no political party",
+      "description": "Himachal new governor: Gupta said he would strive to carry forward the initiatives started by previous governors and would seek the cooperation of the chief minister and the state government to complete them on priority.",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/kavinder-gupta-sworn-in-as-himachal-governor-says-post-belongs-to-no-political-party/articleshow/129409445.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-129409581,width-1200,height-630,imgsize-174302,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-03-10T17:15:33Z",
+      "content": "Shimla: Former Ladakh LG Kavinder Gupta was sworn in as the governor of Himachal Pradesh in a ceremony held at Lok Bhavan here on Tuesday, following which he said the position does not belong to any \u2026 [+3976 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-129351847,width-1280,height-720,imgsize-33670,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-03-09T23:16:04Z",
       "content": "Follow Us On Social Media\r\nALL OIL FLOW MAY STOP! Putin Holds Emergency Meeting Amid IRAN WAR, Issues Dire WarningIran Missile Hits Central Israel, CCTV Captures Shocking; Injuries ReportedPutin Warn\u2026 [+2927 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Statetimes.in"
-      },
-      "author": "statetimes_editor",
-      "title": "Governor (Designate) Kavinder Gupta arrives in Shimla, receives warm reception",
-      "description": "STATE TIMES NEWS SHIMLA: Governor (designate) Kavinder Gupta and his wife Bindu Gupta were accorded a warm and enthusiastic reception on their arrival in Shimla on Monday evening. Gupta is scheduled to take oath as the 30th Governor of Himachal Pradesh on Mar\u2026",
-      "url": "https://statetimes.in/governor-designate-kavinder-gupta-arrives-in-shimla-receives-warm-reception/",
-      "urlToImage": "https://statetimes.in/wp-content/uploads/2026/03/Governor-Designate-Kavinder-Gupta-arrives-in-Shimla-receives-warm-reception-1.jpeg",
-      "publishedAt": "2026-03-09T16:53:37Z",
-      "content": "STATE TIMES NEWS\r\nSHIMLA: Governor (designate) Kavinder Gupta and his wife Bindu Gupta were accorded a warm and enthusiastic reception on their arrival in Shimla on Monday evening. Gupta is scheduled\u2026 [+1442 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ANI",
-      "title": "Reliance Retail Limited acquires beauty and wellness brand 'Pahadi Local'",
-      "description": "Reliance Retail has made a significant investment in the beauty and wellness sector by acquiring Pahadi Local, a brand that embodies the essence of Himalayan beauty with its sustainable products. This acquisition not only bolsters Reliance's efforts in elevat\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/reliance-retail-limited-acquires-beauty-and-wellness-brand-pahadi-local/articleshow/129340168.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-129340329,width-1200,height-630,imgsize-160578,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-03-09T14:52:43Z",
-      "content": "Mumbai: Reliance Retail Limited, India's largest retailer, on Monday, announced that it has completed the acquisition of the brand 'Pahadi Local' along with the business from Pahadi Goodness Private \u2026 [+2997 chars]"
     }
   ],
   "directory": []
