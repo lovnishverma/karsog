@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-03-12 16:18:46",
+  "last_updated": "2026-03-12 20:05:20",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Anumeha Chaturvedi",
+      "title": "Travel Risk: Domestic destinations to gain ground this summer",
+      "description": "Indian travellers are increasingly booking domestic holidays for the upcoming summer. Global uncertainties and rising travel costs are driving this trend. Destinations like Himachal Pradesh, Uttarakhand, and the North East are seeing high demand. Travellers a\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/services/travel/travel-risk-domestic-destinations-to-gain-ground-this-summer/articleshow/129477154.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-129477196,width-1200,height-630,imgsize-111166,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-03-11T19:06:02Z",
+      "content": "New Delhi: Queries for closer home, domestic destinations are going up for summer travel in the face of an escalating conflict in West Asia as per early booking trends, industry insiders told ET. Ved\u2026 [+1884 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Statetimes.in"
+      },
+      "author": "statetimes_editor",
+      "title": "Newly-appointed Himachal LG vows inclusive development, stresses good relations between HP, J&K",
+      "description": "JAMMU: Himachal Pradesh Governor Kavinder Gupta on Wednesday thanked the country\u2019s leadership for entrusting him with the responsibility and said he would work for the overall development of the state while ensuring that all sections of society are taken alon\u2026",
+      "url": "https://statetimes.in/newly-appointed-himachal-lg-vows-inclusive-development-stresses-good-relations-between-hp-jk/",
+      "urlToImage": "https://statetimes.in/wp-content/uploads/2026/03/Newly-appointed-Himachal-LG-vows-inclusive-development-stresses-good-relations-between-HP-JK.jpeg",
+      "publishedAt": "2026-03-11T16:25:37Z",
+      "content": "JAMMU: Himachal Pradesh Governor Kavinder Gupta on Wednesday thanked the countrys leadership for entrusting him with the responsibility and said he would work for the overall development of the state\u2026 [+2010 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -52,32 +78,6 @@
       "urlToImage": "https://images.indianexpress.com/2026/03/anuraag-sharma-1600_20260310000654.jpg",
       "publishedAt": "2026-03-10T00:08:50Z",
       "content": "Congress nominee Anurag Sharma, 47, was on Monday elected unopposed to the Rajya Sabha even as a complaint was filed against him for allegedly concealing property details and violation of election ru\u2026 [+586 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "The Times Of India",
-      "title": "Heatwave alert as temperatures soar above normal in Himachal",
-      "description": "Shimla: Temperatures remained well above normal across most parts of Himachal Pradesh on Monday, with the weather department issuing a yellow alert fo.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/heatwave-alert-as-temperatures-soar-above-normal-in-himachal/articleshow/129352222.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-129352217,width-1280,height-720,imgsize-47896,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-03-09T23:34:06Z",
-      "content": "Follow Us On Social Media\r\nALL OIL FLOW MAY STOP! Putin Holds Emergency Meeting Amid IRAN WAR, Issues Dire WarningIran Missile Hits Central Israel, CCTV Captures Shocking; Injuries ReportedPutin Warn\u2026 [+2856 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TNN",
-      "title": "Cong govt in Himachal facing instability and internal crisis: Thakur",
-      "description": "Shimla: The Congress govt in Himachal Pradesh is functioning in an atmosphere of instability and fear despite holding a clear majority in the legislat.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/cong-govt-in-himachal-facing-instability-and-internal-crisis-thakur/articleshow/129351851.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-129351847,width-1280,height-720,imgsize-33670,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-03-09T23:16:04Z",
-      "content": "Follow Us On Social Media\r\nALL OIL FLOW MAY STOP! Putin Holds Emergency Meeting Amid IRAN WAR, Issues Dire WarningIran Missile Hits Central Israel, CCTV Captures Shocking; Injuries ReportedPutin Warn\u2026 [+2927 chars]"
     }
   ],
   "directory": []
