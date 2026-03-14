@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-03-14 12:02:35",
+  "last_updated": "2026-03-14 16:03:32",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Varinder Bhatia",
+      "title": "Singed by RS poll debacles in Haryana, Congress shifts MLAs to Shimla resort",
+      "description": "For the two Rajya Sabha seats, the ruling BJP has fielded ex-Karnal MP Sanjay Bhatia while the Congress has nominated Dalit leader Karamvir Baudh, a former state government employee.",
+      "url": "https://indianexpress.com/article/political-pulse/rs-poll-debacles-in-haryana-congress-shifts-mlas-to-shimla-resort-10580620/",
+      "urlToImage": "https://images.indianexpress.com/2026/03/Bhupinder-Singh-Hooda.jpg",
+      "publishedAt": "2026-03-13T15:40:09Z",
+      "content": "With voting for Haryana\u2019s two Rajya Sabha seats scheduled on Monday, the principal Opposition Congress has corralled its MLAs and moved them out of the state in an attempt to prevent cross-voting or \u2026 [+5160 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://statetimes.in/wp-content/uploads/2026/03/Newly-appointed-Himachal-LG-vows-inclusive-development-stresses-good-relations-between-HP-JK.jpeg",
       "publishedAt": "2026-03-11T16:25:37Z",
       "content": "JAMMU: Himachal Pradesh Governor Kavinder Gupta on Wednesday thanked the countrys leadership for entrusting him with the responsibility and said he would work for the overall development of the state\u2026 [+2010 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Statetimes.in"
-      },
-      "author": "statetimes_editor",
-      "title": "Kavinder Gupta sworn in as Himachal governor, says post belongs to no political party",
-      "description": "SHIMLA: Former Ladakh LG Kavinder Gupta was sworn in as the governor of Himachal Pradesh in a ceremony held at Lok Bhavan here on Tuesday, following which he said the position does not belong to any political party. The governor works for the overall developm\u2026",
-      "url": "https://statetimes.in/kavinder-gupta-sworn-in-as-himachal-governor-says-post-belongs-to-no-political-party/",
-      "urlToImage": "https://statetimes.in/wp-content/uploads/2026/03/Kavinder-Gupta-sworn-in-as-Himachal-governor-1.jpg",
-      "publishedAt": "2026-03-10T17:53:31Z",
-      "content": "SHIMLA: Former Ladakh LG Kavinder Gupta was sworn in as the governor of Himachal Pradesh in a ceremony held at Lok Bhavan here on Tuesday, following which he said the position does not belong to any \u2026 [+3978 chars]"
     }
   ],
   "directory": []
