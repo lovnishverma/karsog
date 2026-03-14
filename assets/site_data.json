@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-03-14 04:30:05",
+  "last_updated": "2026-03-14 08:03:55",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Centre approves Rs 1,912.99 crore additional disaster aid for 5 states, J-K",
+      "description": "The central government has taken swift action by approving over Rs 1,900 crore in emergency funds for regions grappling with the aftermath of natural disasters in 2025. Benefiting states include Andhra Pradesh, Chhattisgarh, Gujarat, Himachal Pradesh, Nagalan\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/centre-approves-rs-1912-99-crore-additional-disaster-aid-for-5-states-j-k/articleshow/129542363.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-129542531,width-1200,height-630,imgsize-293576,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-03-13T07:11:18Z",
+      "content": "New Delhi: The Centre has approved Rs 1,912.99 crore in additional financial assistance to five states and the Union Territory of Jammu and Kashmir affected by floods, flash floods, cloudbursts, land\u2026 [+1525 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://statetimes.in/wp-content/uploads/2026/03/Kavinder-Gupta-sworn-in-as-Himachal-governor-1.jpg",
       "publishedAt": "2026-03-10T17:53:31Z",
       "content": "SHIMLA: Former Ladakh LG Kavinder Gupta was sworn in as the governor of Himachal Pradesh in a ceremony held at Lok Bhavan here on Tuesday, following which he said the position does not belong to any \u2026 [+3978 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "Kavinder Gupta sworn in as Himachal governor, says post belongs to no political party",
-      "description": "Himachal new governor: Gupta said he would strive to carry forward the initiatives started by previous governors and would seek the cooperation of the chief minister and the state government to complete them on priority.",
-      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/kavinder-gupta-sworn-in-as-himachal-governor-says-post-belongs-to-no-political-party/articleshow/129409445.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-129409581,width-1200,height-630,imgsize-174302,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-03-10T17:15:33Z",
-      "content": "Shimla: Former Ladakh LG Kavinder Gupta was sworn in as the governor of Himachal Pradesh in a ceremony held at Lok Bhavan here on Tuesday, following which he said the position does not belong to any \u2026 [+3976 chars]"
     }
   ],
   "directory": []
