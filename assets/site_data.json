@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-03-15 16:03:32",
+  "last_updated": "2026-03-15 20:02:58",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Kumar Anshuman",
+      "title": "Himachal Pradesh excludes ACB, vigilance bureau from RTI purview",
+      "description": "Himachal Pradesh's Congress government has removed the Anti-Corruption Bureau and Vigilance Bureau from the Right to Information Act. This move prevents citizens from seeking information on these bodies. The opposition BJP has strongly condemned the decision.\u2026",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/himachal-pradesh-excludes-acb-vigilance-bureau-from-rti-purview/articleshow/129579510.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-129579510,width-1200,height-630,imgsize-154906,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-03-14T18:18:16Z",
+      "content": "Investment Ideas\r\nGrow your wealth with stock ideas &amp; sectoral trends.\r\nStock Reports Plus\r\nAll-in-one stock research with Stock Score, peer comparison &amp; key signals.\r\nBigBull Portfolio\r\nGet \u2026 [+436 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-129477196,width-1200,height-630,imgsize-111166,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-03-11T19:06:02Z",
       "content": "New Delhi: Queries for closer home, domestic destinations are going up for summer travel in the face of an escalating conflict in West Asia as per early booking trends, industry insiders told ET. Ved\u2026 [+1884 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Statetimes.in"
-      },
-      "author": "statetimes_editor",
-      "title": "Newly-appointed Himachal LG vows inclusive development, stresses good relations between HP, J&K",
-      "description": "JAMMU: Himachal Pradesh Governor Kavinder Gupta on Wednesday thanked the country\u2019s leadership for entrusting him with the responsibility and said he would work for the overall development of the state while ensuring that all sections of society are taken alon\u2026",
-      "url": "https://statetimes.in/newly-appointed-himachal-lg-vows-inclusive-development-stresses-good-relations-between-hp-jk/",
-      "urlToImage": "https://statetimes.in/wp-content/uploads/2026/03/Newly-appointed-Himachal-LG-vows-inclusive-development-stresses-good-relations-between-HP-JK.jpeg",
-      "publishedAt": "2026-03-11T16:25:37Z",
-      "content": "JAMMU: Himachal Pradesh Governor Kavinder Gupta on Wednesday thanked the countrys leadership for entrusting him with the responsibility and said he would work for the overall development of the state\u2026 [+2010 chars]"
     }
   ],
   "directory": []
