@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-03-17 08:10:42",
+  "last_updated": "2026-03-17 12:09:43",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "ANI",
+      "title": "Himachal government signs MoU with National Dairy Development Board to boost dairy sector",
+      "description": "The Chief Minister also said the state government is monitoring the situation regarding LPG supply and would take up the matter with the central government if required",
+      "url": "https://www.thehindubusinessline.com/news/national/himachal-government-signs-mou-with-national-dairy-development-board-to-boost-dairy-sector/article70749398.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/n05jla/article70749709.ece/alternates/LANDSCAPE_1200/IMG_bl28_Dairy_pic_2_1_KTF7PB6H.jpg",
+      "publishedAt": "2026-03-16T11:07:10Z",
+      "content": "The Himachal Pradesh government on Monday signed a Memorandum of Understanding (MoU) with the National Dairy Development Board (NDDB) to strengthen the dairy sector in the State, with Chief Minister \u2026 [+2929 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://images.indianexpress.com/2026/03/Bhupinder-Singh-Hooda.jpg",
       "publishedAt": "2026-03-13T15:40:09Z",
       "content": "With voting for Haryana\u2019s two Rajya Sabha seats scheduled on Monday, the principal Opposition Congress has corralled its MLAs and moved them out of the state in an attempt to prevent cross-voting or \u2026 [+5160 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "Centre approves Rs 1,912.99 crore additional disaster aid for 5 states, J-K",
-      "description": "The central government has taken swift action by approving over Rs 1,900 crore in emergency funds for regions grappling with the aftermath of natural disasters in 2025. Benefiting states include Andhra Pradesh, Chhattisgarh, Gujarat, Himachal Pradesh, Nagalan\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/centre-approves-rs-1912-99-crore-additional-disaster-aid-for-5-states-j-k/articleshow/129542363.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-129542531,width-1200,height-630,imgsize-293576,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-03-13T07:11:18Z",
-      "content": "New Delhi: The Centre has approved Rs 1,912.99 crore in additional financial assistance to five states and the Union Territory of Jammu and Kashmir affected by floods, flash floods, cloudbursts, land\u2026 [+1525 chars]"
     }
   ],
   "directory": []
