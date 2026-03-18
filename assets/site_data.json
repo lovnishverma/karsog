@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-03-18 16:20:17",
+  "last_updated": "2026-03-18 20:07:23",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Statetimes.in"
+      },
+      "author": "statetimes_editor",
+      "title": "Governor Kavinder Gupta inaugurates \u2018Bharat Vimarsh\u2019 at BHU",
+      "description": "Says youth must lead India\u2019s march towards Viksit Bharat @2047 STATE TIMES NEWS VARANASI : Governor of Himachal Pradesh Kavinder Gupta on Tuesday inaugurated the national discourse programme \u2018Bharat Vimarsh\u2019 at the K.N. Udupa Auditorium, Banaras Hindu Univers\u2026",
+      "url": "https://statetimes.in/governor-kavinder-gupta-inaugurates-bharat-vimarsh-at-bhu/",
+      "urlToImage": "https://statetimes.in/wp-content/uploads/2026/03/Governor-Kavinder-Gupta-inaugurates-Bharat-Vimarsh-at-BHU.jpeg",
+      "publishedAt": "2026-03-17T19:03:05Z",
+      "content": "STATE TIMES NEWS\r\nVARANASI : Governor of Himachal Pradesh Kavinder Gupta on Tuesday inaugurated the national discourse programme \u2018Bharat Vimarsh\u2019 at the K.N. Udupa Auditorium, Banaras Hindu Universit\u2026 [+3974 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-129599426,width-1280,height-720,imgsize-830356,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-03-16T03:04:38Z",
       "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>HPRCA JBT Teacher recruitment 2026: Registration begins today for 600 posts; check steps to apply</li></ul>\r\nFollow Us On Social Media\r\n\u2026 [+114 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Kumar Anshuman",
-      "title": "Himachal Pradesh excludes ACB, vigilance bureau from RTI purview",
-      "description": "Himachal Pradesh's Congress government has removed the Anti-Corruption Bureau and Vigilance Bureau from the Right to Information Act. This move prevents citizens from seeking information on these bodies. The opposition BJP has strongly condemned the decision.\u2026",
-      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/himachal-pradesh-excludes-acb-vigilance-bureau-from-rti-purview/articleshow/129579510.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-129579510,width-1200,height-630,imgsize-154906,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-03-14T18:18:16Z",
-      "content": "Investment Ideas\r\nGrow your wealth with stock ideas &amp; sectoral trends.\r\nStock Reports Plus\r\nAll-in-one stock research with Stock Score, peer comparison &amp; key signals.\r\nBigBull Portfolio\r\nGet \u2026 [+436 chars]"
     }
   ],
   "directory": []
