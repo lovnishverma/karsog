@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-03-19 08:08:28",
+  "last_updated": "2026-03-19 12:05:58",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Trending Desk",
+      "title": "'Jeans, t-shirts banned': Himachal Govt imposes strict dress code and social media curbs on state staff",
+      "description": "The Himachal Pradesh government has issued a fresh mandate through the Department of Personnel on March 16, requiring all state employees to strictly adhere to a professional dress code and disciplined social media conduct. The order specifically prohibits th\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/jeans-t-shirts-banned-himachal-govt-imposes-strict-dress-code-and-social-media-curbs-on-state-staff/articleshow/129654439.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-129654763,width-1200,height-630,imgsize-35768,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-03-18T11:15:40Z",
+      "content": "Investment Ideas\r\nGrow your wealth with stock ideas &amp; sectoral trends.\r\nStock Reports Plus\r\nAll-in-one stock research with Stock Score, peer comparison &amp; key signals.\r\nBigBull Portfolio\r\nGet \u2026 [+436 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Express News Service",
+      "title": "Despite challenges, no cut in budget for education, health sectors: Sukhu",
+      "description": "Government College, Hamirpur, ranked first in overall Internal Ranking of Government Colleges, followed by Government College, Sanjauli, and Rajkiya Kanya Mahavidyalaya, Shimla",
+      "url": "https://indianexpress.com/article/cities/chandigarh/despite-challenges-no-cut-in-budget-for-education-health-sectors-sukhu-10588470/",
+      "urlToImage": "https://images.indianexpress.com/2026/03/Photo-9-1.jpg",
+      "publishedAt": "2026-03-18T09:23:06Z",
+      "content": "Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu said on Tuesday that despite financial challenges, the budget for the education and health sectors would not be curtailed. Education is the top \u2026 [+1770 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://bl-i.thgim.com/public/incoming/n05jla/article70749709.ece/alternates/LANDSCAPE_1200/IMG_bl28_Dairy_pic_2_1_KTF7PB6H.jpg",
       "publishedAt": "2026-03-16T11:07:10Z",
       "content": "The Himachal Pradesh government on Monday signed a Memorandum of Understanding (MoU) with the National Dairy Development Board (NDDB) to strengthen the dairy sector in the State, with Chief Minister \u2026 [+2929 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Education",
-      "title": "HPCET 2026 registration begins: Apply by April 19 for BTech, MBA, MCA and other courses at HPTU, direct link here",
-      "description": "Himachal Pradesh Technical University has opened registrations for HPCET 2026, the gateway to engineering, pharmacy, and management courses. Aspiring students can apply online until April 19, 2026. The offline exam is scheduled for May 9-10, with results expe\u2026",
-      "url": "https://timesofindia.indiatimes.com/education/news/hpcet-2026-registration-begins-apply-by-april-19-for-btech-mba-mca-and-other-courses-at-hptu-direct-link-here/articleshow/129603127.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-129603144,width-1280,height-720,imgsize-123764,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-03-16T07:18:09Z",
-      "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>HPCET 2026 registration begins: Apply by April 19 for BTech, MBA, MCA and other courses at HPTU, direct link here</li></ul>\r\nFollow Us O\u2026 [+13 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "Higher reaches of Himachal Pradesh receive fresh snow; efforts on to move stranded vehicles from Atal Tunnel",
-      "description": "Himachal Pradesh's higher regions saw fresh snowfall on Monday morning. This caused over a thousand vehicles to get stranded near the Atal Tunnel. Authorities are working to move them. Many areas experienced a significant drop in minimum temperatures. The sta\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/higher-reaches-of-himachal-pradesh-receive-fresh-snow-efforts-on-to-move-stranded-vehicles-from-atal-tunnel/articleshow/129601981.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-129601996,width-1200,height-630,imgsize-135668,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-03-16T06:18:06Z",
-      "content": "Shimla: The higher reaches of Himachal Pradesh received a fresh spell of snow on Monday morning, even as the police in Manali continued their operation to move stranded vehicles from the Atal Tunnel \u2026 [+2040 chars]"
     }
   ],
   "directory": []
