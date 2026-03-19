@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-03-19 04:36:42",
+  "last_updated": "2026-03-19 08:08:28",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "Rain, Hailstorm Weather Alert: Check what IMD has predicted for Delhi, Himachal, Uttarakhand, Punjab, Haryana, and Rajasthan till March 21",
+      "description": "Weather Today: Unstable weather, including rain, thunderstorms, and hailstorms, is forecast across large parts of India until March 21. Delhi and nearby states will experience gusty winds and a noticeable dip in temperatures, with wind speeds reaching up to 5\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/rain-hailstorm-weather-alert-check-what-imd-has-predicted-for-delhi-himachal-uttarakhand-punjab-haryana-and-rajasthan-till-march-21/articleshow/129646510.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-129649156,width-1200,height-630,imgsize-120098,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-03-18T06:37:45Z",
+      "content": "A fresh round of rain, thunderstorms and hailstorms is set to sweep across north India over the next three days, with the India Meteorological Department warning of gusty winds and falling temperatur\u2026 [+3317 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-129601996,width-1200,height-630,imgsize-135668,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-03-16T06:18:06Z",
       "content": "Shimla: The higher reaches of Himachal Pradesh received a fresh spell of snow on Monday morning, even as the police in Manali continued their operation to move stranded vehicles from the Atal Tunnel \u2026 [+2040 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Education",
-      "title": "HPRCA JBT Teacher recruitment 2026: Registration begins today for 600 posts; check steps to apply",
-      "description": "Himachal Pradesh is opening doors for 600 Junior Basic Teacher positions. Aspiring educators can now apply online for government primary school roles. The registration window is open from March 16th to April 6th, 2026. Candidates need to meet specific educati\u2026",
-      "url": "https://timesofindia.indiatimes.com/education/news/hprca-jbt-teacher-recruitment-2026-registration-begins-today-for-600-posts-check-steps-to-apply/articleshow/129599311.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-129599426,width-1280,height-720,imgsize-830356,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-03-16T03:04:38Z",
-      "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>HPRCA JBT Teacher recruitment 2026: Registration begins today for 600 posts; check steps to apply</li></ul>\r\nFollow Us On Social Media\r\n\u2026 [+114 chars]"
     }
   ],
   "directory": []
