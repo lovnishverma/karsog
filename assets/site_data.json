@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-03-20 00:07:08",
+  "last_updated": "2026-03-20 04:31:16",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Trending Desk",
+      "title": "Weather Update March 19: IMD warns of rain in Delhi, Hyderabad, and Ahmedabad today; hailstorms in Himachal and Uttarakhand. Check full forecast here",
+      "description": "Today Weather Update: The India Meteorological Department (IMD) has warned of rainfall in Delhi, Hyderabad and Ahmedabad, predicting a change in the weather pattern in the country. Hailstorms are likely in Himachal Pradesh, Jammu and Kashmir, Uttarakhand, Pun\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/weather-update-march-19-imd-warns-of-rain-in-delhi-hyderabad-and-ahmedabad-today-hailstorms-in-himachal-and-uttarakhand-check-full-forecast-here/articleshow/129669415.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-129669511,width-1200,height-630,imgsize-239034,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-03-19T02:58:43Z",
+      "content": "A major weather system is impacting several parts of India, triggering widespread rain, thunderstorms, lightning, and strong winds across north, central, eastern, and southern regions. States includi\u2026 [+4013 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://statetimes.in/wp-content/uploads/2026/03/Governor-Kavinder-Gupta-inaugurates-Bharat-Vimarsh-at-BHU.jpeg",
       "publishedAt": "2026-03-17T19:03:05Z",
       "content": "STATE TIMES NEWS\r\nVARANASI : Governor of Himachal Pradesh Kavinder Gupta on Tuesday inaugurated the national discourse programme \u2018Bharat Vimarsh\u2019 at the K.N. Udupa Auditorium, Banaras Hindu Universit\u2026 [+3974 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "Manali Horror: Over 1,000 vehicles stuck, tourists spend 20 hours in freezing cold near Atal Tunnel",
-      "description": "Heavy snowfall stranded thousands of tourists near Himachal Pradesh's Atal Tunnel, with over 1,000 vehicles stuck for nearly 20 hours. Rescue operations by police and BRO successfully evacuated travellers. The region faces continued harsh weather, with furthe\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/manali-horror-over-1000-vehicles-stuck-tourists-spend-20-hours-in-freezing-cold-near-atal-tunnel/articleshow/129628680.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-129628755,width-1200,height-630,imgsize-1247097,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-03-17T09:33:26Z",
-      "content": "Thousands of tourists were left stranded in and around the Atal Tunnel in Himachal Pradeshs Lahaul and Spiti after heavy snowfall began on Sunday evening. The sudden weather deterioration led to the \u2026 [+2675 chars]"
     }
   ],
   "directory": []
