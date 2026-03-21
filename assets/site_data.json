@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-03-21 08:02:56",
+  "last_updated": "2026-03-21 12:02:12",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Saurabh Parashar",
+      "title": "Rs 1 crore LSD smuggling: 4 Himachal police personnel arrested for \u2018aiding drug traffickers\u2019",
+      "description": "The two head constables and two constables intercepted an LSD consignment, but instead of taking legal action, they allegedly colluded with the accused.",
+      "url": "https://indianexpress.com/article/cities/chandigarh/rs-1-crore-lsd-smuggling-4-himachal-police-personnel-arrested-10592106/",
+      "urlToImage": "https://images.indianexpress.com/2026/03/LSD.jpg",
+      "publishedAt": "2026-03-20T08:54:37Z",
+      "content": "In a major crackdown against drug trafficking, the Shimla police have arrested four police personnel for their alleged involvement in an LSD (lysergic acid diethylamide) smuggling racket.\r\nThe accuse\u2026 [+1883 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://images.indianexpress.com/2026/03/Photo-9-1.jpg",
       "publishedAt": "2026-03-18T09:23:06Z",
       "content": "Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu said on Tuesday that despite financial challenges, the budget for the education and health sectors would not be curtailed. Education is the top \u2026 [+1770 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "Rain, Hailstorm Weather Alert: Check what IMD has predicted for Delhi, Himachal, Uttarakhand, Punjab, Haryana, and Rajasthan till March 21",
-      "description": "Weather Today: Unstable weather, including rain, thunderstorms, and hailstorms, is forecast across large parts of India until March 21. Delhi and nearby states will experience gusty winds and a noticeable dip in temperatures, with wind speeds reaching up to 5\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/rain-hailstorm-weather-alert-check-what-imd-has-predicted-for-delhi-himachal-uttarakhand-punjab-haryana-and-rajasthan-till-march-21/articleshow/129646510.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-129649156,width-1200,height-630,imgsize-120098,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-03-18T06:37:45Z",
-      "content": "A fresh round of rain, thunderstorms and hailstorms is set to sweep across north India over the next three days, with the India Meteorological Department warning of gusty winds and falling temperatur\u2026 [+3317 chars]"
     }
   ],
   "directory": []
