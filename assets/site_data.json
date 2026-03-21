@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-03-21 04:28:53",
+  "last_updated": "2026-03-21 08:02:56",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "ANI",
+      "title": "LPG shortage forces Himachal Assembly kitchens to switch to wood-fired stoves",
+      "description": "Amid a shortage of commercial LPG in Himachal Pradesh, meals for MLAs, ministers, officials, and staff during the ongoing Budget Session are being prepared using wood-fired ovens by the Himachal Pradesh Tourism Development Corporation (HPTDC).",
+      "url": "https://www.thehindubusinessline.com/news/national/lpg-shortage-forces-himachal-assembly-kitchens-to-switch-to-wood-fired-stoves/article70764596.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/jh0j62/article70764607.ece/alternates/LANDSCAPE_1200/DSC_1241.JPG",
+      "publishedAt": "2026-03-20T07:20:47Z",
+      "content": "Amid a shortage of commercial LPG in Himachal Pradesh, meals for MLAs, ministers, officials, and staff during the ongoing Budget Session are being prepared using wood-fired ovens by the Himachal Prad\u2026 [+2258 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-129649156,width-1200,height-630,imgsize-120098,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-03-18T06:37:45Z",
       "content": "A fresh round of rain, thunderstorms and hailstorms is set to sweep across north India over the next three days, with the India Meteorological Department warning of gusty winds and falling temperatur\u2026 [+3317 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Statetimes.in"
-      },
-      "author": "statetimes_editor",
-      "title": "Governor Kavinder Gupta inaugurates \u2018Bharat Vimarsh\u2019 at BHU",
-      "description": "Says youth must lead India\u2019s march towards Viksit Bharat @2047 STATE TIMES NEWS VARANASI : Governor of Himachal Pradesh Kavinder Gupta on Tuesday inaugurated the national discourse programme \u2018Bharat Vimarsh\u2019 at the K.N. Udupa Auditorium, Banaras Hindu Univers\u2026",
-      "url": "https://statetimes.in/governor-kavinder-gupta-inaugurates-bharat-vimarsh-at-bhu/",
-      "urlToImage": "https://statetimes.in/wp-content/uploads/2026/03/Governor-Kavinder-Gupta-inaugurates-Bharat-Vimarsh-at-BHU.jpeg",
-      "publishedAt": "2026-03-17T19:03:05Z",
-      "content": "STATE TIMES NEWS\r\nVARANASI : Governor of Himachal Pradesh Kavinder Gupta on Tuesday inaugurated the national discourse programme \u2018Bharat Vimarsh\u2019 at the K.N. Udupa Auditorium, Banaras Hindu Universit\u2026 [+3974 chars]"
     }
   ],
   "directory": []
