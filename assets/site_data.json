@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-03-22 16:03:03",
+  "last_updated": "2026-03-22 20:01:26",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "PTI",
+      "title": "Himachal's \u20b954,928 crore Budget for 2026-27 pegs revenue deficit at \u20b96,577 crore",
+      "description": "Revenue receipts for 2026-27 are estimated at \u20b940,361 crore, with revenue expenditure expected at \u20b946,938 crore, resulting in a total deficit of \u20b96,755 crore",
+      "url": "https://www.thehindubusinessline.com/news/national/himachals-54928-crore-budget-for-2026-27-pegs-revenue-deficit-at-6577-crore/article70770084.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/ysbhlt/article70770103.ece/alternates/LANDSCAPE_1200/20260321178L.jpg",
+      "publishedAt": "2026-03-21T16:14:47Z",
+      "content": "Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu on Saturday presented a 54,928-crore Budget for 2026-27, with revenue deficit of 6,577 crore and fiscal deficit of 9,698 crore.\r\nPresenting his \u2026 [+1178 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://bl-i.thgim.com/public/incoming/jh0j62/article70764607.ece/alternates/LANDSCAPE_1200/DSC_1241.JPG",
       "publishedAt": "2026-03-20T07:20:47Z",
       "content": "Amid a shortage of commercial LPG in Himachal Pradesh, meals for MLAs, ministers, officials, and staff during the ongoing Budget Session are being prepared using wood-fired ovens by the Himachal Prad\u2026 [+2258 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Trending Desk",
-      "title": "Weather Update March 19: IMD warns of rain in Delhi, Hyderabad, and Ahmedabad today; hailstorms in Himachal and Uttarakhand. Check full forecast here",
-      "description": "Today Weather Update: The India Meteorological Department (IMD) has warned of rainfall in Delhi, Hyderabad and Ahmedabad, predicting a change in the weather pattern in the country. Hailstorms are likely in Himachal Pradesh, Jammu and Kashmir, Uttarakhand, Pun\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/weather-update-march-19-imd-warns-of-rain-in-delhi-hyderabad-and-ahmedabad-today-hailstorms-in-himachal-and-uttarakhand-check-full-forecast-here/articleshow/129669415.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-129669511,width-1200,height-630,imgsize-239034,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-03-19T02:58:43Z",
-      "content": "A major weather system is impacting several parts of India, triggering widespread rain, thunderstorms, lightning, and strong winds across north, central, eastern, and southern regions. States includi\u2026 [+4013 chars]"
     }
   ],
   "directory": []
