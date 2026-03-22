@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-03-22 00:05:58",
+  "last_updated": "2026-03-22 04:35:19",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Saurabh Parashar",
+      "title": "Himachal economy to grow at 8.3% in 2025-26 despite financial constraints",
+      "description": "Tabling the Economic Survey 2025\u201326 in the Vidhan Sabha, Sukhu said the state\u2019s per capita income (PCI), at current prices, is estimated at Rs 2,83,626 for the FY 2025\u201326, up from Rs 2,58,196 in 2024\u201325, marking a growth of 9.8 per cent.",
+      "url": "https://indianexpress.com/article/cities/chandigarh/himachal-economy-to-grow-at-8-3-in-2025-26-despite-financial-constraints-10593539/",
+      "urlToImage": "https://images.indianexpress.com/2026/03/lahaul-spiti_20260321042643.jpg",
+      "publishedAt": "2026-03-21T04:27:49Z",
+      "content": "The Himachal Pradesh economy is expected to grow by 8.3 per cent in 2025-26 at constant prices, as compared to 6.4 per cent in the previous fiscal, despite various challenges like acute financial con\u2026 [+3209 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-129660632,width-1200,height-630,imgsize-241146,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-03-18T15:47:25Z",
       "content": "Rain swept parts of Himachal Pradesh on Wednesday, while the Lahaul and Spiti district witnessed fresh snowfall, as the local meteorological department issued an orange alert warning of heavy snow an\u2026 [+1310 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Trending Desk",
-      "title": "'Jeans, t-shirts banned': Himachal Govt imposes strict dress code and social media curbs on state staff",
-      "description": "The Himachal Pradesh government has issued a fresh mandate through the Department of Personnel on March 16, requiring all state employees to strictly adhere to a professional dress code and disciplined social media conduct. The order specifically prohibits th\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/jeans-t-shirts-banned-himachal-govt-imposes-strict-dress-code-and-social-media-curbs-on-state-staff/articleshow/129654439.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-129654763,width-1200,height-630,imgsize-35768,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-03-18T11:15:40Z",
-      "content": "Investment Ideas\r\nGrow your wealth with stock ideas &amp; sectoral trends.\r\nStock Reports Plus\r\nAll-in-one stock research with Stock Score, peer comparison &amp; key signals.\r\nBigBull Portfolio\r\nGet \u2026 [+436 chars]"
     }
   ],
   "directory": []
