@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-03-22 04:35:19",
+  "last_updated": "2026-03-22 08:03:40",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Himachal CM Sukhu presents Rs 54,928-cr budget for 2026-27",
+      "description": "Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu presented a Rs 54,928-crore budget for 2026-27, highlighting the impact of the discontinued revenue deficit grant. He accused the BJP of not supporting the state's interests, leading to disruptions in the\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/himachal-cm-sukhu-presents-rs-54928-cr-budget-for-2026-27/articleshow/129714714.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-129714739,width-1200,height-630,imgsize-11398,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-03-21T06:59:45Z",
+      "content": "Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu on Saturday presented Rs 54,928-crore budget for the financial year 2026-27 in the state assembly.Sukhu, who was presenting his fourth budget, s\u2026 [+1607 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-129669511,width-1200,height-630,imgsize-239034,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-03-19T02:58:43Z",
       "content": "A major weather system is impacting several parts of India, triggering widespread rain, thunderstorms, lightning, and strong winds across north, central, eastern, and southern regions. States includi\u2026 [+4013 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "Himachal Pradesh weather: Orange alert issued for heavy snow in Lahaul and Spiti in next two days",
-      "description": "Himachal Pradesh experienced rain and fresh snowfall in Lahaul and Spiti on Wednesday, with an orange alert issued for heavy snow and thunderstorms over the next two days. Light to moderate precipitation is expected across the state until March 24, despite a \u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/himachal-pradesh-weather-orange-alert-issued-for-heavy-snow-in-lahaul-and-spiti-in-next-two-days/articleshow/129660583.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-129660632,width-1200,height-630,imgsize-241146,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-03-18T15:47:25Z",
-      "content": "Rain swept parts of Himachal Pradesh on Wednesday, while the Lahaul and Spiti district witnessed fresh snowfall, as the local meteorological department issued an orange alert warning of heavy snow an\u2026 [+1310 chars]"
     }
   ],
   "directory": []
