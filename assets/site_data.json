@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-03-23 00:07:34",
+  "last_updated": "2026-03-23 04:42:16",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ANI",
+      "title": "\u2018Most cuts in salaries of top officials\u2019: HPCC chief on CM Sukhu\u2019s 6-month pay cut for ministers, MLAs",
+      "description": "As Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu announced a six-month salary deferment for ministers, MLAs, and senior bureaucrats, Himachal Pradesh Congress Committee chief Vinay Kumar defended the state budget, saying that most of the cuts have be\u2026",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/most-cuts-in-salaries-of-top-officials-hpcc-chief-on-cm-sukhus-6-month-pay-cut-for-ministers-mlas/articleshow/129727739.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-129727773,width-1200,height-630,imgsize-38228,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-03-22T03:24:05Z",
+      "content": "As Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu announced a six-month salary deferment for ministers, MLAs, and senior bureaucrats, Himachal Pradesh Congress Committee chief Vinay Kumar def\u2026 [+3875 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://images.indianexpress.com/2026/03/LSD.jpg",
       "publishedAt": "2026-03-20T08:54:37Z",
       "content": "In a major crackdown against drug trafficking, the Shimla police have arrested four police personnel for their alleged involvement in an LSD (lysergic acid diethylamide) smuggling racket.\r\nThe accuse\u2026 [+1883 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "author": "ANI",
-      "title": "LPG shortage forces Himachal Assembly kitchens to switch to wood-fired stoves",
-      "description": "Amid a shortage of commercial LPG in Himachal Pradesh, meals for MLAs, ministers, officials, and staff during the ongoing Budget Session are being prepared using wood-fired ovens by the Himachal Pradesh Tourism Development Corporation (HPTDC).",
-      "url": "https://www.thehindubusinessline.com/news/national/lpg-shortage-forces-himachal-assembly-kitchens-to-switch-to-wood-fired-stoves/article70764596.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/jh0j62/article70764607.ece/alternates/LANDSCAPE_1200/DSC_1241.JPG",
-      "publishedAt": "2026-03-20T07:20:47Z",
-      "content": "Amid a shortage of commercial LPG in Himachal Pradesh, meals for MLAs, ministers, officials, and staff during the ongoing Budget Session are being prepared using wood-fired ovens by the Himachal Prad\u2026 [+2258 chars]"
     }
   ],
   "directory": []
