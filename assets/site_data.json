@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-03-25 00:07:23",
+  "last_updated": "2026-03-25 04:35:38",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Trending Desk",
+      "title": "Petrol, Diesel price today (March 24): Fuel rates to go up in Himachal Pradesh. Check rates in Delhi, Mumbai, Noida, Kolkata and other cities",
+      "description": "Petrol, Diesel price today: The prices of petrol and diesel across the major Indian cities remained the same on March 24, 2026, Tuesday. In Delhi, the price of petrol is Rs 94.77 per litre and that of diesel is Rs 87.67 per litre. In Himachal Pradesh, the gov\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/petrol-diesel-price-today-march-24-fuel-rates-to-go-up-in-himachal-pradesh-check-rates-in-delhi-mumbai-noida-kolkata-and-other-cities/articleshow/129765390.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-129765550,width-1200,height-630,imgsize-31330,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-03-24T02:02:45Z",
+      "content": "Petrol, Diesel price today: The prices of petrol and diesel across the major Indian cities remained the same on March 24, 2026, Tuesday. In Delhi, the price of petrol is Rs 94.77 per litre and that o\u2026 [+156 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://bl-i.thgim.com/public/incoming/ysbhlt/article70770103.ece/alternates/LANDSCAPE_1200/20260321178L.jpg",
       "publishedAt": "2026-03-21T16:14:47Z",
       "content": "Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu on Saturday presented a 54,928-crore Budget for 2026-27, with revenue deficit of 6,577 crore and fiscal deficit of 9,698 crore.\r\nPresenting his \u2026 [+1178 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "Himachal CM Sukhu presents Rs 54,928-cr budget for 2026-27",
-      "description": "Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu presented a Rs 54,928-crore budget for 2026-27, highlighting the impact of the discontinued revenue deficit grant. He accused the BJP of not supporting the state's interests, leading to disruptions in the\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/himachal-cm-sukhu-presents-rs-54928-cr-budget-for-2026-27/articleshow/129714714.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-129714739,width-1200,height-630,imgsize-11398,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-03-21T06:59:45Z",
-      "content": "Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu on Saturday presented Rs 54,928-crore budget for the financial year 2026-27 in the state assembly.Sukhu, who was presenting his fourth budget, s\u2026 [+1607 chars]"
     }
   ],
   "directory": []
