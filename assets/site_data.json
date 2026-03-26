@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-03-26 12:12:29",
+  "last_updated": "2026-03-26 16:22:35",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Toll tax: Himachal govt to consider issuing entry passes to those crossing border daily",
+      "description": "Himachal Pradesh's Chief Minister announced plans to consider entry passes for border residents, potentially offering concessions on toll taxes for daily commuters. The government is also exploring integrating toll barriers and providing relief to vehicles re\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/toll-tax-himachal-govt-to-consider-issuing-entry-passes-to-those-crossing-border-daily/articleshow/129803693.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-129804268,width-1200,height-630,imgsize-44004,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-03-25T14:05:52Z",
+      "content": "The government will consider issuing entry passes to residents of Himachal Pradesh's border areas, especially those who cross state boundaries daily for work or other reasons, Chief Minister Sukhvind\u2026 [+1983 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-129736944,width-1200,height-630,imgsize-148432,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-03-22T17:59:52Z",
       "content": "Directions were issued to evacuate nine houses in Ropdu village in Himachal Pradeshs Mandi district on Sunday following a massive landslide, according to a report by PTI.The landslide occurred in the\u2026 [+1431 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ANI",
-      "title": "\u2018Most cuts in salaries of top officials\u2019: HPCC chief on CM Sukhu\u2019s 6-month pay cut for ministers, MLAs",
-      "description": "As Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu announced a six-month salary deferment for ministers, MLAs, and senior bureaucrats, Himachal Pradesh Congress Committee chief Vinay Kumar defended the state budget, saying that most of the cuts have be\u2026",
-      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/most-cuts-in-salaries-of-top-officials-hpcc-chief-on-cm-sukhus-6-month-pay-cut-for-ministers-mlas/articleshow/129727739.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-129727773,width-1200,height-630,imgsize-38228,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-03-22T03:24:05Z",
-      "content": "As Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu announced a six-month salary deferment for ministers, MLAs, and senior bureaucrats, Himachal Pradesh Congress Committee chief Vinay Kumar def\u2026 [+3875 chars]"
     }
   ],
   "directory": []
