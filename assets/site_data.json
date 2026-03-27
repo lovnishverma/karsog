@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-03-27 08:11:15",
+  "last_updated": "2026-03-27 12:09:40",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Himachal Pradesh HC issues notices to EC, others on PIL challenging Anurag Sharma's election to Rajya Sabha",
+      "description": "Himachal Pradesh High Court has issued notices regarding a petition challenging Anurag Sharma's election as a Rajya Sabha member. The petition alleges Sharma held government contracts during nomination, making him ineligible. The court has directed respondent\u2026",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/himachal-pradesh-high-court-challenges-anurag-sharmas-rajya-sabha-election-amid-contract-allegations/articleshow/129820418.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-129820638,width-1200,height-630,imgsize-39564,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-03-26T09:51:26Z",
+      "content": "Shimla: The Himachal Pradesh High Court has issued notices to the Election Commission of India, the Central and state governments, the returning officer and MP Anurag Sharma on a PIL challenging Shar\u2026 [+1142 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://statetimes.in/wp-content/uploads/2026/03/Governor-Kavinder-Gupta-addresses-29th-National-Session-of-Bhartiya-Yuva-Sansad-in-Nagpur.jpg",
       "publishedAt": "2026-03-22T18:39:33Z",
       "content": "STATE TIMES NEWS\r\nNAGPUR: The Governor of Himachal Pradesh, Kavinder Gupta, delivered an inspiring address at the 29th National Session of the Bhartiya Yuva Sansad, organised jointly by the Bhartiya \u2026 [+2303 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "Mandi Himachal Pradesh landslide: Nine homes evacuated as boulders threaten village",
-      "description": "Nine houses in Himachal Pradesh's Mandi district were evacuated Sunday after a massive landslide, triggered by three days of intermittent rain, damaged a cow shed and left debris precariously perched. Officials issued the evacuation order for the Ropdu villag\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/mandi-himachal-pradesh-landslide-nine-homes-evacuated-as-boulders-threaten-village/articleshow/129736867.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-129736944,width-1200,height-630,imgsize-148432,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-03-22T17:59:52Z",
-      "content": "Directions were issued to evacuate nine houses in Ropdu village in Himachal Pradeshs Mandi district on Sunday following a massive landslide, according to a report by PTI.The landslide occurred in the\u2026 [+1431 chars]"
     }
   ],
   "directory": []
