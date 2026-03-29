@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-03-29 00:08:09",
+  "last_updated": "2026-03-29 04:46:59",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ANI",
+      "title": "IMD issues yellow alert for rain, snow in Himachal Pradesh",
+      "description": "Himachal Pradesh is under a yellow alert for rain, thunderstorms, lightning, and snowfall from March 28, with activity peaking on March 29-30. Light to moderate rainfall and snowfall are expected in higher reaches, while thunderstorms and lightning may occur \u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/imd-issues-yellow-alert-for-rain-snow-in-himachal-pradesh/articleshow/129858758.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-129858766,width-1200,height-630,imgsize-45552,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-03-28T04:22:10Z",
+      "content": "The India Meteorological Department (IMD) has issued a yellow alert for rain, thunderstorms, lightning, and snowfall in Himachal Pradesh starting Saturday, March 28, with weather activity expected to\u2026 [+2247 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-129765550,width-1200,height-630,imgsize-31330,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-03-24T02:02:45Z",
       "content": "Petrol, Diesel price today: The prices of petrol and diesel across the major Indian cities remained the same on March 24, 2026, Tuesday. In Delhi, the price of petrol is Rs 94.77 per litre and that o\u2026 [+156 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Statetimes.in"
-      },
-      "author": "statetimes_editor",
-      "title": "Himachal Police arrests interstate drug kingpin from Kathua",
-      "description": "STATE TIMES NEWS SHIMLA: The Himachal Pradesh police have arrested an interstate drug trafficking kingpin from Kathua, an official said on Sunday.The accused, Vijay Kumar alias VK, is a resident of Kathua in Jammu & Kashmir.According to Himachal Pradesh polic\u2026",
-      "url": "https://statetimes.in/himachal-police-arrests-interstate-drug-kingpin-from-kathua/",
-      "urlToImage": "https://statetimes.in/wp-content/uploads/2025/06/Arrested-held.jpg",
-      "publishedAt": "2026-03-22T19:20:08Z",
-      "content": "STATE TIMES NEWS\r\nSHIMLA: The Himachal Pradesh police have arrested an interstate drug trafficking kingpin from Kathua, an official said on Sunday.The accused, Vijay Kumar alias VK, is a resident of \u2026 [+843 chars]"
     }
   ],
   "directory": []
