@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-04-02 08:17:05",
+  "last_updated": "2026-04-02 12:12:00",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Express News Service",
+      "title": "\u2018Punjab also knows how to impose taxes\u2019: Bhagwant Mann issues warning to Himachal over entry fees for vehicles",
+      "description": "Punjab Chief Minister Bhagwant Mann also weighed in on former AAP MLA HS Phoolka joining the BJP, saying it was a \u2018breach of trust\u2019 of those who voted for him.",
+      "url": "https://indianexpress.com/article/cities/chandigarh/impose-tax-bhagwant-mann-warn-himachal-entry-fees-vehicles-10613706/",
+      "urlToImage": "https://images.indianexpress.com/2026/04/Doshi-98.jpg",
+      "publishedAt": "2026-04-01T11:47:14Z",
+      "content": "Wading into the ongoing inter-state tax friction, Punjab Chief Minister Bhagwant Mann on Wednesday warned his Himachal Pradesh counterpart Sukhvinder Sukhu that Punjab could also impose an entry tax \u2026 [+2717 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-129861305,width-1280,height-720,imgsize-1456058,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-03-28T08:18:51Z",
       "content": "<ul><li>News</li>\r\n<li>lifestyle</li>\r\n<li>trending</li>\r\n<li>Brace for a cold shock: Snowfall, rain return to Shimla and Kullu; IMD sounds yellow alert</li></ul>\r\nFollow Us On Social Media\r\nCopyrigh\u2026 [+106 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ANI",
-      "title": "IMD issues yellow alert for rain, snow in Himachal Pradesh",
-      "description": "Himachal Pradesh is under a yellow alert for rain, thunderstorms, lightning, and snowfall from March 28, with activity peaking on March 29-30. Light to moderate rainfall and snowfall are expected in higher reaches, while thunderstorms and lightning may occur \u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/imd-issues-yellow-alert-for-rain-snow-in-himachal-pradesh/articleshow/129858758.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-129858766,width-1200,height-630,imgsize-45552,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-03-28T04:22:10Z",
-      "content": "The India Meteorological Department (IMD) has issued a yellow alert for rain, thunderstorms, lightning, and snowfall in Himachal Pradesh starting Saturday, March 28, with weather activity expected to\u2026 [+2247 chars]"
     }
   ],
   "directory": []
