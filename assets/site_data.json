@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-04-04 16:04:54",
+  "last_updated": "2026-04-04 20:03:56",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Aiswarya Raj",
+      "title": "LPG delayed, residents block Shimla bypass road in Dehradun",
+      "description": "The district supply officer, said that the agency had not stocked up on time",
+      "url": "https://indianexpress.com/article/india/dehradun-shimla-bypass-road-lpg-protest-supply-shortage-west-asia-war-10617903/",
+      "urlToImage": "https://images.indianexpress.com/2026/03/LPG-2-4_20260330000819.jpg",
+      "publishedAt": "2026-04-03T16:41:25Z",
+      "content": "A group of residents blocked the Shimla Bypass Road in Dehradun on Friday after they faced a delay in the delivery of liquified petroleum gas (LPG) for domestic use.Amid tensions in West Asia that di\u2026 [+2149 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://im.rediff.com/1200-630/news/2024/feb/22khelo-india11.jpg",
       "publishedAt": "2026-03-29T13:32:18Z",
       "content": "Jharkhand, Himachal Pradesh, and Mizoram emerged as top performers at the Khelo India Tribal Games, showcasing their prowess in wrestling and weightlifting events.\r\nIMAGE: All photographs: Umar Ganie\u2026 [+3047 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Trending Desk",
-      "title": "HPRCA releases TGT medical final result 2026 out at hprca.hp.gov.in: Check direct link and steps to download pdf",
-      "description": "The Himachal Pradesh State Selection Commission has released the final results for 169 trainee trained graduate teacher (medical) positions.  The recruitment process for post code 25003 is now complete. Candidates can check their selection status on the offic\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/hprca-releases-tgt-medical-final-result-2026-out-at-hprca-hp-gov-in-check-direct-link-and-steps-to-download-pdf/articleshow/129880251.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-129880411,width-1200,height-630,imgsize-54024,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-03-29T12:17:21Z",
-      "content": "Alpha Trade\r\nGet daily trade ideas from SEBI-registered research analysts.\r\nInvestment Ideas\r\nGrow your wealth with stock ideas &amp; sectoral trends.\r\nStock Reports Plus\r\nAll-in-one stock research w\u2026 [+512 chars]"
     }
   ],
   "directory": []
