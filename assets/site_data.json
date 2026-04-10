@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-04-10 00:11:12",
+  "last_updated": "2026-04-10 04:54:30",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Three men from Punjab arrested for stabbing passengers, driver of bus in Himachal over road rage",
+      "description": "Three men from Punjab have been arrested in Himachal Pradesh's Kangra district. They allegedly stabbed a bus driver, conductor, and two passengers following a road rage incident. The accused attempted to overtake the bus, leading to a heated argument and alle\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/three-men-from-punjab-arrested-for-stabbing-passengers-driver-of-bus-in-himachal-over-road-rage/articleshow/130129793.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-130129849,width-1200,height-630,imgsize-9866,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-04-09T04:50:49Z",
+      "content": "Shimla: Three men from Punjab have been arrested for allegedly stabbing the driver, conductor and two passengers of a Delhi-bound bus after an argument over a road rage incident in Himachal Pradesh's\u2026 [+1087 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-130052783,width-1280,height-720,imgsize-28802,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-04-06T06:41:58Z",
       "content": "Follow Us On Social Media"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Education",
-      "title": "HP PAT 2026 registration begins at hptechboard.com; apply by this date: Check direct link",
-      "description": "Himachal Pradesh Technical Education Board has opened registrations for HP PAT 2026, offering diploma admissions. The application deadline is May 5, 2026, with the exam scheduled for May 17. Candidates need at least 35% in Class 10. The exam features 150 ques\u2026",
-      "url": "https://timesofindia.indiatimes.com/education/news/hp-pat-2026-registration-begins-at-hptechboard-com-apply-by-this-date-check-direct-link/articleshow/130052119.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-130052112,width-1280,height-720,imgsize-896823,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-04-06T05:40:20Z",
-      "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>HP PAT 2026 registration begins at hptechboard.com; apply by this date: Check direct link</li></ul>\r\nFollow Us On Social Media\r\nAnil Rav\u2026 [+2160 chars]"
     }
   ],
   "directory": []
