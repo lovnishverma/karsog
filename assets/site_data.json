@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-04-11 08:08:31",
+  "last_updated": "2026-04-11 12:05:19",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "ANI",
+      "title": "Shimla records coldest April night in 46 years, temperature drops to 3.6\u00b0C: IMD",
+      "description": "The impact of continuous western disturbances has been visible across, with widespread rainfall and snowfall reported, particularly in higher altitude regions",
+      "url": "https://www.thehindubusinessline.com/news/national/shimla-records-coldest-april-night-in-46-years-temperature-drops-to-36c-imd/article70846705.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/8y3emm/article70846840.ece/alternates/LANDSCAPE_1200/20260409268L.jpg",
+      "publishedAt": "2026-04-10T09:59:07Z",
+      "content": "The capital city of the north Indian hill state Himachal Pradesh witnessed a sharp drop in temperatures over the past 24 hours, with the minimum temperature plunging to 3.6 degrees Celsius, marking t\u2026 [+2869 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-130070350,width-1200,height-630,imgsize-78124,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-04-06T19:24:46Z",
       "content": "NEW DELHI: The Centre has, for the first time, tied a portion of funding under the Special Assistance to States for Capital Investment (SASCI) scheme to fiscal discipline, seeking to nudge states tow\u2026 [+2816 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Express News Service",
-      "title": "Panchayat elections in HP: District administrations begin issuing reservation rosters",
-      "description": "On April 1, Chief Minister Sukhvinder Singh Sukhu had said in the House during the Budget session that PRI elections in the state will be held before May 31.",
-      "url": "https://indianexpress.com/article/cities/chandigarh/himachal-pradesh-pri-elections-2026-reservation-roster-shimla-10622430/",
-      "urlToImage": "https://images.indianexpress.com/2026/04/election-file-photo-express_20260406152104.jpg",
-      "publishedAt": "2026-04-06T15:24:41Z",
-      "content": "In view of the upcoming panchayati raj institutions (PRIs) elections in Himachal Pradesh, district administrations in Shimla, Kangra and Sirmaur have begun issuing reservation rosters for various loc\u2026 [+1664 chars]"
     }
   ],
   "directory": []
