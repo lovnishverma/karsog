@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-04-12 04:53:58",
+  "last_updated": "2026-04-12 08:13:19",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Kashmirnewsbureau.com"
+      },
+      "author": "Online Editor",
+      "title": "Forest Loss Along Shimla Ridge Triggers Alarm Over Water Catchment",
+      "description": "\u201cUnchecked forest loss along Shimla\u2019s vital catchment ridge could severely impact water security and ecological balance,\u201d says Retd Senior Army officer Atul Kaushik Shimla, Apr 11(KNB): Significant forest degradation along the Chail\u2013Koti\u2013Kufri ridge, a key wa\u2026",
+      "url": "https://kashmirnewsbureau.com/forest-loss-along-shimla-ridge-triggers-alarm-over-water-catchment/",
+      "urlToImage": "https://kashmirnewsbureau.com/wp-content/uploads/2026/04/172386.jpg",
+      "publishedAt": "2026-04-11T06:08:49Z",
+      "content": "Unchecked forest loss along Shimlas vital catchment ridge could severely impact water security and ecological balance, says Retd Senior Army officer Atul Kaushik\r\nShimla, Apr 11(KNB): Significant for\u2026 [+2248 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-130076583,width-1280,height-720,imgsize-108785,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-04-07T05:00:17Z",
       "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>HPRCA JE Recruitment 2026: Notification out for 149 Junior Engineer posts, applications begin April 10</li></ul>\r\nFollow Us On Social Me\u2026 [+2 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Anuradha Shukla",
-      "title": "Part of state capex loan tied to fiscal discipline",
-      "description": "Under the total outlay, Arunachal Pradesh received the highest allocation of Rs 4,900 crore, followed by Himachal Pradesh with Rs 3,920 crore. Nagaland was allocated Rs 3,880 crore, while Uttarakhand received Rs 3,460 crore and Tripura Rs 3,450 crore. Manipur\u2026",
-      "url": "https://economictimes.indiatimes.com/news/economy/policy/part-of-state-capex-loan-tied-to-fiscal-discipline/articleshow/130070359.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-130070350,width-1200,height-630,imgsize-78124,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-04-06T19:24:46Z",
-      "content": "NEW DELHI: The Centre has, for the first time, tied a portion of funding under the Special Assistance to States for Capital Investment (SASCI) scheme to fiscal discipline, seeking to nudge states tow\u2026 [+2816 chars]"
     }
   ],
   "directory": []
