@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-04-13 08:37:07",
+  "last_updated": "2026-04-13 12:16:23",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Rediff.com"
+      },
+      "author": "sports@rediff.co.in (Rediff Sports Desk)",
+      "title": "Indian Runner Sawan Barwal Sets New Marathon National Record",
+      "description": "Himachal Pradesh's Sawan Barwal broke the 48-year-old national marathon record at the NN Marathon Rotterdam, clocking 2:11:58 and surpassing Shivnath Singh's 1978 record.",
+      "url": "https://www.rediff.com/sports/report/sawan-barwal-breaks-marathon-national-record-1/20260412.htm",
+      "urlToImage": "https://im.rediff.com/1200-630/getahead/2024/jan/03marathon1.jpg",
+      "publishedAt": "2026-04-12T11:56:21Z",
+      "content": "Indian long-distance runner Sawan Barwal etched his name in history by shattering the 48-year-old national marathon record at the NN Marathon Rotterdam, signalling a new chapter for Indian athletics.\u2026 [+3375 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-130076604,width-1200,height-630,imgsize-2709843,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-04-07T05:01:10Z",
       "content": "IIT Baba marriage: Abhey Singh, also known as IIT Baba after gaining attention during the Mahakumbh Mela, has tied the knot to an engineer from Karnataka in Himachal Pradesh. Abhey Singh and hiw wife\u2026 [+3685 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Education",
-      "title": "HPRCA JE Recruitment 2026: Notification out for 149 Junior Engineer posts, applications begin April 10",
-      "description": "The Himachal Pradesh Rajya Chayan Aayog (HPRCA) has announced recruitment for 149 Junior Engineer (Civil) posts for 2026. The online application process will begin on April 10 and close on May 2. Eligible candidates with a diploma or degree in civil engineeri\u2026",
-      "url": "https://timesofindia.indiatimes.com/education/news/hprca-je-recruitment-2026-notification-out-for-149-junior-engineer-posts-applications-begin-april-10/articleshow/130076486.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-130076583,width-1280,height-720,imgsize-108785,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-04-07T05:00:17Z",
-      "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>HPRCA JE Recruitment 2026: Notification out for 149 Junior Engineer posts, applications begin April 10</li></ul>\r\nFollow Us On Social Me\u2026 [+2 chars]"
     }
   ],
   "directory": []
