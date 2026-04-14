@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-04-14 04:53:17",
+  "last_updated": "2026-04-14 08:28:59",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "This Army hawaldar breaks Shivnath Singh's 48-year-old marathon national record",
+      "description": "Himachal Pradesh runner Sawan Barwal shattered the 48-year-old national marathon record at the NN Marathon Rotterdam, clocking 2:11:58. This remarkable achievement marks his debut marathon, surpassing Shivnath Singh's 1978 record. Barwal, an Armyman, showcase\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/this-army-hawaldar-breaks-shivnath-singhs-48-year-old-marathon-national-record/articleshow/130228919.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-130228989,width-1200,height-630,imgsize-87544,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-04-13T06:53:06Z",
+      "content": "Himachal Pradesh long-distance runner Sawan Barwal created history on Sunday by breaking the 48-year-old national marathon recordthe longest-standing mark in Indian athleticsat the Rotterdam Marathon\u2026 [+2457 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-130129849,width-1200,height-630,imgsize-9866,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-04-09T04:50:49Z",
       "content": "Shimla: Three men from Punjab have been arrested for allegedly stabbing the driver, conductor and two passengers of a Delhi-bound bus after an argument over a road rage incident in Himachal Pradesh's\u2026 [+1087 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Trending Desk",
-      "title": "IIT Baba marriage: Who is Abhey Singh's wife Pratika, with whom he tied the knot on Mahashivratri in Himachal? Check details",
-      "description": "IIT Baba marriage: Abhey Singh, a former aerospace engineering student from the IIT Bombay, who gained popularity during the Mahakumbh Mela has tied the knot with Pratika. She is an engineer from Bengaluru and the two got married on Mahashivratri in Himachal \u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/iit-baba-marriage-who-is-abhey-singhs-wife-pratika-with-whom-he-tied-the-knot-on-mahashivratri-in-himachal-check-details/articleshow/130076473.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-130076604,width-1200,height-630,imgsize-2709843,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-04-07T05:01:10Z",
-      "content": "IIT Baba marriage: Abhey Singh, also known as IIT Baba after gaining attention during the Mahakumbh Mela, has tied the knot to an engineer from Karnataka in Himachal Pradesh. Abhey Singh and hiw wife\u2026 [+3685 chars]"
     }
   ],
   "directory": []
