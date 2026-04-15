@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-04-15 00:14:52",
+  "last_updated": "2026-04-15 04:53:31",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Richa Sahay",
+      "title": "\u2018Classic case of complex human ties\u2019: Himachal Pradesh High Court refuses to cancel bail of rape accused",
+      "description": "The Himachal Pradesh High Court was hearing the plea of the survivor who sought cancellation of the bail of the accused, pointing to a violation of bail conditions.",
+      "url": "https://indianexpress.com/article/legal-news/himachal-pradesh-high-court-rape-accused-bail-complex-relation-10634326/",
+      "urlToImage": "https://images.indianexpress.com/2026/04/WhatsApp-Image-2026-04-13-at-5.52.03-PM.jpeg",
+      "publishedAt": "2026-04-14T02:30:06Z",
+      "content": "Himachal Pradesh High Court news:\u00a0Terming the matter a classic case of a complex human relationship, the Himachal Pradesh High Court recently declined to cancel the bail granted to a man accused of r\u2026 [+3601 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Drug addict stalker beheads 19-year-old girl on way to college in Himachal Pradesh",
+      "description": "A 19-year-old woman was brutally beheaded by a 36-year-old man in Himachal Pradesh's Mandi district while on her way to college. The alleged drug addict attacked her after she reportedly rejected his advances. Locals apprehended the suspect, who has since bee\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/shimla/drug-addict-stalker-beheads-19-year-old-girl-on-way-to-college-in-himachal-pradesh/articleshow/130249248.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-130249362,width-1280,height-720,imgsize-59388,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-04-14T01:24:26Z",
+      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://bl-i.thgim.com/public/incoming/8y3emm/article70846840.ece/alternates/LANDSCAPE_1200/20260409268L.jpg",
       "publishedAt": "2026-04-10T09:59:07Z",
       "content": "The capital city of the north Indian hill state Himachal Pradesh witnessed a sharp drop in temperatures over the past 24 hours, with the minimum temperature plunging to 3.6 degrees Celsius, marking t\u2026 [+2869 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Astrology",
-      "title": "Exclusive: The mystery flame of Jwala Ji temple that burns without oil and wick",
-      "description": "In Kangra, Himachal Pradesh, the Jwala Ji temple houses eternal flames burning for over 500 years without oil or wick, a symbol of divine presence. While science suggests natural gas emissions, the flames' consistency and longevity remain remarkable. Even Emp\u2026",
-      "url": "https://timesofindia.indiatimes.com/religion/religious-places/exclusive-the-mystery-flame-of-jwala-ji-temple-that-burns-without-oil-and-wick/articleshow/130133739.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-130133807,width-1280,height-720,imgsize-70458,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-04-09T07:51:03Z",
-      "content": "<ul><li>News</li>\r\n<li>Religion News</li>\r\n<li>Exclusive: The mystery flame of Jwala Ji temple that burns without oil and wick</li></ul>\r\nFollow Us On Social Media"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "Three men from Punjab arrested for stabbing passengers, driver of bus in Himachal over road rage",
-      "description": "Three men from Punjab have been arrested in Himachal Pradesh's Kangra district. They allegedly stabbed a bus driver, conductor, and two passengers following a road rage incident. The accused attempted to overtake the bus, leading to a heated argument and alle\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/three-men-from-punjab-arrested-for-stabbing-passengers-driver-of-bus-in-himachal-over-road-rage/articleshow/130129793.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-130129849,width-1200,height-630,imgsize-9866,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-04-09T04:50:49Z",
-      "content": "Shimla: Three men from Punjab have been arrested for allegedly stabbing the driver, conductor and two passengers of a Delhi-bound bus after an argument over a road rage incident in Himachal Pradesh's\u2026 [+1087 chars]"
     }
   ],
   "directory": []
