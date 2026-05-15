@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" data-theme="dark">
+<html lang="en" data-theme="light">
 
 <head>
     <meta charset="UTF-8">
@@ -99,6 +99,10 @@
             scroll-behavior: smooth;
         }
 
+        html {
+            scroll-padding-top: 80px;
+        }
+
         body {
             font-family: 'Outfit', sans-serif;
             background: var(--bg-body);
@@ -186,38 +190,55 @@
             transform: translateY(0);
         }
 
-        /* --- NAVBAR --- */
+                /* Enhanced Navigation */
         nav {
             position: fixed;
             top: 0;
             width: 100%;
             z-index: 1000;
             background: rgba(15, 23, 42, 0.95);
-            backdrop-filter: blur(12px);
-            border-bottom: 1px solid var(--glass-border);
-            padding: 1rem 0;
+            backdrop-filter: blur(20px) saturate(180%);
+            border-bottom: 1px solid var(--border);
+            padding: 0.75rem 0;
+            transition: all 0.3s ease;
         }
-
+        
         [data-theme="light"] nav {
             background: rgba(255, 255, 255, 0.95);
         }
 
+        nav.scrolled {
+            padding: 0.5rem 0;
+            box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+        }
+
         .nav-content {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 2rem;
             display: flex;
             justify-content: space-between;
             align-items: center;
         }
 
         .logo {
-            font-size: 1.5rem;
-            font-weight: 800;
+            font-size: 1.8rem;
+            font-weight: 900;
             color: var(--text-main);
             text-decoration: none;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            transition: all 0.3s ease;
+        }
+
+        .logo:hover {
+            transform: scale(1.05);
         }
 
         .nav-links {
             display: flex;
-            gap: 2rem;
+            gap: 2.5rem;
             list-style: none;
             align-items: center;
         }
@@ -225,130 +246,106 @@
         .nav-links a {
             color: var(--text-main);
             text-decoration: none;
-            font-weight: 500;
-            font-size: 0.95rem;
-            transition: color 0.3s;
+            font-weight: 600;
+            position: relative;
+            padding: 0.5rem 0;
+            transition: all 0.3s ease;
+        }
+
+        .nav-links a::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 0;
+            height: 2px;
+            background: var(--primary);
+            transition: width 0.3s ease;
+        }
+
+        .nav-links a:hover::after {
+            width: 100%;
         }
 
         .nav-links a:hover {
             color: var(--primary);
         }
 
-        .cta-group {
-            display: flex;
-            align-items: center;
-            gap: 1rem;
-        }
-
-        /* --- TOGGLE SWITCH CSS START --- */
-        .theme-switch-wrapper {
-            display: flex;
-            align-items: center;
-        }
-
-        .theme-switch {
-            display: inline-block;
-            height: 30px;
-            position: relative;
-            width: 56px;
-        }
-
-        .theme-switch input {
-            display: none;
-        }
-
-        .slider {
-            background-color: var(--bg-card);
-            border: 1px solid var(--glass-border);
-            bottom: 0;
-            cursor: pointer;
-            left: 0;
-            position: absolute;
-            right: 0;
-            top: 0;
-            transition: .4s;
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            padding: 0 6px;
-        }
-
-        .slider:before {
-            background-color: var(--text-main);
-            bottom: 3px;
-            content: "";
-            height: 22px;
-            left: 4px;
-            position: absolute;
-            transition: .4s;
-            width: 22px;
-            z-index: 2;
-        }
-
-        .slider.round {
-            border-radius: 34px;
-        }
-
-        .slider.round:before {
+        .theme-toggle {
+            background: var(--bg-card);
+            border: 2px solid var(--border);
+            color: var(--text-main);
+            width: 48px;
+            height: 48px;
             border-radius: 50%;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s ease;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
         }
 
-        /* Icon Styles inside toggle */
-        .slider .fa-sun {
-            color: #f59e0b;
-            font-size: 12px;
-            z-index: 1;
-            transition: 0.3s;
-            opacity: 0.5;
-        }
-
-        .slider .fa-moon {
-            color: #f1c40f;
-            font-size: 12px;
-            z-index: 1;
-            transition: 0.3s;
-            opacity: 1;
-        }
-
-        /* Checked State (Light Mode) */
-        input:checked+.slider {
-            background-color: var(--bg-card);
+        .theme-toggle:hover {
             border-color: var(--primary);
+            transform: rotate(180deg);
+            box-shadow: 0 4px 20px rgba(59, 130, 246, 0.3);
         }
-
-        input:checked+.slider:before {
-            transform: translateX(26px);
-            background-color: var(--primary);
-        }
-
-        input:checked+.slider .fa-sun {
-            opacity: 1;
-        }
-
-        input:checked+.slider .fa-moon {
-            opacity: 0.5;
-        }
-
-        /* --- TOGGLE SWITCH CSS END --- */
 
         .mobile-toggle {
             display: none;
-            font-size: 1.5rem;
+            font-size: 1.8rem;
             cursor: pointer;
             color: var(--text-main);
-            margin-left: 15px;
+            transition: all 0.3s ease;
+        }
+
+        .mobile-toggle:hover {
+            color: var(--primary);
+        }
+
+        @media (max-width: 768px) {
+            .nav-links {
+                position: fixed;
+                top: 80px;
+                right: -100%;
+                width: 100%;
+                height: calc(100vh - 80px);
+                background: var(--bg-card);
+                flex-direction: column;
+                padding: 3rem 2rem;
+                transition: right 0.4s ease;
+                border-top: 1px solid var(--border);
+                backdrop-filter: blur(20px);
+            }
+
+            .nav-links.active {
+                right: 0;
+            }
+
+            .nav-links a {
+                font-size: 1.3rem;
+                padding: 1rem 0;
+                width: 100%;
+                text-align: center;
+            }
+
+            .mobile-toggle {
+                display: block;
+            }
         }
 
         /* --- HERO SECTION --- */
         .hero {
-            min-height: 90vh;
+            min-height: 80vh;
             display: flex;
             align-items: center;
             background: linear-gradient(rgba(15, 23, 42, 0.6), rgba(15, 23, 42, 0.8)),
                 url('https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?q=80&w=1920&auto=format&fit=crop');
             background-size: cover;
             background-position: center;
-            padding-top: 4rem;
+            padding-top: 8rem;
+            padding-bottom: 6rem;
             margin-top: -1px;
         }
 
@@ -815,11 +812,12 @@
 
     <div id="toast"><i class="fas fa-check-circle"></i> Inquiry Sent! We'll call you shortly.</div>
 
-    <nav>
-        <div class="container nav-content">
-            <a href="index.html" class="logo" style="display: flex; align-items: center; gap: 8px;">
-                <svg width="190" height="40" viewBox="0 0 190 40" xmlns="http://www.w3.org/2000/svg"
-                    aria-label="Karsog.com Logo">
+        <!-- Navigation with semantic HTML5 -->
+    <nav id="navbar" role="navigation" aria-label="Main Navigation">
+        <div class="nav-content">
+            <a href="index.html" class="logo" aria-label="Karsog.com Homepage"
+                style="display: flex; align-items: center; gap: 8px;">
+                <svg width="190" height="40" viewBox="0 0 190 40" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
                     <path d="M10 30L20 10L30 30" stroke="#3b82f6" stroke-width="4" stroke-linecap="round"
                         stroke-linejoin="round" />
                     <path d="M20 30L30 18L40 30" stroke="#94a3b8" stroke-width="4" stroke-linecap="round"
@@ -827,34 +825,23 @@
                     <circle cx="20" cy="16" r="3" fill="#f59e0b" />
                     <text x="50" y="28" font-family="'Outfit', sans-serif" font-size="24" font-weight="800"
                         fill="var(--text-main)">
-                        Karsog<tspan dx="-4" font-family="'Inter', sans-serif" font-size="16" font-weight="600"
+                        Karsog <tspan dx="-4" font-family="'Inter', sans-serif" font-size="16" font-weight="600"
                             fill="#3b82f6">.com</tspan>
                     </text>
                 </svg>
             </a>
-
             <ul class="nav-links" id="navLinks">
-                <li><a href="index.html" onclick="toggleMenu()">Home</a></li>
-                <li><a href="directory.html" onclick="toggleMenu()">Directory</a></li>
-                <li><a href="#packages" onclick="toggleMenu()">Packages</a></li>
-                <li><a href="#stays" onclick="toggleMenu()">Stays</a></li>
-                <li><a href="#reviews" onclick="toggleMenu()">Reviews</a></li>
-                <li><a href="#blog" onclick="toggleMenu()">Blog</a></li>
+                <li><a href="index.html" title="Home">Home</a></li>
+                <li><a href="directory.html" title="Karsog Business Directory">Directory</a></li>
+                <li><a href="travel.html" title="Karsog Travel Packages">Travel</a></li>
+                <li><a href="analytics.html" title="Business Analytics">Analytics</a></li>
+                <li><a href="index.html#contact" title="Contact Us">Contact</a></li>
             </ul>
-
-            <div class="cta-group">
-                <button class="btn btn-primary desktop-btn" onclick="scrollToForm()">Get Quote</button>
-
-                <div class="theme-switch-wrapper">
-                    <label class="theme-switch" for="checkbox">
-                        <input type="checkbox" id="checkbox" onchange="toggleTheme()" />
-                        <div class="slider round">
-                            <i class="fas fa-moon"></i>
-                            <i class="fas fa-sun"></i>
-                        </div>
-                    </label>
-                </div>
-                <div class="mobile-toggle" onclick="toggleMenu()" aria-label="Open Menu">
+            <div style="display: flex; gap: 1rem; align-items: center;">
+                <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle dark/light theme">
+                    <i class="fas fa-moon" id="themeIcon"></i>
+                </button>
+                <div class="mobile-toggle" onclick="toggleMenu()" aria-label="Toggle mobile menu">
                     <i class="fas fa-bars"></i>
                 </div>
             </div>
@@ -881,7 +868,7 @@
         </div>
     </header>
 
-    <section style="padding: 4rem 0;">
+    <section style="padding: 1.5rem 0 4rem;">
         <div class="container">
             <div class="features-grid reveal">
                 <div class="feature-card">
@@ -922,15 +909,15 @@
                             loading="lazy" alt="Karsog Valley View">
                     </div>
                     <div class="pkg-content">
-                        <h3>Weekend Escape</h3>
-                        <div class="pkg-price">₹5,999 <span>/ person</span></div>
+                        <h3>Chindi & Tattapani Retreat</h3>
+                        <div class="pkg-price">₹6,499 <span>/ person</span></div>
                         <ul class="features-list">
                             <li><i class="fas fa-check-circle"></i> 2 Days / 1 Night</li>
-                            <li><i class="fas fa-check-circle"></i> Stay at Homestay</li>
-                            <li><i class="fas fa-check-circle"></i> Mamleshwar Temple Tour</li>
-                            <li><i class="fas fa-check-circle"></i> Bonfire & Dinner</li>
+                            <li><i class="fas fa-check-circle"></i> Stay at Chindi Homestay</li>
+                            <li><i class="fas fa-check-circle"></i> Tattapani Hot Springs Visit</li>
+                            <li><i class="fas fa-check-circle"></i> Mahunag Temple Tour</li>
                         </ul>
-                        <button onclick="selectPackage('Weekend Escape')" class="btn btn-primary"
+                        <button onclick="selectPackage('Chindi Retreat')" class="btn btn-primary"
                             style="width: 100%; justify-content: center;">View Details</button>
                     </div>
                 </div>
@@ -961,15 +948,15 @@
                             loading="lazy" alt="Luxury Hotel Karsog">
                     </div>
                     <div class="pkg-content">
-                        <h3>Royal Karsog Retreat</h3>
-                        <div class="pkg-price">₹14,999 <span>/ person</span></div>
+                        <h3>Karsog Temple Circuit</h3>
+                        <div class="pkg-price">₹12,999 <span>/ person</span></div>
                         <ul class="features-list">
                             <li><i class="fas fa-check-circle"></i> 4 Days / 3 Nights</li>
-                            <li><i class="fas fa-check-circle"></i> Premium Hotel Suite</li>
-                            <li><i class="fas fa-check-circle"></i> Private Taxi for Sightseeing</li>
-                            <li><i class="fas fa-check-circle"></i> Apple Orchard Picnic</li>
+                            <li><i class="fas fa-check-circle"></i> Premium Hotel Stay</li>
+                            <li><i class="fas fa-check-circle"></i> Mamleshwar & Kamaksha Tour</li>
+                            <li><i class="fas fa-check-circle"></i> Local Guide Included</li>
                         </ul>
-                        <button onclick="selectPackage('Royal Retreat')" class="btn btn-primary"
+                        <button onclick="selectPackage('Temple Circuit')" class="btn btn-primary"
                             style="width: 100%; justify-content: center;">View Details</button>
                     </div>
                 </div>
@@ -1209,9 +1196,8 @@
                     </div>
                     <div class="blog-content">
                         <span class="blog-date">OCT 12, 2025</span>
-                        <h3>5 Hidden Gems in Karsog</h3>
-                        <p class="text-muted" style="font-size: 0.9rem; margin-bottom: 1rem;">Beyond the main temple,
-                            explore these secret waterfalls and meadows...</p>
+                        <h3>Chindi: Karsog's Best Kept Secret</h3>
+                        <p class="text-muted" style="font-size: 0.9rem; margin-bottom: 1rem;">Discover the serene apple orchards, thick pine forests, and cool mountain breeze of Chindi...</p>
                         <a href="#" class="text-primary" style="font-weight: 600; text-decoration: none;">Read More
                             →</a>
                     </div>
@@ -1239,9 +1225,8 @@
                     </div>
                     <div class="blog-content">
                         <span class="blog-date">DEC 20, 2025</span>
-                        <h3>History of Mamleshwar</h3>
-                        <p class="text-muted" style="font-size: 0.9rem; margin-bottom: 1rem;">The legend of the
-                            5000-year-old grain and its connection to the Pandavas...</p>
+                        <h3>Mystery of Mamleshwar's Flame</h3>
+                        <p class="text-muted" style="font-size: 0.9rem; margin-bottom: 1rem;">The legend of the eternal Dhooni, the 200g wheat grain, and its connection to the Pandavas...</p>
                         <a href="#" class="text-primary" style="font-weight: 600; text-decoration: none;">Read More
                             →</a>
                     </div>
@@ -1360,7 +1345,7 @@
 
         // Set Initial Theme on Load
         window.addEventListener('DOMContentLoaded', () => {
-            const savedTheme = localStorage.getItem('theme') || 'dark';
+            const savedTheme = localStorage.getItem('theme') || 'light';
             document.documentElement.setAttribute('data-theme', savedTheme);
 
             // Sync the toggle switch with the saved theme
@@ -1373,10 +1358,7 @@
         });
 
         // --- Navigation ---
-        function toggleMenu() {
-            const nav = document.getElementById('navLinks');
-            nav.classList.toggle('active');
-        }
+        
 
         function scrollToForm() {
             document.getElementById('contact').scrollIntoView({ behavior: 'smooth' });

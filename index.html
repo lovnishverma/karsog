@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" data-theme="dark">
+<html lang="en" data-theme="light">
 
 <head>
     <!-- Essential Meta Tags -->
@@ -260,6 +260,7 @@
 
         html {
             scroll-behavior: smooth;
+            scroll-padding-top: 80px;
         }
 
         body {
@@ -432,12 +433,12 @@
 
         /* Enhanced Hero */
         .hero {
-            min-height: 100vh;
+            min-height: 90vh;
             display: flex;
             align-items: center;
             justify-content: center;
             text-align: center;
-            padding: 10rem 2rem 4rem;
+            padding: 10rem 2rem 5rem;
             position: relative;
         }
 
@@ -821,6 +822,9 @@
             text-align: center;
             position: relative;
             overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            height: 100%;
         }
 
         .feature-card::before {
@@ -872,6 +876,7 @@
             color: var(--text-muted);
             line-height: 1.8;
             margin-bottom: 2rem;
+            flex-grow: 1;
         }
 
         /* Enhanced News Section */
@@ -893,6 +898,9 @@
             border-radius: 24px;
             overflow: hidden;
             transition: var(--transition);
+            display: flex;
+            flex-direction: column;
+            height: 100%;
         }
 
         .news-card:hover {
@@ -914,6 +922,9 @@
 
         .news-content {
             padding: 2.5rem;
+            display: flex;
+            flex-direction: column;
+            flex-grow: 1;
         }
 
         .news-date {
@@ -935,6 +946,7 @@
             color: var(--text-muted);
             line-height: 1.8;
             margin-bottom: 1.5rem;
+            flex-grow: 1;
         }
 
         .news-link {
@@ -945,6 +957,7 @@
             align-items: center;
             gap: 0.5rem;
             transition: var(--transition);
+            margin-top: auto;
         }
 
         .news-link:hover {
@@ -1232,6 +1245,7 @@
             </div>
         </div>
     </header>
+    <br>
 
     <!-- Quick Stats Section -->
     <section class="quick-stats" aria-label="Karsog Valley Statistics">
@@ -1357,6 +1371,74 @@
                     festivals preserved in every village across Karsog Valley.</p>
                 <a href="#heritage" class="btn btn-primary" title="Read Karsog Heritage Stories"
                     style="margin-top: 1rem; padding: 0.75rem 1.5rem; font-size: 0.9rem;">Read Stories</a>
+            </article>
+        </div>
+    </section>
+
+    <!-- About Karsog Valley -->
+    <section class="features-section reveal" id="about" aria-label="About Karsog Valley">
+        <div class="section-header">
+            <h2>About Karsog Valley</h2>
+            <p>A pristine Himalayan paradise in Mandi, Himachal Pradesh</p>
+        </div>
+        <div class="features-grid">
+            <article class="feature-card" style="grid-column: 1 / -1; text-align: left; padding: 4rem;">
+                <h3 style="font-size: 2.2rem; color: var(--primary); margin-bottom: 1.5rem;">The Hidden Gem of Himachal
+                </h3>
+                <div>
+                    <p style="font-size: 1.1rem; line-height: 1.9; color: var(--text-main); margin-bottom: 1.5rem;">
+                        Nestled in the Pir Panjal range of the Himalayas, Karsog Valley is located in the Mandi district
+                        of Himachal Pradesh at an average elevation of 1,400 to 1,800 meters. Known for its terraced
+                        apple orchards, dense pine and deodar forests, and untouched natural beauty, it is a haven for
+                        nature lovers and spiritual seekers alike.
+                    </p>
+                    <p style="font-size: 1.1rem; line-height: 1.9; color: var(--text-main);">
+                        According to local legends, Karsog has a deep connection with the Mahabharata. It is believed
+                        that the Pandavas spent a significant part of their exile in this valley. The name "Karsog" is
+                        said to be derived from the words "Kar" (mourning) and "Shok" (sorrow), pointing to a mythical
+                        past where the villagers were troubled by a demon, who was eventually slain by Bhima.
+                    </p>
+                </div>
+            </article>
+        </div>
+    </section>
+
+    <!-- Temples Section -->
+    <section class="news-section reveal" id="temples" aria-label="Famous Temples of Karsog">
+        <div class="section-header">
+            <h2>Sacred Temples of Karsog</h2>
+            <p>Explore ancient Himalayan architecture and deep-rooted mythology</p>
+        </div>
+        <div class="news-grid">
+            <article class="news-card">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mamleshwar_mahadev_temple.jpg/1920px-Mamleshwar_mahadev_temple.jpg"
+                    alt="Mamleshwar Mahadev Temple" class="news-image" loading="lazy">
+                <div class="news-content">
+                    <h3 style="color: var(--primary); margin-bottom: 1rem;">Mamleshwar Mahadev Temple</h3>
+                    <p>One of the most revered ancient temples, dedicated to Lord Shiva. It houses a 200g grain of wheat
+                        believed to be from the Mahabharata era, a fire (Dhooni) that has been burning for thousands of
+                        years, and a massive ancient drum (Bhekhli) crafted by the Pandavas.</p>
+                </div>
+            </article>
+            <article class="news-card">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Kamaksha_Devi_Karsog_Kao.JPG"
+                    alt="Kamaksha Devi Temple" class="news-image" loading="lazy">
+                <div class="news-content">
+                    <h3 style="color: var(--primary); margin-bottom: 1rem;">Kamaksha Devi Temple</h3>
+                    <p>Located in the village of Kao, this temple is famous for its intricate Kath-Kuni wood carvings
+                        and unique Pagoda-style architecture. Dedicated to Goddess Durga, it is a prime example of
+                        exquisite Himachali craftsmanship and spiritual devotion.</p>
+                </div>
+            </article>
+            <article class="news-card">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Shikari_Devi_Temple.jpg/1920px-Shikari_Devi_Temple.jpg"
+                    alt="Shikari Devi Temple" class="news-image" loading="lazy">
+                <div class="news-content">
+                    <h3 style="color: var(--primary); margin-bottom: 1rem;">Shikari Devi Temple</h3>
+                    <p>Situated at an altitude of 3,359 meters, this unique roofless temple is dedicated to the Goddess
+                        of Hunters. Despite heavy snowfall in winter, snow never accumulates on the idols. The trek to
+                        the temple offers breathtaking 360-degree Himalayan views.</p>
+                </div>
             </article>
         </div>
     </section>
@@ -1498,7 +1580,7 @@
         // Theme Toggle with localStorage persistence
         function toggleTheme() {
             const html = document.documentElement;
-            const current = html.getAttribute('data-theme') || 'dark';
+            const current = html.getAttribute('data-theme') || 'light';
             const next = current === 'dark' ? 'light' : 'dark';
             html.setAttribute('data-theme', next);
             document.getElementById('themeIcon').className = next === 'dark' ? 'fas fa-moon' : 'fas fa-sun';
@@ -1517,7 +1599,7 @@
 
         // Initialize Theme from localStorage
         window.addEventListener('DOMContentLoaded', () => {
-            const savedTheme = localStorage.getItem('theme') || 'dark';
+            const savedTheme = localStorage.getItem('theme') || 'light';
             document.documentElement.setAttribute('data-theme', savedTheme);
             document.getElementById('themeIcon').className = savedTheme === 'dark' ? 'fas fa-moon' : 'fas fa-sun';
         });
