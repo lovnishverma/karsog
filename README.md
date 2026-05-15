@@ -144,7 +144,7 @@ To enable the automated news feed:
 
 ## ⛔ License & Copyright
 
-**Copyright © 2025 Karsog.com. All Rights Reserved.**
+**Copyright © 2026 Karsog.com. All Rights Reserved.**
 
 This source code is **PROPRIETARY** and **CONFIDENTIAL**.
 
