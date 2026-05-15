@@ -822,7 +822,7 @@
                 <li><a href="directory.html" title="Karsog Business Directory">Directory</a></li>
                 <li><a href="travel.html" title="Karsog Travel Packages">Travel</a></li>
                 <li><a href="analytics.html" title="Business Analytics">Analytics</a></li>
-                <li><a href="index.html#contact" title="Contact Us">Contact</a></li>
+                <li><a href="#site-footer" title="Contact Us">Contact</a></li>
             </ul>
             <div style="display: flex; gap: 1rem; align-items: center;">
                 <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle dark/light theme">
@@ -1270,7 +1270,7 @@
         </iframe>
     </div>
 
-    <footer>
+    <footer id="site-footer">
         <div class="container">
             <div class="footer-grid">
                 <div>
@@ -1355,7 +1355,18 @@
         });
 
         // --- Navigation ---
-
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                const href = this.getAttribute('href');
+                if (href !== '#' && document.querySelector(href)) {
+                    e.preventDefault();
+                    document.querySelector(href).scrollIntoView({ behavior: 'smooth' });
+                    if (document.getElementById('navLinks')) {
+                        document.getElementById('navLinks').classList.remove('active');
+                    }
+                }
+            });
+        });
 
         function scrollToForm() {
             document.getElementById('contact').scrollIntoView({ behavior: 'smooth' });
