@@ -1240,10 +1240,13 @@
                     <input type="email" placeholder="Email Address" required aria-label="Email">
                     <select id="packageSelect" aria-label="Select Package">
                         <option value="">Select a Package / Interest</option>
-                        <option value="Weekend Escape">Weekend Escape (Budget)</option>
+                        <option value="Chindi Retreat">Chindi & Tattapani Retreat</option>
                         <option value="Shikari Trek">Shikari Devi Trek (Adventure)</option>
-                        <option value="Royal Retreat">Royal Retreat (Luxury)</option>
-                        <option value="Hotel Booking">Hotel Booking Only</option>
+                        <option value="Temple Circuit">Karsog Temple Circuit</option>
+                        <option value="Hotel OMS">Hotel OMS Booking</option>
+                        <option value="Hotel Tejas">Hotel Tejas Booking</option>
+                        <option value="Hotel Mamleshwar">Hotel Mamleshwar Booking</option>
+                        <option value="Hotel City Heart">Hotel City Heart Booking</option>
                         <option value="Custom">Custom Itinerary</option>
                     </select>
                     <input type="date" placeholder="Travel Date" aria-label="Travel Date">
@@ -1391,20 +1394,41 @@
         // --- Form Handling ---
         function submitLead(e) {
             e.preventDefault();
-            const btn = e.target.querySelector('button');
+            const form = e.target;
+            const btn = form.querySelector('button');
             const originalText = btn.innerHTML;
 
-            btn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Processing...';
+            // Get field values
+            const name = form.querySelector('input[placeholder="Your Name"]').value;
+            const phone = form.querySelector('input[placeholder="Phone Number"]').value;
+            const email = form.querySelector('input[placeholder="Email Address"]').value;
+            const packageInterest = document.getElementById('packageSelect').value;
+            const travelDate = form.querySelector('input[type="date"]').value;
+            const requirements = form.querySelector('textarea').value;
+
+            btn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Redirecting to WhatsApp...';
             btn.style.opacity = '0.8';
 
-            // Simulate API call
+            // Construct WhatsApp Message
+            const message = `*New Dream Trip Inquiry*\n\n` +
+                `*Name:* ${name}\n` +
+                `*Phone:* ${phone}\n` +
+                `*Email:* ${email}\n` +
+                `*Package:* ${packageInterest || 'Not Selected'}\n` +
+                `*Date:* ${travelDate || 'Not specified'}\n` +
+                `*Requirements:* ${requirements || 'None'}`;
+
+            const whatsappUrl = `https://wa.me/918894869371?text=${encodeURIComponent(message)}`;
+
+            // Simulate a brief delay for UX then redirect
             setTimeout(() => {
                 document.getElementById('toast').classList.add('show');
-                e.target.reset();
+                window.open(whatsappUrl, '_blank');
+                form.reset();
                 btn.innerHTML = originalText;
                 btn.style.opacity = '1';
                 setTimeout(() => document.getElementById('toast').classList.remove('show'), 3000);
-            }, 1500);
+            }, 1000);
         }
 
         // --- Scroll Animation ---
