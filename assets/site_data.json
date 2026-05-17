@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-05-17 08:43:02",
+  "last_updated": "2026-05-17 12:19:18",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ANI",
+      "title": "Fuel price hike hitting common people, contractors stopping work due to rising bitumen costs: Himachal PWD minister",
+      "description": "Himachal Pradesh Public Works Department Minister Vikramaditya Singh alleged that rising petrol and diesel prices are fueling inflation, impacting common citizens, traders, and contractors. He highlighted the severe effect on road construction due to doubled \u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/fuel-price-hike-hitting-common-people-contractors-stopping-work-due-to-rising-bitumen-costs-himachal-minister-vikramaditya-singh/articleshow/131134833.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-131134859,width-1200,height-630,imgsize-101264,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-05-16T09:27:28Z",
+      "content": "Shimla: The Public Works Department Minister of Himachal Pradesh, Vikramaditya Singh, on Saturday, alleged that the recent rise in petrol and diesel prices has triggered inflationary pressure across \u2026 [+3210 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://images.indianexpress.com/2026/05/Construction_20260511165407.jpg",
       "publishedAt": "2026-05-11T17:19:27Z",
       "content": "Police arrested three individuals in regarding the death of a 14-year-old, who succumbed to his head injuries after a brick fell on him from the seventh floor of an under-construction building in San\u2026 [+1680 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Saurabh Parashar",
-      "title": "5 tourists from Gujarat among 6 dead as SUV plunges into gorge in Himachal\u2019s Chamba",
-      "description": "Four others were injured after the vehicle fell 150 metres  into a gorge near Kakira. The victims were travelling from Manali to Dalhousie.",
-      "url": "https://indianexpress.com/article/cities/chandigarh/himachal-pradesh-chamba-accident-gujarat-tourists-killed-10683571/",
-      "urlToImage": "https://images.indianexpress.com/2026/05/Himachal-Gujarat-accident.jpg",
-      "publishedAt": "2026-05-11T07:30:31Z",
-      "content": "Six people, including five tourists from Gujarat and a local driver, were killed in the early hours of Monday when their SUV skidded off the road and plunged into a deep gorge near Kakira in Himachal\u2026 [+2071 chars]"
     }
   ],
   "directory": []
