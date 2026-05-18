@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-05-18 09:10:01",
+  "last_updated": "2026-05-18 13:11:22",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Mallikarjun Kharge, Rahul Gandhi to attend V D Satheesan's swearing-in ceremony on Monday",
+      "description": "Congress leaders Mallikarjun Kharge, Rahul Gandhi, and Priyanka Gandhi Vadra will attend the swearing-in ceremony of Kerala chief minister-designate V D Satheesan on May 18. Chief ministers from Congress-ruled states Karnataka, Telangana, and Himachal Pradesh\u2026",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/mallikarjun-kharge-rahul-gandhi-to-attend-v-d-satheesans-swearing-in-ceremony-on-monday/articleshow/131151842.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-131151870,width-1200,height-630,imgsize-60976,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-05-17T09:54:32Z",
+      "content": "New Delhi: Congress president Mallikarjun Kharge and former party chief Rahul Gandhi will attend the swearing-in ceremony of Kerala chief minister-designate V D Satheesan in Thiruvananthapuram on May\u2026 [+823 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-131093176,width-1200,height-630,imgsize-114416,overlay-etpanache/articleshow.jpg",
       "publishedAt": "2026-05-14T12:17:16Z",
       "content": "A 51-year-old traveler, accompanied by a friend, embarked on an extensive bike journey across Uttarakhand and Himachal Pradesh, heading towards Leh-Ladakh. Their adventure, equipped with camping gear\u2026 [+185 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "EC rolls out SIR Phase III across India except J&K, Ladakh & Himachal Pradesh",
-      "description": "The Election Commission of India has launched Phase III of its Special Intensive Revision exercise. This initiative will update electoral rolls across 16 states and three Union Territories. Nearly 3.94 lakh Booth Level Officers will conduct door-to-door verif\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/ec-rolls-out-sir-phase-iii-across-india-except-jk-ladakh-himachal-pradesh/articleshow/131087861.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-131087937,width-1200,height-630,imgsize-49592,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-05-14T08:47:29Z",
-      "content": "The Election Commission of India announced on Thursday that it has rolled out Phase III of its Special Intensive Revision exercise across 16 states and three Union Territories as part of efforts to u\u2026 [+2852 chars]"
     }
   ],
   "directory": []
