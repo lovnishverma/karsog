@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-05-18 00:33:58",
+  "last_updated": "2026-05-18 05:22:58",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ANI",
+      "title": "Himachal Pradesh: Voting for 51 urban local bodies underway for civic body elections",
+      "description": "Voting is happening today for 51 local bodies in Himachal Pradesh. This includes four Municipal Corporations in Dharamshala, Palampur, Mandi, and Solan. Over 3.6 lakh voters are eligible to cast their ballots. Separate Panchayati Raj elections will also take \u2026",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/himachal-pradesh-voting-for-51-urban-local-bodies-underway-for-civic-body-elections/articleshow/131148804.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-131148809,width-1200,height-630,imgsize-81364,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-05-17T04:24:38Z",
+      "content": "The polling for 51 urban local bodies, including four Municipal Corporations in Himachal Pradesh, Dharamshala, Palampur, Mandi and Solan, is underway for the civic polls 2026.Voting started queuing f\u2026 [+3024 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://s.yimg.com/os/en/the_cricket_news_articles_506/6d6254ed31b287b2cb0715421479cd52",
       "publishedAt": "2026-05-13T10:28:31Z",
       "content": "PBKS vs MI Dream11: Lineups, pitch report and score predictions for IPL 2026 match originally appeared on Cricket News. Add Cricket News as a Preferred Source by clicking here.\r\n<ul><li>Punjab Kings \u2026 [+2472 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Express News Service",
-      "title": "14-yr-old killed at construction site in Himachal Pradesh\u2019s Sanjauli, 3 held",
-      "description": "Authorities have invoked culpable homicide charges after a Class 9 student succumbed to injuries caused by falling debris at a site lacking mandatory safety nets.",
-      "url": "https://indianexpress.com/article/cities/chandigarh/sanjauli-construction-site-accident-tanish-kaushal-death-arrests-10684376/",
-      "urlToImage": "https://images.indianexpress.com/2026/05/Construction_20260511165407.jpg",
-      "publishedAt": "2026-05-11T17:19:27Z",
-      "content": "Police arrested three individuals in regarding the death of a 14-year-old, who succumbed to his head injuries after a brick fell on him from the seventh floor of an under-construction building in San\u2026 [+1680 chars]"
     }
   ],
   "directory": []
