@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-05-19 13:03:09",
+  "last_updated": "2026-05-19 16:58:57",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Express News Service",
+      "title": "In an election without party symbols, both BJP & Congress claim victory in Himachal local polls",
+      "description": "Approximately 72.42 per cent polling was recorded in 47 Municipal Councils and Nagar Panchayats elections.",
+      "url": "https://indianexpress.com/article/cities/chandigarh/himachal-pradesh-ulb-election-results-bjp-congress-claim-victory-10696348/",
+      "urlToImage": "https://images.indianexpress.com/2026/05/bjp-11_20260518161317.jpg",
+      "publishedAt": "2026-05-18T16:17:18Z",
+      "content": "Both the Congress and the BJP claimed victories in the elections to the 47 Urban Local Bodies (ULBs), including Municipal Councils and Nagar Panchayats, which were not contested on party symbols, hel\u2026 [+3595 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": null,
       "publishedAt": "2026-05-14T13:11:22Z",
       "content": "If you click 'Accept all', we and our partners, including 247 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "He is 51, but travels like he is 18: Vlogger\u2019s unexpected meeting with stranger comes with a special message for young travel enthusiasts. \u2018Zindagi jeene ka jazba hona chahiye\u2019",
-      "description": "A 51-year-old traveler, accompanied by a friend, embarked on an extensive bike journey across Uttarakhand and Himachal Pradesh, heading towards Leh-Ladakh.  Their adventure, equipped with camping gear, demonstrated that passion and courage, not age, are key t\u2026",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/he-is-51-but-travels-like-he-is-18-vloggers-unexpected-meeting-with-stranger-comes-with-a-special-message-for-young-travel-enthusiasts-zindagi-jeene-ka-jazba-hona-chahiye/articleshow/131093152.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-131093176,width-1200,height-630,imgsize-114416,overlay-etpanache/articleshow.jpg",
-      "publishedAt": "2026-05-14T12:17:16Z",
-      "content": "A 51-year-old traveler, accompanied by a friend, embarked on an extensive bike journey across Uttarakhand and Himachal Pradesh, heading towards Leh-Ladakh. Their adventure, equipped with camping gear\u2026 [+185 chars]"
     }
   ],
   "directory": []
