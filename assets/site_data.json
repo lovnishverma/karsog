@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-05-20 12:50:32",
+  "last_updated": "2026-05-20 17:03:13",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Saurabh Parashar",
+      "title": "Over 10,800 candidates elected unopposed in Himachal Panchayati Raj polls",
+      "description": "131 gram panchayats unanimously elected; no voting to be held there",
+      "url": "https://indianexpress.com/article/cities/chandigarh/10800-candidates-elected-unopposed-himachal-panchayati-raj-polls-10698250/",
+      "urlToImage": "https://images.indianexpress.com/2026/01/polls-kroot-schoolink-4col.jpg",
+      "publishedAt": "2026-05-19T16:55:51Z",
+      "content": "After the completion of the nomination withdrawal process for the Panchayati Raj Institutions elections in Himachal Pradesh, as many as 10,854 candidates have been elected unopposed across the state,\u2026 [+1940 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Saurabh Parashar",
+      "title": "Shimla orchardist suffered Rs 40 lakh loss due to NH-5 four-lane work",
+      "description": "Horticulture department says collapse of crate walls damaged 550 apple plants in Mashobra area",
+      "url": "https://indianexpress.com/article/chandigarh/shimla-orchardist-rs-40-lakh-loss-nh-5-four-lane-work-10698212/",
+      "urlToImage": "https://images.indianexpress.com/2026/05/IE-Image-2026-05-19T211409.516.jpg",
+      "publishedAt": "2026-05-19T15:45:35Z",
+      "content": "An apple orchardist in Mashobra block of Shimla district has suffered losses amounting to nearly Rs 40 lakh after repeated collapse of crate walls during the ongoing four-lane project on the Kaithlig\u2026 [+3054 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -52,32 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-131150465,width-1200,height-630,imgsize-153102,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-05-17T07:28:51Z",
       "content": "Alpha Trade\r\nGet daily trade ideas from SEBI-registered research analysts.\r\nInvestment Ideas\r\nGrow your wealth with stock ideas &amp; sectoral trends.\r\nStock Reports Plus\r\nAll-in-one stock research w\u2026 [+512 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ANI",
-      "title": "Himachal Pradesh: Voting for 51 urban local bodies underway for civic body elections",
-      "description": "Voting is happening today for 51 local bodies in Himachal Pradesh. This includes four Municipal Corporations in Dharamshala, Palampur, Mandi, and Solan. Over 3.6 lakh voters are eligible to cast their ballots. Separate Panchayati Raj elections will also take \u2026",
-      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/himachal-pradesh-voting-for-51-urban-local-bodies-underway-for-civic-body-elections/articleshow/131148804.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-131148809,width-1200,height-630,imgsize-81364,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-05-17T04:24:38Z",
-      "content": "The polling for 51 urban local bodies, including four Municipal Corporations in Himachal Pradesh, Dharamshala, Palampur, Mandi and Solan, is underway for the civic polls 2026.Voting started queuing f\u2026 [+3024 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ANI",
-      "title": "Fuel price hike hitting common people, contractors stopping work due to rising bitumen costs: Himachal PWD minister",
-      "description": "Himachal Pradesh Public Works Department Minister Vikramaditya Singh alleged that rising petrol and diesel prices are fueling inflation, impacting common citizens, traders, and contractors. He highlighted the severe effect on road construction due to doubled \u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/fuel-price-hike-hitting-common-people-contractors-stopping-work-due-to-rising-bitumen-costs-himachal-minister-vikramaditya-singh/articleshow/131134833.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-131134859,width-1200,height-630,imgsize-101264,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-05-16T09:27:28Z",
-      "content": "Shimla: The Public Works Department Minister of Himachal Pradesh, Vikramaditya Singh, on Saturday, alleged that the recent rise in petrol and diesel prices has triggered inflationary pressure across \u2026 [+3210 chars]"
     }
   ],
   "directory": []
