@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-05-20 09:06:12",
+  "last_updated": "2026-05-20 12:50:32",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Saurabh Parashar",
+      "title": "Manali civic body carries bio-waste 300kms to Ambala for treatment; HC questions logic",
+      "description": "Manali civic body Officer, representative of Haryana firm to appear before court on July 8 for hearing.",
+      "url": "https://indianexpress.com/article/legal-news/himachal-pradesh-hc-manali-municipal-council-untreated-waste-ambala-pollution-10697580/",
+      "urlToImage": "https://images.indianexpress.com/2026/05/Bio-waste.jpg",
+      "publishedAt": "2026-05-19T10:10:37Z",
+      "content": "The Himachal Pradesh High Court has criticised the Manali Municipal Councils move for carrying over more than 300 kilometres of untreated waste to Haryanas Ambala, and observed that it would only add\u2026 [+4159 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-131134859,width-1200,height-630,imgsize-101264,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-05-16T09:27:28Z",
       "content": "Shimla: The Public Works Department Minister of Himachal Pradesh, Vikramaditya Singh, on Saturday, alleged that the recent rise in petrol and diesel prices has triggered inflationary pressure across \u2026 [+3210 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "PBKS vs MI live win probability, prediction, odds & chances of victory in IPL 2026 clash",
-      "description": "Punjab Kings are set to host their final IPL game in Dharamshala as Mumbai Indians visit Himachal Pradesh on Thursday, May 14.",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_50814ae3-21ad-4169-8374-2ab2f64beb1b",
-      "urlToImage": null,
-      "publishedAt": "2026-05-14T13:11:22Z",
-      "content": "If you click 'Accept all', we and our partners, including 247 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us\u2026 [+1046 chars]"
     }
   ],
   "directory": []
