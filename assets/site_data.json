@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-05-23 05:15:00",
+  "last_updated": "2026-05-23 12:19:51",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "2025 landslide in Shimla Act of God, NHAI tells NGT, rejects compensation claim",
+      "description": "The National Highways Authority of India has told the National Green Tribunal that it is not liable for compensation for agricultural land damaged by a May 2025 landslide in Shimla. NHAI claims the incident was an 'Act of God' due to heavy rainfall. The autho\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/2025-landslide-in-shimla-act-of-god-nhai-tells-ngt-rejects-compensation-claim/articleshow/131261101.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-131261129,width-1200,height-630,imgsize-361324,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-05-22T09:42:09Z",
+      "content": "New Delhi, The National Highways Authority of India (NHAI) has told the National Green Tribunal (NGT) that it is not liable to pay compensation to owners of agricultural land as the May 2025 landslid\u2026 [+4153 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://images.indianexpress.com/2026/05/Sumit-Raj-Vashisht-at-Gaiety-Theatre-where-he-was-allocated-a-space-by-the-Department-of-Language-Art-Culture.jpg",
       "publishedAt": "2026-05-20T01:30:21Z",
       "content": "Its 11 am, and Sumit Vashisht sits in a cozy corner of Shimlas Gaiety Theatre, chatting with a female colleague while keeping an eye on the door. Usually people \u2014 especially foreign tourists \u2014 start \u2026 [+10787 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Saurabh Parashar",
-      "title": "Over 10,800 candidates elected unopposed in Himachal Panchayati Raj polls",
-      "description": "131 gram panchayats unanimously elected; no voting to be held there",
-      "url": "https://indianexpress.com/article/cities/chandigarh/10800-candidates-elected-unopposed-himachal-panchayati-raj-polls-10698250/",
-      "urlToImage": "https://images.indianexpress.com/2026/01/polls-kroot-schoolink-4col.jpg",
-      "publishedAt": "2026-05-19T16:55:51Z",
-      "content": "After the completion of the nomination withdrawal process for the Panchayati Raj Institutions elections in Himachal Pradesh, as many as 10,854 candidates have been elected unopposed across the state,\u2026 [+1940 chars]"
     }
   ],
   "directory": []
