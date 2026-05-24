@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-05-24 16:21:23",
+  "last_updated": "2026-05-24 20:20:38",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Kumar Anshuman",
+      "title": "Himachal Pradesh clears Rs 1,500 aid for women in 4th year of power",
+      "description": "Himachal Pradesh government approved a monthly cash transfer of \u20b91,500 for eligible women. This fulfills a key Congress poll promise. Women aged 18 to 59 from families earning below \u20b92 lakh annually will receive the benefit. Two lakh women are expected to ben\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/himachal-pradesh-clears-rs-1500-aid-for-women-in-4th-year-of-power/articleshow/131284831.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-131284831,width-1200,height-630,imgsize-38822,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-05-23T18:47:00Z",
+      "content": "The Himachal Pradesh government on Friday approved a monthly cash transfer of 1,500 to eligible women under the 'Indira Gandhi Pyari Behna Sukh Samman Nidhi Yojana', fulfilling one of the key Congres\u2026 [+1156 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-131243195,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-05-21T08:34:26Z",
       "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>HPCET result 2026 expected to be declared today at himtu.ac.in: Check steps to download scorecards here</li></ul>\r\nFollow Us On Social M\u2026 [+3 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ANI",
-      "title": "Himachal Pradesh achieves major leap in national education rankings: CM Sukhu",
-      "description": "Himachal Pradesh Chief Minister Thakur Sukhvinder Singh Sukhu has congratulated the state on securing the sixth position in the country in providing quality school education, as per the Performance Grading Index (PGI) 2.0 report released by the Ministry of Ed\u2026",
-      "url": "https://timesofindia.indiatimes.com/education/news/himachal-pradesh-achieves-major-leap-in-national-education-rankings-cm-sukhu/articleshow/131243149.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-131243155,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-05-21T08:30:56Z",
-      "content": "<ul><li>News</li>\r\n<li>Himachal Pradesh achieves major leap in national education rankings: CM Sukhu</li></ul>\r\nFollow Us On Social Media"
     }
   ],
   "directory": []
