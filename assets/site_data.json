@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-05-24 05:19:58",
+  "last_updated": "2026-05-24 08:51:17",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "IANS",
+      "title": "Rubina Dilaik on parents raising her twins: Society says grandparents should retire, but my parents don\u2019t agree",
+      "description": "Television star Rubina Dilaik addressed criticism regarding her daughters staying with her parents in Shimla. She explained that both her parents and in-laws are eager to be involved in raising the children, finding new purpose and joy in their grandchildren'\u2026",
+      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/rubina-dilaik-on-parents-raising-her-twins-society-says-grandparents-should-retire-but-my-parents-dont-agree/articleshow/131276240.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-131276236,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-05-23T08:24:42Z",
+      "content": "<ul><li>News</li>\r\n<li>tv</li>\r\n<li>hindi</li>\r\n<li>Rubina Dilaik on parents raising her twins: Society says grandparents should retire, but my parents dont agree</li></ul>\r\nFollow Us On Social Media"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-131243155,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-05-21T08:30:56Z",
       "content": "<ul><li>News</li>\r\n<li>Himachal Pradesh achieves major leap in national education rankings: CM Sukhu</li></ul>\r\nFollow Us On Social Media"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Education",
-      "title": "HP SET admit card 2026 released at hppsc.hp.gov.in: Direct link to download here",
-      "description": "The Himachal Pradesh Public Service Commission has released the HP SET Admit Card 2026 on May 20, 2026, for candidates registered for the test. The admit card is available on the official HPPSC website, hppsc.hp.gov.in, ahead of the June 7, 2026, examination.\u2026",
-      "url": "https://timesofindia.indiatimes.com/education/news/hp-set-admit-card-2026-released-at-hppsc-hp-gov-in-direct-link-to-download-here/articleshow/131224378.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-131224545,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-05-20T10:37:08Z",
-      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
     }
   ],
   "directory": []
