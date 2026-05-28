@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-05-27 20:43:05",
+  "last_updated": "2026-05-28 00:33:50",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Saurabh Parashar",
+      "title": "After \u2018Act of God\u2019 stance, NHAI agrees to pay Shimla orchard owner for landslide damage",
+      "description": "The NHAI, which earlier disputed the damage quoted by Rathore and called the landslide an act of God, has now told the NGT that it would be paying suitable compensation.",
+      "url": "https://indianexpress.com/article/cities/chandigarh/after-act-of-god-stance-nhai-agrees-to-pay-shimla-orchard-owner-for-landslide-damage-10709635/",
+      "urlToImage": "https://images.indianexpress.com/2026/05/Agriculturist-Narinder-Singh-Rathore-showing-the-damaged-portion-of-his-orchard.jpg",
+      "publishedAt": "2026-05-27T00:00:49Z",
+      "content": "It was a day exactly like todays The sun was bright, though not too hot, says Narinder Singh Rathore, talking about May 25, 2025. His two granddaughters sat in the verandah of their pucca house as hi\u2026 [+4733 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-131261129,width-1200,height-630,imgsize-361324,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-05-22T09:42:09Z",
       "content": "New Delhi, The National Highways Authority of India (NHAI) has told the National Green Tribunal (NGT) that it is not liable to pay compensation to owners of agricultural land as the May 2025 landslid\u2026 [+4153 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "IANS",
-      "title": "Hina Khan thanks bestie Rubina Dilaik for sending mangoes & ghee from Himachal",
-      "description": "Television superstar Hina Khan was recently in for a surprise as bestie and television superstar Rubina Dilaik sent her fresh mangoes and home-made ghee straight from Himachal Pradesh.",
-      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/hina-khan-thanks-bestie-rubina-dilaik-for-sending-mangoes-ghee-from-himachal/articleshow/131254287.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-131254296,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-05-21T23:39:00Z",
-      "content": "<ul><li>News</li>\r\n<li>tv</li>\r\n<li>hindi</li>\r\n<li>Hina Khan thanks bestie Rubina Dilaik for sending mangoes &amp; ghee from Himachal</li></ul>\r\nFollow Us On Social Media"
     }
   ],
   "directory": []
