@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-05-28 09:13:19",
+  "last_updated": "2026-05-28 13:11:27",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Trending Desk",
+      "title": "\u2018Vacation ya punishment?\u2019 Massive 10-km Manali traffic jam leaves tourists furious, Internet says \u2018Jana bhi sabko ek hi jagah hai\u2019",
+      "description": "A viral video from Manali, Himachal Pradesh, showcased a massive 10-km traffic jam, sparking online debate about overtourism. Tourists expressed disappointment, questioning the relaxation aspect of holidays when stuck in hours-long queues. The situation highl\u2026",
+      "url": "https://timesofindia.indiatimes.com/etimes/trending/vacation-ya-punishment-massive-10-km-manali-traffic-jam-leaves-tourists-furious-internet-says-jana-bhi-sabko-ek-hi-jagah-hai/articleshow/131351204.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-131351204,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-05-27T13:01:17Z",
+      "content": "<ul><li>News</li>\r\n<li>etimes</li>\r\n<li>lifestyle</li>\r\n<li>trending</li>\r\n<li>Vacation ya punishment? Massive 10-km Manali traffic jam leaves tourists furious, Internet says Jana bhi sabko ek hi jag\u2026 [+42 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-131284831,width-1200,height-630,imgsize-38822,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-05-23T18:47:00Z",
       "content": "The Himachal Pradesh government on Friday approved a monthly cash transfer of 1,500 to eligible women under the 'Indira Gandhi Pyari Behna Sukh Samman Nidhi Yojana', fulfilling one of the key Congres\u2026 [+1156 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "IANS",
-      "title": "Rubina Dilaik on parents raising her twins: Society says grandparents should retire, but my parents don\u2019t agree",
-      "description": "Television star Rubina Dilaik addressed criticism regarding her daughters staying with her parents in Shimla. She explained that both her parents and in-laws are eager to be involved in raising the children, finding new purpose and joy in their grandchildren'\u2026",
-      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/rubina-dilaik-on-parents-raising-her-twins-society-says-grandparents-should-retire-but-my-parents-dont-agree/articleshow/131276240.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-131276236,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-05-23T08:24:42Z",
-      "content": "<ul><li>News</li>\r\n<li>tv</li>\r\n<li>hindi</li>\r\n<li>Rubina Dilaik on parents raising her twins: Society says grandparents should retire, but my parents dont agree</li></ul>\r\nFollow Us On Social Media"
     }
   ],
   "directory": []
