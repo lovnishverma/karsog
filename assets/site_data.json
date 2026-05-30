@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-05-30 08:48:12",
+  "last_updated": "2026-05-30 12:24:30",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "Bashir Badr Death: Ayodhya-born Urdu poet who lost everything in Meerut violence gave world the iconic \u2018Dushmani Jam Kar Karo\u2019 shayari during 1972 Shimla Agreement",
+      "description": "Renowned Urdu poet Bashir Badr, celebrated for his deeply moving verses, has passed away in Bhopal at the age of 91. His iconic couplet, \u201cDushmani jam kar karo\u201d, resonated widely, symbolising hope and dignity. Badr\u2019s simple yet profound shayari, often reflect\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/bashir-badr-death-ayodhya-born-urdu-poet-who-lost-everything-in-meerut-violence-gave-world-the-iconic-dushmani-jam-kar-karo-shayari-during-1972-shimla-agreement/articleshow/131390061.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-131390300,width-1200,height-630,imgsize-974736,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-05-29T12:05:24Z",
+      "content": "Renowned Urdu poet Bashir Badr, celebrated for his deeply moving verses, has passed away in Bhopal at the age of 91. His iconic couplet, \u201cDushmani jam kar karo\u201d, resonated widely, symbolising hope an\u2026 [+180 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-131351204,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-05-27T13:01:17Z",
       "content": "<ul><li>News</li>\r\n<li>etimes</li>\r\n<li>lifestyle</li>\r\n<li>trending</li>\r\n<li>Vacation ya punishment? Massive 10-km Manali traffic jam leaves tourists furious, Internet says Jana bhi sabko ek hi jag\u2026 [+42 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Trending Desk",
-      "title": "No crowds, no chaos: Mohammed Siraj and Prasidh Krishna enjoy peaceful river swim in Himachal, video viral",
-      "description": "A video of Indian cricketers Mohammed Siraj and Prasidh Krishna swimming in a river in Himachal Pradesh has gone viral. The clip shows the athletes enjoying nature without crowds or security. Social media users praised the genuine and peaceful moment, contras\u2026",
-      "url": "https://timesofindia.indiatimes.com/etimes/trending/no-crowds-no-chaos-mohammed-siraj-and-prasidh-krishna-enjoy-peaceful-river-swim-in-himachal-video-viral/articleshow/131343899.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-131343921,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-05-27T07:24:55Z",
-      "content": "Follow Us On Social Media"
     }
   ],
   "directory": []
