@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-05-31 12:27:39",
+  "last_updated": "2026-05-31 16:26:28",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Himachal panchayat polls: Women take the lead as turnout crosses 80 pc amid rain",
+      "description": "Women voters significantly outnumbered men in Himachal Pradesh's final panchayat election phase, contributing to an overall turnout exceeding 80 percent despite adverse weather. Union Minister JP Nadda highlighted the importance of grassroots democratic parti\u2026",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/himachal-panchayat-polls-women-take-the-lead-as-turnout-crosses-80-pc-amid-rain/articleshow/131411398.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-131411410,width-1200,height-630,imgsize-71922,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-05-30T14:50:38Z",
+      "content": "Shimla: Women emerged as the driving force in the final phase of panchayat elections in Himachal Pradesh on Saturday, outnumbering men at polling booths across nine districts as overall turnout cross\u2026 [+2992 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-131362501,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-05-28T03:51:34Z",
       "content": "<ul><li>News</li>\r\n<li>HPBOSE opens Class 10, 12 compartment and improvement exam registrations 2026; June 1 last date to apply without late fee</li></ul>\r\nFollow Us On Social Media\r\nCopyright \u00a9 2026\u2026 [+98 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Trending Desk",
-      "title": "This taxi driver\u2019s \u2018Shimla-like cooling\u2019 AC hack is going viral for a reason",
-      "description": "A taxi driver's clever AC cooling hack has gone viral on social media, impressing passengers and sparking online discussions. His \"Shimla-like cooling\" trick, involving a simple method to make the car's air conditioning feel significantly colder, resonated wi\u2026",
-      "url": "https://timesofindia.indiatimes.com/etimes/trending/this-taxi-drivers-shimla-like-cooling-ac-hack-is-going-viral-for-a-reason/articleshow/131362428.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-131362507,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-05-28T03:46:11Z",
-      "content": "Follow Us On Social Media"
     }
   ],
   "directory": []
