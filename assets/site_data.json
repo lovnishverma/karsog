@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-06-01 00:39:07",
+  "last_updated": "2026-06-01 05:37:06",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ETimes.in",
+      "title": "This hill town is the most \u2018peaceful\u2019 in India: 5 reasons why travellers are choosing silence over anything else",
+      "description": "In a time when nearly all \u2018famous\u2019 hill stations are struggling with noise pollution, traffic jams, constant honking, long queues, in short overtourism, a quiet mountain town in Himachal Pradesh is drawing attention for doing the exact opposite. Yes, this les\u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/travel/destinations/this-hill-town-is-the-most-peaceful-in-india-5-reasons-why-travellers-are-choosing-silence-over-anything-else/photostory/131409883.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-131410011,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-05-31T04:30:00Z",
+      "content": "By Road: Mashobra is about 365 km from Delhi and around 13 km from Shimla. Travellers can drive via Chandigarh and Shimla from Delhi to reach here. It takes around 78 hours, depending on traffic and \u2026 [+426 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-131362639,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-05-28T03:57:08Z",
       "content": "Follow Us On Social Media"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Education",
-      "title": "HPBOSE opens Class 10, 12 compartment and improvement exam registrations 2026; June 1 last date to apply without late fee",
-      "description": "Himachal Pradesh Board has opened registrations for Class 10 and 12 compartment and improvement exams 2026. Students can apply without a late fee until June 1, 2026, with a \u20b91000 late fee applicable until June 5. Exams are scheduled for June-July 2026. Fees v\u2026",
-      "url": "https://timesofindia.indiatimes.com/education/news/hpbose-opens-class-10-12-compartment-and-improvement-exam-registrations-2026-june-1-last-date-to-apply-without-late-fee/articleshow/131362468.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-131362501,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-05-28T03:51:34Z",
-      "content": "<ul><li>News</li>\r\n<li>HPBOSE opens Class 10, 12 compartment and improvement exam registrations 2026; June 1 last date to apply without late fee</li></ul>\r\nFollow Us On Social Media\r\nCopyright \u00a9 2026\u2026 [+98 chars]"
     }
   ],
   "directory": []
