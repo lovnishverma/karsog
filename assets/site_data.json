@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-06-02 05:33:53",
+  "last_updated": "2026-06-02 09:26:19",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ANI",
+      "title": "\"People have decided to uproot Congress govt\": Jairam Thakur hails BJP's victory in Himachal municipal corporation polls",
+      "description": "BJP leader and Leader of Opposition, Jairam Thakur, hailed victory in three of four municipal corporation elections. He stated people want to uproot the Congress government. Chief Minister Sukvinder Singh Sukhu rejected these claims. He asserted Congress led \u2026",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/people-have-decided-to-uproot-congress-govt-jairam-thakur-hails-bjps-victory-in-himachal-municipal-corporation-polls/articleshow/131435453.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-131435546,width-1200,height-630,imgsize-43212,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-06-01T06:15:29Z",
+      "content": "New Delhi: Leader of Opposition in Himachal Pradesh Assembly, Jairam Thakur, on Monday hailed the BJP's victory in three of the four municipal corporation elections, saying that the people have decid\u2026 [+3258 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-131422095,width-1200,height-630,imgsize-59492,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-05-31T11:14:51Z",
       "content": "Shimla: Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu said on Sunday that the census in Himachal Pradesh will be conducted in two phases.He appealed to the people to make maximum use of the \u2026 [+1374 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ETimes.in",
-      "title": "This hill town is the most \u2018peaceful\u2019 in India: 5 reasons why travellers are choosing silence over anything else",
-      "description": "In a time when nearly all \u2018famous\u2019 hill stations are struggling with noise pollution, traffic jams, constant honking, long queues, in short overtourism, a quiet mountain town in Himachal Pradesh is drawing attention for doing the exact opposite. Yes, this les\u2026",
-      "url": "https://timesofindia.indiatimes.com/life-style/travel/destinations/this-hill-town-is-the-most-peaceful-in-india-5-reasons-why-travellers-are-choosing-silence-over-anything-else/photostory/131409883.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-131410011,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-05-31T04:30:00Z",
-      "content": "By Road: Mashobra is about 365 km from Delhi and around 13 km from Shimla. Travellers can drive via Chandigarh and Shimla from Delhi to reach here. It takes around 78 hours, depending on traffic and \u2026 [+426 chars]"
     }
   ],
   "directory": []
