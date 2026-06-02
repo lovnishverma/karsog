@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-06-02 00:42:05",
+  "last_updated": "2026-06-02 05:33:53",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Neelanjit Das",
+      "title": "Homeowner having possession must pay maintenance charges even if builder did not give OC, independent water connection and sewerage facilities, rules HP RERA",
+      "description": "Homeowners in possession must pay maintenance charges even without an Occupation Certificate or independent water and sewerage facilities. The Himachal Pradesh RERA ruled that if owners are availing basic services they cannot deny payment obligations. However\u2026",
+      "url": "https://economictimes.indiatimes.com/wealth/legal/will/homeowner-having-possession-must-pay-maintenance-charges-even-if-builder-did-not-give-oc-independent-water-connection-and-sewerage-facilities-rules-hp-rera/articleshow/131420412.cms",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-428983,resizemode-75,msid-131420412/wealth/legal/will/homeowner-having-possession-must-pay-maintenance-charges-even-if-builder-did-not-give-oc-independent-water-connection-and-sewerage-facilities-rules-hp-rera.jpg",
+      "publishedAt": "2026-06-01T01:41:00Z",
+      "content": "On September 9, 2015, Mr Singhal, a retired chief engineer, with his daughter-in-law purchased a new apartment in Baddi, Himachal Pradesh, through a sale agreement. At that time, they were unaware of\u2026 [+5115 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-131410011,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-05-31T04:30:00Z",
       "content": "By Road: Mashobra is about 365 km from Delhi and around 13 km from Shimla. Travellers can drive via Chandigarh and Shimla from Delhi to reach here. It takes around 78 hours, depending on traffic and \u2026 [+426 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "Himachal panchayat polls: Women take the lead as turnout crosses 80 pc amid rain",
-      "description": "Women voters significantly outnumbered men in Himachal Pradesh's final panchayat election phase, contributing to an overall turnout exceeding 80 percent despite adverse weather. Union Minister JP Nadda highlighted the importance of grassroots democratic parti\u2026",
-      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/himachal-panchayat-polls-women-take-the-lead-as-turnout-crosses-80-pc-amid-rain/articleshow/131411398.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-131411410,width-1200,height-630,imgsize-71922,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-05-30T14:50:38Z",
-      "content": "Shimla: Women emerged as the driving force in the final phase of panchayat elections in Himachal Pradesh on Saturday, outnumbering men at polling booths across nine districts as overall turnout cross\u2026 [+2992 chars]"
     }
   ],
   "directory": []
