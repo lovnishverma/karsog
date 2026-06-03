@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-06-03 05:38:17",
+  "last_updated": "2026-06-03 09:35:34",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ETimes.in",
+      "title": "Kangana Ranaut's home is a true Himachali abode with a modern twist: Art inspirations to take away",
+      "description": "Kangana Ranaut is someone who beautifully embraces and represents her roots, and the true belonging to her home in Himachal Pradesh, rightly reflected through her wardrobe, how she represents the diversity as an MP from Mandi, and her home cradled in the lap \u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/the-arts/kangana-ranauts-home-is-a-true-himachali-abode-with-a-modern-twist-art-inspirations-to-take-away/photostory/131456125.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-131456131,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-06-02T05:58:59Z",
+      "content": "Kangana Ranaut is someone who beautifully embraces and represents her roots, and the true belonging to her home in Himachal Pradesh, rightly reflected through her wardrobe, how she represents the div\u2026 [+610 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-131422977,width-1200,height-630,imgsize-230268,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-05-31T12:22:39Z",
       "content": "Chamba: In a tragic accident in Himachal Pradesh, a taxi carrying tourists fell into a 500-metre-deep gorge near Kalawan on the Bairagarh-Pangi-Sach Pass road in the Pangi area of Chamba district, ki\u2026 [+1053 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Saurabh Parashar",
-      "title": "BJP sweeps 3 of 4 municipal corporations in Himachal, Congress retains only Palampur",
-      "description": "Ex-CM and Leader of Opposition Jai Ram Thakur termed the results a hard lesson for the Congress.",
-      "url": "https://indianexpress.com/article/cities/chandigarh/bjp-sweeps-3-of-4-municipal-corporations-in-himachal-congress-retains-only-palampur-10717107/",
-      "urlToImage": "https://images.indianexpress.com/2025/12/jai-ram-thakur-file-photo.jpg",
-      "publishedAt": "2026-05-31T12:03:45Z",
-      "content": "In a major political setback for the ruling Congress government in Himachal Pradesh, the BJP emerged victorious in three out of the four municipal corporations (MCs) that went to polls, strengthening\u2026 [+3635 chars]"
     }
   ],
   "directory": []
