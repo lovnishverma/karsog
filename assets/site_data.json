@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-06-03 17:40:00",
+  "last_updated": "2026-06-03 21:04:05",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Himachal CM enumerates himself",
+      "description": "Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu has completed his self-enumeration for Census 2027. He is urging all citizens to participate in this important national exercise. People are encouraged to complete their self-enumeration online by June 15\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/himachal-chief-minister-sukhvinder-singh-sukhu-completed-his-self-enumeration-through-the-online-portal-for-census-2027/articleshow/131470875.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-131470950,width-1200,height-630,imgsize-96882,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-06-02T19:17:44Z",
+      "content": "Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu has completed his self-enumeration for Census 2027. He is urging all citizens to participate in this important national exercise. People are enc\u2026 [+193 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-428983,resizemode-75,msid-131420412/wealth/legal/will/homeowner-having-possession-must-pay-maintenance-charges-even-if-builder-did-not-give-oc-independent-water-connection-and-sewerage-facilities-rules-hp-rera.jpg",
       "publishedAt": "2026-06-01T01:41:00Z",
       "content": "On September 9, 2015, Mr Singhal, a retired chief engineer, with his daughter-in-law purchased a new apartment in Baddi, Himachal Pradesh, through a sale agreement. At that time, they were unaware of\u2026 [+5115 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ANI",
-      "title": "Himachal Pradesh: 8 killed as taxi falls into 500-metre gorge in Chamba district",
-      "description": "A tragic accident in Chamba, Himachal Pradesh, claimed the lives of eight people. A taxi carrying tourists plunged into a deep gorge. The victims included two families from Bengaluru and Chhattisgarh, along with the local driver. Authorities confirmed all eig\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/himachal-pradesh-8-killed-as-taxi-falls-into-500-metre-gorge-in-chamba-district/articleshow/131422931.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-131422977,width-1200,height-630,imgsize-230268,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-05-31T12:22:39Z",
-      "content": "Chamba: In a tragic accident in Himachal Pradesh, a taxi carrying tourists fell into a 500-metre-deep gorge near Kalawan on the Bairagarh-Pangi-Sach Pass road in the Pangi area of Chamba district, ki\u2026 [+1053 chars]"
     }
   ],
   "directory": []
