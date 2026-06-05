@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-06-05 05:30:57",
+  "last_updated": "2026-06-05 09:07:26",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Anju Agnihotri Chaba",
+      "title": "Nihangs launch \u2018Khalsa tax\u2019 drive against Himachal entry levy, warn of wider stir",
+      "description": "Religious group joins ongoing agitation over Himachal Pradesh\u2019s vehicle entry tax; protesters threaten escalation if levy is not reviewed",
+      "url": "https://indianexpress.com/article/cities/chandigarh/nihangs-launch-khalsa-tax-drive-against-himachal-entry-levy-warn-of-wider-stir-10723357/",
+      "urlToImage": "https://images.indianexpress.com/2026/06/Photo-63.jpg",
+      "publishedAt": "2026-06-04T05:40:48Z",
+      "content": "Opposition to Himachal Pradeshs entry tax on out-of-state vehicles took a dramatic turn on Wednesday as members of the Nihang organisation Tarna Dal launched a symbolic Khalsa tax collection drive on\u2026 [+4584 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-131439223,width-1200,height-630,imgsize-10048,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-06-01T09:33:17Z",
       "content": "Shimla: The Himachal Pradesh government on Monday gave additional charge of chief secretary to senior IAS officer Kamlesh Kumar Pant who is currently the additional chief secretary cum financial comm\u2026 [+918 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ANI",
-      "title": "\"People have decided to uproot Congress govt\": Jairam Thakur hails BJP's victory in Himachal municipal corporation polls",
-      "description": "BJP leader and Leader of Opposition, Jairam Thakur, hailed victory in three of four municipal corporation elections. He stated people want to uproot the Congress government. Chief Minister Sukvinder Singh Sukhu rejected these claims. He asserted Congress led \u2026",
-      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/people-have-decided-to-uproot-congress-govt-jairam-thakur-hails-bjps-victory-in-himachal-municipal-corporation-polls/articleshow/131435453.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-131435546,width-1200,height-630,imgsize-43212,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-06-01T06:15:29Z",
-      "content": "New Delhi: Leader of Opposition in Himachal Pradesh Assembly, Jairam Thakur, on Monday hailed the BJP's victory in three of the four municipal corporation elections, saying that the people have decid\u2026 [+3258 chars]"
     }
   ],
   "directory": []
