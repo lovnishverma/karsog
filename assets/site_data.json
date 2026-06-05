@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-06-05 12:58:58",
+  "last_updated": "2026-06-05 16:48:39",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Education",
+      "title": "HPBOSE to conduct Special Educator TET exams on June 7: Check complete details here",
+      "description": "The Himachal Pradesh Board of School Education will conduct the Special Educator TET examinations on June 7, 2026, for candidates seeking teaching eligibility in special education. While 407 aspirants will appear for the primary-level test, 128 candidates wil\u2026",
+      "url": "https://timesofindia.indiatimes.com/education/news/hpbose-to-conduct-special-educator-tet-exams-on-june-7-check-complete-details-here/articleshow/131509503.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-131509559,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-06-04T14:25:11Z",
+      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-131439303,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-06-01T12:30:00Z",
       "content": "Towering at about 16,040 feet, Baralacha La is a total legend among Indian Himalayan passes. Among the highest motorable roads in India, back in ancient times, this spot was a massive crossroads for \u2026 [+482 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "No regular chief secretary for now, IAS officer K K Pant given additional charge",
-      "description": "Senior IAS officer Kamlesh Kumar Pant has been given the additional charge of Chief Secretary in Himachal Pradesh. He currently holds positions as Additional Chief Secretary and Financial Commissioner. Pant will continue to oversee Revenue, Forest, Home, and \u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/no-regular-chief-secretary-for-now-ias-officer-k-k-pant-given-additional-charge/articleshow/131439199.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-131439223,width-1200,height-630,imgsize-10048,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-06-01T09:33:17Z",
-      "content": "Shimla: The Himachal Pradesh government on Monday gave additional charge of chief secretary to senior IAS officer Kamlesh Kumar Pant who is currently the additional chief secretary cum financial comm\u2026 [+918 chars]"
     }
   ],
   "directory": []
