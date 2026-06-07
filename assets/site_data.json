@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-06-07 12:32:07",
+  "last_updated": "2026-06-07 16:30:10",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Neha Bhayana",
+      "title": "\u2018Be it C-section or natural birth, no mother is taking an easy route\u2019",
+      "description": "She came from Shimla to Mumbai with dreams of becoming a star, but the path wasn\u2019t easy. A director dismissed Rubina Dilaik, saying she had a \u2018negativ.",
+      "url": "https://timesofindia.indiatimes.com/life-style/parenting/be-it-c-section-or-natural-birth-no-mother-is-taking-an-easy-route/articleshow/131553907.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-131553903,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-06-06T14:31:44Z",
+      "content": "Follow Us On Social Media"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-131529766,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-06-05T10:58:56Z",
       "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Education",
-      "title": "HP TET admit card 2026 released at hpbose.org: Direct link to download hall tickets here",
-      "description": "The Himachal Pradesh Board of School Education has issued HP TET June 2026 admit cards for candidates appearing in the Special Educator examination on June 7. The board has warned that entry to examination centres will not be allowed without a valid hall tick\u2026",
-      "url": "https://timesofindia.indiatimes.com/education/news/hp-tet-admit-card-2026-released-at-hpbose-org-direct-link-to-download-hall-tickets-here/articleshow/131528373.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-131528476,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-06-05T10:04:35Z",
-      "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>HP TET admit card 2026 released at hpbose.org: Direct link to download hall tickets here</li></ul>\r\nFollow Us On Social Media\r\nCopyright\u2026 [+105 chars]"
     }
   ],
   "directory": []
