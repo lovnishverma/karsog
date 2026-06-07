@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-06-07 05:31:48",
+  "last_updated": "2026-06-07 09:03:03",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Sanchari Ghosh",
+      "title": "I asked ChatGPT to skip overcrowded Shimla and Manali for a relaxing June holiday \u2013 These hidden gems made the cut",
+      "description": "The favourite hill stations of Himachal Pradesh and Uttarakhand\u2014Shimla, Manali, Mussoorie, Nainital, and Kullu\u2014are often packed with tourists during the summer months.",
+      "url": "https://www.livemint.com/money/personal-finance/i-asked-chatgpt-to-skip-overcrowded-shimla-and-manali-for-a-relaxing-june-holiday-these-hidden-gems-made-the-cut-11780722484852.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2026/06/06/1600x900/logo/Man_mountain_1731044608653_1780724338417_043864ef-6460-4cb8-9b7d-291ef43fc94b.jpg",
+      "publishedAt": "2026-06-06T05:43:34Z",
+      "content": "I asked AI where to travel in June for cool weather and complete relaxation, it said\r\nI asked ChatGPT to help me plan a June getaway within India that offers pleasant weather, tranquility, and a chan\u2026 [+3756 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-131528476,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-06-05T10:04:35Z",
       "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>HP TET admit card 2026 released at hpbose.org: Direct link to download hall tickets here</li></ul>\r\nFollow Us On Social Media\r\nCopyright\u2026 [+105 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "'Khalsa tax': Issue taken up with Punjab Chief Minister, says Himachal minister Jagat Singh Negi",
-      "description": "Himachal Pradesh Chief Minister has raised the issue of a 'Khalsa tax' with his Punjab counterpart. A group of Nihang Sikhs imposed this symbolic tax on vehicles registered in Himachal Pradesh entering Punjab. The group stated it was a protest against entry t\u2026",
-      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/khalsa-tax-issue-taken-up-with-punjab-chief-minister-says-himachal-minister-jagat-singh-negi/articleshow/131528185.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-131528349,width-1200,height-630,imgsize-54040,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-06-05T10:04:28Z",
-      "content": "Shimla: The Himachal Pradesh chief minister has taken up the issue of \"Khalsa tax\" sought from the vehicles registered in the state at the Punjab border with his Punjab counterpart, Revenue Minister \u2026 [+1534 chars]"
     }
   ],
   "directory": []
