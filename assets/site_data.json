@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-06-11 13:15:57",
+  "last_updated": "2026-06-11 17:13:58",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Saurabh Parashar",
+      "title": "Himachal receives nearly 2,790 tonnes of urea ahead of kharif",
+      "description": "Urea demand is particularly high in the state\u2019s plains and lower hill regions.",
+      "url": "https://indianexpress.com/article/india/himachal-pradesh-urea-consignment-kharif-paddy-season-fertiliser-10733601/",
+      "urlToImage": "https://images.indianexpress.com/2026/06/urea.jpg",
+      "publishedAt": "2026-06-10T15:59:40Z",
+      "content": "Himachal Pradesh has received a fresh consignment of approximately 2,790 tonnes of subsidised urea ahead of the crucial kharif season, providing much-needed relief to the farmers and their concerns o\u2026 [+2653 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "HP TET 2026 admit cards released: Direct link, how to downloand, exam date, and other details",
+      "description": "The Himachal Pradesh Board of School Education has released admit cards for the HP TET June 2026 session. Over 24,000 candidates will appear for the examination on June 13 and 14. The test is mandatory for teaching jobs in Himachal Pradesh. Candidates must do\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/hp-tet-2026-admit-cards-released-direct-link-how-to-downloand-exam-date-and-other-details/articleshow/131636774.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-131636781,width-1200,height-630,imgsize-1102968,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-06-10T13:25:01Z",
+      "content": "The Himachal Pradesh Board of School Education (HPBoSE) has released the admit cards for the HP Teacher Eligibility Test (HP TET) June 2026 session. Candidates who have registered for the examination\u2026 [+1856 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://images.indianexpress.com/2026/06/sukhvinder-singh-sukhu-neeraj-bharti-express-photo_20260606173215.jpg",
       "publishedAt": "2026-06-07T01:30:50Z",
       "content": "The resignation of Himachal Pradesh Congress vice-president Neeraj Bharti has again exposed the simmering unease within the ruling party over the alleged neglect of its grassroots workers, placing bo\u2026 [+5750 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Neha Bhayana",
-      "title": "\u2018Be it C-section or natural birth, no mother is taking an easy route\u2019",
-      "description": "She came from Shimla to Mumbai with dreams of becoming a star, but the path wasn\u2019t easy. A director dismissed Rubina Dilaik, saying she had a \u2018negativ.",
-      "url": "https://timesofindia.indiatimes.com/life-style/parenting/be-it-c-section-or-natural-birth-no-mother-is-taking-an-easy-route/articleshow/131553907.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-131553903,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-06-06T14:31:44Z",
-      "content": "Follow Us On Social Media"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Sanchari Ghosh",
-      "title": "I asked ChatGPT to skip overcrowded Shimla and Manali for a relaxing June holiday \u2013 These hidden gems made the cut",
-      "description": "The favourite hill stations of Himachal Pradesh and Uttarakhand\u2014Shimla, Manali, Mussoorie, Nainital, and Kullu\u2014are often packed with tourists during the summer months.",
-      "url": "https://www.livemint.com/money/personal-finance/i-asked-chatgpt-to-skip-overcrowded-shimla-and-manali-for-a-relaxing-june-holiday-these-hidden-gems-made-the-cut-11780722484852.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2026/06/06/1600x900/logo/Man_mountain_1731044608653_1780724338417_043864ef-6460-4cb8-9b7d-291ef43fc94b.jpg",
-      "publishedAt": "2026-06-06T05:43:34Z",
-      "content": "I asked AI where to travel in June for cool weather and complete relaxation, it said\r\nI asked ChatGPT to help me plan a June getaway within India that offers pleasant weather, tranquility, and a chan\u2026 [+3756 chars]"
     }
   ],
   "directory": []
