@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-06-12 05:34:20",
+  "last_updated": "2026-06-12 09:23:25",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Jocelyn Fernandes",
+      "title": "Dearness Allowance: Full list of states that have announced DA hikes and those considering pay increases for employees",
+      "description": "Dearness Allowance: Assam, Arunachal Pradesh, Bihar, Odisha, Tamil Nadu, Uttar Pradesh \u2014 Check the full list of states that have announced DA hikes and states such as West Bengal and Himachal Pradesh, that are considering pay increases for employees.",
+      "url": "https://www.livemint.com/money/personal-finance/dearness-allowance-full-list-states-da-hike-assam-bihar-odisha-tamil-arunachal-uttar-pradesh-salary-employees-pensioners-11781161210998.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2026/06/11/1600x900/logo/INDIA-RUPEE-10_1759329092702_1759329098442_1781162312846_e98fbae6-107e-427c-8332-679b0c8891df.jpg",
+      "publishedAt": "2026-06-11T07:33:13Z",
+      "content": "Dearness Allowance: A component of the basic salary, DA aims to mitigate cost-of-living expenses for central government employees, public sector staff, defence personnel, bank employees, and pensione\u2026 [+6158 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://media.assettype.com/freepressjournal/2026-06-10/zzz2tehm/jtl-industries.jpg",
       "publishedAt": "2026-06-10T07:44:20Z",
       "content": "Mumbai: JTL Industries Limited has secured a significant government order from the Himachal Pradesh State Civil Supplies Corporation Limited (HPSCSC). The company informed stock exchanges that it wil\u2026 [+1932 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Healthandfamily.in"
-      },
-      "author": "Dr Akshay Minhas",
-      "title": "Missing Numbers, Missing Accountability: India\u2019s NFHS-6 Triggers Crisis of Confidence in National Health Data - Prevention is better than cure",
-      "description": "Spread the Message\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Dharamsala, Himachal Pradesh DHARAMSALA \u2014 India\u2019s largest and most influential health survey has arrived with a startling omission, sparking widespread debate among policymakers and health professionals. The sixth round of the\u2026",
-      "url": "https://healthandfamily.in/missing-numbers-missing-accountability-indias-nfhs-6-triggers-crisis-of-confidence-in-national-health-data/",
-      "urlToImage": "https://healthandfamily.in/wp-content/uploads/2026/06/1-22.avif",
-      "publishedAt": "2026-06-07T02:01:04Z",
-      "content": "Dharamsala, Himachal Pradesh\r\nDHARAMSALA Indias largest and most influential health survey has arrived with a startling omission, sparking widespread debate among policymakers and health professional\u2026 [+13475 chars]"
     }
   ],
   "directory": []
