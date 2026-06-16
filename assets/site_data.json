@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-06-16 05:49:44",
+  "last_updated": "2026-06-16 09:48:02",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Rediff.com"
+      },
+      "author": "sports@rediff.co.in (Rediff Sports Desk)",
+      "title": "Shimla Cricket League: Sports For Social Good",
+      "description": "A rural-level cricket competition in Shimla's Jubbal subdivision is using sports to raise awareness about drug abuse and environmental protection. The 'Shaan-e-Bushahr' Mandhol Premiere League-4, featuring over 80 teams, encourages participants to plant sapli\u2026",
+      "url": "https://www.rediff.com/sports/report/rural-cricket-tournament-promotes-drug-environment-awareness/20260615.htm",
+      "urlToImage": "https://im.rediff.com/1200-630/news/2023/aug/22shimla.jpg",
+      "publishedAt": "2026-06-15T06:21:29Z",
+      "content": "The 'Shaan-e-Bushahr' Mandhol Premiere League-4 cricket tournament in Shimla is uniquely leveraging the power of sports to combat drug abuse and foster environmental conservation among the region's y\u2026 [+2256 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://images.indianexpress.com/2026/06/urea.jpg",
       "publishedAt": "2026-06-10T15:59:40Z",
       "content": "Himachal Pradesh has received a fresh consignment of approximately 2,790 tonnes of subsidised urea ahead of the crucial kharif season, providing much-needed relief to the farmers and their concerns o\u2026 [+2653 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "HP TET 2026 admit cards released: Direct link, how to downloand, exam date, and other details",
-      "description": "The Himachal Pradesh Board of School Education has released admit cards for the HP TET June 2026 session. Over 24,000 candidates will appear for the examination on June 13 and 14. The test is mandatory for teaching jobs in Himachal Pradesh. Candidates must do\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/hp-tet-2026-admit-cards-released-direct-link-how-to-downloand-exam-date-and-other-details/articleshow/131636774.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-131636781,width-1200,height-630,imgsize-1102968,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-06-10T13:25:01Z",
-      "content": "The Himachal Pradesh Board of School Education (HPBoSE) has released the admit cards for the HP Teacher Eligibility Test (HP TET) June 2026 session. Candidates who have registered for the examination\u2026 [+1856 chars]"
     }
   ],
   "directory": []
