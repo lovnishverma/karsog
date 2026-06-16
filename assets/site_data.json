@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-06-16 13:43:38",
+  "last_updated": "2026-06-16 17:42:22",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Samsung.com"
+      },
+      "author": null,
+      "title": "Samsung Solve for Tomorrow Sparks Innovation Among Himachal Pradesh Students Through Design Thinking",
+      "description": "Over 300 students participate in Design Thinking Workshop at Shoolini University, exploring solutions for accessibility, inclusion and community wellbeing  Applications Open Till July 3 for Samsung Solve for Tomorrow 2026  Top 4 winning teams to receive incub\u2026",
+      "url": "https://news.samsung.com/in/samsung-solve-for-tomorrow-sparks-innovation-among-himachal-pradesh-students-through-design-thinking",
+      "urlToImage": "https://img.global.news.samsung.com/in/wp-content/uploads/2026/06/feature-HP.jpg",
+      "publishedAt": "2026-06-15T17:07:15Z",
+      "content": "In the hills of Himachal Pradesh, innovation often begins with challenges that rarely make headlines. For some communities, it is access to healthcare. For others, it is the lack of assistive technol\u2026 [+3354 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Arshdeep Kaur",
+      "title": "I asked Gemini to compare Northeast vs Himachal-Uttarakhand for summer vacation in June \u2014 here's the winner",
+      "description": "Planning a family vacation in India during June requires carefully balancing the desire for pleasant weather against the reality of the Indian monsoon.",
+      "url": "https://www.livemint.com/money/personal-finance/i-asked-gemini-to-compare-northeast-vs-himachal-uttarakhand-for-summer-vacation-in-june-heres-the-winner-11781537047933.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2026/06/15/1600x900/logo/pexels-photo-4233677_1781537925098_1781537989550_1f84491b-f7ef-444d-8524-ea40d62b55f6.jpeg",
+      "publishedAt": "2026-06-15T16:05:21Z",
+      "content": "Planning a family summer vacation is mostly about three things: endless debates, the sudden realisation that June brings the monsoon, and sheer panic.\r\nTorn between the lush, rainy magic of Northeast\u2026 [+7981 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -52,32 +78,6 @@
       "urlToImage": "https://www.livemint.com/lm-img/img/2026/06/11/1600x900/logo/INDIA-RUPEE-10_1759329092702_1759329098442_1781162312846_e98fbae6-107e-427c-8332-679b0c8891df.jpg",
       "publishedAt": "2026-06-11T07:33:13Z",
       "content": "Dearness Allowance: A component of the basic salary, DA aims to mitigate cost-of-living expenses for central government employees, public sector staff, defence personnel, bank employees, and pensione\u2026 [+6158 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Education",
-      "title": "HPRCA JBT Admit Card 2026 Released: Check direct link to download",
-      "description": "Himachal Pradesh Rajya Chayan Aayog has released e-admit cards for the Junior Basic Teacher (JBT) recruitment examination (Post Code 26015). Candidates can download their hall tickets from the official portal until June 17, 2026. The written exam is scheduled\u2026",
-      "url": "https://timesofindia.indiatimes.com/education/news/hprca-jbt-admit-card-2026-released-check-link-and-steps-to-download/articleshow/131648009.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-131648004,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-06-11T03:13:13Z",
-      "content": "Follow Us On Social Media"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Saurabh Parashar",
-      "title": "Himachal receives nearly 2,790 tonnes of urea ahead of kharif",
-      "description": "Urea demand is particularly high in the state\u2019s plains and lower hill regions.",
-      "url": "https://indianexpress.com/article/india/himachal-pradesh-urea-consignment-kharif-paddy-season-fertiliser-10733601/",
-      "urlToImage": "https://images.indianexpress.com/2026/06/urea.jpg",
-      "publishedAt": "2026-06-10T15:59:40Z",
-      "content": "Himachal Pradesh has received a fresh consignment of approximately 2,790 tonnes of subsidised urea ahead of the crucial kharif season, providing much-needed relief to the farmers and their concerns o\u2026 [+2653 chars]"
     }
   ],
   "directory": []
