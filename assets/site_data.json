@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-06-16 17:42:22",
+  "last_updated": "2026-06-16 21:02:43",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "SC permits Himachal MLAs to vote in municipal elections",
+      "description": "The Supreme Court has allowed Himachal Pradesh MLAs to vote in elections for presidents and vice-presidents of civic bodies. This decision overturns a recent High Court order that had barred these ex-officio members from voting. The top court's intervention c\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/sc-permits-himachal-mlas-to-vote-in-municipal-elections/articleshow/131754197.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-131754248,width-1200,height-630,imgsize-251072,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-06-15T19:26:54Z",
+      "content": "The Supreme Court has allowed Himachal Pradesh MLAs to vote in elections for presidents and vice-presidents of civic bodies. This decision overturns a recent High Court order that had barred these ex\u2026 [+147 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-131675218,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-06-12T05:49:29Z",
       "content": "<ul><li>News</li>\r\n<li>'Why ship moved despite alerts?' : Himachal Pradesh seafarers kin demand probe</li></ul>\r\nFollow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights\u2026 [+55 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Jocelyn Fernandes",
-      "title": "Dearness Allowance: Full list of states that have announced DA hikes and those considering pay increases for employees",
-      "description": "Dearness Allowance: Assam, Arunachal Pradesh, Bihar, Odisha, Tamil Nadu, Uttar Pradesh \u2014 Check the full list of states that have announced DA hikes and states such as West Bengal and Himachal Pradesh, that are considering pay increases for employees.",
-      "url": "https://www.livemint.com/money/personal-finance/dearness-allowance-full-list-states-da-hike-assam-bihar-odisha-tamil-arunachal-uttar-pradesh-salary-employees-pensioners-11781161210998.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2026/06/11/1600x900/logo/INDIA-RUPEE-10_1759329092702_1759329098442_1781162312846_e98fbae6-107e-427c-8332-679b0c8891df.jpg",
-      "publishedAt": "2026-06-11T07:33:13Z",
-      "content": "Dearness Allowance: A component of the basic salary, DA aims to mitigate cost-of-living expenses for central government employees, public sector staff, defence personnel, bank employees, and pensione\u2026 [+6158 chars]"
     }
   ],
   "directory": []
