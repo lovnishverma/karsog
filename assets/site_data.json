@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-06-17 13:13:44",
+  "last_updated": "2026-06-17 17:02:29",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Arshdeep Kaur",
+      "title": "I asked ChatGPT for India\u2019s best work-from-home locations. The answer went far beyond Goa and Manali",
+      "description": "If you have the luxury of a laptop and a decent Wi-Fi connection, the world is quite literally your office. Here are the top 20 locations ChatGPT, beyond Goa and Manali:",
+      "url": "https://www.livemint.com/money/personal-finance/i-asked-chatgpt-for-india-s-best-work-from-home-locations-the-answer-went-far-beyond-goa-and-manali-11781624479236.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2026/06/16/1600x900/logo/pexels-photo-21363801_1781624564230_1781624602469_af2e503a-8e3d-4dac-91e5-e664c64defaa.jpeg",
+      "publishedAt": "2026-06-16T16:24:41Z",
+      "content": "Work-from-home doesn't have to be boring, and it definitely shouldn't limit you to your kitchen table or the same four walls. If you have the luxury of a laptop and a decent Wi-Fi connection, the wor\u2026 [+8109 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://www.livemint.com/lm-img/img/2026/06/13/1600x900/logo/US-TRUMP-ADMINISTRATION-TO-CANCEL-HARVARD-S-FEDERA_1748485899228_1781327692179_7f650fdf-0696-4ad8-b87a-29ebe64c6504.jpg",
       "publishedAt": "2026-06-13T05:16:00Z",
       "content": "Dearness Allowance: Himachal Pradesh will now pay state government employees their full salary, including dearness allowance (DA) and house rent allowance (HRA), when they avail study leave for highe\u2026 [+3620 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TNN",
-      "title": "'Why ship moved despite alerts?' : HP seafarer\u2019s kin demand probe",
-      "description": "A Himachal Pradesh family is demanding an inquiry after their 23-year-old son, deck cadet Aditya Sharma, was killed in a US strike on a commercial oil tanker near the Gulf of Oman. The family questions why the vessel proceeded despite security warnings and se\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/shimla/why-ship-moved-despite-alerts-hp-seafarers-kin-demand-probe/articleshow/131674970.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-131675218,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-06-12T05:49:29Z",
-      "content": "<ul><li>News</li>\r\n<li>'Why ship moved despite alerts?' : Himachal Pradesh seafarers kin demand probe</li></ul>\r\nFollow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights\u2026 [+55 chars]"
     }
   ],
   "directory": []
