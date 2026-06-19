@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-06-19 09:35:02",
+  "last_updated": "2026-06-19 13:09:57",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "ANI",
+      "title": "India Post to use drones after tie-up with Skye Air in Himachal and Assam",
+      "description": "The deployment will connect 110 locations in Himachal Pradesh and 40 locations in Assam, aiming to address last-mile delivery challenges in regions where mountainous terrain, seasonal flooding and limited transport infrastructure often delay postal services",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/india-post-to-use-drones-after-tie-up-with-skye-air-in-himachal-and-assam/article71117484.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/15m9kp/article71117838.ece/alternates/LANDSCAPE_1200/Skye-Air-targetGBFG1C607.4.jpg.jpg",
+      "publishedAt": "2026-06-18T12:35:12Z",
+      "content": "India Post will use drones for transportation of mail bags in remote and difficult terrains of Himachal Pradesh and Assam through a partnership with drone logistics company Skye Air Mobility, under w\u2026 [+2831 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://im.rediff.com/1200-630/news/2023/aug/22shimla.jpg",
       "publishedAt": "2026-06-15T06:21:29Z",
       "content": "The 'Shaan-e-Bushahr' Mandhol Premiere League-4 cricket tournament in Shimla is uniquely leveraging the power of sports to combat drug abuse and foster environmental conservation among the region's y\u2026 [+2256 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Jocelyn Fernandes",
-      "title": "Dearness Allowance: Himachal Pradesh to pay full salary, DA and HRA of employees during study leave for higher education",
-      "description": "The Himachal Pradesh government, led by Chief Minister Thakur Sukhvinder Singh Sukhu, on Thursday announced that state employees will now receive 100 per cent of their salary while on study leave for higher education.",
-      "url": "https://www.livemint.com/money/personal-finance/dearness-allowance-himachal-pradesh-will-pay-full-salary-da-hra-govt-employees-study-leave-for-higher-education-cm-sukhu-11781320019804.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2026/06/13/1600x900/logo/US-TRUMP-ADMINISTRATION-TO-CANCEL-HARVARD-S-FEDERA_1748485899228_1781327692179_7f650fdf-0696-4ad8-b87a-29ebe64c6504.jpg",
-      "publishedAt": "2026-06-13T05:16:00Z",
-      "content": "Dearness Allowance: Himachal Pradesh will now pay state government employees their full salary, including dearness allowance (DA) and house rent allowance (HRA), when they avail study leave for highe\u2026 [+3620 chars]"
     }
   ],
   "directory": []
