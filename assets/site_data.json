@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-06-20 12:35:33",
+  "last_updated": "2026-06-20 16:31:19",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Himachal Pradesh: Muslim outfit threatens of agitation over social media slur against Quran",
+      "description": "A Muslim rights group in Nahan has petitioned the police, demanding swift action against an individual accused of posting offensive comments about the Quran on social media. Community members presented a memorandum to the Superintendent of Police, highlightin\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/shimla/himachal-pradesh-muslim-outfit-threatens-of-agitation-over-social-media-slur-against-quran/articleshow/131862386.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-131862403,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-06-19T16:03:41Z",
+      "content": "Follow Us On Social Media"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://www.livemint.com/lm-img/img/2026/06/15/1600x900/logo/pexels-photo-4233677_1781537925098_1781537989550_1f84491b-f7ef-444d-8524-ea40d62b55f6.jpeg",
       "publishedAt": "2026-06-15T16:05:21Z",
       "content": "Planning a family summer vacation is mostly about three things: endless debates, the sudden realisation that June brings the monsoon, and sheer panic.\r\nTorn between the lush, rainy magic of Northeast\u2026 [+7981 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rediff.com"
-      },
-      "author": "sports@rediff.co.in (Rediff Sports Desk)",
-      "title": "Shimla Cricket League: Sports For Social Good",
-      "description": "A rural-level cricket competition in Shimla's Jubbal subdivision is using sports to raise awareness about drug abuse and environmental protection. The 'Shaan-e-Bushahr' Mandhol Premiere League-4, featuring over 80 teams, encourages participants to plant sapli\u2026",
-      "url": "https://www.rediff.com/sports/report/rural-cricket-tournament-promotes-drug-environment-awareness/20260615.htm",
-      "urlToImage": "https://im.rediff.com/1200-630/news/2023/aug/22shimla.jpg",
-      "publishedAt": "2026-06-15T06:21:29Z",
-      "content": "The 'Shaan-e-Bushahr' Mandhol Premiere League-4 cricket tournament in Shimla is uniquely leveraging the power of sports to combat drug abuse and foster environmental conservation among the region's y\u2026 [+2256 chars]"
     }
   ],
   "directory": []
