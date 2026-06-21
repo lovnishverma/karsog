@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-06-21 00:42:12",
+  "last_updated": "2026-06-21 05:36:27",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Jocelyn Fernandes",
+      "title": "Dearness Allowance: Here's all we know about Punjab, West Bengal and Himachal Pradesh govts' discussions on DA hikes",
+      "description": "Dearness Allowance: DA is the component of the basic salary that is periodically adjusted for inflation. Here's all we know about the Punjab, West Bengal and Himachal Pradesh state governments' discussions on respective DA hikes.",
+      "url": "https://www.livemint.com/money/personal-finance/dearness-allowance-heres-all-we-know-about-punjab-west-bengal-and-himachal-pradesh-govts-discussions-on-da-hikes-11781923785692.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2026/06/20/1600x900/logo/INDIA-CENBANK-FX-0_1776523844451_1776523866935_1781924214147_da606991-cd86-4dc4-ac1d-4937a60f1b1c.JPG",
+      "publishedAt": "2026-06-20T02:57:33Z",
+      "content": "Dearness Allowance: DA is a component of the basic salary of central government employees, public sector staff, defence personnel, bank employees and pensioners that is periodically adjusted for infl\u2026 [+3786 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.global.news.samsung.com/in/wp-content/uploads/2026/06/feature-HP.jpg",
       "publishedAt": "2026-06-15T17:07:15Z",
       "content": "In the hills of Himachal Pradesh, innovation often begins with challenges that rarely make headlines. For some communities, it is access to healthcare. For others, it is the lack of assistive technol\u2026 [+3354 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Arshdeep Kaur",
-      "title": "I asked Gemini to compare Northeast vs Himachal-Uttarakhand for summer vacation in June \u2014 here's the winner",
-      "description": "Planning a family vacation in India during June requires carefully balancing the desire for pleasant weather against the reality of the Indian monsoon.",
-      "url": "https://www.livemint.com/money/personal-finance/i-asked-gemini-to-compare-northeast-vs-himachal-uttarakhand-for-summer-vacation-in-june-heres-the-winner-11781537047933.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2026/06/15/1600x900/logo/pexels-photo-4233677_1781537925098_1781537989550_1f84491b-f7ef-444d-8524-ea40d62b55f6.jpeg",
-      "publishedAt": "2026-06-15T16:05:21Z",
-      "content": "Planning a family summer vacation is mostly about three things: endless debates, the sudden realisation that June brings the monsoon, and sheer panic.\r\nTorn between the lush, rainy magic of Northeast\u2026 [+7981 chars]"
     }
   ],
   "directory": []
