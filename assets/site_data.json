@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-06-21 16:32:36",
+  "last_updated": "2026-06-21 20:31:29",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Shimla man robbed of \u20b940k by auto driver, his two aides",
+      "description": "Chandigarh: Auto driver, 2 aides booked for strangling and robbing Shimla man of \u20b940,000 and documents in Sector 26; victim hospitalized, CCTV probe on.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/shimla-man-robbed-of-40k-by-auto-driver-his-two-aides/articleshow/131882645.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-131882644,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-06-20T19:19:28Z",
+      "content": "<ul><li>News</li>\r\n<li>Shimla man robbed of 40k by auto driver, his two aides</li></ul>\r\nFollow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint r\u2026 [+31 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-131754248,width-1200,height-630,imgsize-251072,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-06-15T19:26:54Z",
       "content": "The Supreme Court has allowed Himachal Pradesh MLAs to vote in elections for presidents and vice-presidents of civic bodies. This decision overturns a recent High Court order that had barred these ex\u2026 [+147 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Samsung.com"
-      },
-      "author": null,
-      "title": "Samsung Solve for Tomorrow Sparks Innovation Among Himachal Pradesh Students Through Design Thinking",
-      "description": "Over 300 students participate in Design Thinking Workshop at Shoolini University, exploring solutions for accessibility, inclusion and community wellbeing  Applications Open Till July 3 for Samsung Solve for Tomorrow 2026  Top 4 winning teams to receive incub\u2026",
-      "url": "https://news.samsung.com/in/samsung-solve-for-tomorrow-sparks-innovation-among-himachal-pradesh-students-through-design-thinking",
-      "urlToImage": "https://img.global.news.samsung.com/in/wp-content/uploads/2026/06/feature-HP.jpg",
-      "publishedAt": "2026-06-15T17:07:15Z",
-      "content": "In the hills of Himachal Pradesh, innovation often begins with challenges that rarely make headlines. For some communities, it is access to healthcare. For others, it is the lack of assistive technol\u2026 [+3354 chars]"
     }
   ],
   "directory": []
