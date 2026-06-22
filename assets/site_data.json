@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-06-22 05:48:50",
+  "last_updated": "2026-06-22 10:00:55",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Mountain bookings up 76 per cent in June as urban Indians flock to hills: Report",
+      "description": "Indian mountain getaways are booming, with Zostel reporting a 76% surge in Shimla bookings and nearly 95% growth in other popular spots like Srinagar. Spontaneous travel is on the rise, with almost half of bookings made within three days of departure. Travell\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/services/travel/mountain-bookings-up-76-per-cent-in-june-as-urban-indians-flock-to-hills-report/articleshow/131887826.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-131887850,width-1200,height-630,imgsize-102438,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-06-21T08:11:59Z",
+      "content": "New Delhi: As June brought rising temperatures and mid-year travel opportunities across the country, bookings at properties in Shimla surged \"76 per cent\" year-on-year, reflecting a growing preferenc\u2026 [+2905 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://www.livemint.com/lm-img/img/2026/06/16/1600x900/logo/pexels-photo-21363801_1781624564230_1781624602469_af2e503a-8e3d-4dac-91e5-e664c64defaa.jpeg",
       "publishedAt": "2026-06-16T16:24:41Z",
       "content": "Work-from-home doesn't have to be boring, and it definitely shouldn't limit you to your kitchen table or the same four walls. If you have the luxury of a laptop and a decent Wi-Fi connection, the wor\u2026 [+8109 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "SC permits Himachal MLAs to vote in municipal elections",
-      "description": "The Supreme Court has allowed Himachal Pradesh MLAs to vote in elections for presidents and vice-presidents of civic bodies. This decision overturns a recent High Court order that had barred these ex-officio members from voting. The top court's intervention c\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/sc-permits-himachal-mlas-to-vote-in-municipal-elections/articleshow/131754197.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-131754248,width-1200,height-630,imgsize-251072,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-06-15T19:26:54Z",
-      "content": "The Supreme Court has allowed Himachal Pradesh MLAs to vote in elections for presidents and vice-presidents of civic bodies. This decision overturns a recent High Court order that had barred these ex\u2026 [+147 chars]"
     }
   ],
   "directory": []
