@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-06-23 16:48:29",
+  "last_updated": "2026-06-23 20:43:08",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Bureau",
+      "title": "SC refuses to entertain judicial officer's petition seeking elevation",
+      "description": "The Supreme Court has declined to intervene in a Himachal Pradesh judicial officer's plea for elevation to the High Court. Arvind Malhotra, a principal judge, argued that junior officers were recommended over him. However, the apex court stated that seniority\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/sc-refuses-to-entertain-judicial-officers-petition-seeking-elevation/articleshow/131918646.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-131919785,width-1200,height-630,imgsize-107520,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-06-22T19:13:58Z",
+      "content": "The Supreme Court has declined to intervene in a Himachal Pradesh judicial officer's plea for elevation to the High Court. Arvind Malhotra, a principal judge, argued that junior officers were recomme\u2026 [+202 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-131862403,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-06-19T16:03:41Z",
       "content": "Follow Us On Social Media"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "author": "ANI",
-      "title": "India Post to use drones after tie-up with Skye Air in Himachal and Assam",
-      "description": "The deployment will connect 110 locations in Himachal Pradesh and 40 locations in Assam, aiming to address last-mile delivery challenges in regions where mountainous terrain, seasonal flooding and limited transport infrastructure often delay postal services",
-      "url": "https://www.thehindubusinessline.com/economy/logistics/india-post-to-use-drones-after-tie-up-with-skye-air-in-himachal-and-assam/article71117484.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/15m9kp/article71117838.ece/alternates/LANDSCAPE_1200/Skye-Air-targetGBFG1C607.4.jpg.jpg",
-      "publishedAt": "2026-06-18T12:35:12Z",
-      "content": "India Post will use drones for transportation of mail bags in remote and difficult terrains of Himachal Pradesh and Assam through a partnership with drone logistics company Skye Air Mobility, under w\u2026 [+2831 chars]"
     }
   ],
   "directory": []
