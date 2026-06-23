@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-06-23 09:06:36",
+  "last_updated": "2026-06-23 12:55:40",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Don't want to open pandora's box with regard to proceedings of collegium: Supreme Court",
+      "description": "The Supreme Court declined to intervene in a judicial officer's plea challenging the elevation of junior colleagues to the Himachal Pradesh High Court. Justices Nagarathna and Bagchi emphasized that collegium proceedings are internal matters, stating they wou\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/dont-want-to-open-pandoras-box-with-regard-to-proceedings-of-collegium-supreme-court/articleshow/131905249.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-131905249,width-1200,height-630,imgsize-120676,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-06-22T09:20:15Z",
+      "content": "New Delhi, \"We don't want to open a pandora's box with regard to the proceedings of the collegium,\" the Supreme Court said on Monday while refusing to entertain a petition filed by a judicial officer\u2026 [+2332 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://bl-i.thgim.com/public/incoming/15m9kp/article71117838.ece/alternates/LANDSCAPE_1200/Skye-Air-targetGBFG1C607.4.jpg.jpg",
       "publishedAt": "2026-06-18T12:35:12Z",
       "content": "India Post will use drones for transportation of mail bags in remote and difficult terrains of Himachal Pradesh and Assam through a partnership with drone logistics company Skye Air Mobility, under w\u2026 [+2831 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Arshdeep Kaur",
-      "title": "I asked ChatGPT for India\u2019s best work-from-home locations. The answer went far beyond Goa and Manali",
-      "description": "If you have the luxury of a laptop and a decent Wi-Fi connection, the world is quite literally your office. Here are the top 20 locations ChatGPT, beyond Goa and Manali:",
-      "url": "https://www.livemint.com/money/personal-finance/i-asked-chatgpt-for-india-s-best-work-from-home-locations-the-answer-went-far-beyond-goa-and-manali-11781624479236.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2026/06/16/1600x900/logo/pexels-photo-21363801_1781624564230_1781624602469_af2e503a-8e3d-4dac-91e5-e664c64defaa.jpeg",
-      "publishedAt": "2026-06-16T16:24:41Z",
-      "content": "Work-from-home doesn't have to be boring, and it definitely shouldn't limit you to your kitchen table or the same four walls. If you have the luxury of a laptop and a decent Wi-Fi connection, the wor\u2026 [+8109 chars]"
     }
   ],
   "directory": []
