@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-06-24 09:05:11",
+  "last_updated": "2026-06-24 12:42:55",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "PTI",
+      "title": "Himachal forests worth \u20b922,600 crore in bioeconomy, says report",
+      "description": "The bioeconomy is an economic model which, instead of relying on fossil-based fuel, uses renewable biological resources such as crops, forests, animals and micro-organisms to produce food, energy, materials and services",
+      "url": "https://www.thehindubusinessline.com/news/national/himachal-forests-worth-22600-crore-in-bioeconomy-says-report/article71136632.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/s7tv6a/article70272357.ece/alternates/LANDSCAPE_1200/IMG_iStock-1614047273_2_1_5ADIUTK0.jpg",
+      "publishedAt": "2026-06-23T09:12:26Z",
+      "content": "Himachal forests hold a massive hidden potential of 22,600 crore in bio-economy, which is more than double the recorded value of its current resources, revealed a report titled Counting Green Wealth:\u2026 [+2555 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://www.livemint.com/lm-img/img/2026/06/20/1600x900/logo/INDIA-CENBANK-FX-0_1776523844451_1776523866935_1781924214147_da606991-cd86-4dc4-ac1d-4937a60f1b1c.JPG",
       "publishedAt": "2026-06-20T02:57:33Z",
       "content": "Dearness Allowance: DA is a component of the basic salary of central government employees, public sector staff, defence personnel, bank employees and pensioners that is periodically adjusted for infl\u2026 [+3786 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "Himachal Pradesh: Muslim outfit threatens of agitation over social media slur against Quran",
-      "description": "A Muslim rights group in Nahan has petitioned the police, demanding swift action against an individual accused of posting offensive comments about the Quran on social media. Community members presented a memorandum to the Superintendent of Police, highlightin\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/shimla/himachal-pradesh-muslim-outfit-threatens-of-agitation-over-social-media-slur-against-quran/articleshow/131862386.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-131862403,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-06-19T16:03:41Z",
-      "content": "Follow Us On Social Media"
     }
   ],
   "directory": []
