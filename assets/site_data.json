@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-06-26 12:41:41",
+  "last_updated": "2026-06-26 16:39:32",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "BL Kolkata Bureau",
+      "title": "Jupiter International expands solar cell manufacturing capacity at Himachal Pradesh unit for \u20b9550 cr",
+      "description": "Jupiter International inaugurates its Unit IV at its Baddi manufacturing campus, adding 1.25 GW of TOPCon solar cell manufacturing capacity",
+      "url": "https://www.thehindubusinessline.com/companies/jupiter-international-expands-solar-cell-manufacturing-capacity-at-himachal-pradesh-unit-for-550-cr/article71146977.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/3udvyd/article71147364.ece/alternates/LANDSCAPE_1200/iStock-1038761382.jpg",
+      "publishedAt": "2026-06-25T15:59:14Z",
+      "content": "Jupiter International on Thursday said it has expanded its solar cell manufacturing capacity at Baddi campus in Himachal Pradesh from 2 GW to 3.25 GW by investing 550 crore.\r\nThe Kolkata-based compan\u2026 [+1475 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-131905249,width-1200,height-630,imgsize-120676,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-06-22T09:20:15Z",
       "content": "New Delhi, \"We don't want to open a pandora's box with regard to the proceedings of the collegium,\" the Supreme Court said on Monday while refusing to entertain a petition filed by a judicial officer\u2026 [+2332 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "Mountain bookings up 76 per cent in June as urban Indians flock to hills: Report",
-      "description": "Indian mountain getaways are booming, with Zostel reporting a 76% surge in Shimla bookings and nearly 95% growth in other popular spots like Srinagar. Spontaneous travel is on the rise, with almost half of bookings made within three days of departure. Travell\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/services/travel/mountain-bookings-up-76-per-cent-in-june-as-urban-indians-flock-to-hills-report/articleshow/131887826.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-131887850,width-1200,height-630,imgsize-102438,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-06-21T08:11:59Z",
-      "content": "New Delhi: As June brought rising temperatures and mid-year travel opportunities across the country, bookings at properties in Shimla surged \"76 per cent\" year-on-year, reflecting a growing preferenc\u2026 [+2905 chars]"
     }
   ],
   "directory": []
