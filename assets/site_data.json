@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-06-26 09:05:00",
+  "last_updated": "2026-06-26 12:41:41",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Jupiter International Ltd invests Rs 550 cr in new TOPCon solar cell facility in Himachal's Baddi",
+      "description": "Jupiter International Ltd has boosted its solar cell manufacturing capacity to 3.25 GW with a new 1.25 GW TOPCon unit in Himachal Pradesh, investing Rs 550 crore. This move signifies a shift towards advanced, high-efficiency solar technologies. The company's \u2026",
+      "url": "https://economictimes.indiatimes.com/industry/renewables/jupiter-international-ltd-invests-rs-550-cr-in-new-topcon-solar-cell-facility-in-himachals-baddi/articleshow/131992738.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-131992964,width-1200,height-630,imgsize-342418,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-06-25T11:51:31Z",
+      "content": "Kolkata: City-based Jupiter International Ltd on Thursday inaugurated a new 1.25 GW TOPCon (Tunnel Oxide Passivated Contact) solar cell manufacturing unit at its Baddi facility in Himachal Pradesh, t\u2026 [+2021 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ANI",
+      "title": "HP opposes centre's 'VB-G RAM G' scheme, says new norms will burden state with Rs 164 crore annually and reduce wages",
+      "description": "Himachal Pradesh government vehemently opposes the Centre's renaming of MGNREGA to 'VB-G RAM G' and its new funding framework. Minister Anirudh Singh stated the changes, shifting financial burden to states and reducing guaranteed workdays, will cost Himachal \u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/hp-opposes-centres-vb-g-ram-g-scheme-says-new-norms-will-burden-state-with-rs-164-crore-annually-and-reduce-wages/articleshow/131989458.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-131989480,width-1200,height-630,imgsize-149674,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-06-25T09:37:04Z",
+      "content": "Shimla: The Himachal Pradesh government on Thursday strongly opposed the Centre's decision to rename the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) scheme as 'VB-G RAM G' and in\u2026 [+5335 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -52,32 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-131887850,width-1200,height-630,imgsize-102438,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-06-21T08:11:59Z",
       "content": "New Delhi: As June brought rising temperatures and mid-year travel opportunities across the country, bookings at properties in Shimla surged \"76 per cent\" year-on-year, reflecting a growing preferenc\u2026 [+2905 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TNN",
-      "title": "Shimla man robbed of \u20b940k by auto driver, his two aides",
-      "description": "Chandigarh: Auto driver, 2 aides booked for strangling and robbing Shimla man of \u20b940,000 and documents in Sector 26; victim hospitalized, CCTV probe on.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/shimla-man-robbed-of-40k-by-auto-driver-his-two-aides/articleshow/131882645.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-131882644,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-06-20T19:19:28Z",
-      "content": "<ul><li>News</li>\r\n<li>Shimla man robbed of 40k by auto driver, his two aides</li></ul>\r\nFollow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint r\u2026 [+31 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Jocelyn Fernandes",
-      "title": "Dearness Allowance: Here's all we know about Punjab, West Bengal and Himachal Pradesh govts' discussions on DA hikes",
-      "description": "Dearness Allowance: DA is the component of the basic salary that is periodically adjusted for inflation. Here's all we know about the Punjab, West Bengal and Himachal Pradesh state governments' discussions on respective DA hikes.",
-      "url": "https://www.livemint.com/money/personal-finance/dearness-allowance-heres-all-we-know-about-punjab-west-bengal-and-himachal-pradesh-govts-discussions-on-da-hikes-11781923785692.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2026/06/20/1600x900/logo/INDIA-CENBANK-FX-0_1776523844451_1776523866935_1781924214147_da606991-cd86-4dc4-ac1d-4937a60f1b1c.JPG",
-      "publishedAt": "2026-06-20T02:57:33Z",
-      "content": "Dearness Allowance: DA is a component of the basic salary of central government employees, public sector staff, defence personnel, bank employees and pensioners that is periodically adjusted for infl\u2026 [+3786 chars]"
     }
   ],
   "directory": []
