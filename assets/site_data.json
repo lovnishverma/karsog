@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-06-27 05:17:24",
+  "last_updated": "2026-06-27 08:54:43",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Nihang-police standoff in Uttarakhand ends, group returns to Himachal after talks",
+      "description": "Tension at the Himachal Pradesh-Uttarakhand border eased as a group of Nihangs, who had pushed through barricades en route to Hemkund Sahib, agreed to return to Paonta Sahib after negotiations. The group, protesting the arrest of four Nihangs in a Karnaprayag\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/nihang-police-standoff-in-uttarakhand-ends-group-returns-to-himachal-after-talks/articleshow/132009930.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-132009949,width-1200,height-630,imgsize-140214,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-06-26T07:22:44Z",
+      "content": "Dehradun: After hours of standoff between a group of Nihangs and the administration at the Himachal Pradesh-Uttarakhand border here, the group left for Paonta Sahib in Himachal Pradesh in the early h\u2026 [+4423 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://bl-i.thgim.com/public/incoming/s7tv6a/article70272357.ece/alternates/LANDSCAPE_1200/IMG_iStock-1614047273_2_1_5ADIUTK0.jpg",
       "publishedAt": "2026-06-23T09:12:26Z",
       "content": "Himachal forests hold a massive hidden potential of 22,600 crore in bio-economy, which is more than double the recorded value of its current resources, revealed a report titled Counting Green Wealth:\u2026 [+2555 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Bureau",
-      "title": "SC refuses to entertain judicial officer's petition seeking elevation",
-      "description": "The Supreme Court has declined to intervene in a Himachal Pradesh judicial officer's plea for elevation to the High Court. Arvind Malhotra, a principal judge, argued that junior officers were recommended over him. However, the apex court stated that seniority\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/sc-refuses-to-entertain-judicial-officers-petition-seeking-elevation/articleshow/131918646.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-131919785,width-1200,height-630,imgsize-107520,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-06-22T19:13:58Z",
-      "content": "The Supreme Court has declined to intervene in a Himachal Pradesh judicial officer's plea for elevation to the High Court. Arvind Malhotra, a principal judge, argued that junior officers were recomme\u2026 [+202 chars]"
     }
   ],
   "directory": []
