@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-06-27 00:36:55",
+  "last_updated": "2026-06-27 05:17:24",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Tensions at Uttarakhand border as Nihang Sikhs breach barricades, head towards Hemkund Sahib",
+      "description": "Tension flared at the Himachal Pradesh-Uttarakhand border as Nihang Sikhs clashed with police, breaching barricades at Kulhal to proceed towards Hemkund Sahib. The group, originating from Punjab, demanded the release of four arrested Nihangs involved in a rec\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/tensions-at-uttarakhand-border-as-nihang-sikhs-breach-barricades-head-towards-hemkund-sahib/articleshow/132005901.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-132006024,width-1200,height-630,imgsize-150164,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-06-26T02:45:45Z",
+      "content": "Dehradun: High drama and tension prevailed at the Himachal Pradesh-Uttarakhand border on Thursday night after a large group of Nihang Sikhs clashed with the police, pushed through security barricades\u2026 [+2357 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-131919785,width-1200,height-630,imgsize-107520,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-06-22T19:13:58Z",
       "content": "The Supreme Court has declined to intervene in a Himachal Pradesh judicial officer's plea for elevation to the High Court. Arvind Malhotra, a principal judge, argued that junior officers were recomme\u2026 [+202 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "Don't want to open pandora's box with regard to proceedings of collegium: Supreme Court",
-      "description": "The Supreme Court declined to intervene in a judicial officer's plea challenging the elevation of junior colleagues to the Himachal Pradesh High Court. Justices Nagarathna and Bagchi emphasized that collegium proceedings are internal matters, stating they wou\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/dont-want-to-open-pandoras-box-with-regard-to-proceedings-of-collegium-supreme-court/articleshow/131905249.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-131905249,width-1200,height-630,imgsize-120676,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-06-22T09:20:15Z",
-      "content": "New Delhi, \"We don't want to open a pandora's box with regard to the proceedings of the collegium,\" the Supreme Court said on Monday while refusing to entertain a petition filed by a judicial officer\u2026 [+2332 chars]"
     }
   ],
   "directory": []
