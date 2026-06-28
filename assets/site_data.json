@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-06-28 05:29:59",
+  "last_updated": "2026-06-28 09:02:40",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Over 150 Nihangs camping at Paonta Sahib gurdwara, say won't leave until arrested members released",
+      "description": "Over 150 Nihangs are camped in Himachal Pradesh, refusing to return to Punjab until four sect members arrested in Uttarakhand are freed. A recent attempt to enter Uttarakhand led to clashes with police. The Nihangs have suspended their protest march for two d\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/over-150-nihangs-camping-at-paonta-sahib-gurdwara-say-wont-leave-until-arrested-members-released/articleshow/132029277.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-132029279,width-1200,height-630,imgsize-206578,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-06-27T05:35:46Z",
+      "content": "Shimla: More than 150 Nihangs are camping at Paonta Sahib gurdwara in Sirmaur, Himachal Pradesh, awaiting the release of four members of their sect who were arrested in Uttarakhand after a clash with\u2026 [+2363 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-131989480,width-1200,height-630,imgsize-149674,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-06-25T09:37:04Z",
       "content": "Shimla: The Himachal Pradesh government on Thursday strongly opposed the Centre's decision to rename the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) scheme as 'VB-G RAM G' and in\u2026 [+5335 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "author": "PTI",
-      "title": "Himachal forests worth \u20b922,600 crore in bioeconomy, says report",
-      "description": "The bioeconomy is an economic model which, instead of relying on fossil-based fuel, uses renewable biological resources such as crops, forests, animals and micro-organisms to produce food, energy, materials and services",
-      "url": "https://www.thehindubusinessline.com/news/national/himachal-forests-worth-22600-crore-in-bioeconomy-says-report/article71136632.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/s7tv6a/article70272357.ece/alternates/LANDSCAPE_1200/IMG_iStock-1614047273_2_1_5ADIUTK0.jpg",
-      "publishedAt": "2026-06-23T09:12:26Z",
-      "content": "Himachal forests hold a massive hidden potential of 22,600 crore in bio-economy, which is more than double the recorded value of its current resources, revealed a report titled Counting Green Wealth:\u2026 [+2555 chars]"
     }
   ],
   "directory": []
