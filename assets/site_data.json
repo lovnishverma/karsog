@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-06-28 09:02:40",
+  "last_updated": "2026-06-28 12:27:19",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Thenorthnews.in"
+      },
+      "author": "Yog Raj Sharma",
+      "title": "Rajeev Bindal, Jai Ram Thakur enquire about Harsh Mahajan's health at IGMC",
+      "description": "Shimla, June 27 BJP Himachal Pradesh President Dr. Rajeev Bindal and Leader of Opposition Jai Ram Thakur on Friday visited Rajya Sabha MP Harsh Mahajan at Indira Gandhi Medical College (IGMC), Shimla, to enquire about his health and wish him a speedy recovery\u2026",
+      "url": "https://thenorthnews.in/rajeev-bindal-jai-ram-thakur-meet-harsh-mahajan-at-igmc-enquire-about-health/",
+      "urlToImage": "https://thenorthnews.in/wp-content/uploads/2026/06/No-Cardiac-Issue-Harsh-Mahajan-Recovering-After-Brief-Hospital-Treatment.jpg",
+      "publishedAt": "2026-06-27T12:12:32Z",
+      "content": "Spread the news\r\nShimla, June 27\r\nBJP Himachal Pradesh President Dr. Rajeev Bindal and Leader of Opposition Jai Ram Thakur on Friday visited Rajya Sabha MP Harsh Mahajan at Indira Gandhi Medical Coll\u2026 [+1308 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-131992964,width-1200,height-630,imgsize-342418,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-06-25T11:51:31Z",
       "content": "Kolkata: City-based Jupiter International Ltd on Thursday inaugurated a new 1.25 GW TOPCon (Tunnel Oxide Passivated Contact) solar cell manufacturing unit at its Baddi facility in Himachal Pradesh, t\u2026 [+2021 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ANI",
-      "title": "HP opposes centre's 'VB-G RAM G' scheme, says new norms will burden state with Rs 164 crore annually and reduce wages",
-      "description": "Himachal Pradesh government vehemently opposes the Centre's renaming of MGNREGA to 'VB-G RAM G' and its new funding framework. Minister Anirudh Singh stated the changes, shifting financial burden to states and reducing guaranteed workdays, will cost Himachal \u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/hp-opposes-centres-vb-g-ram-g-scheme-says-new-norms-will-burden-state-with-rs-164-crore-annually-and-reduce-wages/articleshow/131989458.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-131989480,width-1200,height-630,imgsize-149674,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-06-25T09:37:04Z",
-      "content": "Shimla: The Himachal Pradesh government on Thursday strongly opposed the Centre's decision to rename the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) scheme as 'VB-G RAM G' and in\u2026 [+5335 chars]"
     }
   ],
   "directory": []
