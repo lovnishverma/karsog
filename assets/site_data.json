@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-06-29 05:34:52",
+  "last_updated": "2026-06-29 09:34:49",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Himachal Pradesh: Pre-monsoon flushing begins at Larji Hydel Dam",
+      "description": "Pre-monsoon flushing operations at the 126 MW Larji Hydel power station commenced Sunday, aiming to clear accumulated silt. Officials anticipate the process will conclude Monday, temporarily halting electricity generation. Around 2000 cusecs of water will be \u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/himachal-pradesh-pre-monsoon-flushing-begins-at-larji-hydel-dam/articleshow/132048433.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-132048531,width-1200,height-630,imgsize-117666,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-06-28T09:24:37Z",
+      "content": "Mandi: The pre-monsoon flushing operations of 126 MW Larji Hydel started at 6 am Sunday. The flusing would end on Monday, officials said.During the flushing, the silt accumulated in the dam would be \u2026 [+1791 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://bl-i.thgim.com/public/incoming/3udvyd/article71147364.ece/alternates/LANDSCAPE_1200/iStock-1038761382.jpg",
       "publishedAt": "2026-06-25T15:59:14Z",
       "content": "Jupiter International on Thursday said it has expanded its solar cell manufacturing capacity at Baddi campus in Himachal Pradesh from 2 GW to 3.25 GW by investing 550 crore.\r\nThe Kolkata-based compan\u2026 [+1475 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "Jupiter International Ltd invests Rs 550 cr in new TOPCon solar cell facility in Himachal's Baddi",
-      "description": "Jupiter International Ltd has boosted its solar cell manufacturing capacity to 3.25 GW with a new 1.25 GW TOPCon unit in Himachal Pradesh, investing Rs 550 crore. This move signifies a shift towards advanced, high-efficiency solar technologies. The company's \u2026",
-      "url": "https://economictimes.indiatimes.com/industry/renewables/jupiter-international-ltd-invests-rs-550-cr-in-new-topcon-solar-cell-facility-in-himachals-baddi/articleshow/131992738.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-131992964,width-1200,height-630,imgsize-342418,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-06-25T11:51:31Z",
-      "content": "Kolkata: City-based Jupiter International Ltd on Thursday inaugurated a new 1.25 GW TOPCon (Tunnel Oxide Passivated Contact) solar cell manufacturing unit at its Baddi facility in Himachal Pradesh, t\u2026 [+2021 chars]"
     }
   ],
   "directory": []
