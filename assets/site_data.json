@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-06-30 12:39:49",
+  "last_updated": "2026-06-30 16:43:34",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "Himachal Pradesh to launch start-up bus scheme with up to 50% subsidy for youth",
+      "description": "Himachal Pradesh is launching Phase IV of the Rajiv Gandhi Swarozgar Start-up Yojana, empowering unemployed youth to run passenger buses. The scheme offers significant subsidies for electric and diesel buses, along with monthly operational incentives for five\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/renewables/himachal-to-launch-start-up-bus-scheme-with-up-to-50-subsidy-for-youth/articleshow/132072459.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-132072492,width-1200,height-630,imgsize-98166,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-06-29T13:05:02Z",
+      "content": "The Himachal Pradesh government is set to roll out Phase IV of the Rajiv Gandhi Swarozgar Start-up Yojana, offering subsidies and operational incentives to unemployed youth to run passenger buses whi\u2026 [+2994 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-132006024,width-1200,height-630,imgsize-150164,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-06-26T02:45:45Z",
       "content": "Dehradun: High drama and tension prevailed at the Himachal Pradesh-Uttarakhand border on Thursday night after a large group of Nihang Sikhs clashed with the police, pushed through security barricades\u2026 [+2357 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "author": "BL Kolkata Bureau",
-      "title": "Jupiter International expands solar cell manufacturing capacity at Himachal Pradesh unit for \u20b9550 cr",
-      "description": "Jupiter International inaugurates its Unit IV at its Baddi manufacturing campus, adding 1.25 GW of TOPCon solar cell manufacturing capacity",
-      "url": "https://www.thehindubusinessline.com/companies/jupiter-international-expands-solar-cell-manufacturing-capacity-at-himachal-pradesh-unit-for-550-cr/article71146977.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/3udvyd/article71147364.ece/alternates/LANDSCAPE_1200/iStock-1038761382.jpg",
-      "publishedAt": "2026-06-25T15:59:14Z",
-      "content": "Jupiter International on Thursday said it has expanded its solar cell manufacturing capacity at Baddi campus in Himachal Pradesh from 2 GW to 3.25 GW by investing 550 crore.\r\nThe Kolkata-based compan\u2026 [+1475 chars]"
     }
   ],
   "directory": []
