@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-07-01 12:56:18",
+  "last_updated": "2026-07-01 16:47:05",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Trending Desk",
+      "title": "Weather Tomorrow July 1: IMD issues rain alert for Delhi, Uttar Pradesh, Bihar, Kerala, Himachal Pradesh and Uttarakhand; predicts thunderstorms across several states. Full forecast here",
+      "description": "Weather Tomorrow: India braces for active weather as the monsoon advances north. Rain, thunderstorms, and gusty winds are forecast across multiple states, with yellow alerts issued for Delhi, Himachal Pradesh, and Kerala. Temperatures are expected to drop in \u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/weather-tomorrow-july-1-imd-issues-rain-alert-for-delhi-uttar-pradesh-bihar-kerala-himachal-pradesh-and-uttarakhand-predicts-thunderstorms-across-several-states-full-forecast-here/articleshow/132094348.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-132094448,width-1200,height-630,imgsize-37928,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-06-30T13:38:20Z",
+      "content": "Weather Tomorrow: India's weather is set to remain active on Tuesday, July 1, with the India Meteorological Department (IMD) forecasting rain, thunderstorms, lightning and gusty winds across several \u2026 [+8863 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-132009949,width-1200,height-630,imgsize-140214,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-06-26T07:22:44Z",
       "content": "Dehradun: After hours of standoff between a group of Nihangs and the administration at the Himachal Pradesh-Uttarakhand border here, the group left for Paonta Sahib in Himachal Pradesh in the early h\u2026 [+4423 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "Tensions at Uttarakhand border as Nihang Sikhs breach barricades, head towards Hemkund Sahib",
-      "description": "Tension flared at the Himachal Pradesh-Uttarakhand border as Nihang Sikhs clashed with police, breaching barricades at Kulhal to proceed towards Hemkund Sahib. The group, originating from Punjab, demanded the release of four arrested Nihangs involved in a rec\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/tensions-at-uttarakhand-border-as-nihang-sikhs-breach-barricades-head-towards-hemkund-sahib/articleshow/132005901.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-132006024,width-1200,height-630,imgsize-150164,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-06-26T02:45:45Z",
-      "content": "Dehradun: High drama and tension prevailed at the Himachal Pradesh-Uttarakhand border on Thursday night after a large group of Nihang Sikhs clashed with the police, pushed through security barricades\u2026 [+2357 chars]"
     }
   ],
   "directory": []
