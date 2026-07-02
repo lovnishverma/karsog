@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-07-02 00:37:33",
+  "last_updated": "2026-07-02 07:24:48",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "IMD Weather Update: Yellow alert in Delhi-NCR as monsoon advances; thunderstorms alert in UP, Bihar, Rajasthan and other states",
+      "description": "Delhi-NCR anticipates relief from heat with forecasts of light rain, thunderstorms, and gusty winds as the southwest monsoon advances. Several northern states, including Uttar Pradesh and Himachal Pradesh, are on alert for heavy rainfall and lightning.  Tempe\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/imd-weather-update-yellow-alert-in-delhi-ncr-as-monsoon-advances-thunderstorms-alert-in-up-bihar-rajasthan-and-other-states/articleshow/132103940.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-132103971,width-1200,height-630,imgsize-221704,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-01T01:59:34Z",
+      "content": "IMD Weather Update Today: Delhi-NCR woke up to a cloudy and humid morning on Tuesday, raising hopes of relief from the intense heat that has gripped the region for days. The India Meteorological Depa\u2026 [+6891 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-132029279,width-1200,height-630,imgsize-206578,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-06-27T05:35:46Z",
       "content": "Shimla: More than 150 Nihangs are camping at Paonta Sahib gurdwara in Sirmaur, Himachal Pradesh, awaiting the release of four members of their sect who were arrested in Uttarakhand after a clash with\u2026 [+2363 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "Nihang-police standoff in Uttarakhand ends, group returns to Himachal after talks",
-      "description": "Tension at the Himachal Pradesh-Uttarakhand border eased as a group of Nihangs, who had pushed through barricades en route to Hemkund Sahib, agreed to return to Paonta Sahib after negotiations. The group, protesting the arrest of four Nihangs in a Karnaprayag\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/nihang-police-standoff-in-uttarakhand-ends-group-returns-to-himachal-after-talks/articleshow/132009930.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-132009949,width-1200,height-630,imgsize-140214,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-06-26T07:22:44Z",
-      "content": "Dehradun: After hours of standoff between a group of Nihangs and the administration at the Himachal Pradesh-Uttarakhand border here, the group left for Paonta Sahib in Himachal Pradesh in the early h\u2026 [+4423 chars]"
     }
   ],
   "directory": []
