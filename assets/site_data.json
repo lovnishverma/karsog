@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-07-05 10:05:18",
+  "last_updated": "2026-07-05 13:16:34",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Jocelyn Fernandes",
+      "title": "DA hike, bonus, minimum wage increase \u2014 Here's what Himachal Pradesh State Forest Development Corporation staff will get",
+      "description": "DA hike: Himachal Pradesh State Forest Development Corporation (HPSFDC) employees are set to receive a 3% hike in dearness allowance, minimum wage hike, and bonus for staff who draw up to \u20b921,000 monthly salary.&nbsp;",
+      "url": "https://www.livemint.com/money/personal-finance/da-hike-3-pc-dearness-allowance-himachal-pradesh-state-forest-development-corp-hpsfdc-employee-bonus-salary-minimum-wage-11783155374298.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2026/07/04/1600x900/logo/pexels-photo-14907339_1783066844752_1783066853188_ccc3a565-358a-4d1e-ac22-a2ae890d513c_1783159934504_1400bf3f-8b12-4812-9c47-bda72ec82193.jpeg",
+      "publishedAt": "2026-07-04T10:13:18Z",
+      "content": "Dearness Allowance: Himachal Pradesh State Forest Development Corporation (HPSFDC) employees are set to receive a 3% hike in DA, with effect from 1 April 2025, according to a PTI report. This was app\u2026 [+3704 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://thenorthnews.in/wp-content/uploads/2026/06/No-Cardiac-Issue-Harsh-Mahajan-Recovering-After-Brief-Hospital-Treatment.jpg",
       "publishedAt": "2026-06-27T12:12:32Z",
       "content": "Spread the news\r\nShimla, June 27\r\nBJP Himachal Pradesh President Dr. Rajeev Bindal and Leader of Opposition Jai Ram Thakur on Friday visited Rajya Sabha MP Harsh Mahajan at Indira Gandhi Medical Coll\u2026 [+1308 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "Over 150 Nihangs camping at Paonta Sahib gurdwara, say won't leave until arrested members released",
-      "description": "Over 150 Nihangs are camped in Himachal Pradesh, refusing to return to Punjab until four sect members arrested in Uttarakhand are freed. A recent attempt to enter Uttarakhand led to clashes with police. The Nihangs have suspended their protest march for two d\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/over-150-nihangs-camping-at-paonta-sahib-gurdwara-say-wont-leave-until-arrested-members-released/articleshow/132029277.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-132029279,width-1200,height-630,imgsize-206578,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-06-27T05:35:46Z",
-      "content": "Shimla: More than 150 Nihangs are camping at Paonta Sahib gurdwara in Sirmaur, Himachal Pradesh, awaiting the release of four members of their sect who were arrested in Uttarakhand after a clash with\u2026 [+2363 chars]"
     }
   ],
   "directory": []
