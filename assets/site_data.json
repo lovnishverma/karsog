@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-07-08 10:10:26",
+  "last_updated": "2026-07-08 13:47:30",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "PTI",
+      "title": "Met issues orange warning for rain on Saturday in parts of Himachal",
+      "description": "It also cautioned of heavy to very heavy rain in Kangra, Mandi, Sirmaur and Shimla districts and said heavy rain is likely in isolated parts of Una, Bilaspur, Hamirpur, Solan and Kullu districts on Tuesday",
+      "url": "https://www.thehindubusinessline.com/news/national/met-issues-orange-warning-for-rain-on-saturday-in-parts-of-himachal/article71193058.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/ibvn2e/article71193103.ece/alternates/LANDSCAPE_1200/20260701081L.jpg",
+      "publishedAt": "2026-07-07T10:22:50Z",
+      "content": "Light to moderate rains continued to lash parts of Himachal Pradesh, while the Shimla Met Office on Tuesday issued an orange warning of heavy to very heavy rains at isolated places in the state on Ju\u2026 [+1032 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-132094448,width-1200,height-630,imgsize-37928,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-06-30T13:38:20Z",
       "content": "Weather Tomorrow: India's weather is set to remain active on Tuesday, July 1, with the India Meteorological Department (IMD) forecasting rain, thunderstorms, lightning and gusty winds across several \u2026 [+8863 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "Himachal Pradesh to launch start-up bus scheme with up to 50% subsidy for youth",
-      "description": "Himachal Pradesh is launching Phase IV of the Rajiv Gandhi Swarozgar Start-up Yojana, empowering unemployed youth to run passenger buses. The scheme offers significant subsidies for electric and diesel buses, along with monthly operational incentives for five\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/renewables/himachal-to-launch-start-up-bus-scheme-with-up-to-50-subsidy-for-youth/articleshow/132072459.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-132072492,width-1200,height-630,imgsize-98166,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-06-29T13:05:02Z",
-      "content": "The Himachal Pradesh government is set to roll out Phase IV of the Rajiv Gandhi Swarozgar Start-up Yojana, offering subsidies and operational incentives to unemployed youth to run passenger buses whi\u2026 [+2994 chars]"
     }
   ],
   "directory": []
