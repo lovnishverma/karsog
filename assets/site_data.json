@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-07-09 02:14:14",
+  "last_updated": "2026-07-09 07:43:45",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "PTI",
+      "title": "Smart meter scheme cannot be deemed mandatory: Himachal court",
+      "description": "Jaimal Singh had challenged an HPSEBL notice warning that his power supply would be cut if a smart meter was not installed. The interim order came on July 6 and was made public on Wednesday",
+      "url": "https://www.thehindubusinessline.com/news/national/smart-meter-scheme-cannot-be-deemed-mandatory-himachal-court/article71196659.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/f54jk6/article71196763.ece/alternates/LANDSCAPE_1200/IMG_WhatsApp_Image_2026-_2_1_QUG59MTD.jpg",
+      "publishedAt": "2026-07-08T05:40:41Z",
+      "content": "Amid smart meter installations in Himachal Pradesh, a court here has said that a consumer cannot be compelled to get the new device installed at their home or business establishment.\r\nCivil Judge Tin\u2026 [+1329 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-132103971,width-1200,height-630,imgsize-221704,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-07-01T01:59:34Z",
       "content": "IMD Weather Update Today: Delhi-NCR woke up to a cloudy and humid morning on Tuesday, raising hopes of relief from the intense heat that has gripped the region for days. The India Meteorological Depa\u2026 [+6891 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Trending Desk",
-      "title": "Weather Tomorrow July 1: IMD issues rain alert for Delhi, Uttar Pradesh, Bihar, Kerala, Himachal Pradesh and Uttarakhand; predicts thunderstorms across several states. Full forecast here",
-      "description": "Weather Tomorrow: India braces for active weather as the monsoon advances north. Rain, thunderstorms, and gusty winds are forecast across multiple states, with yellow alerts issued for Delhi, Himachal Pradesh, and Kerala. Temperatures are expected to drop in \u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/weather-tomorrow-july-1-imd-issues-rain-alert-for-delhi-uttar-pradesh-bihar-kerala-himachal-pradesh-and-uttarakhand-predicts-thunderstorms-across-several-states-full-forecast-here/articleshow/132094348.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-132094448,width-1200,height-630,imgsize-37928,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-06-30T13:38:20Z",
-      "content": "Weather Tomorrow: India's weather is set to remain active on Tuesday, July 1, with the India Meteorological Department (IMD) forecasting rain, thunderstorms, lightning and gusty winds across several \u2026 [+8863 chars]"
     }
   ],
   "directory": []
