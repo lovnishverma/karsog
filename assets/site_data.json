@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-07-09 10:48:11",
+  "last_updated": "2026-07-09 14:40:35",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "No ice. No preservatives. Ice cream cooked over fire, is one of North India\u2019s best-kept culinary secrets",
+      "description": "Malai Baraf, a traditional dessert from Jammu and Himachal Pradesh, resembles ice cream. This rich dish is prepared by slow-cooking buffalo milk over wood fire for hours. The milk caramelizes as water evaporates, creating a fudge-like solid with a nutty flavo\u2026",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/no-ice-no-preservatives-ice-cream-cooked-over-fire-is-one-of-north-indias-best-kept-culinary-secrets/articleshow/132263984.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-132263979,width-1200,height-630,imgsize-117356,overlay-etpanache/articleshow.jpg",
+      "publishedAt": "2026-07-08T12:38:29Z",
+      "content": "This delectable dessert looks like ice cream. Named Malai Baraf which roughly translates into Ice Cream you wouldnt be wrong with your first impressions either. However, unlike kulfi or ice cream, tr\u2026 [+2668 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://www.livemint.com/lm-img/img/2026/07/04/1600x900/logo/pexels-photo-14907339_1783066844752_1783066853188_ccc3a565-358a-4d1e-ac22-a2ae890d513c_1783159934504_1400bf3f-8b12-4812-9c47-bda72ec82193.jpeg",
       "publishedAt": "2026-07-04T10:13:18Z",
       "content": "Dearness Allowance: Himachal Pradesh State Forest Development Corporation (HPSFDC) employees are set to receive a 3% hike in DA, with effect from 1 April 2025, according to a PTI report. This was app\u2026 [+3704 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "IMD Weather Update: Yellow alert in Delhi-NCR as monsoon advances; thunderstorms alert in UP, Bihar, Rajasthan and other states",
-      "description": "Delhi-NCR anticipates relief from heat with forecasts of light rain, thunderstorms, and gusty winds as the southwest monsoon advances. Several northern states, including Uttar Pradesh and Himachal Pradesh, are on alert for heavy rainfall and lightning.  Tempe\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/imd-weather-update-yellow-alert-in-delhi-ncr-as-monsoon-advances-thunderstorms-alert-in-up-bihar-rajasthan-and-other-states/articleshow/132103940.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-132103971,width-1200,height-630,imgsize-221704,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-01T01:59:34Z",
-      "content": "IMD Weather Update Today: Delhi-NCR woke up to a cloudy and humid morning on Tuesday, raising hopes of relief from the intense heat that has gripped the region for days. The India Meteorological Depa\u2026 [+6891 chars]"
     }
   ],
   "directory": []
