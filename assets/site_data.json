@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-07-10 07:29:12",
+  "last_updated": "2026-07-10 10:46:46",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "PTI",
+      "title": "JP Nadda to lay foundation stone for ICMR high-altitude research centre in Himachal Pradesh",
+      "description": "The facility will strengthen research on high-altitude medicine, tribal health, disaster preparedness and climate-sensitive diseases by upgrading ICMR\u2019s existing field station",
+      "url": "https://www.thehindubusinessline.com/news/science/jp-nadda-to-lay-foundation-stone-for-icmr-high-altitude-research-centre-in-himachal-pradesh/article71201796.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/5aekx2/article71201820.ece/alternates/LANDSCAPE_1200/20260701451L.jpg",
+      "publishedAt": "2026-07-09T10:03:47Z",
+      "content": "Union Health Minister J P Nadda will lay the foundation stone for the ICMR Centre for High Altitude Medicine and Public Health Research at Keylong in Lahaul and Spiti district of Himachal Pradesh on \u2026 [+2725 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-132201917,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-07-05T18:40:56Z",
       "content": "<ul><li>News</li>\r\n<li>Panoramic coach, DHMU train clear final trials on KalkaShimla route</li></ul>\r\nFollow Us On Social Media\r\nQuote of the day by King Charles: \"Whatever may be your background or \u2026 [+1249 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Jocelyn Fernandes",
-      "title": "DA hike, bonus, minimum wage increase \u2014 Here's what Himachal Pradesh State Forest Development Corporation staff will get",
-      "description": "DA hike: Himachal Pradesh State Forest Development Corporation (HPSFDC) employees are set to receive a 3% hike in dearness allowance, minimum wage hike, and bonus for staff who draw up to \u20b921,000 monthly salary.&nbsp;",
-      "url": "https://www.livemint.com/money/personal-finance/da-hike-3-pc-dearness-allowance-himachal-pradesh-state-forest-development-corp-hpsfdc-employee-bonus-salary-minimum-wage-11783155374298.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2026/07/04/1600x900/logo/pexels-photo-14907339_1783066844752_1783066853188_ccc3a565-358a-4d1e-ac22-a2ae890d513c_1783159934504_1400bf3f-8b12-4812-9c47-bda72ec82193.jpeg",
-      "publishedAt": "2026-07-04T10:13:18Z",
-      "content": "Dearness Allowance: Himachal Pradesh State Forest Development Corporation (HPSFDC) employees are set to receive a 3% hike in DA, with effect from 1 April 2025, according to a PTI report. This was app\u2026 [+3704 chars]"
     }
   ],
   "directory": []
