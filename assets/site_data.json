@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-07-11 09:20:45",
+  "last_updated": "2026-07-11 13:02:51",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Trending Desk",
+      "title": "Hostel ordered Rs 40,000 refund to student who left over poor food: Owner never returned the advance; student vacated within a week over no Wi-Fi and poor maintenance",
+      "description": "Hostel ordered Rs 40,000 refund to student over poor food: A consumer court in Himachal Pradesh ordered a Greater Noida hostel to refund Rs 30,000 with 9% interest after a student left within a week, alleging poor food, lack of Wi-Fi and poor maintenance. The\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/hostel-ordered-rs-40000-refund-to-student-who-left-over-poor-food-owner-never-returned-the-advance-he-vacated-within-a-week-over-no-wi-fi-and-poor-maintenance/articleshow/132311043.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-132311550,width-1200,height-630,imgsize-172361,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-10T12:11:35Z",
+      "content": "A District Consumer Disputes Redressal Commission (DCDRC) in Kangra, Himachal Pradesh, has directed a Greater Noida hostel to refund Rs 30,000 with 9% annual interest after a student left the accommo\u2026 [+5628 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://bl-i.thgim.com/public/incoming/5aekx2/article71201820.ece/alternates/LANDSCAPE_1200/20260701451L.jpg",
       "publishedAt": "2026-07-09T10:03:47Z",
       "content": "Union Health Minister J P Nadda will lay the foundation stone for the ICMR Centre for High Altitude Medicine and Public Health Research at Keylong in Lahaul and Spiti district of Himachal Pradesh on \u2026 [+2725 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "No ice. No preservatives. Ice cream cooked over fire, is one of North India\u2019s best-kept culinary secrets",
-      "description": "Malai Baraf, a traditional dessert from Jammu and Himachal Pradesh, resembles ice cream. This rich dish is prepared by slow-cooking buffalo milk over wood fire for hours. The milk caramelizes as water evaporates, creating a fudge-like solid with a nutty flavo\u2026",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/no-ice-no-preservatives-ice-cream-cooked-over-fire-is-one-of-north-indias-best-kept-culinary-secrets/articleshow/132263984.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-132263979,width-1200,height-630,imgsize-117356,overlay-etpanache/articleshow.jpg",
-      "publishedAt": "2026-07-08T12:38:29Z",
-      "content": "This delectable dessert looks like ice cream. Named Malai Baraf which roughly translates into Ice Cream you wouldnt be wrong with your first impressions either. However, unlike kulfi or ice cream, tr\u2026 [+2668 chars]"
     }
   ],
   "directory": []
