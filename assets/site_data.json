@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-07-11 20:40:37",
+  "last_updated": "2026-07-12 02:03:28",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Anumeha Chaturvedi",
+      "title": "Gray skies put tourists under monsoon\u2019s magic spell",
+      "description": "The monsoon season is attracting many travelers to various Indian destinations. Popular spots like Goa and Kerala are seeing increased tourist footfall this year. Hill stations in Himachal and Uttarakhand also report significant growth in hotel bookings. Over\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/services/travel/gray-skies-put-tourists-under-monsoons-magic-spell/articleshow/132320279.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-132320302,width-1200,height-630,imgsize-1656270,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-11T00:00:00Z",
+      "content": "New Delhi: The southwest monsoon, generally considered off season for tourism, is proving to be a big draw for travellers eager to soak in the rain. And its not just Goa, which has long celebrated th\u2026 [+3684 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-132297509,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-07-09T19:25:04Z",
       "content": "<ul><li>News</li>\r\n<li>HP governor stresses on holistic development of students</li></ul>\r\nFollow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint\u2026 [+33 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "author": "PTI",
-      "title": "JP Nadda to lay foundation stone for ICMR high-altitude research centre in Himachal Pradesh",
-      "description": "The facility will strengthen research on high-altitude medicine, tribal health, disaster preparedness and climate-sensitive diseases by upgrading ICMR\u2019s existing field station",
-      "url": "https://www.thehindubusinessline.com/news/science/jp-nadda-to-lay-foundation-stone-for-icmr-high-altitude-research-centre-in-himachal-pradesh/article71201796.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/5aekx2/article71201820.ece/alternates/LANDSCAPE_1200/20260701451L.jpg",
-      "publishedAt": "2026-07-09T10:03:47Z",
-      "content": "Union Health Minister J P Nadda will lay the foundation stone for the ICMR Centre for High Altitude Medicine and Public Health Research at Keylong in Lahaul and Spiti district of Himachal Pradesh on \u2026 [+2725 chars]"
     }
   ],
   "directory": []
