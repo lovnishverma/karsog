@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-07-12 16:51:52",
+  "last_updated": "2026-07-12 20:37:03",
   "news": [
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "Evacuations as landslide threatens Indian village, construction firm blamed",
+      "description": "A landslide during heavy monsoon rains tore through the Indian hill town of Shimla, forcing villagers to evacuate.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/evacuations-as-landslide-threatens-indian-village-construction-firm-blamed",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783790531.jpg?resize=1920%2C1080&quality=80",
+      "publishedAt": "2026-07-11T17:22:39Z",
+      "content": "NewsFeed\r\nA landslide during heavy monsoon rains tore through the Indian hill town of Shimla, forcing villagers to evacuate their homes amid fears of further collapse.\r\nResidents say the cause was a \u2026 [+93 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -46,19 +59,6 @@
         "name": "The Times of India"
       },
       "author": "Trending Desk",
-      "title": "Noodles bought from Reliance Retail makes girl sick: Retailer blames her father for missing expiry date; Company fined Rs 20,000 for selling packet 3 months past expiry",
-      "description": "A Himachal Pradesh consumer commission has ordered Reliance Retail to refund the purchase price and pay Rs 20,000 in compensation and litigation costs after a customer's daughter fell ill following consumption of Korean instant noodles that had expired three \u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/noodles-bought-from-reliance-retail-makes-girl-sick-retailer-blames-her-father-for-missing-expiry-date-company-fined-rs-20000-for-selling-packet-3-months-past-expiry/articleshow/132305669.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-132306623,width-1200,height-630,imgsize-200989,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-10T07:58:17Z",
-      "content": "A father bought a packet of instant noodles from a Reliance Retail store. His daughter ate some and fell sick shortly after. When he checked the wrapper, he found the noodles had expired three months\u2026 [+3726 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Trending Desk",
       "title": "Noodles bought from Reliance Retail makes girl sick: Company fined Rs 20,000 for selling packet 3 months past expiry; retailer blamed her father for missing expiry date",
       "description": "A Himachal Pradesh consumer commission has ordered Reliance Retail to refund the purchase price and pay Rs 20,000 in compensation and litigation costs after a customer's daughter fell ill following consumption of Korean instant noodles that had expired three \u2026",
       "url": "https://economictimes.indiatimes.com/news/new-updates/noodles-bought-from-reliance-retail-makes-girl-sick-company-fined-rs-20000-for-selling-packet-3-months-past-expiry-retailer-blamed-her-father-for-missing-expiry-date/articleshow/132305669.cms",
@@ -71,13 +71,13 @@
         "id": "the-times-of-india",
         "name": "The Times of India"
       },
-      "author": "The Times Of India",
-      "title": "HP governor stresses on holistic development of students",
-      "description": "HP Governor Kavinder Gupta visits MIT-WPU Pune, urges holistic student development, and explores collaborations with Himachal Pradesh universities on research and governance.",
-      "url": "https://timesofindia.indiatimes.com/city/pune/hp-governor-stresses-on-holistic-development-of-students/articleshow/132297510.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-132297509,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-07-09T19:25:04Z",
-      "content": "<ul><li>News</li>\r\n<li>HP governor stresses on holistic development of students</li></ul>\r\nFollow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint\u2026 [+33 chars]"
+      "author": "Trending Desk",
+      "title": "Noodles bought from Reliance Retail makes girl sick: Retailer blames her father for missing expiry date; Company fined Rs 20,000 for selling packet 3 months past expiry",
+      "description": "A Himachal Pradesh consumer commission has ordered Reliance Retail to refund the purchase price and pay Rs 20,000 in compensation and litigation costs after a customer's daughter fell ill following consumption of Korean instant noodles that had expired three \u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/noodles-bought-from-reliance-retail-makes-girl-sick-retailer-blames-her-father-for-missing-expiry-date-company-fined-rs-20000-for-selling-packet-3-months-past-expiry/articleshow/132305669.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-132306623,width-1200,height-630,imgsize-200989,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-10T07:58:17Z",
+      "content": "A father bought a packet of instant noodles from a Reliance Retail store. His daughter ate some and fell sick shortly after. When he checked the wrapper, he found the noodles had expired three months\u2026 [+3726 chars]"
     }
   ],
   "directory": []
