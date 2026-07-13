@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-07-13 02:05:36",
+  "last_updated": "2026-07-13 06:47:22",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Trending Desk",
+      "title": "Weather forecast today, July 12: IMD warns of heavy rain in Uttarakhand, Himachal, Bihar, Punjab, Assam, Odisha and Northeast; Delhi to stay mostly cloudy. Here's the state-wise prediction",
+      "description": "Weather Forecast Today: The India Meteorological Department forecasts an active monsoon day across many Indian states. Heavy rainfall and thunderstorms are expected in northern, eastern, and northeastern regions. States like Uttarakhand, Bihar, and Assam are \u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/weather-forecast-today-july-12-imd-alert-rain-prediction-heavy-rain-in-uttarakhand-himachal-bihar-punjab-assam-odisha-and-northeast-delhi-to-stay-mostly-cloudy/articleshow/132340884.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-132340931,width-1200,height-630,imgsize-193282,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-12T05:09:48Z",
+      "content": "Weather Forecast Today: The India Meteorological Department (IMD) has predicted an active monsoon day across several parts of the country on Saturday, July 12, with heavy rainfall, thunderstorms and \u2026 [+5672 chars]"
+    },
     {
       "source": {
         "id": "al-jazeera-english",
@@ -52,19 +65,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-132307743,width-1200,height-630,imgsize-82790,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-07-10T08:57:18Z",
       "content": "Sirmaur (Himachal Pradesh): Heavy rainfall has lashed Himachal Pradesh's Sirmaur district for the past 36 hours, severely disrupting normal life and prompting authorities to open all 10 gates of the \u2026 [+2047 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Trending Desk",
-      "title": "Noodles bought from Reliance Retail makes girl sick: Retailer blames her father for missing expiry date; Company fined Rs 20,000 for selling packet 3 months past expiry",
-      "description": "A Himachal Pradesh consumer commission has ordered Reliance Retail to refund the purchase price and pay Rs 20,000 in compensation and litigation costs after a customer's daughter fell ill following consumption of Korean instant noodles that had expired three \u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/noodles-bought-from-reliance-retail-makes-girl-sick-retailer-blames-her-father-for-missing-expiry-date-company-fined-rs-20000-for-selling-packet-3-months-past-expiry/articleshow/132305669.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-132306623,width-1200,height-630,imgsize-200989,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-10T07:58:17Z",
-      "content": "A father bought a packet of instant noodles from a Reliance Retail store. His daughter ate some and fell sick shortly after. When he checked the wrapper, he found the noodles had expired three months\u2026 [+3726 chars]"
     },
     {
       "source": {
