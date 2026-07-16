@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-07-16 13:27:25",
+  "last_updated": "2026-07-16 17:07:41",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Trending Desk",
+      "title": "Weather tomorrow, July 16: IMD warns of heavy rain in Odisha, Bihar, West Bengal, Uttarakhand and Northeast; Delhi to stay cloudy with light rain, orange alert for Shimla",
+      "description": "Weather tomorrow, July 16: The India Meteorological Department issued warnings for heavy to very heavy rainfall across several Indian states. Odisha faces a red warning due to a low-pressure area forming over the Bay of Bengal. Heavy rainfall is also likely i\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/weather-tomorrow-july-16-imd-warns-of-heavy-rain-in-odisha-bihar-west-bengal-uttarakhand-and-northeast-delhi-to-stay-cloudy-with-light-rain-orange-alert-for-shimla/articleshow/132418274.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-132418334,width-1200,height-630,imgsize-112638,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-15T14:27:30Z",
+      "content": "Weather tomorrow, July 16: The India Meteorological Department (IMD) has issued a fresh weather warning for different parts of India for Thursday, July 16. The weather office has warned of heavy to v\u2026 [+5462 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-132311550,width-1200,height-630,imgsize-172361,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-07-10T12:11:35Z",
       "content": "A District Consumer Disputes Redressal Commission (DCDRC) in Kangra, Himachal Pradesh, has directed a Greater Noida hostel to refund Rs 30,000 with 9% annual interest after a student left the accommo\u2026 [+5628 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ANI",
-      "title": "Himachal Pradesh rain fury: Jaton dam opens all 10 gates as Sirmaur reels, rescue operations underway",
-      "description": "Sirmaur district in Himachal Pradesh experienced heavy rainfall for 36 hours. Authorities opened all Giri Jaton Dam gates as water levels rose significantly. Widespread damage occurred, including a retaining wall collapse and blocked roads. Educational instit\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/severe-rainfall-triggers-emergency-in-sirmaur-jaton-dam-gates-opened-and-rescues-underway/articleshow/132307547.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-132307743,width-1200,height-630,imgsize-82790,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-10T08:57:18Z",
-      "content": "Sirmaur (Himachal Pradesh): Heavy rainfall has lashed Himachal Pradesh's Sirmaur district for the past 36 hours, severely disrupting normal life and prompting authorities to open all 10 gates of the \u2026 [+2047 chars]"
     }
   ],
   "directory": []
