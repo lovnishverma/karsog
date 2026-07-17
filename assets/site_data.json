@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-07-17 02:01:57",
+  "last_updated": "2026-07-17 06:09:53",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ANI",
+      "title": "Himachal Pradesh State Cooperative Bank to suspend digital banking services from July 17-22 for core banking system upgrade",
+      "description": "Himachal Pradesh State Cooperative Bank will suspend services from July 17 to July 22. This temporary closure is for migrating to the Finacle Core Banking Solution. Customers will face disruptions in branch and digital banking operations during this period. T\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/himachal-pradesh-state-cooperative-bank-to-suspend-digital-banking-services-from-july-17-22-for-core-banking-system-upgrade/articleshow/132430435.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-132430498,width-1200,height-630,imgsize-66842,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-16T05:31:52Z",
+      "content": "Shimla: The Himachal Pradesh State Cooperative Bank (HPSCB) will temporarily suspend major banking and digital banking services for nearly five days from July 17 to July 22 as it undertakes migration\u2026 [+2353 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-132320302,width-1200,height-630,imgsize-1656270,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-07-11T00:00:00Z",
       "content": "New Delhi: The southwest monsoon, generally considered off season for tourism, is proving to be a big draw for travellers eager to soak in the rain. And its not just Goa, which has long celebrated th\u2026 [+3684 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Trending Desk",
-      "title": "Hostel ordered Rs 40,000 refund to student who left over poor food: Owner never returned the advance; student vacated within a week over no Wi-Fi and poor maintenance",
-      "description": "Hostel ordered Rs 40,000 refund to student over poor food: A consumer court in Himachal Pradesh ordered a Greater Noida hostel to refund Rs 30,000 with 9% interest after a student left within a week, alleging poor food, lack of Wi-Fi and poor maintenance. The\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/hostel-ordered-rs-40000-refund-to-student-who-left-over-poor-food-owner-never-returned-the-advance-he-vacated-within-a-week-over-no-wi-fi-and-poor-maintenance/articleshow/132311043.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-132311550,width-1200,height-630,imgsize-172361,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-10T12:11:35Z",
-      "content": "A District Consumer Disputes Redressal Commission (DCDRC) in Kangra, Himachal Pradesh, has directed a Greater Noida hostel to refund Rs 30,000 with 9% annual interest after a student left the accommo\u2026 [+5628 chars]"
     }
   ],
   "directory": []
