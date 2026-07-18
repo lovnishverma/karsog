@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-07-18 01:50:55",
+  "last_updated": "2026-07-18 05:58:55",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Neelanjit Das",
+      "title": "Student wins Rs 5000 compensation and a refund with 9% interest after hostel served sub-standard food and neglected room maintenance; Kangra district consumer commission order",
+      "description": "When Mr Rawat from Doonga Bazaar, Kangra, Himachal Pradesh came to Noida, Uttar Pradesh to study B.Tech at IILM University, Greater Noida, for the first semester on August 17, 2023, he booked a hostel in Knowledge Park-III. Within one week of his stay, Rawat \u2026",
+      "url": "https://economictimes.indiatimes.com/wealth/legal/will/student-wins-rs-5000-compensation-and-a-refund-with-9-interest-after-hostel-served-sub-standard-food-and-neglected-room-maintenance-kangra-district-consumer-commission-order/articleshow/132452763.cms",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-343068,resizemode-75,msid-132452763/wealth/legal/will/student-wins-rs-5000-compensation-and-a-refund-with-9-interest-after-hostel-served-sub-standard-food-and-neglected-room-maintenance-kangra-district-consumer-commission-order.jpg",
+      "publishedAt": "2026-07-17T04:56:10Z",
+      "content": "An engineering student studying in Greater Noida recently won a refund of Rs 30,000 with 9% interest, along with compensation, after the Kangra District Consumer Commission held a hostel authority li\u2026 [+4157 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ANI",
+      "title": "Himachal CM Sukhvinder Singh Sukhu reiterates commitment to balanced, inclusive development; highlights reforms in health, education",
+      "description": "Himachal Chief Minister Thakur Sukhvinder Singh Sukhu met with a delegation from Doon. The state government prioritizes balanced development and strengthening health and education sectors. Several key initiatives have been launched in the Doon constituency re\u2026",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/himachal-cm-sukhvinder-singh-sukhu-reiterates-commitment-to-balanced-inclusive-development-highlights-reforms-in-health-education/articleshow/132452342.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-132452394,width-1200,height-630,imgsize-106510,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-17T04:31:57Z",
+      "content": "Shimla: A delegation from the Doon Assembly constituency of Solan district, led by MLA Ram Kumar, called on Himachal Chief Minister Thakur Sukhvinder Singh Sukhu and apprised him of various developme\u2026 [+2039 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-132340931,width-1200,height-630,imgsize-193282,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-07-12T05:09:48Z",
       "content": "Weather Forecast Today: The India Meteorological Department (IMD) has predicted an active monsoon day across several parts of the country on Saturday, July 12, with heavy rainfall, thunderstorms and \u2026 [+5672 chars]"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": null,
-      "title": "Evacuations as landslide threatens Indian village, construction firm blamed",
-      "description": "A landslide during heavy monsoon rains tore through the Indian hill town of Shimla, forcing villagers to evacuate.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/evacuations-as-landslide-threatens-indian-village-construction-firm-blamed",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783790531.jpg?resize=1920%2C1080&quality=80",
-      "publishedAt": "2026-07-11T17:22:39Z",
-      "content": "NewsFeed\r\nA landslide during heavy monsoon rains tore through the Indian hill town of Shimla, forcing villagers to evacuate their homes amid fears of further collapse.\r\nResidents say the cause was a \u2026 [+93 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Anumeha Chaturvedi",
-      "title": "Gray skies put tourists under monsoon\u2019s magic spell",
-      "description": "The monsoon season is attracting many travelers to various Indian destinations. Popular spots like Goa and Kerala are seeing increased tourist footfall this year. Hill stations in Himachal and Uttarakhand also report significant growth in hotel bookings. Over\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/services/travel/gray-skies-put-tourists-under-monsoons-magic-spell/articleshow/132320279.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-132320302,width-1200,height-630,imgsize-1656270,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-11T00:00:00Z",
-      "content": "New Delhi: The southwest monsoon, generally considered off season for tourism, is proving to be a big draw for travellers eager to soak in the rain. And its not just Goa, which has long celebrated th\u2026 [+3684 chars]"
     }
   ],
   "directory": []
