@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-07-19 09:46:17",
+  "last_updated": "2026-07-19 13:01:46",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Education",
+      "title": "Himachal Pradesh schools may close as IMD issues five-day orange alert for heavy rain",
+      "description": "Schools in parts of Himachal Pradesh may remain closed as the IMD has issued an orange alert for heavy to very heavy rainfall until July 23. The state government has authorised deputy commissioners to decide on suspending classes based on local weather condit\u2026",
+      "url": "https://timesofindia.indiatimes.com/education/news/himachal-pradesh-schools-may-close-as-imd-issues-five-day-orange-alert-for-heavy-rain/articleshow/132478286.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-132479232,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-07-18T11:26:33Z",
+      "content": "<ul><li>News</li>\r\n<li>Himachal Pradesh schools may close as IMD issues five-day orange alert for heavy rain</li></ul>\r\nFollow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All\u2026 [+62 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-132362126,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-07-13T09:11:07Z",
       "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>HPBOSE Class 10th model question papers released at hpbose.org: Direct link to download here</li></ul>\r\nFollow Us On Social Media\r\nCopyr\u2026 [+109 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Trending Desk",
-      "title": "Weather forecast today, July 12: IMD warns of heavy rain in Uttarakhand, Himachal, Bihar, Punjab, Assam, Odisha and Northeast; Delhi to stay mostly cloudy. Here's the state-wise prediction",
-      "description": "Weather Forecast Today: The India Meteorological Department forecasts an active monsoon day across many Indian states. Heavy rainfall and thunderstorms are expected in northern, eastern, and northeastern regions. States like Uttarakhand, Bihar, and Assam are \u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/weather-forecast-today-july-12-imd-alert-rain-prediction-heavy-rain-in-uttarakhand-himachal-bihar-punjab-assam-odisha-and-northeast-delhi-to-stay-mostly-cloudy/articleshow/132340884.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-132340931,width-1200,height-630,imgsize-193282,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-12T05:09:48Z",
-      "content": "Weather Forecast Today: The India Meteorological Department (IMD) has predicted an active monsoon day across several parts of the country on Saturday, July 12, with heavy rainfall, thunderstorms and \u2026 [+5672 chars]"
     }
   ],
   "directory": []
