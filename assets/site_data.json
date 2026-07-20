@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-07-20 17:30:27",
+  "last_updated": "2026-07-20 21:04:19",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Barinderjit Saluja",
+      "title": "Mixed train service back on Kalka-Shimla heritage route",
+      "description": "Regular mixed train service resumes on UNESCO Kalka\u2013Shimla Heritage Railway from July 16; departs Kalka 8am, Shimla 5pm return, aiding tourists.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/mixed-train-service-back-on-kalka-shimla-heritage-route/articleshow/132500673.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-07-19T18:56:31Z",
+      "content": "Follow Us On Social Media\r\n9/11 Type Of Threat: FIFA World Cup Final Gets New Shocker Amid Trump Visit; NJ Gov Warns Fans'Fewer Missiles, Deadlier Hits': Big Reveal On Iran's New Strategy; US Defence\u2026 [+1540 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-132479232,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-07-18T11:26:33Z",
       "content": "<ul><li>News</li>\r\n<li>Himachal Pradesh schools may close as IMD issues five-day orange alert for heavy rain</li></ul>\r\nFollow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All\u2026 [+62 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Neelanjit Das",
-      "title": "Student wins Rs 5000 compensation and a refund with 9% interest after hostel served sub-standard food and neglected room maintenance; Kangra district consumer commission order",
-      "description": "When Mr Rawat from Doonga Bazaar, Kangra, Himachal Pradesh came to Noida, Uttar Pradesh to study B.Tech at IILM University, Greater Noida, for the first semester on August 17, 2023, he booked a hostel in Knowledge Park-III. Within one week of his stay, Rawat \u2026",
-      "url": "https://economictimes.indiatimes.com/wealth/legal/will/student-wins-rs-5000-compensation-and-a-refund-with-9-interest-after-hostel-served-sub-standard-food-and-neglected-room-maintenance-kangra-district-consumer-commission-order/articleshow/132452763.cms",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-343068,resizemode-75,msid-132452763/wealth/legal/will/student-wins-rs-5000-compensation-and-a-refund-with-9-interest-after-hostel-served-sub-standard-food-and-neglected-room-maintenance-kangra-district-consumer-commission-order.jpg",
-      "publishedAt": "2026-07-17T04:56:10Z",
-      "content": "An engineering student studying in Greater Noida recently won a refund of Rs 30,000 with 9% interest, along with compensation, after the Kangra District Consumer Commission held a hostel authority li\u2026 [+4157 chars]"
     }
   ],
   "directory": []
