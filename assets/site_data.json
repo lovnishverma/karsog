@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-07-20 06:40:05",
+  "last_updated": "2026-07-20 10:44:06",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Himachal Pradesh on high alert as MeT issues red warning for heavy rainfall",
+      "description": "Himachal Pradesh is on high alert following a red alert for heavy rainfall. Very heavy to extremely heavy rains are predicted for several districts on Monday and Tuesday. Flash floods have already blocked a road in Kinnaur district, causing damage. Authoritie\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/himachal-pradesh-on-high-alert-as-met-issues-red-warning-for-heavy-rainfall/articleshow/132492329.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-132492360,width-1200,height-630,imgsize-275094,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-19T09:27:00Z",
+      "content": "Shimla: All departments are on high alert in Himachal following a red alert warning issued by the Shimla Meteorological office predicting very heavy to extremely heavy rains at isolated places in fou\u2026 [+2107 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "ANI",
+      "title": "IMD alert: Monsoon to intensify across North, Northeast; heavy rain forecast for Delhi",
+      "description": "Heavy to extremely heavy rainfall has been forecast over Himachal Pradesh, Jammu and Kashmir, Uttarakhand and several northeastern states over the coming days",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/imd-alert-monsoon-to-intensify-across-north-northeast-heavy-rain-forecast-for-delhi/article71240950.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/oopktw/article71240993.ece/alternates/LANDSCAPE_1200/20260708157L.jpg",
+      "publishedAt": "2026-07-19T08:41:15Z",
+      "content": "The India Meteorological Department (IMD) has forecast an active southwest monsoon over northwest, central and eastern India, warning of heavy to extremely heavy rainfall, flash flood risks in vulner\u2026 [+2705 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-132452394,width-1200,height-630,imgsize-106510,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-07-17T04:31:57Z",
       "content": "Shimla: A delegation from the Doon Assembly constituency of Solan district, led by MLA Ram Kumar, called on Himachal Chief Minister Thakur Sukhvinder Singh Sukhu and apprised him of various developme\u2026 [+2039 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ANI",
-      "title": "Himachal Pradesh State Cooperative Bank to suspend digital banking services from July 17-22 for core banking system upgrade",
-      "description": "Himachal Pradesh State Cooperative Bank will suspend services from July 17 to July 22. This temporary closure is for migrating to the Finacle Core Banking Solution. Customers will face disruptions in branch and digital banking operations during this period. T\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/himachal-pradesh-state-cooperative-bank-to-suspend-digital-banking-services-from-july-17-22-for-core-banking-system-upgrade/articleshow/132430435.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-132430498,width-1200,height-630,imgsize-66842,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-16T05:31:52Z",
-      "content": "Shimla: The Himachal Pradesh State Cooperative Bank (HPSCB) will temporarily suspend major banking and digital banking services for nearly five days from July 17 to July 22 as it undertakes migration\u2026 [+2353 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Trending Desk",
-      "title": "Weather tomorrow, July 16: IMD warns of heavy rain in Odisha, Bihar, West Bengal, Uttarakhand and Northeast; Delhi to stay cloudy with light rain, orange alert for Shimla",
-      "description": "Weather tomorrow, July 16: The India Meteorological Department issued warnings for heavy to very heavy rainfall across several Indian states. Odisha faces a red warning due to a low-pressure area forming over the Bay of Bengal. Heavy rainfall is also likely i\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/weather-tomorrow-july-16-imd-warns-of-heavy-rain-in-odisha-bihar-west-bengal-uttarakhand-and-northeast-delhi-to-stay-cloudy-with-light-rain-orange-alert-for-shimla/articleshow/132418274.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-132418334,width-1200,height-630,imgsize-112638,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-15T14:27:30Z",
-      "content": "Weather tomorrow, July 16: The India Meteorological Department (IMD) has issued a fresh weather warning for different parts of India for Thursday, July 16. The weather office has warned of heavy to v\u2026 [+5462 chars]"
     }
   ],
   "directory": []
