@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-07-20 02:22:31",
+  "last_updated": "2026-07-20 06:40:05",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Trending Desk",
+      "title": "Weather today, July 19: IMD warns of heavy to extremely heavy rainfall in Mumbai, Srinagar, Bihar, Himachal Pradesh, Rajasthan and Northeast India; Delhi likely to receive light rain",
+      "description": "Weather today, July 19: Heavy to very heavy rainfall is forecast for many Indian states on Sunday, the IMD has said. Sub-Himalayan West Bengal and Sikkim anticipate extremely heavy rain in isolated areas. Thunderstorms with gusty winds and lightning are also \u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/weather-today-july-19-imd-warns-of-heavy-to-extremely-heavy-rainfall-in-mumbai-srinagar-bihar-himachal-pradesh-rajasthan-and-northeast-india-delhi-likely-to-receive-light-rain/articleshow/132489877.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-132489969,width-1200,height-630,imgsize-249771,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-19T04:39:20Z",
+      "content": "Weather today, July 19: Heavy to very heavy rainfall is set to continue across large parts of India on Sunday, July 19, with the India Meteorological Department (IMD) warning of extremely heavy rainf\u2026 [+6574 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-132418334,width-1200,height-630,imgsize-112638,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-07-15T14:27:30Z",
       "content": "Weather tomorrow, July 16: The India Meteorological Department (IMD) has issued a fresh weather warning for different parts of India for Thursday, July 16. The weather office has warned of heavy to v\u2026 [+5462 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Education",
-      "title": "HPBOSE Class 10th model question papers released at hpbose.org: Direct link to download here",
-      "description": "The Himachal Pradesh Board of School Education (HPBOSE) has published the Class 10 model question papers for the 2026-27 academic session on its official website. Prepared under the revised assessment framework, the papers help students understand the latest \u2026",
-      "url": "https://timesofindia.indiatimes.com/education/news/hpbose-class-10th-model-question-papers-released-at-hpbose-org-direct-link-to-download-here/articleshow/132362078.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-132362126,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-07-13T09:11:07Z",
-      "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>HPBOSE Class 10th model question papers released at hpbose.org: Direct link to download here</li></ul>\r\nFollow Us On Social Media\r\nCopyr\u2026 [+109 chars]"
     }
   ],
   "directory": []
