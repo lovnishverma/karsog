@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-07-21 02:00:34",
+  "last_updated": "2026-07-21 06:22:57",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "PTI",
+      "title": "Weather office issues red warning for heavy rain in Himachal districts; schools, colleges closed in Kangra",
+      "description": "A red warning has been issued for Chamba, Kangra, Mandi and Sirmaur districts for Monday and Chamba, Kangra, Kullu, Mandi and Sirmaur districts for Tuesday",
+      "url": "https://www.thehindubusinessline.com/news/national/weather-office-issues-red-warning-for-heavy-rain-in-himachal-districts-schools-colleges-closed-in-kangra/article71243767.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/tn7a65/article71240990.ece/alternates/LANDSCAPE_1200/PTI07_18_2025_000260B.jpg",
+      "publishedAt": "2026-07-20T04:08:54Z",
+      "content": "All government and private educational institutions in Himachal's Kangra district will remain closed on July 20 and 21, in view of the red alert issued by the Met department, officials said on Sunday\u2026 [+2607 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-132489969,width-1200,height-630,imgsize-249771,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-07-19T04:39:20Z",
       "content": "Weather today, July 19: Heavy to very heavy rainfall is set to continue across large parts of India on Sunday, July 19, with the India Meteorological Department (IMD) warning of extremely heavy rainf\u2026 [+6574 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Education",
-      "title": "Himachal Pradesh schools may close as IMD issues five-day orange alert for heavy rain",
-      "description": "Schools in parts of Himachal Pradesh may remain closed as the IMD has issued an orange alert for heavy to very heavy rainfall until July 23. The state government has authorised deputy commissioners to decide on suspending classes based on local weather condit\u2026",
-      "url": "https://timesofindia.indiatimes.com/education/news/himachal-pradesh-schools-may-close-as-imd-issues-five-day-orange-alert-for-heavy-rain/articleshow/132478286.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-132479232,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-07-18T11:26:33Z",
-      "content": "<ul><li>News</li>\r\n<li>Himachal Pradesh schools may close as IMD issues five-day orange alert for heavy rain</li></ul>\r\nFollow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All\u2026 [+62 chars]"
     }
   ],
   "directory": []
