@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-07-22 01:59:01",
+  "last_updated": "2026-07-22 06:22:42",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Education",
+      "title": "Himachal Pradesh schools closed today in four districts as IMD Red Alert prompts precautionary shutdown; check details here",
+      "description": "Himachal Pradesh school holiday: Educational institutions across Kangra, Mandi, Chamba and Sirmaur districts of Himachal Pradesh are closed today, July 21, 2026, following an IMD Red Alert for heavy rainfall, flash floods and landslides. Examinations schedule\u2026",
+      "url": "https://timesofindia.indiatimes.com/education/news/himachal-pradesh-schools-closed-today-in-four-districts-as-imd-red-alert-prompts-precautionary-shutdown-check-details-here/articleshow/132527335.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-132527387,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-07-21T03:42:04Z",
+      "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>Himachal Pradesh schools closed today in four districts as IMD Red Alert prompts precautionary shutdown; check details here</li></ul>\r\nF\u2026 [+140 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Trending Desk",
+      "title": "Weather today, July 21: IMD issues heavy rain alert for Maharashtra, West Bengal, Uttar Pradesh, Bihar, Rajasthan, Jharkhand, Odisha, Himachal Pradesh, Uttarakhand and Assam as active monsoon returns",
+      "description": "Weather today, July 21: The India Meteorological Department forecasts a monsoon surge bringing heavy rains. Widespread rainfall is expected across north, east, and northeast India this week. Delhi, Mumbai, and several other states will witness moderate to hea\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/weather-today-july-21-imd-issues-heavy-rain-alert-for-maharashtra-west-bengal-uttar-pradesh-bihar-rajasthan-jharkhand-odisha-himachal-pradesh-uttarakhand-and-assam-as-active-monsoon-returns/articleshow/132526592.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-132526624,width-1200,height-630,imgsize-295648,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-21T02:17:09Z",
+      "content": "Weather today, July 21: The India Meteorological Department (IMD) has predicted a fresh surge in monsoon activity across large parts of the country, bringing heavy rainfall, thunderstorms and lightni\u2026 [+8698 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -52,32 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-132492360,width-1200,height-630,imgsize-275094,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-07-19T09:27:00Z",
       "content": "Shimla: All departments are on high alert in Himachal following a red alert warning issued by the Shimla Meteorological office predicting very heavy to extremely heavy rains at isolated places in fou\u2026 [+2107 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "author": "ANI",
-      "title": "IMD alert: Monsoon to intensify across North, Northeast; heavy rain forecast for Delhi",
-      "description": "Heavy to extremely heavy rainfall has been forecast over Himachal Pradesh, Jammu and Kashmir, Uttarakhand and several northeastern states over the coming days",
-      "url": "https://www.thehindubusinessline.com/economy/agri-business/imd-alert-monsoon-to-intensify-across-north-northeast-heavy-rain-forecast-for-delhi/article71240950.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/oopktw/article71240993.ece/alternates/LANDSCAPE_1200/20260708157L.jpg",
-      "publishedAt": "2026-07-19T08:41:15Z",
-      "content": "The India Meteorological Department (IMD) has forecast an active southwest monsoon over northwest, central and eastern India, warning of heavy to extremely heavy rainfall, flash flood risks in vulner\u2026 [+2705 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Trending Desk",
-      "title": "Weather today, July 19: IMD warns of heavy to extremely heavy rainfall in Mumbai, Srinagar, Bihar, Himachal Pradesh, Rajasthan and Northeast India; Delhi likely to receive light rain",
-      "description": "Weather today, July 19: Heavy to very heavy rainfall is forecast for many Indian states on Sunday, the IMD has said. Sub-Himalayan West Bengal and Sikkim anticipate extremely heavy rain in isolated areas. Thunderstorms with gusty winds and lightning are also \u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/weather-today-july-19-imd-warns-of-heavy-to-extremely-heavy-rainfall-in-mumbai-srinagar-bihar-himachal-pradesh-rajasthan-and-northeast-india-delhi-likely-to-receive-light-rain/articleshow/132489877.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-132489969,width-1200,height-630,imgsize-249771,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-19T04:39:20Z",
-      "content": "Weather today, July 19: Heavy to very heavy rainfall is set to continue across large parts of India on Sunday, July 19, with the India Meteorological Department (IMD) warning of extremely heavy rainf\u2026 [+6574 chars]"
     }
   ],
   "directory": []
