@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-07-24 10:10:10",
+  "last_updated": "2026-07-24 13:22:45",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Priyanka Sharma",
+      "title": "Fake pharma unit busted in Himachal Pradesh, operating with forged documents",
+      "description": "Himachal Pradesh's drug control authority busted a fake pharmaceutical firm, Dr. Trustmed, run by Ajay Kumar using forged licences and certificates to con buyers out of advance payments.&nbsp;",
+      "url": "https://www.livemint.com/industry/fake-pharma-unit-busted-in-himachal-pradesh-operating-with-forged-documents-11784803605243.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2026/07/23/1600x900/logo/pexels-photo-3683086_1773986242640_1773986260055_1784807104169_dd915d8e-3993-4992-b178-8e9eba7a0994.jpeg",
+      "publishedAt": "2026-07-23T11:49:55Z",
+      "content": "New Delhi: Himachal Pradesh's drug regulator has uncovered a fake pharmaceutical company that used fake manufacturing licenses and quality certificates to defraud buyers of advance payments, accordin\u2026 [+2314 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Education",
+      "title": "HPRCA announces recruitment for 312 Assistant Staff Nurse posts; applications open from July 30",
+      "description": "HPRCA has released the notification for the recruitment of 312 Assistant Staff Nurse posts in the Department of Medical Education and Research, Himachal Pradesh. Online applications will be accepted from July 30 to August 29, 2026. The recruitment is open to \u2026",
+      "url": "https://timesofindia.indiatimes.com/education/news/hprca-announces-recruitment-for-312-assistant-staff-nurse-posts-applications-open-from-july-30/articleshow/132578147.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-132578190,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-07-23T10:48:21Z",
+      "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>HPRCA announces recruitment for 312 Assistant Staff Nurse posts; applications open from July 30</li></ul>\r\nFollow Us On Social Media\r\nCo\u2026 [+1881 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-132526624,width-1200,height-630,imgsize-295648,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-07-21T02:17:09Z",
       "content": "Weather today, July 21: The India Meteorological Department (IMD) has predicted a fresh surge in monsoon activity across large parts of the country, bringing heavy rainfall, thunderstorms and lightni\u2026 [+8698 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "author": "PTI",
-      "title": "Weather office issues red warning for heavy rain in Himachal districts; schools, colleges closed in Kangra",
-      "description": "A red warning has been issued for Chamba, Kangra, Mandi and Sirmaur districts for Monday and Chamba, Kangra, Kullu, Mandi and Sirmaur districts for Tuesday",
-      "url": "https://www.thehindubusinessline.com/news/national/weather-office-issues-red-warning-for-heavy-rain-in-himachal-districts-schools-colleges-closed-in-kangra/article71243767.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/tn7a65/article71240990.ece/alternates/LANDSCAPE_1200/PTI07_18_2025_000260B.jpg",
-      "publishedAt": "2026-07-20T04:08:54Z",
-      "content": "All government and private educational institutions in Himachal's Kangra district will remain closed on July 20 and 21, in view of the red alert issued by the Met department, officials said on Sunday\u2026 [+2607 chars]"
     }
   ],
   "directory": []
