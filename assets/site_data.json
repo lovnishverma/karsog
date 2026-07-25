@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-07-25 09:39:46",
+  "last_updated": "2026-07-25 13:08:03",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "13 dead, two injured as falling boulders crush moving vehicle in Himachal's Lahaul-Spiti",
+      "description": "Thirteen people died after massive boulders fell onto a moving taxi in Himachal Pradesh.  Two occupants of the SUV managed to escape the sudden rockfall.  The vehicle was completely crushed and caught fire following the impact.  Relief and rescue operations a\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/13-dead-two-injured-as-falling-boulders-crush-moving-vehicle-in-himachals-lahaul-spiti/articleshow/132604418.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-132604515,width-1200,height-630,imgsize-84428,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-24T11:41:51Z",
+      "content": "Shimla: Thirteen people were killed while two others had a narrow escape after massive boulders from a nearby hill suddenly fell onto a moving taxi on the Udaipur-Pangi road in Himachal Pradesh's Lah\u2026 [+1624 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-132527387,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-07-21T03:42:04Z",
       "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>Himachal Pradesh schools closed today in four districts as IMD Red Alert prompts precautionary shutdown; check details here</li></ul>\r\nF\u2026 [+140 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Trending Desk",
-      "title": "Weather today, July 21: IMD issues heavy rain alert for Maharashtra, West Bengal, Uttar Pradesh, Bihar, Rajasthan, Jharkhand, Odisha, Himachal Pradesh, Uttarakhand and Assam as active monsoon returns",
-      "description": "Weather today, July 21: The India Meteorological Department forecasts a monsoon surge bringing heavy rains. Widespread rainfall is expected across north, east, and northeast India this week. Delhi, Mumbai, and several other states will witness moderate to hea\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/weather-today-july-21-imd-issues-heavy-rain-alert-for-maharashtra-west-bengal-uttar-pradesh-bihar-rajasthan-jharkhand-odisha-himachal-pradesh-uttarakhand-and-assam-as-active-monsoon-returns/articleshow/132526592.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-132526624,width-1200,height-630,imgsize-295648,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-21T02:17:09Z",
-      "content": "Weather today, July 21: The India Meteorological Department (IMD) has predicted a fresh surge in monsoon activity across large parts of the country, bringing heavy rainfall, thunderstorms and lightni\u2026 [+8698 chars]"
     }
   ],
   "directory": []
