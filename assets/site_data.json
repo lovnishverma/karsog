@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-07-25 13:08:03",
+  "last_updated": "2026-07-25 16:50:08",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Himachal Pradesh: 121 roads shut; heavy to very heavy rain predicted",
+      "description": "The India Meteorological Department has issued an orange alert for heavy to very heavy rain in parts of Himachal Pradesh from July 27 to 29. Landslides and flash floods have shut 121 roads, disrupted water supply schemes and power transformers, while several \u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/himachal-pradesh-121-roads-shut-heavy-to-very-heavy-rain-predicted/articleshow/132608163.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-132608320,width-1200,height-630,imgsize-999554,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-24T14:24:37Z",
+      "content": "Shimla: Shimla Met office on Friday issued an orange warning of heavy to very heavy rain in places in Himachal Pradesh from July 27 to 29.A total of 121 roads were rendered inaccessible in the state \u2026 [+1111 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-132538899,width-1200,height-630,imgsize-1685103,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-07-21T14:21:58Z",
       "content": "Alpha Trade\r\nGet daily trade ideas from SEBI-registered research analysts.\r\nInvestment Ideas\r\nGrow your wealth with stock ideas &amp; sectoral trends.\r\nStock Reports Plus\r\nAll-in-one stock research w\u2026 [+512 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Education",
-      "title": "Himachal Pradesh schools closed today in four districts as IMD Red Alert prompts precautionary shutdown; check details here",
-      "description": "Himachal Pradesh school holiday: Educational institutions across Kangra, Mandi, Chamba and Sirmaur districts of Himachal Pradesh are closed today, July 21, 2026, following an IMD Red Alert for heavy rainfall, flash floods and landslides. Examinations schedule\u2026",
-      "url": "https://timesofindia.indiatimes.com/education/news/himachal-pradesh-schools-closed-today-in-four-districts-as-imd-red-alert-prompts-precautionary-shutdown-check-details-here/articleshow/132527335.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-132527387,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-07-21T03:42:04Z",
-      "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>Himachal Pradesh schools closed today in four districts as IMD Red Alert prompts precautionary shutdown; check details here</li></ul>\r\nF\u2026 [+140 chars]"
     }
   ],
   "directory": []
