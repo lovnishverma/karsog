@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-07-27 14:15:53",
+  "last_updated": "2026-07-27 17:37:32",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Youths should visit border villages to understand India, instead of depending on virtual means: PM Modi",
+      "description": "Interacting with the participants, many of whom belong to Gen Z, of the VVV programme 2026 that covered 74 'vibrant villages' across Ladakh, Himachal Pradesh and Uttarakhand, Modi said in the country's border villages, the aspiration for development and the s\u2026",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/youths-should-visit-border-villages-to-understand-india-instead-of-depending-on-virtual-means-pm-modi/articleshow/132642670.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-132642893,width-1200,height-630,imgsize-55074,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-26T14:31:57Z",
+      "content": "New Delhi: Prime Minister Narendra Modi on Sunday said the objective of the Viksit Vibrant Village (VVV) programme, under which youths visit border villages and live with local communities, is to giv\u2026 [+4764 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-132555193,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-07-22T09:12:26Z",
       "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>School holidays extended in J&amp;K till July 26 as IMD forecasts heavy rain; Himachal, Uttarakhand on alert</li></ul>\r\nFollow Us On Soc\u2026 [+1922 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "Weather Tomorrow, July 22: Karnataka, Telangana, Andhra Pradesh, Delhi, Uttarakhand, Himachal Pradesh, UP & more on heavy rain alert; Check full IMD forecast",
-      "description": "\u200bWeather Tomorrow\u200b, July 22\u200b: The India Meteorological Department (IMD) has forecast widespread rainfall across several parts of India on 22 July, with heavy to very heavy rain, thunderstorms and gusty winds expected in many states. Residents have been advise\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/weather-tomorrow-july-22-karnataka-telangana-andhra-pradesh-delhi-uttarakhand-himachal-pradesh-up-more-on-heavy-rain-alert-check-full-imd-forecast/articleshow/132538748.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-132538899,width-1200,height-630,imgsize-1685103,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-21T14:21:58Z",
-      "content": "Alpha Trade\r\nGet daily trade ideas from SEBI-registered research analysts.\r\nInvestment Ideas\r\nGrow your wealth with stock ideas &amp; sectoral trends.\r\nStock Reports Plus\r\nAll-in-one stock research w\u2026 [+512 chars]"
     }
   ],
   "directory": []
