@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-07-28 06:20:28",
+  "last_updated": "2026-07-28 10:28:13",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Trending Desk",
+      "title": "Why thousands of Himachal teachers are doing hunger strike after a 15-day march across the state",
+      "description": "Thousands of primary school teachers marched across Himachal Pradesh demanding policy changes. They gathered in Shimla after a 15-day protest march concluded. Federation leaders have now begun an indefinite relay hunger strike outside the directorate.  The Ch\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/why-thousands-of-himachal-teachers-are-doing-hunger-strike-after-a-15-day-march-across-the-state/articleshow/132652426.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-132654944,width-1200,height-630,imgsize-1274400,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-27T07:18:40Z",
+      "content": "Thousands of primary school teachers are on an indefinite relay hunger strike in Shimla, demanding that the Himachal Pradesh government withdraw its School Complex System, a policy that has placed se\u2026 [+4673 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-132578190,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-07-23T10:48:21Z",
       "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>HPRCA announces recruitment for 312 Assistant Staff Nurse posts; applications open from July 30</li></ul>\r\nFollow Us On Social Media\r\nCo\u2026 [+1881 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Education",
-      "title": "School holidays extended in J&K till July 26 as IMD forecasts heavy rain; Himachal, Uttarakhand on alert",
-      "description": "Jammu and Kashmir has extended school holidays until July 26 for student safety. Widespread rainfall is forecast for Himachal Pradesh and Uttarakhand over the coming days. Authorities are closely monitoring the monsoon's intensification across the Himalayan r\u2026",
-      "url": "https://timesofindia.indiatimes.com/education/news/school-holidays-extended-in-jk-till-july-26-as-imd-forecasts-heavy-rain-himachal-uttarakhand-on-alert/articleshow/132554955.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-132555193,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-07-22T09:12:26Z",
-      "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>School holidays extended in J&amp;K till July 26 as IMD forecasts heavy rain; Himachal, Uttarakhand on alert</li></ul>\r\nFollow Us On Soc\u2026 [+1922 chars]"
     }
   ],
   "directory": []
