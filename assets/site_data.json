@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-07-29 01:57:31",
+  "last_updated": "2026-07-29 06:25:12",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Trending Desk",
+      "title": "Manali hotel refuses stay despite confirmed booking: Guest wins Rs 31,000; court says refund alone didn't make up for the mental harassment",
+      "description": "Manali hotel denied booking: A Gurgaon consumer commission has ordered The Allure Grand Resort in Manali to pay Rs 31,000 in compensation and litigation costs after it denied stay to a guest despite a confirmed booking, leaving him stranded in an unfamiliar h\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/manali-hotel-refuses-stay-despite-confirmed-booking-guest-wins-rs-31000-court-says-refund-alone-didnt-make-up-for-the-mental-harassment/articleshow/132675475.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-132675553,width-1200,height-630,imgsize-157160,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-28T04:54:32Z",
+      "content": "A Manali resort that turned away a guest despite a confirmed booking, leaving him stranded after a journey from Gurgaon, has been ordered to pay Rs 31,000 by a Gurgaon consumer commission. The court \u2026 [+3814 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ANI",
+      "title": "Monsoon rains continue to hamper Himachal; 108 roads remain blocked",
+      "description": "Monsoon rains continue to disrupt normal life across Himachal Pradesh on Monday.  One hundred and eight roads remain blocked due to landslides and debris from recent heavy rainfall.  Fifteen people have tragically lost their lives in rain-related incidents ac\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/monsoon-rains-continue-to-hamper-himachal-108-roads-remain-blocked/articleshow/132675109.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-132675184,width-1200,height-630,imgsize-456604,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-28T04:30:47Z",
+      "content": "Shimla: Persistent monsoon rains continued to disrupt normal life across Himachal Pradesh on Monday, with 108 roads remaining blocked due to landslides and debris even as restoration efforts helped i\u2026 [+2203 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-132604515,width-1200,height-630,imgsize-84428,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-07-24T11:41:51Z",
       "content": "Shimla: Thirteen people were killed while two others had a narrow escape after massive boulders from a nearby hill suddenly fell onto a moving taxi on the Udaipur-Pangi road in Himachal Pradesh's Lah\u2026 [+1624 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Priyanka Sharma",
-      "title": "Fake pharma unit busted in Himachal Pradesh, operating with forged documents",
-      "description": "Himachal Pradesh's drug control authority busted a fake pharmaceutical firm, Dr. Trustmed, run by Ajay Kumar using forged licences and certificates to con buyers out of advance payments.&nbsp;",
-      "url": "https://www.livemint.com/industry/fake-pharma-unit-busted-in-himachal-pradesh-operating-with-forged-documents-11784803605243.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2026/07/23/1600x900/logo/pexels-photo-3683086_1773986242640_1773986260055_1784807104169_dd915d8e-3993-4992-b178-8e9eba7a0994.jpeg",
-      "publishedAt": "2026-07-23T11:49:55Z",
-      "content": "New Delhi: Himachal Pradesh's drug regulator has uncovered a fake pharmaceutical company that used fake manufacturing licenses and quality certificates to defraud buyers of advance payments, accordin\u2026 [+2314 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Education",
-      "title": "HPRCA announces recruitment for 312 Assistant Staff Nurse posts; applications open from July 30",
-      "description": "HPRCA has released the notification for the recruitment of 312 Assistant Staff Nurse posts in the Department of Medical Education and Research, Himachal Pradesh. Online applications will be accepted from July 30 to August 29, 2026. The recruitment is open to \u2026",
-      "url": "https://timesofindia.indiatimes.com/education/news/hprca-announces-recruitment-for-312-assistant-staff-nurse-posts-applications-open-from-july-30/articleshow/132578147.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-132578190,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-07-23T10:48:21Z",
-      "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>HPRCA announces recruitment for 312 Assistant Staff Nurse posts; applications open from July 30</li></ul>\r\nFollow Us On Social Media\r\nCo\u2026 [+1881 chars]"
     }
   ],
   "directory": []
