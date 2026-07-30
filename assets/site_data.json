@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-07-30 01:48:51",
+  "last_updated": "2026-07-30 06:21:06",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Orange alert for heavy rain in Himachal's Nahan; schools, colleges shut",
+      "description": "All educational institutes in Nahan subdivision will close on Wednesday. This closure is due to a heavy rain forecast and an orange alert issued. The Meteorological Department predicts thunderstorms and potential flash floods in Sirmaur district. Pre-schedule\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/orange-alert-for-heavy-rain-in-himachals-nahan-schools-colleges-shut/articleshow/132701215.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-132701239,width-1200,height-630,imgsize-69960,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-29T04:57:32Z",
+      "content": "Nahan (HP): All the educational and technical institutes, including schools, colleges and anganwadis, would be closed on Wednesday in Nahan subdivision of Himachal Pradesh's Sirmaur district in view \u2026 [+1095 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ANI",
+      "title": "Himachal Pradesh secures Rs 239.45 Cr CRIF sanction for key road upgradation projects",
+      "description": "Himachal Pradesh received administrative approval for two road upgradation projects.  The Central Road and Infrastructure Fund will provide Rs 239.45 crore for these initiatives.  These projects will significantly improve connectivity for farmers and horticul\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/transportation/roadways/himachal-pradesh-securesr239-45-cr-crif-sanction-for-key-road-upgradation-projectss/articleshow/132701093.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-132701142,width-1200,height-630,imgsize-70222,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-29T04:46:16Z",
+      "content": "Shimla: The Government of Himachal Pradesh has secured administrative approval of Rs 239.45 crore under the Central Road and Infrastructure Fund (CRIF) 2026-27 from the Ministry of Road Transport &am\u2026 [+2712 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-132642893,width-1200,height-630,imgsize-55074,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-07-26T14:31:57Z",
       "content": "New Delhi: Prime Minister Narendra Modi on Sunday said the objective of the Viksit Vibrant Village (VVV) programme, under which youths visit border villages and live with local communities, is to giv\u2026 [+4764 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "Himachal Pradesh: 121 roads shut; heavy to very heavy rain predicted",
-      "description": "The India Meteorological Department has issued an orange alert for heavy to very heavy rain in parts of Himachal Pradesh from July 27 to 29. Landslides and flash floods have shut 121 roads, disrupted water supply schemes and power transformers, while several \u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/himachal-pradesh-121-roads-shut-heavy-to-very-heavy-rain-predicted/articleshow/132608163.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-132608320,width-1200,height-630,imgsize-999554,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-24T14:24:37Z",
-      "content": "Shimla: Shimla Met office on Friday issued an orange warning of heavy to very heavy rain in places in Himachal Pradesh from July 27 to 29.A total of 121 roads were rendered inaccessible in the state \u2026 [+1111 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "13 dead, two injured as falling boulders crush moving vehicle in Himachal's Lahaul-Spiti",
-      "description": "Thirteen people died after massive boulders fell onto a moving taxi in Himachal Pradesh.  Two occupants of the SUV managed to escape the sudden rockfall.  The vehicle was completely crushed and caught fire following the impact.  Relief and rescue operations a\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/13-dead-two-injured-as-falling-boulders-crush-moving-vehicle-in-himachals-lahaul-spiti/articleshow/132604418.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-132604515,width-1200,height-630,imgsize-84428,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-24T11:41:51Z",
-      "content": "Shimla: Thirteen people were killed while two others had a narrow escape after massive boulders from a nearby hill suddenly fell onto a moving taxi on the Udaipur-Pangi road in Himachal Pradesh's Lah\u2026 [+1624 chars]"
     }
   ],
   "directory": []
