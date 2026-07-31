@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-07-31 06:38:08",
+  "last_updated": "2026-07-31 10:30:57",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Education",
+      "title": "Himachal Pradesh directs all government schools to remain open on August 15 for Independence Day celebrations",
+      "description": "The Himachal Pradesh government has directed all government schools to remain open on August 15, 2026, for Independence Day celebrations. Schools will conduct flag-hoisting ceremonies, cultural programmes, and patriotic activities while also participating in \u2026",
+      "url": "https://timesofindia.indiatimes.com/education/news/himachal-pradesh-directs-all-government-schools-to-remain-open-on-august-15-for-independence-day-celebrations/articleshow/132731731.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-132731975,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-07-30T07:35:28Z",
+      "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>Himachal Pradesh directs all government schools to remain open on August 15 for Independence Day celebrations</li></ul>\r\nFollow Us On So\u2026 [+1934 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-132654944,width-1200,height-630,imgsize-1274400,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-07-27T07:18:40Z",
       "content": "Thousands of primary school teachers are on an indefinite relay hunger strike in Shimla, demanding that the Himachal Pradesh government withdraw its School Complex System, a policy that has placed se\u2026 [+4673 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "Youths should visit border villages to understand India, instead of depending on virtual means: PM Modi",
-      "description": "Interacting with the participants, many of whom belong to Gen Z, of the VVV programme 2026 that covered 74 'vibrant villages' across Ladakh, Himachal Pradesh and Uttarakhand, Modi said in the country's border villages, the aspiration for development and the s\u2026",
-      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/youths-should-visit-border-villages-to-understand-india-instead-of-depending-on-virtual-means-pm-modi/articleshow/132642670.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-132642893,width-1200,height-630,imgsize-55074,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-26T14:31:57Z",
-      "content": "New Delhi: Prime Minister Narendra Modi on Sunday said the objective of the Viksit Vibrant Village (VVV) programme, under which youths visit border villages and live with local communities, is to giv\u2026 [+4764 chars]"
     }
   ],
   "directory": []
