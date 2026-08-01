@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-08-01 02:08:18",
+  "last_updated": "2026-08-01 06:22:18",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Himachal Pradesh: Panel formed to probe irregularities in 'Sugam Darshan' system at Chintpurni temple",
+      "description": "A committee is investigating irregularities in Chintpurni temple's paid 'Sugam Darshan' system.  The system showed more transactions than actual entries after its launch.  Police registered an FIR after the discrepancies came to light on July 19.  A new team \u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/himachal-pradesh-panel-formed-to-probe-irregularities-in-sugam-darshan-system-at-chintpurni-temple/articleshow/132756494.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-132756812,width-1200,height-630,imgsize-204770,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-31T05:07:13Z",
+      "content": "Una: A three-member preliminary inquiry committee has been constituted to investigate the irregularities in the 'Sugam Darshan' system at the Chintpurni temple in Himachal Pradesh's Una district, off\u2026 [+1982 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ETimes.in",
+      "title": "6 traditional Pahadi dishes every food lover should try at least once",
+      "description": "The Indian Himalayas are known for breathtaking landscapes, but the mountains have also shaped one of the country\u2019s most distinctive food cultures. Across Uttarakhand, Himachal Pradesh and parts of Jammu and Kashmir, traditional Pahadi cuisine reflects the re\u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/food-news/6-traditional-pahadi-dishes-every-food-lover-should-try-at-least-once/photostory/132755674.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-132755687,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-07-31T04:30:00Z",
+      "content": "The Indian Himalayas are known for breathtaking landscapes, but the mountains have also shaped one of the countrys most distinctive food cultures. Across Uttarakhand, Himachal Pradesh and parts of Ja\u2026 [+541 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-132675553,width-1200,height-630,imgsize-157160,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-07-28T04:54:32Z",
       "content": "A Manali resort that turned away a guest despite a confirmed booking, leaving him stranded after a journey from Gurgaon, has been ordered to pay Rs 31,000 by a Gurgaon consumer commission. The court \u2026 [+3814 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ANI",
-      "title": "Monsoon rains continue to hamper Himachal; 108 roads remain blocked",
-      "description": "Monsoon rains continue to disrupt normal life across Himachal Pradesh on Monday.  One hundred and eight roads remain blocked due to landslides and debris from recent heavy rainfall.  Fifteen people have tragically lost their lives in rain-related incidents ac\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/monsoon-rains-continue-to-hamper-himachal-108-roads-remain-blocked/articleshow/132675109.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-132675184,width-1200,height-630,imgsize-456604,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-28T04:30:47Z",
-      "content": "Shimla: Persistent monsoon rains continued to disrupt normal life across Himachal Pradesh on Monday, with 108 roads remaining blocked due to landslides and debris even as restoration efforts helped i\u2026 [+2203 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Trending Desk",
-      "title": "Why thousands of Himachal teachers are doing hunger strike after a 15-day march across the state",
-      "description": "Thousands of primary school teachers marched across Himachal Pradesh demanding policy changes. They gathered in Shimla after a 15-day protest march concluded. Federation leaders have now begun an indefinite relay hunger strike outside the directorate.  The Ch\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/why-thousands-of-himachal-teachers-are-doing-hunger-strike-after-a-15-day-march-across-the-state/articleshow/132652426.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-132654944,width-1200,height-630,imgsize-1274400,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-27T07:18:40Z",
-      "content": "Thousands of primary school teachers are on an indefinite relay hunger strike in Shimla, demanding that the Himachal Pradesh government withdraw its School Complex System, a policy that has placed se\u2026 [+4673 chars]"
     }
   ],
   "directory": []
