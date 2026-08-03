@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-08-03 02:07:07",
+  "last_updated": "2026-08-03 06:53:53",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "India-China border trade resumes after 6 years; first batch of 16 traders flagged off for Tibet",
+      "description": "Border trade between India and China resumed at Shipki-La after a long hiatus. Himachal Pradesh minister inaugurated the trade and flagged off local traders to Tibet. A modern Trade Mart was also opened, facilitating goods exchange at one location. The resump\u2026",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-china-border-trade-resumes-after-6-years-first-batch-of-16-traders-flagged-off-for-tibet/articleshow/132800669.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-132800918,width-1200,height-630,imgsize-220384,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-08-02T05:34:29Z",
+      "content": "India-China border trade through the Shipki-La pass in Himachal Pradesh's Kinnaur district resumed on Saturday after a gap of nearly six to seven years, with the first batch of 16 local traders cross\u2026 [+4489 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Economictimes.com"
+      },
+      "author": "Economic Times",
+      "title": "Breaking News Live Updates: Heavy rains leave 102 roads blocked and disrupt power, water supply in Himachal Pradesh",
+      "description": "Breaking News Live Updates: Heavy monsoon rains continued to disrupt normal life across Himachal Pradesh, with 102 roads remaining blocked, 11 power distribution transformers out of service and 28 water supply schemes affected. Mandi was the worst-hit distric\u2026",
+      "url": "https://m.economictimes.com/news/newsblogs/breaking-news-live-pm-modi-politics-bjp-congress-rahul-gandhi-parliament-delhi-rain-today-weather-us-iran-war-latest-updates-donald-trump-peace-deal-ceasefire-agreement-cjp-protest-jantar-mantar-case-2-august-2026-sunday/liveblog/132799525.cms",
+      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-132799525,width-1200,height-900,resizemode-4,imglength-196506/news/newsblogs/breaking-news-live-pm-modi-politics-bjp-congress-rahul-gandhi-parliament-delhi-rain-today-weather-us-iran-war-latest-updates-donald-trump-peace-deal-ceasefire-agreement-cjp-protest-jantar-mantar-case-2-august-2026-sunday.jpg",
+      "publishedAt": "2026-08-02T02:52:13Z",
+      "content": "Breaking News Live Updates: Heavy monsoon rains continued to disrupt normal life across Himachal Pradesh, with 102 roads remaining blocked, 11 power distribution transformers out of service and 28 wa\u2026 [+148 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -52,32 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-132755687,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-07-31T04:30:00Z",
       "content": "The Indian Himalayas are known for breathtaking landscapes, but the mountains have also shaped one of the countrys most distinctive food cultures. Across Uttarakhand, Himachal Pradesh and parts of Ja\u2026 [+541 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Education",
-      "title": "Himachal Pradesh directs all government schools to remain open on August 15 for Independence Day celebrations",
-      "description": "The Himachal Pradesh government has directed all government schools to remain open on August 15, 2026, for Independence Day celebrations. Schools will conduct flag-hoisting ceremonies, cultural programmes, and patriotic activities while also participating in \u2026",
-      "url": "https://timesofindia.indiatimes.com/education/news/himachal-pradesh-directs-all-government-schools-to-remain-open-on-august-15-for-independence-day-celebrations/articleshow/132731731.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-132731975,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-07-30T07:35:28Z",
-      "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>Himachal Pradesh directs all government schools to remain open on August 15 for Independence Day celebrations</li></ul>\r\nFollow Us On So\u2026 [+1934 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "Orange alert for heavy rain in Himachal's Nahan; schools, colleges shut",
-      "description": "All educational institutes in Nahan subdivision will close on Wednesday. This closure is due to a heavy rain forecast and an orange alert issued. The Meteorological Department predicts thunderstorms and potential flash floods in Sirmaur district. Pre-schedule\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/orange-alert-for-heavy-rain-in-himachals-nahan-schools-colleges-shut/articleshow/132701215.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-132701239,width-1200,height-630,imgsize-69960,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-29T04:57:32Z",
-      "content": "Nahan (HP): All the educational and technical institutes, including schools, colleges and anganwadis, would be closed on Wednesday in Nahan subdivision of Himachal Pradesh's Sirmaur district in view \u2026 [+1095 chars]"
     }
   ],
   "directory": []
