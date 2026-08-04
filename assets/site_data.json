@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-08-04 10:29:55",
+  "last_updated": "2026-08-04 13:53:31",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ANI",
+      "title": "Heavy rain likely across Himachal Pradesh till August 7; no flash flood warning yet: IMD",
+      "description": "The IMD has forecast widespread rainfall across Himachal Pradesh from August 3 to 7, with isolated heavy showers expected in several districts but no flash flood warning issued so far. Despite an overall 9% rainfall deficit this monsoon, areas such as Jubbal,\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/heavy-rain-likely-across-himachal-pradesh-till-august-7-no-flash-flood-warning-yet-imd/articleshow/132830721.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-132830764,width-1200,height-630,imgsize-244586,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-08-03T11:52:14Z",
+      "content": "The India Meteorological Department (IMD) has forecast widespread rainfall across Himachal Pradesh from August 3 to August 7, with isolated spells of heavy rain likely in several districts, though no\u2026 [+1696 chars]"
+    },
     {
       "source": {
         "id": "bloomberg",
@@ -65,19 +78,6 @@
       "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-132799525,width-1200,height-900,resizemode-4,imglength-196506/news/newsblogs/breaking-news-live-pm-modi-politics-bjp-congress-rahul-gandhi-parliament-delhi-rain-today-weather-us-iran-war-latest-updates-donald-trump-peace-deal-ceasefire-agreement-cjp-protest-jantar-mantar-case-2-august-2026-sunday.jpg",
       "publishedAt": "2026-08-02T02:52:13Z",
       "content": "Breaking News Live Updates: Heavy monsoon rains continued to disrupt normal life across Himachal Pradesh, with 102 roads remaining blocked, 11 power distribution transformers out of service and 28 wa\u2026 [+148 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Jocelyn Fernandes",
-      "title": "8th pay commission announces state visit to Chandigarh in September 2026 \u2014 Check dates, other details",
-      "description": "The 8th pay commission has announced its official three-day state visit to the union territory of Chandigarh in September. It will hold meetings with employee unions and stakeholders from Chandigarh, Haryana, Himachal Pradesh and Punjab.",
-      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-state-visit-chandigarh-ut-16-17-18-september-2026-check-meeting-dates-punjab-haryana-himachal-pradesh-11785509495647.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2026/07/31/1600x900/logo/how_to_claim_unclaimed_deposits_1702530254956_1785512198128_a6288e87-d58f-4174-a1a4-5e8edae6ce48.jpg",
-      "publishedAt": "2026-07-31T16:04:26Z",
-      "content": "The 8th central pay commission (CPC) in a notice on its official website announced a three-day visit to the union territory (UT) of Chandigarh in September 2026. The panel plans to hold meetings and \u2026 [+4076 chars]"
     }
   ],
   "directory": []
