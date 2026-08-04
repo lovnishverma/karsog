@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-08-04 01:52:50",
+  "last_updated": "2026-08-04 06:21:32",
   "news": [
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bloomberg",
+      "title": "India plans \u20b945,000 crore rail upgrades along China, Pakistan and Bangladesh borders",
+      "description": "The spending \u2014 set to unfold over the next 18 to 24 months \u2014 will help build new tracks, platforms and network strengthening across Punjab, West Bengal, Himachal Pradesh, Rajasthan, Assam and several northeastern states, sources said",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-03/india-plans-5-billion-border-rail-upgrade-in-strategic-push",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/fmy7so/article71299769.ece/alternates/LANDSCAPE_1200/PTI07_31_2026_000243B.jpg",
+      "publishedAt": "2026-08-03T02:50:04Z",
+      "content": "India plans to invest as much as 45,000 crore ($4.7 billion) into railway upgrades along its borders with China, Pakistan and Bangladesh, according to people familiar, marking one of its most signifi\u2026 [+2888 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://www.livemint.com/lm-img/img/2026/07/31/1600x900/logo/how_to_claim_unclaimed_deposits_1702530254956_1785512198128_a6288e87-d58f-4174-a1a4-5e8edae6ce48.jpg",
       "publishedAt": "2026-07-31T16:04:26Z",
       "content": "The 8th central pay commission (CPC) in a notice on its official website announced a three-day visit to the union territory (UT) of Chandigarh in September 2026. The panel plans to hold meetings and \u2026 [+4076 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Trending Desk",
-      "title": "Weather Tomorrow, August 1: IMD issues heavy rain alert across several states; check Delhi-NCR, Gujarat, Himachal, Rajasthan and Maharashtra forecast",
-      "description": "Weather Tomorrow: Monsoon conditions will remain active across India on August 1. Heavy to very heavy rainfall is forecast for north, central, and northeastern regions. Gujarat faces a red alert for extremely heavy rainfall in thirteen districts. Himachal Pra\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/weather-tomorrow-august-1-imd-issues-heavy-rain-alert-across-several-states-check-delhi-ncr-gujarat-himachal-rajasthan-and-maharashtra-forecast/articleshow/132771587.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-132771620,width-1200,height-630,imgsize-46550,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-31T15:42:41Z",
-      "content": "Alpha Trade\r\nGet daily trade ideas from SEBI-registered research analysts.\r\nInvestment Ideas\r\nGrow your wealth with stock ideas &amp; sectoral trends.\r\nStock Reports Plus\r\nAll-in-one stock research w\u2026 [+512 chars]"
     }
   ],
   "directory": []
