@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-08-04 13:53:31",
+  "last_updated": "2026-08-04 17:38:01",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ANI",
+      "title": "Himachal: 109 roads remain blocked after Monsoon rains; power, water services partially restored",
+      "description": "Heavy monsoon rains continue to disrupt essential services across Himachal Pradesh. Road connectivity remains the worst affected sector with many roads still closed. Power supply has been restored in most affected areas during the day. Water supply disruption\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/himachal-109-roads-remain-blocked-after-monsoon-rains-power-water-services-partially-restored/articleshow/132836065.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-132836065,width-1200,height-630,imgsize-126868,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-08-03T15:52:40Z",
+      "content": "Shimla (Himachal Pradesh) [India]: Heavy monsoon rains continued to disrupt essential services across Himachal Pradesh on Monday, with 109 roads remaining blocked, six electricity distribution transf\u2026 [+1584 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-132800918,width-1200,height-630,imgsize-220384,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-08-02T05:34:29Z",
       "content": "India-China border trade through the Shipki-La pass in Himachal Pradesh's Kinnaur district resumed on Saturday after a gap of nearly six to seven years, with the first batch of 16 local traders cross\u2026 [+4489 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Economictimes.com"
-      },
-      "author": "Economic Times",
-      "title": "Breaking News Live Updates: Heavy rains leave 102 roads blocked and disrupt power, water supply in Himachal Pradesh",
-      "description": "Breaking News Live Updates: Heavy monsoon rains continued to disrupt normal life across Himachal Pradesh, with 102 roads remaining blocked, 11 power distribution transformers out of service and 28 water supply schemes affected. Mandi was the worst-hit distric\u2026",
-      "url": "https://m.economictimes.com/news/newsblogs/breaking-news-live-pm-modi-politics-bjp-congress-rahul-gandhi-parliament-delhi-rain-today-weather-us-iran-war-latest-updates-donald-trump-peace-deal-ceasefire-agreement-cjp-protest-jantar-mantar-case-2-august-2026-sunday/liveblog/132799525.cms",
-      "urlToImage": "https://economictimes.indiatimes.com/thumb/msid-132799525,width-1200,height-900,resizemode-4,imglength-196506/news/newsblogs/breaking-news-live-pm-modi-politics-bjp-congress-rahul-gandhi-parliament-delhi-rain-today-weather-us-iran-war-latest-updates-donald-trump-peace-deal-ceasefire-agreement-cjp-protest-jantar-mantar-case-2-august-2026-sunday.jpg",
-      "publishedAt": "2026-08-02T02:52:13Z",
-      "content": "Breaking News Live Updates: Heavy monsoon rains continued to disrupt normal life across Himachal Pradesh, with 102 roads remaining blocked, 11 power distribution transformers out of service and 28 wa\u2026 [+148 chars]"
     }
   ],
   "directory": []
