@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-08-06 10:32:01",
+  "last_updated": "2026-08-06 13:47:39",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Himachal: Yellow alert for heavy rain till Aug 11; 112 roads closed, devotee killed",
+      "description": "Himachal Pradesh faces a yellow alert for heavy rain until August eleventh.  One hundred twelve roads remain closed, and infrastructure disruptions are widespread.  A devotee died after a boulder struck his vehicle on the Chamba-Bharmour road.  Heavy to very \u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/himachal-yellow-alert-for-heavy-rain-till-aug-11-112-roads-closed-devotee-killed/articleshow/132931998.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-132932086,width-1200,height-630,imgsize-168224,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-08-05T13:25:38Z",
+      "content": "Shimla: The Shimla MeT office on Wednesday issued a yellow alert for heavy rain in isolated places across Himachal Pradesh till August 11.A total of 112 roads are closed for vehicular traffic while 6\u2026 [+1712 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-132863935,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-08-04T14:08:51Z",
       "content": "Follow Us On Social Media\r\nMan found murdered near Paramdih in Ranchi'Reel creator' instead of CM? Stalin attacks Vijay over Udhayanidhi's arrestChennai poultry butchers found lacking in hygiene prac\u2026 [+1444 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "Over 150 roads closed in Himachal; MeT predicts wet spell till August 10",
-      "description": "Over 150 roads are closed in Himachal Pradesh due to heavy rainfall.  Water supply schemes and transformers have also been disrupted across the state.  Sirmaur Police and Home Guard jawans rescued twenty-five nomads trapped in a swollen river.  Heavy to very \u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/over-150-roads-closed-in-himachal-met-predicts-wet-spell-till-august-10/articleshow/132862982.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-132863015,width-1200,height-630,imgsize-430554,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-08-04T13:46:44Z",
-      "content": "Shimla: Over 150 roads have been closed in Himachal Pradesh following torrential rain, and the Shimla MeT office on Tuesday issued a yellow alert for heavy rain in isolated parts of the state till Au\u2026 [+1251 chars]"
     }
   ],
   "directory": []
