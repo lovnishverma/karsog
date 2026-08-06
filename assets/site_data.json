@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-08-06 06:24:11",
+  "last_updated": "2026-08-06 10:32:01",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ETimes.in",
+      "title": "10 Himachali dishes that are naturally healthy",
+      "description": "Himachali food is often described as rustic and comforting, but that only tells half the story. Shaped by mountain seasons, local produce, slow cooking and limited ingredients, the cuisine of Himachal Pradesh has long leaned toward balance rather than excess.\u2026",
+      "url": "https://timesofindia.indiatimes.com/life-style/food-news/10-himachali-dishes-that-are-naturally-healthy/photostory/132902437.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-132902644,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-08-05T10:30:00Z",
+      "content": "Himachali food is often described as rustic and comforting, but that only tells half the story. Shaped by mountain seasons, local produce, slow cooking and limited ingredients, the cuisine of Himacha\u2026 [+523 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-132863015,width-1200,height-630,imgsize-430554,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-08-04T13:46:44Z",
       "content": "Shimla: Over 150 roads have been closed in Himachal Pradesh following torrential rain, and the Shimla MeT office on Tuesday issued a yellow alert for heavy rain in isolated parts of the state till Au\u2026 [+1251 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Rahul Tripathi",
-      "title": "Census 2027: Enumeration in Ladakh, J&K, HP, Uttarakhand from Sept 1",
-      "description": "Census 2027 work will begin in Ladakh and snow-bound areas of Jammu and Kashmir. Himachal Pradesh and Uttarakhand will also participate in this upcoming enumeration exercise. Self-enumeration options will be available before the house-to-house population enum\u2026",
-      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/census-2027-enumeration-in-ladakh-jk-hp-uttarakhand-from-sept-1/articleshow/132840669.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-132840673,width-1200,height-630,imgsize-13778,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-08-03T19:08:19Z",
-      "content": "New Delhi: The Registrar General of India (RGI) on Monday notified Census 2027 work to commence in Ladakh and the snow-bound non-synchronous areas of the UT of Jammu and Kashmir (J&amp;K) and the sno\u2026 [+1305 chars]"
     }
   ],
   "directory": []
