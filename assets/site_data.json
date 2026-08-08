@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-08-08 16:24:21",
+  "last_updated": "2026-08-08 20:20:25",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "The Times Of India",
+      "title": "Heavy rainfall lashes HP, 162 roads blocked",
+      "description": "Heavy rain in Himachal Pradesh blocks 162 roads; Mandi and Kullu worst hit. Power and water supply disrupted as restoration work continues, says SEOC.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/heavy-rainfall-lashes-hp-162-roads-blocked/articleshow/133040653.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-133040651,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-08-07T18:19:57Z",
+      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "The Times Of India",
+      "title": "CM Sukhu pushes for research, faster diagnostics to strengthen healthcare",
+      "description": "Himachal CM Sukhu announces research department at IGMC Shimla, faster diagnostics, automated labs with Rs 75 crore, and plans for direct medicine procurement.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/cm-sukhu-pushes-for-research-faster-diagnostics-to-strengthen-healthcare/articleshow/133039396.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-132871374,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-08-07T17:22:17Z",
+      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-133019919,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-08-07T02:58:43Z",
       "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>HP Police Constable Recruitment 2026: HPPSC extends application deadline for 734 vacancies to August 21</li></ul>\r\nFollow Us On Social M\u2026 [+1601 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "The Times Of India",
-      "title": "IGMC Shimla receives SKOCH Award for public health awareness",
-      "description": "IGMC Shimla wins SKOCH Award for \u201cHar Din Sehat\u201d public health campaign on nutrition, exercise, mental health, immunization and anti-drug awareness.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/igmc-shimla-receives-skoch-award-for-public-health-awareness/articleshow/132955737.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-132955735,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-05T17:28:31Z",
-      "content": "Follow Us On Social Media\r\n'Khatron Ke Khiladi' 15: Farrhana Bhatt hesitated to jump... until Rohit Shetty said this to her; 'Iska promo katega'Commercial plane takes off as Trumps helicopter nears a\u2026 [+1550 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "The Times Of India",
-      "title": "35-yr-old rescued after vehicle plunges into river",
-      "description": "Bolero pickup falls into Pabbar River in Rohru, Shimla; driver rescued safely, taken to Civil Hospital. Police probe cites rash, negligent driving.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/35-yr-old-rescued-after-vehicle-plunges-into-river/articleshow/132952708.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-132840341,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-05T16:46:23Z",
-      "content": "Follow Us On Social Media\r\n2 women rescued from prostitution at Panvel lodge; manager, waiter pimp arrestedVeterans groom sons for 2028 poll battleGovernor nominates Deepak Prakash as MLC, likely to \u2026 [+1294 chars]"
     }
   ],
   "directory": []
