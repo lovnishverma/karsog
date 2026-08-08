@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-08-08 08:31:34",
+  "last_updated": "2026-08-08 12:32:39",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Vijay C Roy, Ramita Mishra",
+      "title": "Apple prices set to stay high until September as Himachal yield drops 30%",
+      "description": "Climate-driven crop damage in Himachal Pradesh has driven up wholesale prices ahead of the Jammu &amp; Kashmir harvest, prompting traders to turn to imports to plug the supply gap.",
+      "url": "https://www.livemint.com/industry/agriculture/apple-prices-india-himachal-apple-harvest-11786098244559.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/logo/2-0-1404944238-Fruits-0_1679755911347_1786103537829_cce23e01-f110-4102-b5a3-fbb476e6dbd0.jpg",
+      "publishedAt": "2026-08-07T11:58:31Z",
+      "content": "Himachal Pradesh plays a crucial role in bridging Indias apple supply, meeting about 37% of national demand before Jammu &amp; Kashmirs peak harvest begins in September. Overall, India produces 2.5-2\u2026 [+3057 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Jocelyn Fernandes",
+      "title": "Pay commission: Himachal Pradesh approves 78% salary hike for contract, trainee medical officers up to \u20b960,000/month",
+      "description": "Pay commission: The Himachal Pradesh government has approved a 78% salary hike for contract and trainee medical officers (specialists) up from \u20b933,660 to \u20b960,000 per month. CM Sukhvinder Singh Sukhu said healthcare and education are among the state's highest \u2026",
+      "url": "https://www.livemint.com/money/personal-finance/pay-commission-himachal-pradesh-78-pc-salary-hike-contract-trainee-medical-officers-specialists-up-to-rs-60000-per-month-11786099892033.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/logo/rupee_1735658145591_1786100550684_cde256e3-9fc7-4436-9230-fad7666b1df8.jpg",
+      "publishedAt": "2026-08-07T11:55:06Z",
+      "content": "The Himachal Pradesh government has approved a 78% increase in monthly salary of contract and trainee medical officers (specialists) this week under the 7th pay commission (7th CPC), according to sta\u2026 [+3553 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-132949906,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-08-05T16:11:13Z",
       "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "Himachal: Yellow alert for heavy rain till Aug 11; 112 roads closed, devotee killed",
-      "description": "Himachal Pradesh faces a yellow alert for heavy rain until August eleventh.  One hundred twelve roads remain closed, and infrastructure disruptions are widespread.  A devotee died after a boulder struck his vehicle on the Chamba-Bharmour road.  Heavy to very \u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/himachal-yellow-alert-for-heavy-rain-till-aug-11-112-roads-closed-devotee-killed/articleshow/132931998.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-132932086,width-1200,height-630,imgsize-168224,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-08-05T13:25:38Z",
-      "content": "Shimla: The Shimla MeT office on Wednesday issued a yellow alert for heavy rain in isolated places across Himachal Pradesh till August 11.A total of 112 roads are closed for vehicular traffic while 6\u2026 [+1712 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ETimes.in",
-      "title": "10 Himachali dishes that are naturally healthy",
-      "description": "Himachali food is often described as rustic and comforting, but that only tells half the story. Shaped by mountain seasons, local produce, slow cooking and limited ingredients, the cuisine of Himachal Pradesh has long leaned toward balance rather than excess.\u2026",
-      "url": "https://timesofindia.indiatimes.com/life-style/food-news/10-himachali-dishes-that-are-naturally-healthy/photostory/132902437.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-132902644,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-05T10:30:00Z",
-      "content": "Himachali food is often described as rustic and comforting, but that only tells half the story. Shaped by mountain seasons, local produce, slow cooking and limited ingredients, the cuisine of Himacha\u2026 [+523 chars]"
     }
   ],
   "directory": []
