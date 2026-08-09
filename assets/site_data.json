@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-08-09 04:57:38",
+  "last_updated": "2026-08-09 08:33:32",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "7 killed, 11 injured after private bus overturns on mountain route in Himachal's Chamba",
+      "description": "A private bus overturned and fell onto a lower road in Chamba district, killing seven passengers. Eleven others sustained injuries in the accident which occurred near Chalunj Mor on Saturday morning. Locals immediately rushed to assist and informed the police\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/7-killed-11-injured-after-private-bus-overturns-on-mountain-route-in-himachals-chamba/articleshow/133046912.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-133046957,width-1200,height-630,imgsize-160932,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-08-08T05:12:25Z",
+      "content": "Shimla: Seven passengers were killed and 11 others injured when a private bus overturned and plunged onto a lower road in Chamba district at 7:15 am on Saturday, police said.The accident occurred whe\u2026 [+1379 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-133036119,width-1200,height-630,imgsize-367428,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-08-07T14:05:35Z",
       "content": "Shimla: Even as Himachal Pradesh grapples with the closure of 162 roads and disruption of 73 water supply schemes and 105 transformers due to rain as of Friday evening, the Shimla Met Office has issu\u2026 [+1834 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Vijay C Roy, Ramita Mishra",
-      "title": "Apple prices set to stay high until September as Himachal yield drops 30%",
-      "description": "Climate-driven crop damage in Himachal Pradesh has driven up wholesale prices ahead of the Jammu &amp; Kashmir harvest, prompting traders to turn to imports to plug the supply gap.",
-      "url": "https://www.livemint.com/industry/agriculture/apple-prices-india-himachal-apple-harvest-11786098244559.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/logo/2-0-1404944238-Fruits-0_1679755911347_1786103537829_cce23e01-f110-4102-b5a3-fbb476e6dbd0.jpg",
-      "publishedAt": "2026-08-07T11:58:31Z",
-      "content": "Himachal Pradesh plays a crucial role in bridging Indias apple supply, meeting about 37% of national demand before Jammu &amp; Kashmirs peak harvest begins in September. Overall, India produces 2.5-2\u2026 [+3057 chars]"
     }
   ],
   "directory": []
