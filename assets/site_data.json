@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-08-09 16:25:18",
+  "last_updated": "2026-08-09 20:22:48",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "The Times Of India",
+      "title": "Himachal rains claim 152 lives as infra faces Rs 835 cr damage",
+      "description": "Himachal Pradesh monsoon losses exceed Rs 835 crore; PWD worst hit. 153 roads blocked, power and water disrupted. 152 deaths reported, including 86 in road accidents.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/himachal-rains-claim-152-lives-as-infra-faces-rs-835-cr-damage/articleshow/133058815.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-133058813,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-08-08T19:11:06Z",
+      "content": "Follow Us On Social Media\r\nHeat leaves women platform workers in Delhi-NCR grappling with health issues: ReportMan gets life imprisonment for rape, murder of 5-year-oldUndertrial escapes from PGI aft\u2026 [+1058 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "The Times Of India",
+      "title": "More rain in store for HP, orange alert issued",
+      "description": "Orange alert issued for heavy to very heavy rain in Himachal Pradesh\u2019s Kangra, Mandi and Sirmaur on Aug 10-11; showers likely statewide through Aug 14.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/more-rain-in-store-for-hp-orange-alert-issued/articleshow/133057328.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-133057326,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-08-08T17:54:07Z",
+      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-133040651,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-08-07T18:19:57Z",
       "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "The Times Of India",
-      "title": "CM Sukhu pushes for research, faster diagnostics to strengthen healthcare",
-      "description": "Himachal CM Sukhu announces research department at IGMC Shimla, faster diagnostics, automated labs with Rs 75 crore, and plans for direct medicine procurement.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/cm-sukhu-pushes-for-research-faster-diagnostics-to-strengthen-healthcare/articleshow/133039396.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-132871374,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-07T17:22:17Z",
-      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "162 roads closed in Himachal Pradesh; Meteorological department issues orange alert for heavy rain on August 10, 11",
-      "description": "Himachal Pradesh grapples with 162 road closures and infrastructure damage from recent heavy rains. An orange alert warns of further heavy to very heavy rainfall on August 10 and 11. Several districts are expected to receive significant precipitation, impacti\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/162-roads-closed-in-himachal-meteorological-department-issues-orange-alert-for-heavy-rain-on-august-10-11/articleshow/133036033.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-133036119,width-1200,height-630,imgsize-367428,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-08-07T14:05:35Z",
-      "content": "Shimla: Even as Himachal Pradesh grapples with the closure of 162 roads and disruption of 73 water supply schemes and 105 transformers due to rain as of Friday evening, the Shimla Met Office has issu\u2026 [+1834 chars]"
     }
   ],
   "directory": []
