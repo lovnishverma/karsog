@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-08-11 16:51:27",
+  "last_updated": "2026-08-11 20:36:05",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "The Times Of India",
+      "title": "Six schools to become model day-boarding institutions",
+      "description": "Himachal Pradesh to upgrade six govt schools into Rajiv Gandhi Model Day-Boarding Schools with smart classrooms, sports facilities, pools and meals.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/six-schools-to-become-model-day-boarding-institutions/articleshow/133129478.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-132871374,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-08-10T18:24:07Z",
+      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-133046957,width-1200,height-630,imgsize-160932,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-08-08T05:12:25Z",
       "content": "Shimla: Seven passengers were killed and 11 others injured when a private bus overturned and plunged onto a lower road in Chamba district at 7:15 am on Saturday, police said.The accident occurred whe\u2026 [+1379 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TNN",
-      "title": "Himachal Pradesh accident: 7 killed, 11 injured after bus crashes on Teesa-Bairagarh road",
-      "description": "Seven people died and eleven were injured in a bus accident near Chalunj Mor. The incident occurred Saturday morning in Himachal Pradesh's Chamba district. All injured individuals were taken to a hospital for necessary medical treatment. Six of the injured we\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/shimla/himachal-pradesh-accident-7-killed-11-injured-after-bus-crashes-on-teesa-bairagarh-road/articleshow/133046433.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-133046502,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-08T04:35:55Z",
-      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
     }
   ],
   "directory": []
