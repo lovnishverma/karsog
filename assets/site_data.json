@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-08-11 12:47:41",
+  "last_updated": "2026-08-11 16:51:27",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Himachal: 106 roads closed; 'orange alert' for heavy rain on Tuesday",
+      "description": "Heavy rains have led to the closure of over 100 roads across Himachal Pradesh, disrupting traffic and impacting essential services. Officials reported 106 roads blocked, along with disruptions to water supply schemes and transformers. The state has also recor\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/himachal-106-roads-closed-orange-alert-for-heavy-rain-on-tuesday/articleshow/133108832.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-133108871,width-1200,height-630,imgsize-294916,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-08-10T13:19:28Z",
+      "content": "Shimla: More than 100 roads were closed for vehicular traffic in Himachal Pradesh as light to moderate rains persisted in parts of the state, officials said on Monday.According to the State Emergency\u2026 [+1294 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-133046502,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-08-08T04:35:55Z",
       "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ANI",
-      "title": "Student body in Himachal Pradesh warns of intensified agitation if HPU fee hike not revoked as ABVP hunger strike enters 6th Day",
-      "description": "during the protest, Kunal Gangta, State President, ABVP Himachal Pradesh, said,\"We are protesting against the state government and the Vice-Chancellor over the steep fee hike in Himachal Pradesh University. We understand that inflation increases the cost of r\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/student-body-in-himachal-pradesh-warns-of-intensified-agitation-if-hpu-fee-hike-not-revoked-as-abvp-hunger-strike-enters-6th-day/articleshow/133044913.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-133044927,width-1200,height-630,imgsize-114012,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-08-08T01:33:00Z",
-      "content": "Shimla: The Akhil Bharatiya Vidyarthi Parishad (ABVP) on Friday staged a protest at Himachal Pradesh University (HPU), demanding the immediate withdrawal of the recent fee hike and accusing the state\u2026 [+1912 chars]"
     }
   ],
   "directory": []
