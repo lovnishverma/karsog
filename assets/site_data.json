@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-08-12 01:17:40",
+  "last_updated": "2026-08-12 05:25:34",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Apexa Rai",
+      "title": "Delhi gets rainfall; IMD issues yellow alert for more showers, disruptions",
+      "description": "Very heavy rain is likely in Rajasthan and Himachal Pradesh, with several states under heavy rain warnings; IMD has also forecast thunderstorms, lightning, and gusty winds in parts of India",
+      "url": "https://www.business-standard.com/india-news/delhi-gets-rainfall-imd-issues-yellow-alert-for-more-showers-disruptions-126081100426_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-09/03/thumb/fitandfill/1200X628/1756901177-7438.png",
+      "publishedAt": "2026-08-11T05:15:45Z",
+      "content": "Very heavy rain is likely in Rajasthan and Himachal Pradesh, with several states under heavy rain warnings; IMD has also forecast thunderstorms, lightning, and gusty winds in parts of India\r\nEarly mo\u2026 [+2716 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Capital Market",
+      "title": "Jonjua Overseas signs MoU for setting up private rooftop helipad",
+      "description": "To be situated at Rampur, Himachal Pradesh",
+      "url": "https://www.business-standard.com/markets/capital-market-news/jonjua-overseas-signs-mou-for-setting-up-private-rooftop-helipad-126081100224_1.html",
+      "urlToImage": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+      "publishedAt": "2026-08-11T03:46:20Z",
+      "content": "To be situated at Rampur, Himachal Pradesh\r\nJonjua Overseas has entered into and executed a Memorandum of Understanding (MoU) with Anjali Sharma, a Lady Entrepreneur based in Rampur BSR, Himachal Pra\u2026 [+803 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-133058813,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-08-08T19:11:06Z",
       "content": "Follow Us On Social Media\r\nHeat leaves women platform workers in Delhi-NCR grappling with health issues: ReportMan gets life imprisonment for rape, murder of 5-year-oldUndertrial escapes from PGI aft\u2026 [+1058 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "The Times Of India",
-      "title": "More rain in store for HP, orange alert issued",
-      "description": "Orange alert issued for heavy to very heavy rain in Himachal Pradesh\u2019s Kangra, Mandi and Sirmaur on Aug 10-11; showers likely statewide through Aug 14.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/more-rain-in-store-for-hp-orange-alert-issued/articleshow/133057328.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-133057326,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-08T17:54:07Z",
-      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "7 killed, 11 injured after private bus overturns on mountain route in Himachal's Chamba",
-      "description": "A private bus overturned and fell onto a lower road in Chamba district, killing seven passengers. Eleven others sustained injuries in the accident which occurred near Chalunj Mor on Saturday morning. Locals immediately rushed to assist and informed the police\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/7-killed-11-injured-after-private-bus-overturns-on-mountain-route-in-himachals-chamba/articleshow/133046912.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-133046957,width-1200,height-630,imgsize-160932,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-08-08T05:12:25Z",
-      "content": "Shimla: Seven passengers were killed and 11 others injured when a private bus overturned and plunged onto a lower road in Chamba district at 7:15 am on Saturday, police said.The accident occurred whe\u2026 [+1379 chars]"
     }
   ],
   "directory": []
