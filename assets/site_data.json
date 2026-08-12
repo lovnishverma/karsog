@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-08-12 12:52:45",
+  "last_updated": "2026-08-12 16:50:44",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Himachal rain fury: Over 200 roads closed, landslides hit Shimla; wet spell likely till Aug 17",
+      "description": "Himachal Pradesh faces widespread disruption as over 200 roads are closed due to heavy rains.  The state emergency center reported significant damage to water supply schemes and transformers.  One person died and two were injured after a rockfall incident in \u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/himachal-rain-fury-over-200-roads-closed-landslides-hit-shimla-wet-spell-likely-till-aug-17/articleshow/133157280.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-133157289,width-1200,height-630,imgsize-135882,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-08-11T14:07:37Z",
+      "content": "Shimla: Over 200 roads were closed in Himachal Pradesh following torrential rains, and the Shimla Meteorological Office has predicted a wet spell in the state till August 17.A total of 204 roads were\u2026 [+2039 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-133088176,width-1200,height-630,imgsize-61550,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-08-10T06:39:23Z",
       "content": "The State Emergency Operations Centre (SEOC), in its latest report, shows that 124 roads are blocked, and 255 distribution transformer regions (DTRs) are out of service across Himachal Pradesh due to\u2026 [+2823 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "The Times Of India",
-      "title": "Himachal rains claim 152 lives as infra faces Rs 835 cr damage",
-      "description": "Himachal Pradesh monsoon losses exceed Rs 835 crore; PWD worst hit. 153 roads blocked, power and water disrupted. 152 deaths reported, including 86 in road accidents.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/himachal-rains-claim-152-lives-as-infra-faces-rs-835-cr-damage/articleshow/133058815.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-133058813,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-08T19:11:06Z",
-      "content": "Follow Us On Social Media\r\nHeat leaves women platform workers in Delhi-NCR grappling with health issues: ReportMan gets life imprisonment for rape, murder of 5-year-oldUndertrial escapes from PGI aft\u2026 [+1058 chars]"
     }
   ],
   "directory": []
