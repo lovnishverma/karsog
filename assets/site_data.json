@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-08-13 01:19:19",
+  "last_updated": "2026-08-13 05:28:34",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Vrinda Goel",
+      "title": "Himachal adds 60 paise cess on petrol, diesel for widow, orphan welfare",
+      "description": "The levy will add 60 paise to every litre of petrol and high-speed diesel sold in Himachal Pradesh, with the revenue earmarked for welfare measures for widows and orphaned children",
+      "url": "https://www.business-standard.com/india-news/himachal-adds-60-paise-cess-on-petrol-diesel-for-widow-orphan-welfare-126081200384_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-01/01/thumb/fitandfill/1200X628/1767291358-6938.jpg",
+      "publishedAt": "2026-08-12T04:30:14Z",
+      "content": "The levy will add 60 paise to every litre of petrol and high-speed diesel sold in Himachal Pradesh, with the revenue earmarked for welfare measures for widows and orphaned children\r\nThe additional le\u2026 [+2587 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ANI",
+      "title": "Himachal imposes 60 paise/litre widow, orphan cess on petrol, diesel",
+      "description": "The Himachal Pradesh government has imposed a new cess on fuel. This levy of sixty paise per litre applies to petrol and diesel. The Widow and Orphan Cess came into effect from midnight on August eleventh. Revenue generated will support welfare measures for w\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/himachal-imposes-60-paise/litre-widow-orphan-cess-on-petrol-diesel/articleshow/133169101.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-133169101,width-1200,height-630,imgsize-180354,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-08-12T03:33:40Z",
+      "content": "Shimla: The Himachal Pradesh government officially imposed a Widow and Orphan Cess of 60 paise per litre on petrol and high-speed diesel, with the levy coming into force from midnight on August 11.Th\u2026 [+1866 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-132871374,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-08-10T18:24:07Z",
       "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "Himachal: 106 roads closed; 'orange alert' for heavy rain on Tuesday",
-      "description": "Heavy rains have led to the closure of over 100 roads across Himachal Pradesh, disrupting traffic and impacting essential services. Officials reported 106 roads blocked, along with disruptions to water supply schemes and transformers. The state has also recor\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/himachal-106-roads-closed-orange-alert-for-heavy-rain-on-tuesday/articleshow/133108832.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-133108871,width-1200,height-630,imgsize-294916,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-08-10T13:19:28Z",
-      "content": "Shimla: More than 100 roads were closed for vehicular traffic in Himachal Pradesh as light to moderate rains persisted in parts of the state, officials said on Monday.According to the State Emergency\u2026 [+1294 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": null,
-      "title": "Himachal Pradesh monsoon: 124 roads blocked, 255 DTRs down, 155 deaths reported",
-      "description": "Himachal Pradesh faces extensive disruptions from torrential rains, with 124 roads blocked and 255 power transformers out. Mandi district suffered the most road closures, while power outages heavily impacted Sundernagar and Mandi subdivisions. Disaster-relate\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/himachal-pradesh-monsoon-124-roads-blocked-255-dtrs-down-155-deaths-reported/articleshow/133088057.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-133088176,width-1200,height-630,imgsize-61550,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-08-10T06:39:23Z",
-      "content": "The State Emergency Operations Centre (SEOC), in its latest report, shows that 124 roads are blocked, and 255 distribution transformer regions (DTRs) are out of service across Himachal Pradesh due to\u2026 [+2823 chars]"
     }
   ],
   "directory": []
