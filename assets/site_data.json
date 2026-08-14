@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-08-14 12:49:30",
+  "last_updated": "2026-08-14 16:42:40",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Sanjeev Verma",
+      "title": "HP govt promotes 45 medical officers, faculty members",
+      "description": "Himachal Pradesh govt promotes 45 medical officers and faculty: 42 named assistant professors, one elevated to associate professor, two to professors.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/hp-govt-promotes-45-medical-officers-faculty-members/articleshow/133217752.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-08-13T15:36:36Z",
+      "content": "Follow Us On Social Media\r\nStay exposes 'irregularities' in Mann govts recruitment system: DhillonWoman gang-raped inside car on way back home, 5 heldSince its written, it has to be done: Law ministe\u2026 [+1224 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Sanjeev Verma",
+      "title": "CM\u2019s Independence Day message to air on AIR, DD Himachal",
+      "description": "CM Sukhvinder Singh Sukhu\u2019s Independence Day message airs Aug 14, 8 PM on AIR Shimla and FM stations; telecast Aug 15, 9:30 AM on DD Himachal.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/cms-independence-day-message-to-air-on-air-dd-himachal/articleshow/133217647.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-08-13T15:30:29Z",
+      "content": "Follow Us On Social Media\r\nStay exposes 'irregularities' in Mann govts recruitment system: DhillonWoman gang-raped inside car on way back home, 5 heldSince its written, it has to be done: Law ministe\u2026 [+1224 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-01/01/thumb/fitandfill/1200X628/1767291358-6938.jpg",
       "publishedAt": "2026-08-12T04:30:14Z",
       "content": "The levy will add 60 paise to every litre of petrol and high-speed diesel sold in Himachal Pradesh, with the revenue earmarked for welfare measures for widows and orphaned children\r\nThe additional le\u2026 [+2587 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ANI",
-      "title": "Himachal imposes 60 paise/litre widow, orphan cess on petrol, diesel",
-      "description": "The Himachal Pradesh government has imposed a new cess on fuel. This levy of sixty paise per litre applies to petrol and diesel. The Widow and Orphan Cess came into effect from midnight on August eleventh. Revenue generated will support welfare measures for w\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/himachal-imposes-60-paise/litre-widow-orphan-cess-on-petrol-diesel/articleshow/133169101.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-133169101,width-1200,height-630,imgsize-180354,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-08-12T03:33:40Z",
-      "content": "Shimla: The Himachal Pradesh government officially imposed a Widow and Orphan Cess of 60 paise per litre on petrol and high-speed diesel, with the levy coming into force from midnight on August 11.Th\u2026 [+1866 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "Himachal rain fury: Over 200 roads closed, landslides hit Shimla; wet spell likely till Aug 17",
-      "description": "Himachal Pradesh faces widespread disruption as over 200 roads are closed due to heavy rains.  The state emergency center reported significant damage to water supply schemes and transformers.  One person died and two were injured after a rockfall incident in \u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/himachal-rain-fury-over-200-roads-closed-landslides-hit-shimla-wet-spell-likely-till-aug-17/articleshow/133157280.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-133157289,width-1200,height-630,imgsize-135882,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-08-11T14:07:37Z",
-      "content": "Shimla: Over 200 roads were closed in Himachal Pradesh following torrential rains, and the Shimla Meteorological Office has predicted a wet spell in the state till August 17.A total of 204 roads were\u2026 [+2039 chars]"
     }
   ],
   "directory": []
