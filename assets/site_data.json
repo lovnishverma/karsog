@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-08-15 16:15:33",
+  "last_updated": "2026-08-15 20:13:40",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "177 deaths in Himachal this monsoon",
+      "description": "Himachal monsoon toll hits 177; losses exceed Rs 955 crore. 139 roads blocked, mainly in Mandi and Kullu, as IMD issues heavy rain alert for Aug 15.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/177-deaths-in-himachal-this-monsoon/articleshow/133251222.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-133251221,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-08-14T19:20:41Z",
+      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Sanjeev Verma",
+      "title": "HC allows govt to hold state-level I-Day function at Barsar school",
+      "description": "Himachal Pradesh HC allows state-level Independence Day event at Barsar govt school playground on Aug 15, but orders Rs 5 lakh deposit to students\u2019 welfare fund.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/hc-allows-govt-to-hold-state-level-i-day-function-at-barsar-school/articleshow/133248693.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-133161714,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-08-14T17:30:01Z",
+      "content": "Follow Us On Social Media\r\nRs 80cr suspected heroin seized in Guwahati, Punjab man heldMeghalaya plans FCRA helpdesk to speed up applications, renewalsCockroaches, expired food: Maharashtra FDA suspe\u2026 [+1129 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-133190997,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-08-12T18:18:10Z",
       "content": "Follow Us On Social Media\r\nKKK15's Farrhana Bhatt On Bond With Rubina, Family dispute, Gaurav-Shagun Fight, Gaurav's DivorceShagun Sharma On Khatron Ke Khiladi, Fight With Gaurav, Bond With Smriti Ir\u2026 [+1499 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Business Standard"
-      },
-      "author": "Vrinda Goel",
-      "title": "Explained: What is a cess and how states use it for welfare purposes",
-      "description": "Himachal Pradesh's widow and orphan cess on fuel has brought purpose-specific levies into focus. Here's what a cess is and how states use such levies for welfare needs",
-      "url": "https://www.business-standard.com/economy/news/explained-what-is-a-cess-and-how-states-use-it-for-welfare-purposes-126081201016_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-12/31/thumb/featurecrop/1200X628/1735586019-8705.jpg",
-      "publishedAt": "2026-08-12T09:31:55Z",
-      "content": "Himachal Pradesh's widow and orphan cess on fuel has brought purpose-specific levies into focus. Here's what a cess is and how states use such levies for welfare needs\r\nUnlike a tax, which generally \u2026 [+5633 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Business Standard"
-      },
-      "author": "Vrinda Goel",
-      "title": "Himachal adds 60 paise cess on petrol, diesel for widow, orphan welfare",
-      "description": "The levy will add 60 paise to every litre of petrol and high-speed diesel sold in Himachal Pradesh, with the revenue earmarked for welfare measures for widows and orphaned children",
-      "url": "https://www.business-standard.com/india-news/himachal-adds-60-paise-cess-on-petrol-diesel-for-widow-orphan-welfare-126081200384_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-01/01/thumb/fitandfill/1200X628/1767291358-6938.jpg",
-      "publishedAt": "2026-08-12T04:30:14Z",
-      "content": "The levy will add 60 paise to every litre of petrol and high-speed diesel sold in Himachal Pradesh, with the revenue earmarked for welfare measures for widows and orphaned children\r\nThe additional le\u2026 [+2587 chars]"
     }
   ],
   "directory": []
