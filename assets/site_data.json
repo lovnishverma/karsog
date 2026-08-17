@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-08-17 08:34:32",
+  "last_updated": "2026-08-17 12:28:52",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Trending Desk",
+      "title": "Are Himachal Pradesh schools closed tomorrow, August 17? Check latest update and reason",
+      "description": "Himachal Pradesh's government schools will be closed for the day on August 17, allowing for a compensatory holiday following the Independence Day celebrations. Students and teachers actively engaged in various patriotic events statewide. In contrast, private \u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/are-himachal-pradesh-schools-closed-tomorrow-august-17-check-latest-update-and-reason/articleshow/133272703.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-133272905,width-1200,height-630,imgsize-173734,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-08-16T09:39:40Z",
+      "content": "Government schools across Himachal Pradesh will remain closed on Monday, August 17, as a compensatory holiday for students and teachers who attended Independence Day celebrations on August 15. Privat\u2026 [+1298 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-133263182,width-1200,height-630,imgsize-107306,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-08-15T12:58:33Z",
       "content": "Barsar (HP): Himachal Chief Minister Sukhvinder Singh Sukhu, in his Independence Day speech, said that no government doctor would retire till March 31, 2027, as also announced the release of salary a\u2026 [+3845 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ANI",
-      "title": "Himachal: CM Sukhu disburses over Rs 20 Crore to 4,967 beneficiaries on Independence Day",
-      "description": "Chief Minister Sukhvinder Singh Sukhu disbursed over twenty crore rupees in welfare aid.  This assistance benefited nearly five thousand construction workers across various schemes.  Marriage and education assistance schemes provided significant financial sup\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/himachal-cm-sukhu-disburses-over-rs-20-crore-to-4967-beneficiaries-on-independence-day/articleshow/133262887.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-133262886,width-1200,height-630,imgsize-150768,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-08-15T12:42:10Z",
-      "content": "Shimla (Himachal Pradesh): Chief Minister Sukhvinder Singh Sukhu on Saturday disbursed financial assistance of over Rs 20.61 crore to 4,967 beneficiaries under various welfare schemes of the Himachal\u2026 [+1672 chars]"
     }
   ],
   "directory": []
