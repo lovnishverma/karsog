@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-08-17 12:28:52",
+  "last_updated": "2026-08-17 16:18:34",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Trending Desk",
+      "title": "School holiday August 17, 2026: Will schools remain closed on Monday? From J&K, Delhi, Himachal Pradesh, UP to Maharashtra, check rain alerts & state-wise updates",
+      "description": "School holiday August 17, 2026: India braces for monsoon rains expected on August 17, 2026, which may lead to potential school closures. The decision on whether schools remain open varies by local conditions and guidance from authorities. While Himachal Prade\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/school-holiday-august-17-2026-will-schools-remain-closed-on-monday-from-jk-delhi-himachal-pradesh-up-to-maharashtra-check-rain-alerts-state-wise-updates/articleshow/133276155.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-133276230,width-1200,height-630,imgsize-86822,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-08-16T13:14:13Z",
+      "content": "Monsoon activity continues across several parts of India, prompting students and parents to keep an eye on possible school closures on Monday, August 17, 2026. The India Meteorological Department (IM\u2026 [+3717 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-133263783,width-1200,height-630,imgsize-242514,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-08-15T13:39:14Z",
       "content": "Hamirpur (Himachal Pradesh): Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu on Saturday announced a series of welfare and development measures, including the launch of the 'Apna Parivar Sukhi\u2026 [+5880 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "No retirement of doctors till March 2027: Himachal CM Sukhu in Independence Day speech",
-      "description": "Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu announced several welfare initiatives for state employees. He also detailed plans for improved healthcare and employment opportunities for the youth. The government will enhance incentives for ASHA worker\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/no-retirement-of-doctors-till-march-2027-himachal-cm-sukhu-in-independence-day-speech/articleshow/133263135.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-133263182,width-1200,height-630,imgsize-107306,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-08-15T12:58:33Z",
-      "content": "Barsar (HP): Himachal Chief Minister Sukhvinder Singh Sukhu, in his Independence Day speech, said that no government doctor would retire till March 31, 2027, as also announced the release of salary a\u2026 [+3845 chars]"
     }
   ],
   "directory": []
