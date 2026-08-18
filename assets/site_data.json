@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-08-18 08:27:13",
+  "last_updated": "2026-08-18 12:31:09",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Trending Desk",
+      "title": "School holiday August 18, 2026: Will schools remain closed on Monday? From J&K, Delhi, Himachal Pradesh, UP to Maharashtra, check rain alerts & state-wise updates",
+      "description": "School holiday news: Monsoon rains are expected to continue across several parts of India. Students and parents are watching for possible school closures on Tuesday, August 18. Heavy to extremely heavy showers are forecast for some regions by the IMD. Local a\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/school-holiday-august-18-2026-will-schools-remain-closed-on-monday-from-jk-delhi-himachal-pradesh-up-to-maharashtra-check-rain-alerts-state-wise-updates/articleshow/133295191.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-133295800,width-1200,height-630,imgsize-910576,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-08-17T11:42:37Z",
+      "content": "With monsoon rains expected to continue across several parts of India, students and parents are keeping an eye on possible school closures on Tuesday, August 18, 2026. The India Meteorological Depart\u2026 [+2798 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-133276230,width-1200,height-630,imgsize-86822,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-08-16T13:14:13Z",
       "content": "Monsoon activity continues across several parts of India, prompting students and parents to keep an eye on possible school closures on Monday, August 17, 2026. The India Meteorological Department (IM\u2026 [+3717 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Trending Desk",
-      "title": "Are Himachal Pradesh schools closed tomorrow, August 17? Check latest update and reason",
-      "description": "Himachal Pradesh's government schools will be closed for the day on August 17, allowing for a compensatory holiday following the Independence Day celebrations. Students and teachers actively engaged in various patriotic events statewide. In contrast, private \u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/are-himachal-pradesh-schools-closed-tomorrow-august-17-check-latest-update-and-reason/articleshow/133272703.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-133272905,width-1200,height-630,imgsize-173734,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-08-16T09:39:40Z",
-      "content": "Government schools across Himachal Pradesh will remain closed on Monday, August 17, as a compensatory holiday for students and teachers who attended Independence Day celebrations on August 15. Privat\u2026 [+1298 chars]"
     }
   ],
   "directory": []
