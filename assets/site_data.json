@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-08-19 00:50:27",
+  "last_updated": "2026-08-19 04:29:50",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Faizan Haidar",
+      "title": "Hill homes turn premium as buyers seek managed second-home communities at holiday destinations",
+      "description": "Hill residences are becoming more expensive as buyers seek managed communities.  Property transactions in Himachal and Uttarakhand now exceed twenty crore rupees.  Amenities are a key consideration for affluent buyers choosing holiday homes.  The second-home \u2026",
+      "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/hill-homes-turn-premium-as-buyers-seek-managed-second-home-communities-at-holiday-destinations-tata-realty-dlf/articleshow/133310331.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-133310419,width-1200,height-630,imgsize-223940,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-08-18T03:18:02Z",
+      "content": "Hill residences are getting more expensive, with buyers moving away from traditional independent villas to gated and managed communities even for second homes.Currently, the hills in Himachal Pradesh\u2026 [+2311 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-133295800,width-1200,height-630,imgsize-910576,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-08-17T11:42:37Z",
       "content": "With monsoon rains expected to continue across several parts of India, students and parents are keeping an eye on possible school closures on Tuesday, August 18, 2026. The India Meteorological Depart\u2026 [+2798 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Rohit Mullick",
-      "title": "Haryana man dies in Mandi road accident",
-      "description": "26-year-old Haryana man Akash died and four were injured after their car hit two parked trucks and a tempo on Kiratpur-Manali highway near Sundernagar.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/haryana-man-dies-in-mandi-road-accident/articleshow/133281380.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-133281379,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-16T19:50:35Z",
-      "content": "Follow Us On Social Media\r\nBarrierless tolling makes road users fall in line, drop in number of e-notices at plazasFiring near Charkhi Dadri bus stand; four arrestedSix cops bag Presidents medalsTrib\u2026 [+1277 chars]"
     }
   ],
   "directory": []
