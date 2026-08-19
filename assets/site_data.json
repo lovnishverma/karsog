@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-08-19 12:31:09",
+  "last_updated": "2026-08-19 16:22:34",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Trending Desk",
+      "title": "Weather Tomorrow August 19: IMD predicts rain, thunderstorms and heavy showers across several states; check forecast for Delhi, Rajasthan, Himachal Pradesh and more",
+      "description": "Weather Tomorrow August 19: On Wednesday, August 19, a significant weather pattern is expected to unfold across India, bringing heavy rainfall and thunderstorms to various regions. Delhi and Haryana are predicted to receive light to moderate showers under clo\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/weather-tomorrow-august-19-imd-predicts-rain-thunderstorms-and-heavy-showers-across-several-states-check-forecast-for-delhi-rajasthan-himachal-pradesh-and-more/articleshow/133323665.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-133323782,width-1200,height-630,imgsize-161697,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-08-18T13:12:23Z",
+      "content": "Amid continued monsoon activity, the Meteorological Department has issued a fresh weather alert. The forecast indicates heavy rainfall and thunderstorms in several parts of the country on Wednesday, \u2026 [+3001 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -64,19 +77,6 @@
       "url": "https://timesofindia.indiatimes.com/city/chandigarh/2-cops-killed-as-car-collides-head-on-with-truck-in-shimla/articleshow/133304384.cms",
       "urlToImage": "https://static.toiimg.com/thumb/msid-133133191,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-08-17T18:11:27Z",
-      "content": "Follow Us On Social Media\r\nUNLESS OUR PILOTS ARE...: Iran-Qatar Fight Explodes Over Missing IRGC Pilots; Action LoomsNeville Singhams Global Network: How China-Linked Funding Is Under Scrutiny'Reaper\u2026 [+3002 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "The Times Of India",
-      "title": "Higher education to go future-ready with AI and new-age courses",
-      "description": "Himachal Pradesh plans future-ready higher education with AI integration, new-age job courses, stronger research, industry links and student welfare support.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/higher-education-to-go-future-ready-with-ai-and-new-age-courses/articleshow/133304282.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-133304273,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-17T18:10:51Z",
       "content": "Follow Us On Social Media\r\nUNLESS OUR PILOTS ARE...: Iran-Qatar Fight Explodes Over Missing IRGC Pilots; Action LoomsNeville Singhams Global Network: How China-Linked Funding Is Under Scrutiny'Reaper\u2026 [+3002 chars]"
     }
   ],
