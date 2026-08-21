@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-08-21 08:31:11",
+  "last_updated": "2026-08-21 12:32:00",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Trending Desk",
+      "title": "Weather Tomorrow August 21: IMD predicts rain, thunderstorms and heavy showers across several states; check Delhi, Rajasthan, Himachal Pradesh forecast and upcoming weather outlook",
+      "description": "Weather Tomorrow August 21: Several areas in India are bracing for heavy rainfall, prompting new weather alerts. On August 21, Delhi and Punjab can expect light to moderate showers accompanied by thunderstorms. Meanwhile, Maharashtra is preparing for morning \u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/weather-tomorrow-august-21-imd-predicts-rain-thunderstorms-and-heavy-showers-across-several-states-check-delhi-rajasthan-himachal-pradesh-forecast-and-upcoming-weather-outlook/articleshow/133376801.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-133376970,width-1200,height-630,imgsize-161697,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-08-20T12:09:21Z",
+      "content": "Some of the areas in India are experiencing heavy rainfall and will continue to do so. There are again fresh rainfall alerts for August 21 in many parts of the country. Let's take a closer look at ea\u2026 [+2126 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-133356616,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-08-19T18:04:49Z",
       "content": "Follow Us On Social Media\r\nCM to likely pitch Raj as investment hub in UAE meetJantar Mantar agitation modern-day Satyagraha, says Gandhis kin; endorsement of Mahatmas family puts our patriotism deba\u2026 [+1177 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Barinderjit Saluja",
-      "title": "Landslide blocks Kalka-Shimla heritage rail track, 172 passengers stranded",
-      "description": "Kalka-Shimla heritage rail traffic disrupted after landslide; 172 Kalka-Shimla Express passengers shifted from Koti to Kalka by Army vehicles amid heavy rain.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/landslide-blocks-kalka-shimla-heritage-rail-track-172-passengers-stranded/articleshow/133349972.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-133349750,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-19T13:24:23Z",
-      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
     }
   ],
   "directory": []
