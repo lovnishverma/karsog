@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-08-21 04:30:29",
+  "last_updated": "2026-08-21 08:31:11",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Yashika Bajaj",
+      "title": "Delhi gets respite from heat as IMD predicts more rain, storms",
+      "description": "Light rain offered Delhi residents relief from humid conditions on Thursday. Heavy rainfall is impacting several states including Himachal Pradesh and Uttar Pradesh. Disruptions to normal life and infrastructure are reported in Himachal Pradesh due to persist\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/delhi-gets-respite-from-heat-as-imd-predicts-more-rain-storms/articleshow/133368786.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-133368786,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-08-20T07:36:33Z",
+      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Princess Sonika",
+      "title": "HPBOSE 12th Final Merit List 2026 released on hpbose.org; how to check",
+      "description": "The Himachal Pradesh Board of School Education has published the HPBOSE Class 12 final merit list. The merit list has been ready based on the results of revaluation and rechecking",
+      "url": "https://www.business-standard.com/education/news/hpbose-12th-final-merit-list-2026-released-how-to-check-nc-126082000239_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/20/thumb/fitandfill/1200X628/1632101780-4712.jpg",
+      "publishedAt": "2026-08-20T05:02:50Z",
+      "content": "The Himachal Pradesh Board of School Education has published the HPBOSE Class 12 final merit list. The merit list has been ready based on the results of revaluation and rechecking\r\nHPBOSE Final Merit\u2026 [+2140 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-133349750,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-08-19T13:24:23Z",
       "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Trending Desk",
-      "title": "School holiday August 20, 2026: Will schools remain closed on Monday? From J&K, Delhi, Himachal Pradesh, Uttrakhand to Maharashtra, check rain alerts & state-wise updates",
-      "description": "School holiday August 20: Tomorrow's monsoon rains may lead to school closures in multiple regions of India, particularly in Himachal Pradesh, Uttarakhand, and Uttar Pradesh, where heavy rainfall is expected. While there are no confirmed statewide school holi\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/school-holiday-august-20-2026-will-schools-remain-closed-on-monday-from-jk-delhi-himachal-pradesh-uttrakhand-to-maharashtra-check-rain-alerts-state-wise-updates/articleshow/133348243.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-133348444,width-1200,height-630,imgsize-70822,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-08-19T12:28:27Z",
-      "content": "School holiday August 20: Tomorrow's monsoon rains may lead to school closures in multiple regions of India, particularly in Himachal Pradesh, Uttarakhand, and Uttar Pradesh, where heavy rainfall is \u2026 [+263 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "Himachal Pradesh CM Sukhu plans to save Rs 200 crore by reducing IAS, IFS, IPS officer strength",
-      "description": "Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu plans to reduce officer numbers.  He aims to decrease IAS, IFS, and IPS posts significantly.  This move is expected to save the state government approximately Rs 200 crore.  The Chief Minister believes th\u2026",
-      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/himachal-pradesh-cm-sukhu-plans-to-save-rs-200-crore-by-reducing-ias-ifs-ips-officer-strength/articleshow/133339774.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-133340656,width-1200,height-630,imgsize-182766,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-08-19T07:10:28Z",
-      "content": "Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu said the state government could save up to Rs 200 crore by reducing the sanctioned strength of IAS, IFS and IPS officers in the state.The Chief \u2026 [+1463 chars]"
     }
   ],
   "directory": []
