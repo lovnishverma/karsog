@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-08-21 12:32:00",
+  "last_updated": "2026-08-21 16:23:39",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Trucks collide head-on in Himachal tunnel, 4 die",
+      "description": "Two trucks collided head-on in Tunnel No. 12 near Hanogi on the Manali-Kiratpur highway in Himachal\u2019s Mandi district, killing 4 and injuring 6.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/trucks-collide-head-on-in-himachal-tunnel-4-die/articleshow/133381931.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-133381929,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-08-20T15:25:40Z",
+      "content": "Follow Us On Social Media\r\nSeparated by Hamas in Oct 7 attack, Israeli couple reunites to marry 10 months after engagementKacchi Dargah-Bidupur bridge ready; PM inauguration awaitedHockey World Cup: \u2026 [+1362 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-133357065,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-08-19T18:24:01Z",
       "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Sanjeev Verma",
-      "title": "Monsoon session of HP assembly from tomorrow",
-      "description": "Himachal Pradesh Assembly monsoon session runs Aug 21\u2013Sept 3 with 10 sittings; all-party meet called; 1,036 MLA questions; Congress-BJP clashes likely.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/monsoon-session-of-hp-assembly-from-tomorrow/articleshow/133356617.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-133356616,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-19T18:04:49Z",
-      "content": "Follow Us On Social Media\r\nCM to likely pitch Raj as investment hub in UAE meetJantar Mantar agitation modern-day Satyagraha, says Gandhis kin; endorsement of Mahatmas family puts our patriotism deba\u2026 [+1177 chars]"
     }
   ],
   "directory": []
