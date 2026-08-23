@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-08-23 08:20:41",
+  "last_updated": "2026-08-23 12:24:16",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Vande Mataram row disrupts second day of Himachal Assembly Session",
+      "description": "A dispute over Vande Mataram and the National Anthem disrupted the Himachal Pradesh Vidhan Sabha session. The ruling Congress and opposition BJP protested outside the assembly premises on Saturday. Opposition leader Jai Ram Thakur stated the Vidhan Sabha woul\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/vande-mataram-controversy-shakes-himachal-pradesh-assembly-protests-erupt-between-congress-and-bjp/articleshow/133423988.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-133424055,width-1200,height-630,imgsize-41540,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-08-22T12:11:55Z",
+      "content": "Shimla: A dispute over the singing of Vande Mataram and the National Anthem rocked the House on Saturday, the second day of the Monsoon Session, as both the ruling Congress and the opposition BJP pro\u2026 [+1994 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -64,19 +77,6 @@
       "url": "https://timesofindia.indiatimes.com/city/chandigarh/pensioners-told-to-submit-life-certificates-by-sept-30/articleshow/133411886.cms",
       "urlToImage": "https://static.toiimg.com/thumb/msid-133411884,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-08-21T18:16:41Z",
-      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Sanjeev Verma",
-      "title": "HP govt told to finalise timeline for takeover of hydropower projects",
-      "description": "Himachal Pradesh HC orders state to submit within six weeks a written takeover timeline for 4 hydropower projects being developed by SJVNL and NHPC.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/hp-govt-told-to-finalise-timeline-for-takeover-of-hydropower-projects/articleshow/133411615.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-133386389,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-21T18:01:34Z",
       "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
     }
   ],
