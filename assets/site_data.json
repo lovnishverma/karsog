@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-08-23 12:24:16",
+  "last_updated": "2026-08-23 16:16:35",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Wet spell to continue in Himachal till August 28; 98 roads closed",
+      "description": "Moderate rains lashed Himachal Pradesh, with Dharamshala recording 68.2 mm of rainfall. The local Met office predicted a wet spell in the state until August 28. Thunderstorms accompanied by lightning were reported in several areas across the state. As of Satu\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/wet-spell-to-continue-in-himachal-till-august-28-98-roads-closed/articleshow/133425573.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-133425615,width-1200,height-630,imgsize-232716,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-08-22T13:48:02Z",
+      "content": "Shimla: Moderate rains lashed parts of Himachal Pradesh, with Dharamshala recording 68.2 mm of rainfall in the past 24 hours, as the local Met office predicted a wet spell in the state till August 28\u2026 [+858 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-133413210,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-08-21T19:20:41Z",
       "content": "Follow Us On Social Media\r\n4,368kg of unsafe food destroyed over four daysBhopals e-bus network set for expansion, three new routes to improve city connectivityBMC repairs fail within days as patched\u2026 [+1169 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Sanjeev Verma",
-      "title": "Pensioners told to submit life certificates by Sept 30",
-      "description": "Himachal Pradesh pensioners must submit life certificates by Sept 30 via Jeevan Pramaan; IPPB, CSCs and post offices offer digital or doorstep verification.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/pensioners-told-to-submit-life-certificates-by-sept-30/articleshow/133411886.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-133411884,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-21T18:16:41Z",
-      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
     }
   ],
   "directory": []
