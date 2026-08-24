@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-08-24 00:52:20",
+  "last_updated": "2026-08-24 04:37:24",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Dhananjay Mahapatra",
+      "title": "Justice Karol who computed notional income of housewives retires",
+      "description": "India News: NEW DELHI: Hailing from India\u2019s first heritage village \u2018Garli\u2019 in Himachal Pradesh, the ever smiling Justice Sanjay Karol, fondly referred to as \u2018Chac.",
+      "url": "https://timesofindia.indiatimes.com/india/justice-karol-who-computed-notional-income-of-housewives-retires/articleshow/133434077.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-133434123,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-08-23T04:06:43Z",
+      "content": "View All Comments \r\nShare your thoughts in the comments\r\nInsightfulAgreeDisagreeSkepticalConcerningPromisingWorth ReadingBig Development\r\nBe respectful \u00b7 TOI community guidelines"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-133424055,width-1200,height-630,imgsize-41540,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-08-22T12:11:55Z",
       "content": "Shimla: A dispute over the singing of Vande Mataram and the National Anthem rocked the House on Saturday, the second day of the Monsoon Session, as both the ruling Congress and the opposition BJP pro\u2026 [+1994 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Education",
-      "title": "HPBOSE Class 12 supplementary result 2026 released, 59.07% students pass",
-      "description": "HPBOSE Class 12 supplementary result 2026: The Himachal Pradesh Board of School Education has declared the Class 12 supplementary examination result for July 2026. Of the 3,271 candidates who appeared, 1,931 passed, recording an overall pass percentage of 59.\u2026",
-      "url": "https://timesofindia.indiatimes.com/education/news/hpbose-class-12-supplementary-result-2026-released-59-07-students-pass/articleshow/133416526.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-133416538,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-22T03:14:27Z",
-      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
     }
   ],
   "directory": []
