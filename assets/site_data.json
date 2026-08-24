@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-08-24 16:27:35",
+  "last_updated": "2026-08-24 20:21:17",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Rohit Mullick",
+      "title": "Himachal glacial lakes surge fivefold in over 3 decades, threaten dams: Study",
+      "description": "Himachal Pradesh glacial lakes rose from 107 to 669 since 1990, doubling in area; study warns GLOF risks to Pandoh, Bhakra and key hydropower dams.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/himachal-glacial-lakes-surge-fivefold-in-over-3-decades-threaten-dams-study/articleshow/133446097.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-133446096,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-08-23T19:15:59Z",
+      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-133412462,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-08-22T17:39:02Z",
       "content": "Follow Us On Social Media\r\nSatara police bust gang selling bank, UPI details to cyber criminalsYou opened Pandoras box: Putin warns Ukraine of response after Kyiv strikes Russian economic targetsGulf\u2026 [+1400 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "Wet spell to continue in Himachal till August 28; 98 roads closed",
-      "description": "Moderate rains lashed Himachal Pradesh, with Dharamshala recording 68.2 mm of rainfall. The local Met office predicted a wet spell in the state until August 28. Thunderstorms accompanied by lightning were reported in several areas across the state. As of Satu\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/wet-spell-to-continue-in-himachal-till-august-28-98-roads-closed/articleshow/133425573.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-133425615,width-1200,height-630,imgsize-232716,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-08-22T13:48:02Z",
-      "content": "Shimla: Moderate rains lashed parts of Himachal Pradesh, with Dharamshala recording 68.2 mm of rainfall in the past 24 hours, as the local Met office predicted a wet spell in the state till August 28\u2026 [+858 chars]"
     }
   ],
   "directory": []
