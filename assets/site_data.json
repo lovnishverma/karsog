@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-08-24 04:37:24",
+  "last_updated": "2026-08-24 08:39:05",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Education",
+      "title": "HP TET June 2026 result declared at hpbose.org: Direct link to download scorecards here",
+      "description": "The Himachal Pradesh Board of School Education has announced the HP TET June 2026 examination results. A total of 29,900 candidates appeared for the examinations, with 6,744 successfully qualifying. The overall pass percentage for the examinations stood at 22\u2026",
+      "url": "https://timesofindia.indiatimes.com/education/news/hp-tet-june-2026-result-declared-at-hpbose-org-direct-link-to-download-scorecards-here/articleshow/133436617.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-133436794,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-08-23T08:28:11Z",
+      "content": "Follow Us On Social Media\r\nA tech enthusiast spent 3 years testing 351 microSD cards, and 177 have already failedUnacceptable: Justin Langer slams two-day Tests after Australia rout BangladeshQuote o\u2026 [+1847 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-133425615,width-1200,height-630,imgsize-232716,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-08-22T13:48:02Z",
       "content": "Shimla: Moderate rains lashed parts of Himachal Pradesh, with Dharamshala recording 68.2 mm of rainfall in the past 24 hours, as the local Met office predicted a wet spell in the state till August 28\u2026 [+858 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "Vande Mataram row disrupts second day of Himachal Assembly Session",
-      "description": "A dispute over Vande Mataram and the National Anthem disrupted the Himachal Pradesh Vidhan Sabha session. The ruling Congress and opposition BJP protested outside the assembly premises on Saturday. Opposition leader Jai Ram Thakur stated the Vidhan Sabha woul\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/vande-mataram-controversy-shakes-himachal-pradesh-assembly-protests-erupt-between-congress-and-bjp/articleshow/133423988.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-133424055,width-1200,height-630,imgsize-41540,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-08-22T12:11:55Z",
-      "content": "Shimla: A dispute over the singing of Vande Mataram and the National Anthem rocked the House on Saturday, the second day of the Monsoon Session, as both the ruling Congress and the opposition BJP pro\u2026 [+1994 chars]"
     }
   ],
   "directory": []
