@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-08-25 04:32:13",
+  "last_updated": "2026-08-25 08:33:22",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ANI",
+      "title": "Magnitude 3.5 earthquake strikes Leh in Ladakh",
+      "description": "Leh, Ladakh, was jolted by a 3.5 magnitude earthquake early Monday, with the tremor registering at a depth of 120 km. Earlier in the day, Chamba, Himachal Pradesh, felt a lesser quake of 3.0 magnitude at 3:40 AM. This followed a stronger 4.6 magnitude quake t\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/magnitude-3-5-earthquake-strikes-leh-in-ladakh/articleshow/133451243.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-133451318,width-1200,height-630,imgsize-87580,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-08-24T04:34:54Z",
+      "content": "Leh (Ladakh): An earthquake of magnitude 3.5 struck Ladakh's capital, Leh, early Monday morning, reported the National Centre for Seismology (NCS).Sharing details in a post on X, the seismic monitori\u2026 [+881 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-133430285,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-08-22T18:53:50Z",
       "content": "Follow Us On Social Media\r\nFire, deaths bolts from blue for industry looking at turnaroundAcoi temple dispute: Police register case against 14DMK caps age of dist secys at 70, limits tenure to three \u2026 [+1150 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Sanjeev Verma",
-      "title": "HC dismisses election petition against BJP MLA Randhir Sharma",
-      "description": "Himachal Pradesh HC dismisses Congress leader Ramlal Thakur\u2019s election petition against BJP MLA Randhir Sharma over affidavit defects under election laws.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/hc-dismisses-election-petition-against-bjp-mla-randhir-sharma/articleshow/133428961.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-133412462,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-22T17:39:02Z",
-      "content": "Follow Us On Social Media\r\nSatara police bust gang selling bank, UPI details to cyber criminalsYou opened Pandoras box: Putin warns Ukraine of response after Kyiv strikes Russian economic targetsGulf\u2026 [+1400 chars]"
     }
   ],
   "directory": []
