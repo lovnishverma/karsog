@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-08-26 16:42:41",
+  "last_updated": "2026-08-26 22:37:53",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Haryana man wanted in 1.1kg heroin seizure case in Shimla held from Ahmedabad hotel",
+      "description": "Gujarat ATS arrested a Haryana man in Ahmedabad wanted in a Shimla NDPS case after 1.12kg heroin seizure; he will be handed to Shimla West police.",
+      "url": "https://timesofindia.indiatimes.com/city/ahmedabad/haryana-man-wanted-in-1-1kg-heroin-seizure-case-in-shimla-held-from-ahmedabad-hotel/articleshow/133522413.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-133522412,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-08-25T18:24:48Z",
+      "content": "Follow Us On Social Media\r\nImam assaulted, his nationality questioned; incident caught in CCTV, FIR registered in JalnaApplications invited for TN tourism awardsMadurai cops foil revenge attack, nab \u2026 [+1114 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-133446096,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-08-23T19:15:59Z",
       "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Education",
-      "title": "HP TET June 2026 result declared at hpbose.org: Direct link to download scorecards here",
-      "description": "The Himachal Pradesh Board of School Education has announced the HP TET June 2026 examination results. A total of 29,900 candidates appeared for the examinations, with 6,744 successfully qualifying. The overall pass percentage for the examinations stood at 22\u2026",
-      "url": "https://timesofindia.indiatimes.com/education/news/hp-tet-june-2026-result-declared-at-hpbose-org-direct-link-to-download-scorecards-here/articleshow/133436617.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-133436794,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-23T08:28:11Z",
-      "content": "Follow Us On Social Media\r\nA tech enthusiast spent 3 years testing 351 microSD cards, and 177 have already failedUnacceptable: Justin Langer slams two-day Tests after Australia rout BangladeshQuote o\u2026 [+1847 chars]"
     }
   ],
   "directory": []
