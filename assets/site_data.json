@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-08-26 04:32:45",
+  "last_updated": "2026-08-26 08:34:23",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Yashika Bajaj",
+      "title": "Massive landslide damages Kodla-Urai road in Himachal\u2019s Bharmour, disrupts traffic",
+      "description": "CHAMBA: A massive landslide damaged the Kodla-Urai road in Bharmour, Himachal Pradesh, disrupting traffic movement in the area.The landslide affected .",
+      "url": "https://timesofindia.indiatimes.com/city/shimla/massive-landslide-damages-kodla-urai-road-in-himachals-bharmour-disrupts-traffic/articleshow/133499339.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-133499339,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-08-25T07:39:07Z",
+      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Princess Sonika",
+      "title": "HP Board registration 2026 begins for Classes 9, 11; apply by Oct 15",
+      "description": "The Himachal Pradesh Board of School Education (HPBOSE) has revised its exam regulations, opening registration for Classes 9 and 11. The application fee is \u20b9200 per student",
+      "url": "https://www.business-standard.com/education/news/hp-board-registration-2026-begins-for-classes-9-11-apply-by-oct-15-nc-126082500421_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-09/05/thumb/fitandfill/1200X628/1757094149-442.jpg",
+      "publishedAt": "2026-08-25T06:40:05Z",
+      "content": "The Himachal Pradesh Board of School Education (HPBOSE) has revised its exam regulations, opening registration for Classes 9 and 11. The application fee is 200 per student\r\nHP Board 2026 Classes 9, 1\u2026 [+1690 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-133436794,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-08-23T08:28:11Z",
       "content": "Follow Us On Social Media\r\nA tech enthusiast spent 3 years testing 351 microSD cards, and 177 have already failedUnacceptable: Justin Langer slams two-day Tests after Australia rout BangladeshQuote o\u2026 [+1847 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Dhananjay Mahapatra",
-      "title": "Justice Karol who computed notional income of housewives retires",
-      "description": "India News: NEW DELHI: Hailing from India\u2019s first heritage village \u2018Garli\u2019 in Himachal Pradesh, the ever smiling Justice Sanjay Karol, fondly referred to as \u2018Chac.",
-      "url": "https://timesofindia.indiatimes.com/india/justice-karol-who-computed-notional-income-of-housewives-retires/articleshow/133434077.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-133434123,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-23T04:06:43Z",
-      "content": "View All Comments \r\nShare your thoughts in the comments\r\nInsightfulAgreeDisagreeSkepticalConcerningPromisingWorth ReadingBig Development\r\nBe respectful \u00b7 TOI community guidelines"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Sanjeev Verma",
-      "title": "Light to moderate rain expected in HP; 98 roads blocked",
-      "description": "Himachal Pradesh forecast: light to moderate rain Aug 23-24; no alerts. 98 roads blocked, power and water hit; losses Rs 1,121 crore, 224 deaths.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/light-to-moderate-rain-expected-in-hp-98-roads-blocked/articleshow/133430511.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-133430510,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-22T18:58:38Z",
-      "content": "Follow Us On Social Media\r\nFire, deaths bolts from blue for industry looking at turnaroundAcoi temple dispute: Police register case against 14DMK caps age of dist secys at 70, limits tenure to three \u2026 [+1150 chars]"
     }
   ],
   "directory": []
