@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-08-27 06:34:08",
+  "last_updated": "2026-08-27 18:42:07",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Education",
+      "title": "HPBOSE Matric second result 2026: Dual board system takes combined pass rate to 89.54%",
+      "description": "The Himachal Pradesh Board of School Education has declared the July 2026 Matric second examination result, with 4,930 of 8,181 candidates passing and a pass percentage of 60.27%. The examination forms part of the Dual board system introduced for Class 10 stu\u2026",
+      "url": "https://timesofindia.indiatimes.com/education/news/hpbose-matric-second-result-2026-dual-board-system-takes-combined-pass-rate-to-89-54/articleshow/133533937.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-133534002,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-08-26T07:49:06Z",
+      "content": "Follow Us On Social Media\r\n&amp;lt;b&amp;gt;UFC DWCS -6000 favorite Bella Mir suffers her first MMA loss in 6 years to Alex Apodaca in massive upset&amp;lt;/b&amp;gt;Sobhita Dhulipala reveals she lef\u2026 [+1681 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-133451318,width-1200,height-630,imgsize-87580,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-08-24T04:34:54Z",
       "content": "Leh (Ladakh): An earthquake of magnitude 3.5 struck Ladakh's capital, Leh, early Monday morning, reported the National Centre for Seismology (NCS).Sharing details in a post on X, the seismic monitori\u2026 [+881 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Rohit Mullick",
-      "title": "Himachal glacial lakes surge fivefold in over 3 decades, threaten dams: Study",
-      "description": "Himachal Pradesh glacial lakes rose from 107 to 669 since 1990, doubling in area; study warns GLOF risks to Pandoh, Bhakra and key hydropower dams.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/himachal-glacial-lakes-surge-fivefold-in-over-3-decades-threaten-dams-study/articleshow/133446097.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-133446096,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-23T19:15:59Z",
-      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
     }
   ],
   "directory": []
