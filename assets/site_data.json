@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-08-27 18:42:07",
+  "last_updated": "2026-08-28 03:57:10",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "The Times Of India",
+      "title": "Two 16-year-old students drown in Pabbar in Shimla",
+      "description": "Bodies of two 16-year-old students who drowned while bathing in Shimla\u2019s Pabbar River were recovered in Rohru after a joint search by locals, police and NDRF.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/two-16-year-old-students-drown-in-pabbar-in-shimla/articleshow/133549966.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-133356448,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-08-26T18:55:00Z",
+      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-133461799,width-1200,height-630,imgsize-75364,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-08-24T10:38:25Z",
       "content": "Shimla: The BJP on Monday strongly objected to alleged derogatory and objectionable remarks by Congress leader Pawan Khera against Union Home Minister Amit Shah and demanded registration of an FIR ag\u2026 [+1630 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ANI",
-      "title": "Magnitude 3.5 earthquake strikes Leh in Ladakh",
-      "description": "Leh, Ladakh, was jolted by a 3.5 magnitude earthquake early Monday, with the tremor registering at a depth of 120 km. Earlier in the day, Chamba, Himachal Pradesh, felt a lesser quake of 3.0 magnitude at 3:40 AM. This followed a stronger 4.6 magnitude quake t\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/magnitude-3-5-earthquake-strikes-leh-in-ladakh/articleshow/133451243.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-133451318,width-1200,height-630,imgsize-87580,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-08-24T04:34:54Z",
-      "content": "Leh (Ladakh): An earthquake of magnitude 3.5 struck Ladakh's capital, Leh, early Monday morning, reported the National Centre for Seismology (NCS).Sharing details in a post on X, the seismic monitori\u2026 [+881 chars]"
     }
   ],
   "directory": []
