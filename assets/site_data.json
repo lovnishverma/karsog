@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-08-29 10:38:11",
+  "last_updated": "2026-08-29 16:00:52",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Press Trust of India",
+      "title": "67 roads closed in Himachal Pradesh, 'yellow' warning issued for heavy rain",
+      "description": "A total of 67 roads have been closed to vehicular traffic as light to moderate rains persist in various parts of Himachal Pradesh.\nThe Shimla Meteorological Office issued a yellow warning on Friday for heavy rains in isolated areas of the state from August 31\u2026",
+      "url": "https://www.business-standard.com/india-news/67-roads-closed-in-himachal-pradesh-yellow-warning-issued-for-heavy-rain-126082801221_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-07/30/thumb/fitandfill/1200X628/1690680959-3006.jpg",
+      "publishedAt": "2026-08-28T15:09:57Z",
+      "content": "A total of 67 roads have been closed to vehicular traffic as light to moderate rains persist in various parts of Himachal Pradesh.\r\nThe Shimla Meteorological Office issued a yellow warning on Friday \u2026 [+1059 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-131285288,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-08-27T17:14:08Z",
       "content": "Follow Us On Social Media\r\nChinas J-16 Just Faced Indias Rafale, In EgyptARAVALLI: THE ENGINE BEFORE THE CHOPPER, HAL AND SAFRAN SIGN THE DEALProject-18: Why India Wants Japans Maya-Class Tech for It\u2026 [+1445 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "The Times Of India",
-      "title": "Two 16-year-old students drown in Pabbar in Shimla",
-      "description": "Bodies of two 16-year-old students who drowned while bathing in Shimla\u2019s Pabbar River were recovered in Rohru after a joint search by locals, police and NDRF.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/two-16-year-old-students-drown-in-pabbar-in-shimla/articleshow/133549966.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-133356448,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-26T18:55:00Z",
-      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
     }
   ],
   "directory": []
