@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-08-29 00:18:39",
+  "last_updated": "2026-08-29 10:38:11",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Akshita Singh",
+      "title": "India state fiscal health: Pension burden highest in Himachal Pradesh",
+      "description": "A higher ratio means pension spending accounts for a larger part of the revenue available to the state. A lower ratio means pension expenditure takes up a smaller share of revenue receipts",
+      "url": "https://www.business-standard.com/economy/news/india-state-fiscal-health-pension-burden-highest-in-himachal-pradesh-126082800838_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-08/26/thumb/fitandfill/1200X628/1724657064-6634.jpg",
+      "publishedAt": "2026-08-28T10:32:19Z",
+      "content": "Business Standard's India State Fiscal Health Tracker ranks states and Union Territories by pension expenditure as a share of revenue receipts, based on 2024-25 Budget Estimates from the RBI's 2025 H\u2026 [+71 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-133356448,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-08-26T18:55:00Z",
       "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Education",
-      "title": "HPBOSE Matric second result 2026: Dual board system takes combined pass rate to 89.54%",
-      "description": "The Himachal Pradesh Board of School Education has declared the July 2026 Matric second examination result, with 4,930 of 8,181 candidates passing and a pass percentage of 60.27%. The examination forms part of the Dual board system introduced for Class 10 stu\u2026",
-      "url": "https://timesofindia.indiatimes.com/education/news/hpbose-matric-second-result-2026-dual-board-system-takes-combined-pass-rate-to-89-54/articleshow/133533937.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-133534002,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-26T07:49:06Z",
-      "content": "Follow Us On Social Media\r\n&amp;lt;b&amp;gt;UFC DWCS -6000 favorite Bella Mir suffers her first MMA loss in 6 years to Alex Apodaca in massive upset&amp;lt;/b&amp;gt;Sobhita Dhulipala reveals she lef\u2026 [+1681 chars]"
     }
   ],
   "directory": []
