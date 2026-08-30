@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-08-30 09:38:13",
+  "last_updated": "2026-08-30 15:50:03",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ANI",
+      "title": "Low apple crop, rising input costs leave Himachal growers worried despite firm prices; traders report losses",
+      "description": "Himachal Pradesh apple growers face a difficult season with reduced production.  Erratic weather severely impacted fruit setting, leading to lower yields this year.  Premium apples fetch firm prices, but costs remain high for growers.  Traders report weak dem\u2026",
+      "url": "https://economictimes.indiatimes.com/news/economy/agriculture/low-apple-crop-rising-input-costs-leave-himachal-growers-worried-despite-firm-prices-traders-report-losses/articleshow/133614743.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-133614742,width-1200,height-630,imgsize-95208,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-08-29T15:17:18Z",
+      "content": "Shimla: The apple growers in Himachal Pradesh are facing a difficult season marked by a sharp decline in production, high input costs and uncertainty over market returns, even as premium apples are f\u2026 [+8032 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -64,19 +77,6 @@
       "url": "https://timesofindia.indiatimes.com/city/chandigarh/himachal-to-bar-new-ethanol-plants-restrict-power-intensive-hazardous-industries/articleshow/133574702.cms",
       "urlToImage": "https://static.toiimg.com/thumb/msid-133574701,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-08-27T17:22:28Z",
-      "content": "Follow Us On Social Media\r\nChinas J-16 Just Faced Indias Rafale, In EgyptARAVALLI: THE ENGINE BEFORE THE CHOPPER, HAL AND SAFRAN SIGN THE DEALProject-18: Why India Wants Japans Maya-Class Tech for It\u2026 [+1445 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Sanjeev Verma",
-      "title": "Himachal to raise 4-lane highway speed limit over 70 kmph",
-      "description": "Himachal Pradesh plans to raise 4-lane highway speed limits from 60 kmph to over 70 kmph after a survey, aiming to reduce overspeeding challans and improve safety.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/himachal-to-raise-4-lane-highway-speed-limit-over-70-kmph/articleshow/133574665.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-133574664,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-27T17:20:40Z",
       "content": "Follow Us On Social Media\r\nChinas J-16 Just Faced Indias Rafale, In EgyptARAVALLI: THE ENGINE BEFORE THE CHOPPER, HAL AND SAFRAN SIGN THE DEALProject-18: Why India Wants Japans Maya-Class Tech for It\u2026 [+1445 chars]"
     }
   ],
