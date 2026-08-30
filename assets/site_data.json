@@ -1,6 +1,45 @@
 {
-  "last_updated": "2026-08-30 15:50:03",
+  "last_updated": "2026-08-30 18:58:06",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "The Times Of India",
+      "title": "Himachal likely to receive rain till Sept 4",
+      "description": "Himachal Pradesh forecast to see light to moderate rain Aug 30\u2013Sept 4, with isolated heavy showers; 54 roads blocked; losses exceed Rs 1,184 crore.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/himachal-likely-to-receive-rain-till-sept-4/articleshow/133618553.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-133618552,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-08-29T18:44:41Z",
+      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "The Times Of India",
+      "title": "Shimla DC for tapping retired soldiers\u2019 experience to guide students",
+      "description": "Shimla DC Anupam Kashyap enlists retired soldiers to mentor students and boost anti-drug awareness; 556 NDPS cases filed and Rs 8 crore seized.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/shimla-dc-for-tapping-retired-soldiers-experience-to-guide-students/articleshow/133618104.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-133523581,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-08-29T18:24:43Z",
+      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "The Times Of India",
+      "title": "3 held for links with inter-state drug networks",
+      "description": "Shimla police arrested three accused in inter-state heroin networks, including suppliers from Haryana and Punjab, linked to seizures and financial trails.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/3-held-for-links-with-inter-state-drug-networks/articleshow/133617378.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-133131918,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-08-29T18:00:16Z",
+      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -39,45 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-133604688,width-1200,height-630,imgsize-161697,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-08-29T05:18:04Z",
       "content": "Jammu: Himachal Pradesh Governor Kavinder Gupta on Saturday expressed concern over the devastation caused by the recent flash floods in the Nepal-Tibet region, describing climate change and global wa\u2026 [+3377 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Business Standard"
-      },
-      "author": "Press Trust of India",
-      "title": "67 roads closed in Himachal Pradesh, 'yellow' warning issued for heavy rain",
-      "description": "A total of 67 roads have been closed to vehicular traffic as light to moderate rains persist in various parts of Himachal Pradesh.\nThe Shimla Meteorological Office issued a yellow warning on Friday for heavy rains in isolated areas of the state from August 31\u2026",
-      "url": "https://www.business-standard.com/india-news/67-roads-closed-in-himachal-pradesh-yellow-warning-issued-for-heavy-rain-126082801221_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-07/30/thumb/fitandfill/1200X628/1690680959-3006.jpg",
-      "publishedAt": "2026-08-28T15:09:57Z",
-      "content": "A total of 67 roads have been closed to vehicular traffic as light to moderate rains persist in various parts of Himachal Pradesh.\r\nThe Shimla Meteorological Office issued a yellow warning on Friday \u2026 [+1059 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Business Standard"
-      },
-      "author": "Akshita Singh",
-      "title": "India state fiscal health: Pension burden highest in Himachal Pradesh",
-      "description": "A higher ratio means pension spending accounts for a larger part of the revenue available to the state. A lower ratio means pension expenditure takes up a smaller share of revenue receipts",
-      "url": "https://www.business-standard.com/economy/news/india-state-fiscal-health-pension-burden-highest-in-himachal-pradesh-126082800838_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-08/26/thumb/fitandfill/1200X628/1724657064-6634.jpg",
-      "publishedAt": "2026-08-28T10:32:19Z",
-      "content": "Business Standard's India State Fiscal Health Tracker ranks states and Union Territories by pension expenditure as a share of revenue receipts, based on 2024-25 Budget Estimates from the RBI's 2025 H\u2026 [+71 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Sanjeev Verma",
-      "title": "Himachal to bar new ethanol plants, restrict power-intensive, hazardous industries",
-      "description": "Himachal Pradesh Vidhan Sabha: govt to bar new ethanol plants, curb power-intensive and hazardous waste industries; announces Raksha Bandhan holiday and more.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/himachal-to-bar-new-ethanol-plants-restrict-power-intensive-hazardous-industries/articleshow/133574702.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-133574701,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-27T17:22:28Z",
-      "content": "Follow Us On Social Media\r\nChinas J-16 Just Faced Indias Rafale, In EgyptARAVALLI: THE ENGINE BEFORE THE CHOPPER, HAL AND SAFRAN SIGN THE DEALProject-18: Why India Wants Japans Maya-Class Tech for It\u2026 [+1445 chars]"
     }
   ],
   "directory": []
