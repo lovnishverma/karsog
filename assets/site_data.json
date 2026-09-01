@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-09-01 15:52:54",
+  "last_updated": "2026-09-01 19:06:17",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "The Times Of India",
+      "title": "BJP to step up protests against Congress govt in Himachal",
+      "description": "BJP to intensify Himachal Pradesh protests in Sept, with \u2018Seva Sankalp Abhiyan\u2019 Sept 17-Oct 17 marking PM Modi\u2019s 25 years of service.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/bjp-to-step-up-protests-against-congress-govt-in-himachal/articleshow/133661233.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-133304889,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-08-31T18:39:15Z",
+      "content": "Follow Us On Social Media\r\nAaliyahs Uncle Barry Hankerson Blames Son Jomo Over Fatal Flight Amid $1.2 Million Family Feud\u00a3100M Royal Bill: King Charles Sparks Fury as Critics Say Funding Should Be Ha\u2026 [+1505 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "The Times Of India",
+      "title": "In Shimla, Congress protests FIR against Rahul Gandhi",
+      "description": "Congress stages Shimla protest over Uttarakhand FIR against Rahul Gandhi, calling it suppression of dissent; CM Sukhu and leaders vow to defend democracy.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/in-shimla-congress-protests-fir-against-rahul-gandhi/articleshow/133660779.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-133660778,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-08-31T18:15:11Z",
+      "content": "Follow Us On Social Media\r\nDolly Partons Estate Under Spotlight as Sisters Revelations Raise Fresh QuestionsUS Army FACT CHECKS Trumps BIG Iran War Victory Claim? 'KHARG ISLAND NOT ATTACKED...'Nepal \u2026 [+2985 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -52,32 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-133632100,width-1200,height-630,imgsize-76878,overlay-etdefence/articleshow.jpg",
       "publishedAt": "2026-08-30T15:15:32Z",
       "content": "Shimla: Lieutenant General Devendra Sharma, PVSM, AVSM, SM, General Officer Commanding-in-Chief of the Army Training Command (ARTRAC), Shimla, has superannuated from the Indian Army after 39 years of\u2026 [+1360 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "Over 400 rescued after hill slip disrupts Kalka-Shimla train run",
-      "description": "A hill slip damaged the Kalka-Shimla railway track, causing disruptions.  Northern Railway evacuated 391 passengers and 40 crew members to Kalka.  Four incoming trains were short-terminated as a result of the incident.  Over 400 individuals were transported b\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/over-400-rescued-after-hill-slip-disrupts-kalka-shimla-train-run/articleshow/133631733.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-133631761,width-1200,height-630,imgsize-244660,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-08-30T14:56:46Z",
-      "content": "At least 391 passengers and 40 train crew members were evacuated to Kalka after a hill slip disrupted operations on the Kalka-Shimla route, leaving a portion of a connecting bridge exposed, Northern \u2026 [+1282 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Anjali Singh",
-      "title": "10 'Toy trains' cancelled on Kalka-Shimla heritage route after track left hanging",
-      "description": "Ten trains on the Kalka-Shimla heritage line were cancelled after heavy rain damaged the track. Soil slippage between Koti and Gumman stations left a section of the track suspended. This disruption inconvenienced many passengers who had booked tickets in adva\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/shimla/10-toy-trains-cancelled-on-kalka-shimla-heritage-route-after-track-left-hanging/articleshow/133630402.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-133630538,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-30T13:34:58Z",
-      "content": "Follow Us On Social Media\r\nIn 1966, Marlon Brando bought a private Polynesian atoll after filming Mutiny on the Bounty; it is now a wildlife sanctuary where 15,614 green turtle hatchlings emerged in \u2026 [+1724 chars]"
     }
   ],
   "directory": []
