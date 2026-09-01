@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-09-01 09:03:31",
+  "last_updated": "2026-09-01 15:52:54",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Jocelyn Fernandes",
+      "title": "DA update: Himachal CM announces welfare measures, additional \u20b920,000 in salary arrears for retirees. Key things to know",
+      "description": "Himachal CM says state committed to welfare of employees and pensioners, assures that DA payment will come in due course. Sukhu also announced an additional \u20b920,000 above salary arrears for retirees, and \u20b93,500 each as financial assistance for 800 fishermen.&\u2026",
+      "url": "https://www.livemint.com/money/personal-finance/da-pay-due-course-himachal-cm-sukhu-welfare-measure-additional-rs-20000-over-salary-arrear-retirees-financial-assistance-11788173710451.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2026/08/31/1600x900/logo/2-0-1440388023-iStock-1130639007-0_1679745245390_1788177366500_c71129c2-cc23-48a7-a2fa-daecb9e10c1c.jpg",
+      "publishedAt": "2026-08-31T12:11:09Z",
+      "content": "Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu on Sunday assured state government workers that the government is committed to welfare of employees and pensioners, adding that Dearness Allowan\u2026 [+3635 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-133630538,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-08-30T13:34:58Z",
       "content": "Follow Us On Social Media\r\nIn 1966, Marlon Brando bought a private Polynesian atoll after filming Mutiny on the Bounty; it is now a wildlife sanctuary where 15,614 green turtle hatchlings emerged in \u2026 [+1724 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "Himachal Pradesh weather forecast: 64 roads closed, 225 power transformers hit; heavy rain warning issued till September 3",
-      "description": "Himachal Pradesh is facing severe impacts from substantial rainfall, leading to 64 road closures and disruptions to 225 power transformers. Additionally, nine water supply schemes have been affected, jeopardizing vital services for local residents. A yellow w\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/himachal-pradesh-weather-forecast-64-roads-closed-225-power-transformers-hit-heavy-rain-warning-issued-till-september-3/articleshow/133629681.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-133629925,width-1200,height-630,imgsize-125062,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-08-30T12:58:55Z",
-      "content": "Himachal Pradesh continued to face the impact of persistent rainfall on Sunday, with 64 roads closed to vehicular traffic and 225 power transformers disrupted across the state. Nine water supply sche\u2026 [+5016 chars]"
     }
   ],
   "directory": []
