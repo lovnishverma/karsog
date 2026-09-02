@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-09-02 02:18:48",
+  "last_updated": "2026-09-02 08:17:06",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "Himachal Pradesh to see active monsoon till September 3 as 98 roads remain blocked",
+      "description": "Himachal Pradesh anticipates active monsoon conditions through September third. Isolated heavy rainfall is forecast for several districts, impacting infrastructure. Ninety-eight roads remain blocked, and power supply is disrupted across the state. Authorities\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/himachal-pradesh-to-see-active-monsoon-till-september-3-as-98-roads-remain-blocked/articleshow/133667265.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-133667316,width-1200,height-630,imgsize-104622,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-01T03:59:30Z",
+      "content": "Himachal Pradesh is likely to see active monsoon conditions through September 3, with isolated heavy rainfall forecast in several districts, even as 98 roads remained blocked and 107 distribution tra\u2026 [+5040 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-133632234,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-08-30T15:30:08Z",
       "content": "Follow Us On Social Media\r\nCampus vandalism: JU probe panel issues public notice seeking evidenceNepal floods: Stranger ran past school screaming Run, water. It saved 370 kids, teachersWBJEEB Rolls B\u2026 [+1308 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "Lt Gen Devendra Sharma retires from Indian Army after 39 years of service",
-      "description": "After an illustrious thirty-nine years, Lieutenant General Devendra Sharma has retired from the Indian Army. He was the General Officer Commanding-in-Chief of ARTRAC in Shimla, notable for his leadership and bravery. Commissioned into the SCINDE HORSE armoure\u2026",
-      "url": "https://economictimes.indiatimes.com/news/defence/lt-gen-devendra-sharma-retires-from-indian-army-after-39-years-of-service/articleshow/133632072.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-133632100,width-1200,height-630,imgsize-76878,overlay-etdefence/articleshow.jpg",
-      "publishedAt": "2026-08-30T15:15:32Z",
-      "content": "Shimla: Lieutenant General Devendra Sharma, PVSM, AVSM, SM, General Officer Commanding-in-Chief of the Army Training Command (ARTRAC), Shimla, has superannuated from the Indian Army after 39 years of\u2026 [+1360 chars]"
     }
   ],
   "directory": []
