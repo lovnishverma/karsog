@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-09-02 08:17:06",
+  "last_updated": "2026-09-02 15:45:25",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Trending Desk",
+      "title": "School holiday tomorrow, September 2? Check latest state-wise update",
+      "description": "School holiday September 2, 2026: Schools have not been declared closed nationwide due to rain, but students in several states are watching for local orders as the IMD forecasts continued rainfall and thunderstorms. Uttarakhand, Himachal Pradesh, Uttar Prades\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/school-holiday-today-september-2-check-latest-state-wise-update/articleshow/133681282.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-133681644,width-1200,height-630,imgsize-143946,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-01T12:35:50Z",
+      "content": "With heavy rain and thunderstorms continuing in several parts of India, students and parents are waiting for updates on whether schools will remain open or closed on September 2. The India Meteorolog\u2026 [+6782 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-133633865,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-08-30T17:16:56Z",
       "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "RK Laxmi",
-      "title": "Hill slip thwarts train services on Kalka-Shimla route, over 400 passengers rescued",
-      "description": "A landslide near Koti and Ghumman stations caused interruptions to train services on the Kalka-Shimla route. Northern Railway officials swiftly sprang into action, conducting a rescue operation that successfully assisted over 400 passengers and staff. Four tr\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/shimla/hill-slip-thwarts-train-run-on-kalka-shimla-route-over-400-passengers-rescued/articleshow/133632160.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-133632234,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-30T15:30:08Z",
-      "content": "Follow Us On Social Media\r\nCampus vandalism: JU probe panel issues public notice seeking evidenceNepal floods: Stranger ran past school screaming Run, water. It saved 370 kids, teachersWBJEEB Rolls B\u2026 [+1308 chars]"
     }
   ],
   "directory": []
