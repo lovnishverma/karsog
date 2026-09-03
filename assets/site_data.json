@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-09-03 15:35:06",
+  "last_updated": "2026-09-03 19:00:48",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "The Times Of India",
+      "title": "39-yr-old dies as car plunges into Suketi Khad",
+      "description": "39-year-old Munish Bhatia died after his car skidded off the road and plunged into Suketi Khad near Pulgharat, Mandi; police investigating.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/39-yr-old-dies-as-car-plunges-into-suketi-khad/articleshow/133718673.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-133718671,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-02T18:57:25Z",
+      "content": "Follow Us On Social Media\r\nFrom Operation Sindoor To Ram Temple: Decorated IAF Veteran Jeetendra Mishra Gets New MissionGeorge Clooney Says America Is In An Unfortunate Moment: But Well Get Through I\u2026 [+2789 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "The Times Of India",
+      "title": "17% deficit rainfall in August, 29th lowest since 1901",
+      "description": "Himachal Pradesh saw 212.5 mm rain in August, 17% below normal and 29th-lowest since 1901; uneven heavy spells hit districts, roads blocked and outages persisted.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/17-deficit-rainfall-in-august-29th-lowest-since-1901/articleshow/133718375.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-133718354,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-02T18:19:06Z",
+      "content": "Follow Us On Social Media\r\nGeorge Clooney Says America Is In An Unfortunate Moment: But Well Get Through ItJapan Wants Indias PL-15E Secrets: Why Chinas Missile Failure Could Change Future Air Warfar\u2026 [+1517 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://dam.mediacorp.sg/image/upload/s--_SUG15Ts--/c_crop,h_701,w_1247,x_1,y_100/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/08/24/h1_india-fine-dining-regional-cuisine.jpg?itok=mTBRGf5M",
       "publishedAt": "2026-09-01T22:09:00Z",
       "content": "In a country with countless regional cuisines served from humble carts and venerable restaurants, Indian food has rarely been framed within the realm of fine dining. That is quickly changing, as a ne\u2026 [+738 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Trending Desk",
-      "title": "School holiday tomorrow, September 2? Check latest state-wise update",
-      "description": "School holiday September 2, 2026: Schools have not been declared closed nationwide due to rain, but students in several states are watching for local orders as the IMD forecasts continued rainfall and thunderstorms. Uttarakhand, Himachal Pradesh, Uttar Prades\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/school-holiday-today-september-2-check-latest-state-wise-update/articleshow/133681282.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-133681644,width-1200,height-630,imgsize-143946,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-01T12:35:50Z",
-      "content": "With heavy rain and thunderstorms continuing in several parts of India, students and parents are waiting for updates on whether schools will remain open or closed on September 2. The India Meteorolog\u2026 [+6782 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "Himachal Pradesh to see active monsoon till September 3 as 98 roads remain blocked",
-      "description": "Himachal Pradesh anticipates active monsoon conditions through September third. Isolated heavy rainfall is forecast for several districts, impacting infrastructure. Ninety-eight roads remain blocked, and power supply is disrupted across the state. Authorities\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/himachal-pradesh-to-see-active-monsoon-till-september-3-as-98-roads-remain-blocked/articleshow/133667265.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-133667316,width-1200,height-630,imgsize-104622,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-01T03:59:30Z",
-      "content": "Himachal Pradesh is likely to see active monsoon conditions through September 3, with isolated heavy rainfall forecast in several districts, even as 98 roads remained blocked and 107 distribution tra\u2026 [+5040 chars]"
     }
   ],
   "directory": []
