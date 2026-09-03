@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-09-03 19:00:48",
+  "last_updated": "2026-09-03 22:06:14",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Sanjeev Verma",
+      "title": "150 govt schools in Himachal have no teacher, confirms minister",
+      "description": "Himachal Vidhan Sabha: 150 govt schools lack teachers, 3,500 run with one; recruitment underway. House passes university and Shimla road bills; more e-buses planned.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/150-govt-schools-in-himachal-have-no-teacher-confirms-minister/articleshow/133719326.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-133304273,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-02T19:15:36Z",
+      "content": "Follow Us On Social Media\r\n36-day block at Chandigarh Railway Station; 12 trains cancelled, several shifted to Ambala, Mohali16-year-old killed in bike-car collision at Gogol150 govt schools in Himac\u2026 [+1084 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-133703173,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-09-02T08:18:09Z",
       "content": "View All Comments \r\nShare your thoughts in the comments\r\nInsightfulAgreeDisagreeSkepticalConcerningPromisingWorth ReadingBig Development\r\nBe respectful \u00b7 TOI community guidelines"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNA"
-      },
-      "author": null,
-      "title": "How India\u2019s regional cuisines are reshaping fine dining",
-      "description": "At restaurants in Himachal Pradesh, Mumbai and Bengaluru, chefs are drawing on local ingredients, preservation techniques and culinary traditions to rethink what contemporary Indian food can be.",
-      "url": "https://cnaluxury.channelnewsasia.com/experiences/india-fine-dining-regional-cuisine-295131",
-      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--_SUG15Ts--/c_crop,h_701,w_1247,x_1,y_100/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/08/24/h1_india-fine-dining-regional-cuisine.jpg?itok=mTBRGf5M",
-      "publishedAt": "2026-09-01T22:09:00Z",
-      "content": "In a country with countless regional cuisines served from humble carts and venerable restaurants, Indian food has rarely been framed within the realm of fine dining. That is quickly changing, as a ne\u2026 [+738 chars]"
     }
   ],
   "directory": []
