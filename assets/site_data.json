@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-09-03 08:26:42",
+  "last_updated": "2026-09-03 15:35:06",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "Himachal teacher shortage leaves 150 schools empty; 3,500 with one teacher",
+      "description": "Many Himachal Pradesh schools operate without teachers, and thousands have only one.  Remote areas face significant staffing challenges, impacting education delivery.  The state government is working to fill vacant teaching positions through rationalization. \u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/himachal-teacher-shortage-leaves-150-schools-empty-3500-with-one-teacher/articleshow/133714161.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-133714585,width-1200,height-630,imgsize-340666,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-02T15:32:55Z",
+      "content": "At least 150 schools in Himachal Pradesh are operating without a teacher, while another 3,500 have only one teacher, highlighting the staffing challenges in remote areas despite the state having the \u2026 [+1838 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Trending Desk",
+      "title": "School holiday tomorrow, September 3: Check state-wise update amid IMD's heavy rain forecast",
+      "description": "School holiday tomorrow, September 3: Schools across India are not uniformly closed, despite heavy-rain warnings in Delhi, Haryana, Punjab, Uttarakhand, Himachal Pradesh and parts of Uttar Pradesh. Any closure will depend on local authorities or individual sc\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/school-holiday-tomorrow-september-3-check-state-wise-update-amid-imds-heavy-rain-forecast/articleshow/133709731.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-133710067,width-1200,height-630,imgsize-150391,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-02T12:07:23Z",
+      "content": "School holiday tomorrow, September 3: Students and parents across several parts of India are checking whether schools will remain closed on Thursday, September 3, as heavy rain and weather warnings c\u2026 [+5240 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-133667316,width-1200,height-630,imgsize-104622,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-09-01T03:59:30Z",
       "content": "Himachal Pradesh is likely to see active monsoon conditions through September 3, with isolated heavy rainfall forecast in several districts, even as 98 roads remained blocked and 107 distribution tra\u2026 [+5040 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "The Times Of India",
-      "title": "BJP to step up protests against Congress govt in Himachal",
-      "description": "BJP to intensify Himachal Pradesh protests in Sept, with \u2018Seva Sankalp Abhiyan\u2019 Sept 17-Oct 17 marking PM Modi\u2019s 25 years of service.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/bjp-to-step-up-protests-against-congress-govt-in-himachal/articleshow/133661233.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-133304889,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-31T18:39:15Z",
-      "content": "Follow Us On Social Media\r\nAaliyahs Uncle Barry Hankerson Blames Son Jomo Over Fatal Flight Amid $1.2 Million Family Feud\u00a3100M Royal Bill: King Charles Sparks Fury as Critics Say Funding Should Be Ha\u2026 [+1505 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "The Times Of India",
-      "title": "In Shimla, Congress protests FIR against Rahul Gandhi",
-      "description": "Congress stages Shimla protest over Uttarakhand FIR against Rahul Gandhi, calling it suppression of dissent; CM Sukhu and leaders vow to defend democracy.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/in-shimla-congress-protests-fir-against-rahul-gandhi/articleshow/133660779.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-133660778,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-31T18:15:11Z",
-      "content": "Follow Us On Social Media\r\nDolly Partons Estate Under Spotlight as Sisters Revelations Raise Fresh QuestionsUS Army FACT CHECKS Trumps BIG Iran War Victory Claim? 'KHARG ISLAND NOT ATTACKED...'Nepal \u2026 [+2985 chars]"
     }
   ],
   "directory": []
