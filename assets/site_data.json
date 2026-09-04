@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-09-04 15:33:40",
+  "last_updated": "2026-09-04 18:44:41",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Rohit Mullick",
+      "title": "HP forest dept admits before NGT: Muck dumped into Beas",
+      "description": "Himachal Forest Dept tells NGT illegal muck dumping spilled into Beas near Bijni\u2013Mandi NH-154 site; damage Rs 1.25 lakh, action taken; PCB fined contractor Rs 6 lakh.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/hp-forest-dept-admits-before-ngt-muck-dumped-into-beas/articleshow/133744550.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-133739224,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-03T18:31:28Z",
+      "content": "Follow Us On Social Media"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-133723129,width-1200,height-630,imgsize-93066,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-09-03T01:46:20Z",
       "content": "Shimla: The Himachal Pradesh Assembly on Wednesday passed the Himachal Pradesh State Universities (Amendment) Bill, 2026 by voice vote amid strong opposition from BJP legislators and protests by univ\u2026 [+4259 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Sanjeev Verma",
-      "title": "150 govt schools in Himachal have no teacher, confirms minister",
-      "description": "Himachal Vidhan Sabha: 150 govt schools lack teachers, 3,500 run with one; recruitment underway. House passes university and Shimla road bills; more e-buses planned.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/150-govt-schools-in-himachal-have-no-teacher-confirms-minister/articleshow/133719326.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-133304273,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-02T19:15:36Z",
-      "content": "Follow Us On Social Media\r\n36-day block at Chandigarh Railway Station; 12 trains cancelled, several shifted to Ambala, Mohali16-year-old killed in bike-car collision at Gogol150 govt schools in Himac\u2026 [+1084 chars]"
     }
   ],
   "directory": []
