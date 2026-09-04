@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-09-04 02:21:48",
+  "last_updated": "2026-09-04 08:22:14",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ANI",
+      "title": "Himachal Pradesh to develop ropeways under PPP, EAP modes amid high project costs: CM Sukhu",
+      "description": "Himachal Pradesh plans public-private partnership and externally aided ropeway projects. High construction costs necessitate greater private and external agency participation. The government aims to connect all tourist destinations with new ropeway infrastruc\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/himachal-pradesh-to-develop-ropeways-under-ppp-eap-modes-amid-high-project-costs-cm-sukhu/articleshow/133724615.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-133724614,width-1200,height-630,imgsize-72160,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-03T03:55:38Z",
+      "content": "Shimla: The Himachal Pradesh government plans to develop ropeway projects under the Public-Private Partnership (PPP) and Externally Aided Project (EAP) modes, as high construction costs have made it \u2026 [+4807 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-133714585,width-1200,height-630,imgsize-340666,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-09-02T15:32:55Z",
       "content": "At least 150 schools in Himachal Pradesh are operating without a teacher, while another 3,500 have only one teacher, highlighting the staffing challenges in remote areas despite the state having the \u2026 [+1838 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Trending Desk",
-      "title": "School holiday tomorrow, September 3: Check state-wise update amid IMD's heavy rain forecast",
-      "description": "School holiday tomorrow, September 3: Schools across India are not uniformly closed, despite heavy-rain warnings in Delhi, Haryana, Punjab, Uttarakhand, Himachal Pradesh and parts of Uttar Pradesh. Any closure will depend on local authorities or individual sc\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/school-holiday-tomorrow-september-3-check-state-wise-update-amid-imds-heavy-rain-forecast/articleshow/133709731.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-133710067,width-1200,height-630,imgsize-150391,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-02T12:07:23Z",
-      "content": "School holiday tomorrow, September 3: Students and parents across several parts of India are checking whether schools will remain closed on Thursday, September 3, as heavy rain and weather warnings c\u2026 [+5240 chars]"
     }
   ],
   "directory": []
