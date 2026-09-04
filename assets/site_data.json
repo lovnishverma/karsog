@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-09-03 22:06:14",
+  "last_updated": "2026-09-04 02:21:48",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ANI",
+      "title": "Himachal Assembly passes university amendment Bill amid protests over recruitment powers",
+      "description": "Himachal Pradesh Assembly passed a bill amending the state university recruitment system.  The government aims for transparent and merit-based appointments in universities.  Opposition legislators and university teachers protested the proposed changes to recr\u2026",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/himachal-assembly-passes-university-amendment-bill-amid-protests-over-recruitment-powers/articleshow/133723130.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-133723129,width-1200,height-630,imgsize-93066,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-03T01:46:20Z",
+      "content": "Shimla: The Himachal Pradesh Assembly on Wednesday passed the Himachal Pradesh State Universities (Amendment) Bill, 2026 by voice vote amid strong opposition from BJP legislators and protests by univ\u2026 [+4259 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-133710067,width-1200,height-630,imgsize-150391,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-09-02T12:07:23Z",
       "content": "School holiday tomorrow, September 3: Students and parents across several parts of India are checking whether schools will remain closed on Thursday, September 3, as heavy rain and weather warnings c\u2026 [+5240 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Vijaya Srivastava",
-      "title": "Himachal under monsoon fury: 259 dead, 150 roads cut off, losses cross Rs 1,200 crore in last 64 days",
-      "description": "Over the past 64 days, relentless monsoon rains have devastated Himachal Pradesh, resulting in the tragic loss of 259 lives and economic damages exceeding Rs 1,200 crore. The aftermath includes 150 roads still blocked, significantly hindering connectivity. Es\u2026",
-      "url": "https://timesofindia.indiatimes.com/india/himachal-under-monsoon-fury-259-dead-150-roads-cut-off-losses-cross-rs-1200-crore-in-last-64-days/articleshow/133702601.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-133703173,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-02T08:18:09Z",
-      "content": "View All Comments \r\nShare your thoughts in the comments\r\nInsightfulAgreeDisagreeSkepticalConcerningPromisingWorth ReadingBig Development\r\nBe respectful \u00b7 TOI community guidelines"
     }
   ],
   "directory": []
