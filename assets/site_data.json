@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-09-05 11:41:04",
+  "last_updated": "2026-09-05 14:21:16",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Jocelyn Fernandes",
+      "title": "8th pay commission: Here's how employees, unions, stakeholders can apply online for appointment in Bengaluru",
+      "description": "The commission has scheduled meetings in September and October this year, in Chennai (Tamil Nadu), Puducherry (Union Territory), Chandigarh (Punjab, Haryana, Himachal Pradesh, UT), Bengaluru (Karnataka) and Mumbai (Central Railways).",
+      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-bengaluru-how-employee-unions-stakeholders-apply-online-deadline-18-sept-appointment-date-7-8-october-11788523046212.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2026/09/04/1600x900/logo/Bangalore_Palace_1788524139064_175e3ad0-6849-4e32-b9e1-9615ff453a87_1788524146371_aeaf1d5d-d034-4d43-b225-a4f4a0a4133b_54c7d77b-4f87-4729-bcd5-38a4d7b5a253_03e2bf9a-db35-49c0-a51a-1ae5813cd826.png",
+      "publishedAt": "2026-09-04T12:45:39Z",
+      "content": "The 8th Central Pay Commission (8th CPC) is in its consultation stage now, with plans to interact with employee and pensioner associations, federations, unions of central government, UT employees and\u2026 [+3839 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -64,19 +77,6 @@
       "url": "https://www.thehindubusinessline.com/news/fssai-looking-at-regulations-for-ban-on-analogue-paneer-restrictions-on-sale-of-junk-foods-near-schools/article71424147.ece",
       "urlToImage": "https://bl-i.thgim.com/public/incoming/raz3g/article71424239.ece/alternates/LANDSCAPE_1200/IMG_iStock-464765760_2_1_HT9Q11SP.jpg",
       "publishedAt": "2026-09-03T14:41:30Z",
-      "content": "The Food Safety and Standards Authority of India (FSSAI) is looking at bringing a central regulation for nationwide ban on analogue paneer. The regulator is also stepping up scrutiny on quick commerc\u2026 [+2395 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "author": "Meenakshi Verma Ambwani",
-      "title": "FSSAI looking at regulations for ban on analogue paneer, restrictions on sale of junk foods near schools",
-      "description": "Several states including Punjab, Karnataka, Maharashtra, Madhya Pradesh, Himachal Pradesh, Gujarat and Chhattisgarh have already banned analogue paneer",
-      "url": "https://www.thehindubusinessline.com/companies/fssai-looking-at-regulations-for-ban-on-analogue-paneer-restrictions-on-sale-of-junk-foods-near-schools/article71424147.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/raz3g/article71424239.ece/alternates/LANDSCAPE_1200/IMG_iStock-464765760_2_1_HT9Q11SP.jpg",
-      "publishedAt": "2026-09-03T13:39:46Z",
       "content": "The Food Safety and Standards Authority of India (FSSAI) is looking at bringing a central regulation for nationwide ban on analogue paneer. The regulator is also stepping up scrutiny on quick commerc\u2026 [+2395 chars]"
     }
   ],
