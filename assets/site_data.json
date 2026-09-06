@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-09-06 02:18:18",
+  "last_updated": "2026-09-06 08:16:00",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Education",
+      "title": "From Himachal village to Hindu College and KBC: How Vikas Singh Panwar secured AIR 159 in his first UPSC attempt",
+      "description": "At just 22, Vikas Singh Panwar has combined academic achievement, quiz-show success and a strong UPSC debut. While preparing for the Civil Services Examination, the Himachal Pradesh native appeared on Kaun Banega Crorepati Season 17 and won Rs 50 lakh. Months\u2026",
+      "url": "https://timesofindia.indiatimes.com/education/news/from-himachal-village-to-hindu-college-and-kbc-how-vikas-singh-panwar-secured-air-159-in-his-first-upsc-attempt/articleshow/133789181.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-133789234,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-05T05:36:21Z",
+      "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>From Himachal village to Hindu College and KBC: How Vikas Singh Panwar secured AIR 159 in his first UPSC attempt</li></ul>\r\nFollow Us On\u2026 [+2085 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": null,
+      "title": "Weather today September 5: Will it rain today in Haryana, Rajasthan, Jammu & Kashmir, Uttarakhand, Punjab, West Bengal, and other states? Check IMD forecast",
+      "description": "Weather today September 5: IMD has forecast heavy to very heavy rain on September 5 across East Rajasthan, West Madhya Pradesh, Haryana, Punjab, Jammu & Kashmir, Himachal Pradesh, Uttarakhand and West Bengal, driven by a quasi-stationary low pressure system o\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/weather-today-september-5-will-it-rain-today-in-haryana-rajasthan-jammu-kashmir-uttarakhand-punjab-west-bengal-and-other-states-check-imd-forecast/articleshow/133784744.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-133784811,width-1200,height-630,imgsize-99824,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-05T02:28:29Z",
+      "content": "Large parts of north, central, and east India are set for another day of heavy rain on September 5, as the India Meteorological Department (IMD) has warned of isolated very heavy rainfall over East R\u2026 [+4132 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -52,32 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-133745024,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-09-03T18:56:21Z",
       "content": "Follow Us On Social Media\r\nStudents hold protest over fee reimbursement at Dharna ChowkIn 2016, conservationists put the bends back into a Lake District river straightened 200 years earlier; within m\u2026 [+1242 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "The Times Of India",
-      "title": "HP CM Sukhvinder Singh Sukhu lays foundation for Rs 2.8cr renovation of Shimla co-op bank building",
-      "description": "Shimla\u2019s Sahakar Sadan (HP State Cooperative Bank) on Mall Road to be modernised for Rs 2.85 crore, adding new facilities, by June 15, 2027.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/hp-cm-sukhvinder-singh-sukhu-lays-foundation-for-rs-2-8cr-renovation-of-shimla-co-op-bank-building/articleshow/133744990.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-133744989,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-03T18:53:50Z",
-      "content": "Follow Us On Social Media\r\nStudents hold protest over fee reimbursement at Dharna ChowkIn 2016, conservationists put the bends back into a Lake District river straightened 200 years earlier; within m\u2026 [+1242 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Rohit Mullick",
-      "title": "HP forest dept admits before NGT: Muck dumped into Beas",
-      "description": "Himachal Forest Dept tells NGT illegal muck dumping spilled into Beas near Bijni\u2013Mandi NH-154 site; damage Rs 1.25 lakh, action taken; PCB fined contractor Rs 6 lakh.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/hp-forest-dept-admits-before-ngt-muck-dumped-into-beas/articleshow/133744550.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-133739224,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-03T18:31:28Z",
-      "content": "Follow Us On Social Media"
     }
   ],
   "directory": []
