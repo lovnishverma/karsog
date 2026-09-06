@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-09-06 14:44:02",
+  "last_updated": "2026-09-06 17:55:33",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "The Times Of India",
+      "title": "Over 6.8L revenue cases resolved in HP revenue lok adalats",
+      "description": "Himachal Pradesh revenue lok adalats cleared 6.81 lakh pending cases since Oct 2023, including mutations, partitions, demarcations and record corrections.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/over-6-8l-revenue-cases-resolved-in-hp-revenue-lok-adalats/articleshow/133808548.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-132871374,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-05T16:41:12Z",
+      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "The Times Of India",
+      "title": "More rain in store for HP; 87 roads remain blocked",
+      "description": "Himachal Pradesh rain forecast Sept 5 & 11; light rain elsewhere. 87 roads blocked, power and water affected; losses over Rs 1,237 crore, 267 deaths.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/more-rain-in-store-for-hp-87-roads-remain-blocked/articleshow/133808530.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-133808529,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-05T16:40:30Z",
+      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-133789234,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-09-05T05:36:21Z",
       "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>From Himachal village to Hindu College and KBC: How Vikas Singh Panwar secured AIR 159 in his first UPSC attempt</li></ul>\r\nFollow Us On\u2026 [+2085 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": null,
-      "title": "Weather today September 5: Will it rain today in Haryana, Rajasthan, Jammu & Kashmir, Uttarakhand, Punjab, West Bengal, and other states? Check IMD forecast",
-      "description": "Weather today September 5: IMD has forecast heavy to very heavy rain on September 5 across East Rajasthan, West Madhya Pradesh, Haryana, Punjab, Jammu & Kashmir, Himachal Pradesh, Uttarakhand and West Bengal, driven by a quasi-stationary low pressure system o\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/weather-today-september-5-will-it-rain-today-in-haryana-rajasthan-jammu-kashmir-uttarakhand-punjab-west-bengal-and-other-states-check-imd-forecast/articleshow/133784744.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-133784811,width-1200,height-630,imgsize-99824,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-05T02:28:29Z",
-      "content": "Large parts of north, central, and east India are set for another day of heavy rain on September 5, as the India Meteorological Department (IMD) has warned of isolated very heavy rainfall over East R\u2026 [+4132 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Business Standard"
-      },
-      "author": "Sneha Sasikumar",
-      "title": "Datanomics: More teachers in classrooms, but fewer women in senior roles",
-      "description": "Himachal Pradesh and Uttarakhand reported PTRs below 15, among the best in the country",
-      "url": "https://www.business-standard.com/education/news/datanomics-more-teachers-in-classrooms-but-fewer-women-in-senior-roles-126090400919_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/04/thumb/fitandfill/1200X628/1788542262-2827.jpg",
-      "publishedAt": "2026-09-04T17:18:31Z",
-      "content": "Himachal Pradesh and Uttarakhand reported PTRs below 15, among the best in the country\r\nSneha Sasikumar1 min read Last Updated : Sep 04 2026 | 10:48 PM IST\r\nAs India celebrates Teachers Day on Septem\u2026 [+826 chars]"
     }
   ],
   "directory": []
