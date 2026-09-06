@@ -1,6 +1,45 @@
 {
-  "last_updated": "2026-09-06 08:16:00",
+  "last_updated": "2026-09-06 14:44:02",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Himachal: 85 roads closed; wet spell likely to continue till Sep 11",
+      "description": "Persistent rainfall has blocked eighty-five roads across Himachal Pradesh. Light to moderate rain occurred in several locations, with Dharamshala recording the highest rainfall. The Shimla Meteorological Office predicts this wet spell will continue until Sept\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/himachal-85-roads-closed-wet-spell-likely-to-continue-till-sep-11/articleshow/133802361.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-133802449,width-1200,height-630,imgsize-153776,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-05T13:02:21Z",
+      "content": "Shimla: A total of 85 roads have been blocked in Himachal Pradesh as persistent rainfall affects various parts of the state, and the Shimla Meteorological Office has predicted a wet spell lasting unt\u2026 [+1249 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "PTI",
+      "title": "Himachal Pradesh faces serious flood threat: IIT researchers warn of 9 rapidly-expanding glacial lakes",
+      "description": "The lakes could pose serious threat to downstream communities as rising temperatures accelerate melting of glaciers across the Himalayas, IIT-Mandi researchers say",
+      "url": "https://www.thehindubusinessline.com/news/national/himachal-pradesh-faces-serious-flood-threat-iit-researchers-warn-of-9-rapidly-expanding-glacial-lakes/article71431583.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/vpddr0/article71431619.ece/alternates/LANDSCAPE_1200/SRNIA_7-8-2014_16-35-49_09-STORY-SGR-07-08-2014.JPG",
+      "publishedAt": "2026-09-05T10:03:01Z",
+      "content": "The unprecedented devastation and loss of lives in the wake of the Nepal flash floods have set off the alarm bells for Himachal Pradesh, with researchers from the Indian Institute of Technology (IIT)\u2026 [+3535 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Press Trust of India",
+      "title": "9 expanding glacial lakes in Himachal pose flood risk: IIT-Mandi study",
+      "description": "The unprecedented devastation and loss of lives in the wake of the Nepal flash floods have set off the alarm bells for Himachal Pradesh, with researchers from the Indian Institute of Technology (IIT) Mandi identifying nine rapidly expanding glacial lakes in t\u2026",
+      "url": "https://www.business-standard.com/india-news/9-expanding-glacial-lakes-in-himachal-pose-flood-risk-iit-mandi-study-126090500416_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-06/04/thumb/fitandfill/1200X628/1749022998-3657.jpeg",
+      "publishedAt": "2026-09-05T09:20:45Z",
+      "content": "The unprecedented devastation and loss of lives in the wake of the Nepal flash floods have set off the alarm bells for Himachal Pradesh, with researchers from the Indian Institute of Technology (IIT)\u2026 [+3663 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -39,45 +78,6 @@
       "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/04/thumb/fitandfill/1200X628/1788542262-2827.jpg",
       "publishedAt": "2026-09-04T17:18:31Z",
       "content": "Himachal Pradesh and Uttarakhand reported PTRs below 15, among the best in the country\r\nSneha Sasikumar1 min read Last Updated : Sep 04 2026 | 10:48 PM IST\r\nAs India celebrates Teachers Day on Septem\u2026 [+826 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Jocelyn Fernandes",
-      "title": "8th pay commission: Here's how employees, unions, stakeholders can apply online for appointment in Bengaluru",
-      "description": "The commission has scheduled meetings in September and October this year, in Chennai (Tamil Nadu), Puducherry (Union Territory), Chandigarh (Punjab, Haryana, Himachal Pradesh, UT), Bengaluru (Karnataka) and Mumbai (Central Railways).",
-      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-bengaluru-how-employee-unions-stakeholders-apply-online-deadline-18-sept-appointment-date-7-8-october-11788523046212.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2026/09/04/1600x900/logo/Bangalore_Palace_1788524139064_175e3ad0-6849-4e32-b9e1-9615ff453a87_1788524146371_aeaf1d5d-d034-4d43-b225-a4f4a0a4133b_54c7d77b-4f87-4729-bcd5-38a4d7b5a253_03e2bf9a-db35-49c0-a51a-1ae5813cd826.png",
-      "publishedAt": "2026-09-04T12:45:39Z",
-      "content": "The 8th Central Pay Commission (8th CPC) is in its consultation stage now, with plans to interact with employee and pensioner associations, federations, unions of central government, UT employees and\u2026 [+3839 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Saurabh Thakur",
-      "title": "Protein and creatine never delivered; customer gets refund plus Rs 50,000 compensation",
-      "description": "A Himachal Pradesh consumer commission ordered Muscle Beast to refund Rs 7,875. The company failed to deliver protein and creatine supplements after receiving payment. The customer Davesh Duvedi approached the commission after repeated failed delivery assuran\u2026",
-      "url": "https://timesofindia.indiatimes.com/legal/news/protein-and-creatine-never-delivered-customer-gets-refund-plus-rs-50000-compensation/articleshow/133756487.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-133756726,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-04T08:56:08Z",
-      "content": "<ul><li>News</li>\r\n<li>Legal News</li>\r\n<li>Protein and creatine never delivered; customer gets refund plus Rs 50,000 compensation</li></ul>\r\nFollow Us On Social Media\r\nSeatbelt sign off, hydraulic f\u2026 [+2223 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "The Times Of India",
-      "title": "Speed limit on Kiratpur-Mandi route to be raised to 80 kmph: Himachal deputy CM after Gadkari meeting",
-      "description": "Himachal Dy CM Mukesh Agnihotri meets Nitin Gadkari; speed limit on Kiratpur\u2013Bilaspur\u2013Mandi to rise to 80 kmph; tourist vehicle age to 15 years.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/speed-limit-on-kiratpur-mandi-route-to-be-raised-to-80-kmph-himachal-deputy-cm-after-gadkari-meeting/articleshow/133745026.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-133745024,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-03T18:56:21Z",
-      "content": "Follow Us On Social Media\r\nStudents hold protest over fee reimbursement at Dharna ChowkIn 2016, conservationists put the bends back into a Lake District river straightened 200 years earlier; within m\u2026 [+1242 chars]"
     }
   ],
   "directory": []
