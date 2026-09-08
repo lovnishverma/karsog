@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-09-08 08:28:52",
+  "last_updated": "2026-09-08 15:47:12",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Trending Desk",
+      "title": "Weather Tomorrow September 8: IMD predicts rain, thunderstorms and heavy showers across several states; check forecast for Delhi, Rajasthan, Himachal Pradesh and more",
+      "description": "Weather Tomorrow September 8: On Tuesday, a new weather alert has been issued by the Meteorological Department. Several regions across the country can expect heavy rain and thunderstorms. While Delhi experiences partly cloudy skies, Haryana will feel the heat\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/weather-tomorrow-september-8-imd-predicts-rain-thunderstorms-and-heavy-showers-across-several-states-check-forecast-for-delhi-rajasthan-himachal-pradesh-and-more/articleshow/133884749.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-133884906,width-1200,height-630,imgsize-170262,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-07T14:10:06Z",
+      "content": "Amid continued monsoon activity, the Meteorological Department has issued a fresh weather alert. The forecast indicates heavy rainfall and thunderstorms in several parts of the country on Tuesday Sep\u2026 [+2739 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-133802449,width-1200,height-630,imgsize-153776,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-09-05T13:02:21Z",
       "content": "Shimla: A total of 85 roads have been blocked in Himachal Pradesh as persistent rainfall affects various parts of the state, and the Shimla Meteorological Office has predicted a wet spell lasting unt\u2026 [+1249 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "author": "PTI",
-      "title": "Himachal Pradesh faces serious flood threat: IIT researchers warn of 9 rapidly-expanding glacial lakes",
-      "description": "The lakes could pose serious threat to downstream communities as rising temperatures accelerate melting of glaciers across the Himalayas, IIT-Mandi researchers say",
-      "url": "https://www.thehindubusinessline.com/news/national/himachal-pradesh-faces-serious-flood-threat-iit-researchers-warn-of-9-rapidly-expanding-glacial-lakes/article71431583.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/vpddr0/article71431619.ece/alternates/LANDSCAPE_1200/SRNIA_7-8-2014_16-35-49_09-STORY-SGR-07-08-2014.JPG",
-      "publishedAt": "2026-09-05T10:03:01Z",
-      "content": "The unprecedented devastation and loss of lives in the wake of the Nepal flash floods have set off the alarm bells for Himachal Pradesh, with researchers from the Indian Institute of Technology (IIT)\u2026 [+3535 chars]"
     }
   ],
   "directory": []
