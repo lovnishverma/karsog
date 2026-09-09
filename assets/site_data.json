@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-09-09 15:43:04",
+  "last_updated": "2026-09-09 18:59:04",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "The Times Of India",
+      "title": "HP completes 1st phase of digital preservation of its heritage",
+      "description": "Himachal Pradesh digitises 1.7 million archive pages in phase one to preserve heritage; searchable online portal to launch for wider public access.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/hp-completes-1st-phase-of-digital-preservation-of-its-heritage/articleshow/133932734.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-132865374,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-08T16:14:11Z",
+      "content": "Follow Us On Social Media\r\nMamdani Exposes 9/11 Cover-Up: 170,000 Secret Pages Reveal Toxic Air Alert; More Than 3000 DiedBrahmos Shy, Pakistan Claims To Have Procured New Weapons To Safeguard Its Ai\u2026 [+3024 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "The Times Of India",
+      "title": "Shimla police freeze Rs 1.6cr assets of drug trafficker",
+      "description": "Shimla Police seized assets worth Rs 1.64 crore in an NDPS case after recovering 71g opium from a Theog barber shop; probe found land, shop, vehicle, accounts.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/shimla-police-freeze-rs-1-6cr-assets-of-drug-trafficker/articleshow/133932436.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-133891903,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-08T16:04:00Z",
+      "content": "Follow Us On Social Media\r\nMamdani Exposes 9/11 Cover-Up: 170,000 Secret Pages Reveal Toxic Air Alert; More Than 3000 DiedBrahmos Shy, Pakistan Claims To Have Procured New Weapons To Safeguard Its Ai\u2026 [+3024 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-133891800,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-09-07T17:37:24Z",
       "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "The Times Of India",
-      "title": "3-year-old dies after falling into water tank in Hamirpur",
-      "description": "Three-year-old Shivansh dies after falling into 5-foot water tank while playing at home in Tapra village, Hamirpur, Himachal Pradesh; police order postmortem.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/3-year-old-dies-after-falling-into-water-tank-in-hamirpur/articleshow/133890713.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-133690790,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-07T17:06:06Z",
-      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Trending Desk",
-      "title": "Weather Tomorrow September 8: IMD predicts rain, thunderstorms and heavy showers across several states; check forecast for Delhi, Rajasthan, Himachal Pradesh and more",
-      "description": "Weather Tomorrow September 8: On Tuesday, a new weather alert has been issued by the Meteorological Department. Several regions across the country can expect heavy rain and thunderstorms. While Delhi experiences partly cloudy skies, Haryana will feel the heat\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/weather-tomorrow-september-8-imd-predicts-rain-thunderstorms-and-heavy-showers-across-several-states-check-forecast-for-delhi-rajasthan-himachal-pradesh-and-more/articleshow/133884749.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-133884906,width-1200,height-630,imgsize-170262,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-07T14:10:06Z",
-      "content": "Amid continued monsoon activity, the Meteorological Department has issued a fresh weather alert. The forecast indicates heavy rainfall and thunderstorms in several parts of the country on Tuesday Sep\u2026 [+2739 chars]"
     }
   ],
   "directory": []
