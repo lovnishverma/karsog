@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-09-09 08:31:07",
+  "last_updated": "2026-09-09 15:43:04",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Trending Desk",
+      "title": "Weather Tomorrow September 9: IMD predicts rain, thunderstorms and heavy showers across several states; check forecast for Delhi, Rajasthan, Himachal Pradesh and more",
+      "description": "A new weather advisory has been released, predicting heavy rainfall and thunderstorms in various regions. Bihar and Odisha are set to face considerable downpours accompanied by lightning. Meanwhile, Delhi and Haryana will experience warmer temperatures with a\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/weather-tomorrow-september-9-imd-predicts-rain-thunderstorms-and-heavy-showers-across-several-states-check-forecast-for-delhi-rajasthan-himachal-pradesh-and-more/articleshow/133925503.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-133925787,width-1200,height-630,imgsize-89693,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-08T12:37:24Z",
+      "content": "Amid continued monsoon activity, the Meteorological Department has issued a fresh weather alert. The forecast indicates heavy rainfall and thunderstorms in several parts of the country on Tuesday Sep\u2026 [+2399 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-133884906,width-1200,height-630,imgsize-170262,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-09-07T14:10:06Z",
       "content": "Amid continued monsoon activity, the Meteorological Department has issued a fresh weather alert. The forecast indicates heavy rainfall and thunderstorms in several parts of the country on Tuesday Sep\u2026 [+2739 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "The Times Of India",
-      "title": "CM flags off students for 7-day Japan visit",
-      "description": "Himachal Pradesh: 44 meritorious B.Tech students to visit Japan Sept 6-12 for exposure to robotics, aerospace, space tech and advanced manufacturing.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/cm-flags-off-students-for-7-day-japan-visit/articleshow/133843696.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-133843695,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-06T16:27:27Z",
-      "content": "Follow Us On Social Media\r\nChinas chemical trap targets hidden nuclear fuel in seawater, beats US benchmark 8 times overBigg Boss 20 grand premiere: Host Salman Khan talks about his single status; sa\u2026 [+1999 chars]"
     }
   ],
   "directory": []
