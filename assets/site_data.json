@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-09-11 18:54:40",
+  "last_updated": "2026-09-11 22:08:07",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Sanjeev Verma",
+      "title": "HC flags rising vehicle passes on Shimla sealed roads, warns of hill town losing character",
+      "description": "Himachal Pradesh HC flags rising vehicle passes on Shimla\u2019s sealed roads, urges priority for local residents and directs govt to cut traffic; next hearing Nov 17.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/hc-flags-rising-vehicle-passes-on-shimla-sealed-roads-warns-of-hill-town-losing-character/articleshow/134027962.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-133981962,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-10T19:38:21Z",
+      "content": "Follow Us On Social Media\r\nCooperative bank audit unearths Rs34.77-crore fraud at Pune branch; two officials, accomplices booked76% of eligible units registered under PM Viksit Bharat Rozgar YojanaDe\u2026 [+1271 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-133978089,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-09-09T17:26:00Z",
       "content": "Follow Us On Social Media\r\nWill Uproot Them: Suvendu Targets Kashmir Azadi, Red Salute Slogans At Jadavpur UniversityPutin BREAKS Kyiv LULL! Russia Rains 200+ Missiles And Drones As Witkoff, Kushner \u2026 [+1318 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "The Times Of India",
-      "title": "HP drug regulator orders Sirmaur unit to halt production",
-      "description": "Himachal Pradesh DCA orders Welcure Remedies\u2019 Sirmaur pharma unit to halt production after inspection found deficiencies; restart only after verified compliance.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/hp-drug-regulator-orders-sirmaur-unit-to-halt-production/articleshow/133976322.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-133976320,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-09T16:24:27Z",
-      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
     }
   ],
   "directory": []
