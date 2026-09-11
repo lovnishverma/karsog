@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-09-11 15:39:34",
+  "last_updated": "2026-09-11 18:54:40",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Nidhi Sharma",
+      "title": "BJP ends 23-year Congress hold on Shimla Zila Parishad",
+      "description": "The BJP has secured control of the Shimla Zila Parishad after a 23-year gap. This victory gives the party significant political leverage ahead of upcoming elections. The BJP now leads eleven of Himachal Pradesh's twelve Zila Parishads. Congress retains contro\u2026",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/bjp-ends-23-year-congress-hold-on-shimla-zila-parishad/articleshow/134025676.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134025734,width-1200,height-630,imgsize-245608,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-10T18:37:27Z",
+      "content": "New Delhi: A year ahead of the Himachal Pradesh Assembly elections, the BJP has wrested control of the Shimla Zila Parishad after 23 years, winning both the chairman and vice-chairman posts on Thursd\u2026 [+1062 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-133976320,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-09-09T16:24:27Z",
       "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Trending Desk",
-      "title": "Weather Tomorrow September 10: IMD predicts rain, thunderstorms and heavy showers across several states; check forecast for Delhi, Bihar, Odisha and more",
-      "description": "Weather Tomorrow: Areas such as Bihar and Odisha are particularly warned of heavy precipitation, while Delhi-NCR and Rajasthan will experience warmer, dry conditions. Meanwhile, Himachal Pradesh and Uttarakhand might face scattered rain and thunderstorms acro\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/weather-tomorrow-september-10-imd-predicts-rain-thunderstorms-and-heavy-showers-across-several-states-check-forecast-for-delhi-bihar-odisha-and-more/articleshow/133970611.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-133970742,width-1200,height-630,imgsize-170262,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-09T13:13:24Z",
-      "content": "Alpha Trade\r\nGet daily trade ideas from SEBI-registered research analysts.\r\nInvestment Ideas\r\nGrow your wealth with stock ideas &amp; sectoral trends.\r\nStock Reports Plus\r\nAll-in-one stock research w\u2026 [+512 chars]"
     }
   ],
   "directory": []
