@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-09-14 02:47:29",
+  "last_updated": "2026-09-14 09:27:03",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Anjali Thakur",
+      "title": "Jay Chaudhry left his home in Himachal with \u20b920,000, today the Zscaler CEO is worth $9.3 billion",
+      "description": "Jay Chaudhry grew up in a Himachal Pradesh village without electricity or running water, walked 4 km to school and moved to the US at 22 with $200. Decades later, the Zscaler founder has a net worth of $9.3 billion, according to Forbes.",
+      "url": "https://www.livemint.com/companies/people/indianorigin-man-68-left-his-himachal-village-with-200-jay-chaudhry-is-now-worth-9-3-billion-11789283925908.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2026/09/13/1600x900/logo/image_1789283991550_aee6a8e2-dd8a-4d30-bb2c-4e20bb121188_1789283997504_d2f89bd5-34ba-43f7-ae21-2bc43dd3048a_5fd3fbb4-a00b-4ac2-880a-457716085255_0acc967e-fe58-41bf-a6d7-1f29170b6924.webp",
+      "publishedAt": "2026-09-13T07:32:36Z",
+      "content": "Before he became the billionaire founder of cybersecurity company Zscaler, Jay Chaudhry grew up in Panoh, Himachal Pradesh, in a farming family that lived without running water or electricity.\r\nHe wa\u2026 [+4350 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-134085931,width-1200,height-630,imgsize-105888,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-09-11T18:47:20Z",
       "content": "New Delhi: A government drug testing laboratory in Himachal Pradesh has declared two batches of an imported peritoneal dialysis solution, a critical medicine used in kidney failure patients, as \"Not \u2026 [+3917 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Sanjeev Verma",
-      "title": "Shimla zila parishad poll results a \u2018setback\u2019 for Congress: Rohit Thakur",
-      "description": "Education minister Rohit Thakur calls Congress\u2019 Shimla Zila Parishad poll performance a setback after BJP wins chairman, vice-chairman posts after 26 years.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/shimla-zila-parishad-poll-results-a-setback-for-congress-rohit-thakur/articleshow/134084311.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-133304273,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-11T18:19:28Z",
-      "content": "Follow Us On Social Media\r\nTruck carrying 550 liquor cases seizedKanpur draws with Lucknow, exits sub-jr football knockoutsSolomon Pappaiah, who took pattimandram to Tamil homes, passes away at 90FSD\u2026 [+1041 chars]"
     }
   ],
   "directory": []
