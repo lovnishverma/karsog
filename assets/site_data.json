@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-09-15 09:06:15",
+  "last_updated": "2026-09-15 16:00:31",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Vatsal Chandra",
+      "title": "Himachal Pradesh High Court: Commissioning mothers entitled to maternity leave, state cannot deny benefit over non-adoption of 2024 DoPT rules",
+      "description": "Justice Ajay Mohan Goel ruled that a commissioning mother is entitled to maternity leave on the same footing as any other female government servant under Rule 43(1) of the Central Civil Services (Leave) Rules, 1972, as applicable in Himachal Pradesh.",
+      "url": "https://timesofindia.indiatimes.com/legal/news/himachal-pradesh-high-court-commissioning-mothers-entitled-to-maternity-leave-state-cannot-deny-benefit-over-non-adoption-of-2024-dopt-rules/articleshow/134239399.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134239562,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-14T10:56:41Z",
+      "content": "<ul><li>News</li>\r\n<li>Legal News</li>\r\n<li>Himachal Pradesh High Court: Commissioning mothers entitled to maternity leave, state cannot deny benefit over non-adoption of 2024 DoPT rules</li></ul>\r\nF\u2026 [+1957 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-134116866,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-09-12T07:54:02Z",
       "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>HP TET November 2026 registration begins at hpbose.org; check exam schedule, direct link to apply</li></ul>\r\nFollow Us On Social Media\r\n\u2026 [+2408 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Teena Thacker",
-      "title": "Imported dialysis solution fails endotoxin test in Himachal; lab flags nine regulatory violations",
-      "description": "A Himachal Pradesh government drug laboratory has declared two batches of an imported peritoneal dialysis solution \u201cNot of Standard Quality\u201d after they failed bacterial endotoxin tests. The report also flagged nine regulatory violations, including use of non-\u2026",
-      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/imported-dialysis-solution-fails-endotoxin-test-in-himachal-lab-flags-nine-regulatory-violations/articleshow/134085795.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134085931,width-1200,height-630,imgsize-105888,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-11T18:47:20Z",
-      "content": "New Delhi: A government drug testing laboratory in Himachal Pradesh has declared two batches of an imported peritoneal dialysis solution, a critical medicine used in kidney failure patients, as \"Not \u2026 [+3917 chars]"
     }
   ],
   "directory": []
