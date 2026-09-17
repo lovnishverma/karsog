@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-09-17 19:39:02",
+  "last_updated": "2026-09-17 22:34:29",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Teena Thacker",
+      "title": "Supreme Court upholds Himachal HC ruling on drug regulator powers, impacting CDSCO enforcement",
+      "description": "The Supreme Court dismissed the Union government's challenge to a High Court judgment.  This ruling clarified jurisdiction over drug regulation powers between central and state authorities.  The High Court found state authorities hold powers under Chapter IV \u2026",
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/supreme-court-upholds-himachal-hc-ruling-on-drug-regulator-powers-impacting-cdsco-enforcement/articleshow/134296240.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134296259,width-1200,height-630,imgsize-114152,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-16T19:55:15Z",
+      "content": "New Delhi: The Supreme Court dismissed the Union government's challenge to a Himachal Pradesh High Court judgment that held that an inspector of the national drug regulator did not have the jurisdict\u2026 [+2027 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/16/thumb/fitandfill/1200X628/1789531811-8465.jpg",
       "publishedAt": "2026-09-16T04:19:57Z",
       "content": "In a significant milestone for inter-state cooperation and development of water resources in the upper Yamuna basin, chief ministers of Uttar Pradesh, Uttarakhand, Himachal Pradesh, Rajasthan, Delhi \u2026 [+4371 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Times News Network",
-      "title": "Beneficiary states to bear Himachal\u2019s Rs 2,000cr Kishau power liability",
-      "description": "Himachal Pradesh shifts Rs 2,000 crore Kishau Dam power cost to beneficiary states as 6 states sign Rs 15,624 crore MoU; HP to get 422 MW power.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/beneficiary-states-to-bear-himachals-rs-2000cr-kishau-power-liability/articleshow/134270603.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134270602,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-15T17:55:39Z",
-      "content": "Follow Us On Social Media\r\nSami Zayn responds to criticism about not looking like a WWE Champion after winning the Undisputed titleMatch-fixing to hidden injuries: SAIs strict new rules for Indias As\u2026 [+1983 chars]"
     }
   ],
   "directory": []
