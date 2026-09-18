@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-09-18 02:36:05",
+  "last_updated": "2026-09-18 08:38:51",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Trending Desk",
+      "title": "'e-rickshaw Se Spiti': Muzaffarnagar driver three-wheeler to Spiti Valley in Himachal, documents mountain journey on Instagram",
+      "description": "Muzaffarnagar e-rickshaw driver Sumit Kumar Prajapati travelled from Manali to Spiti Valley in his battery-powered three-wheeler, documenting the challenging mountain journey on Instagram, including charging stops, rough roads and his arrival at Kunzum Pass.",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/e-rickshaw-se-spiti-muzaffarnagar-driver-three-wheeler-to-spiti-valley-in-himachal-documents-mountain-journey-on-instagram/articleshow/134300922.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134301045,width-1200,height-630,imgsize-148317,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-17T03:47:17Z",
+      "content": "An e-rickshaw that is usually seen navigating the streets of Muzaffarnagar took an unlikely turn towards the high mountains of Himachal Pradesh. Sumit Kumar Prajapati, an e-rickshaw driver from Uttar\u2026 [+4263 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/16/thumb/fitandfill/1200X628/1789534967-7772.jpeg",
       "publishedAt": "2026-09-16T05:03:01Z",
       "content": "Uttarakhand, Himachal Pradesh, Uttar Pradesh, Haryana, Rajasthan and Delhi signed the Kishau Dam pact for a 232.6-metre dam on the Tons River along the Uttarakhand-Himachal Pradesh border\r\nThe Kishau\u2026 [+4654 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Business Standard"
-      },
-      "author": "ANI",
-      "title": "Six states sign agreement for long-pending Kishau multipurpose project",
-      "description": "Uttar Pradesh, Uttarakhand, Himachal Pradesh, Rajasthan, Delhi and Haryana signed the MoA for the Kishau project, with 90% of its water component cost to be funded by the Centre",
-      "url": "https://www.business-standard.com/india-news/six-states-sign-agreement-for-long-pending-kishau-multipurpose-project-126091500684_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/16/thumb/fitandfill/1200X628/1789531811-8465.jpg",
-      "publishedAt": "2026-09-16T04:19:57Z",
-      "content": "In a significant milestone for inter-state cooperation and development of water resources in the upper Yamuna basin, chief ministers of Uttar Pradesh, Uttarakhand, Himachal Pradesh, Rajasthan, Delhi \u2026 [+4371 chars]"
     }
   ],
   "directory": []
