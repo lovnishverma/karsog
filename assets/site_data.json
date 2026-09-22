@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-09-22 08:56:11",
+  "last_updated": "2026-09-22 16:03:20",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Jocelyn Fernandes",
+      "title": "8th pay commission: Himachal Pradesh, central govt pensioners stage protest, demand uniform pension revision",
+      "description": "Himachal Pradesh and central government pensioners in Shimla staged a protest on Saturday, demanding withdrawal of the Centre's 2025 pension validation legislation. They are seeking uniform revision of pensions irrespective of the date of retirement.",
+      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-himachal-pradesh-central-govt-pensioners-protest-demand-uniform-pension-revision-retirement-date-2026-11789996363565.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/pension_reforms_1789721273893_agUN_1789721287044_Y_1790003968942_RuKT_1790003969093_FcYE_922a0334-de74-4840-b18e-1578f34ab471_nw0K.png",
+      "publishedAt": "2026-09-21T15:51:53Z",
+      "content": "Pensioners with the Himachal Pradesh and central government organisations held a protest outside the Deputy Commissioner's office in Shimla on Saturday, against the Centre's pension validation legisl\u2026 [+5775 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Himachal Pradesh government to provide Rs 1,000 monthly pocket money to widows' children in 19-27 age group: CM Sukhvinder Singh Sukhu",
+      "description": "Himachal Pradesh is set to enhance financial support for older children of single mothers through the Indira Gandhi Sukh Shiksha Yojana, now extending coverage to those aged nineteen to twenty-seven. With over twenty-one thousand beneficiaries, this initiativ\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/himachal-pradesh-government-to-provide-rs-1000-monthly-pocket-money-to-widows-children-in-19-27-age-group-cm-sukhvinder-singh-sukhu/articleshow/134392630.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134392663,width-1200,height-630,imgsize-131448,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-21T15:11:27Z",
+      "content": "Shimla: Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu on Monday said the provision to provide Rs 1,000 per month as pocket money to eligible children of widows and single women covered under\u2026 [+2143 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-134355792,width-1200,height-630,imgsize-854548,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-09-19T14:26:51Z",
       "content": "For Neha Thakur, the road to becoming a truck driver began long before she took control of a heavy vehicle. The 25-year-old from Mandi, Himachal Pradesh, grew up watching her father drive trucks thro\u2026 [+5533 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Sanjeev Verma",
-      "title": "Neeraj Bharti challenges social media takedown, HC seeks govt records",
-      "description": "Himachal Pradesh HC asks state to submit takedown orders and records after ex-CPS Neeraj Bharti challenges removal of his social media posts on Meta platforms.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/neeraj-bharti-challenges-social-media-takedown-hc-seeks-govt-records/articleshow/134343383.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134319412,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-18T19:21:15Z",
-      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Sanjeev Verma",
-      "title": "Officer transferred 11th time in 12 years, HC stays move",
-      "description": "Himachal Pradesh High Court stays transfer of Shimla Urban SDM Sunny Sharma, transferred 11 times in 12 years; state asked to file records and replies by Sept 21.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/officer-transferred-11th-time-in-12-years-hc-stays-move/articleshow/134342057.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134319412,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-18T18:14:34Z",
-      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
     }
   ],
   "directory": []
