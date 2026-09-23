@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-09-23 19:22:38",
+  "last_updated": "2026-09-23 22:35:55",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "Himachal seeks 90:10 Centre-state funding for UDAN air connectivity",
+      "description": "Himachal Pradesh seeks 90:10 Centre-state funding for UDAN VGF, citing high mountain operating costs; 10-year MoU signed with Centre and AAI to boost routes.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/himachal-seeks-9010-centre-state-funding-for-udan-air-connectivity/articleshow/134420036.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134420035,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T20:13:13Z",
+      "content": "Follow Us On Social Media\r\nWoman poisons 3 kids to stay with lover, arrestedCentral agencies targeting GMADA to pressurise govt officers, obstruct welfare schemes, says AAPNoida blogger offers bikers\u2026 [+1265 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/pension_reforms_1789721273893_agUN_1789721287044_Y_1790003968942_RuKT_1790003969093_FcYE_922a0334-de74-4840-b18e-1578f34ab471_nw0K.png",
       "publishedAt": "2026-09-21T15:51:53Z",
       "content": "Pensioners with the Himachal Pradesh and central government organisations held a protest outside the Deputy Commissioner's office in Shimla on Saturday, against the Centre's pension validation legisl\u2026 [+5775 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "Himachal Pradesh government to provide Rs 1,000 monthly pocket money to widows' children in 19-27 age group: CM Sukhvinder Singh Sukhu",
-      "description": "Himachal Pradesh is set to enhance financial support for older children of single mothers through the Indira Gandhi Sukh Shiksha Yojana, now extending coverage to those aged nineteen to twenty-seven. With over twenty-one thousand beneficiaries, this initiativ\u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/himachal-pradesh-government-to-provide-rs-1000-monthly-pocket-money-to-widows-children-in-19-27-age-group-cm-sukhvinder-singh-sukhu/articleshow/134392630.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134392663,width-1200,height-630,imgsize-131448,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-21T15:11:27Z",
-      "content": "Shimla: Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu on Monday said the provision to provide Rs 1,000 per month as pocket money to eligible children of widows and single women covered under\u2026 [+2143 chars]"
     }
   ],
   "directory": []
