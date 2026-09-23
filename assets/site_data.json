@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-09-23 08:58:46",
+  "last_updated": "2026-09-23 15:53:51",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TNN",
+      "title": "Artist Sobha Singh's legacy to be celebrated with a special event in Mumbai",
+      "description": "The special gathering, set to happen on Sunday, will celebrate the remarkable life, artistic legacy and contribution of Sobha Singh to Indian art and culture, with particular emphasis on his deep connection with and contribution to Himachal Pradesh.",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/artist-sobha-singhs-legacy-to-be-celebrated-with-a-special-event-in-mumbai/articleshow/134410670.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134410662,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T11:12:52Z",
+      "content": "Follow Us On Social Media\r\nIndia warns tourists in Malaysia: Dont fall for fake job promises under 30-day visa-free entryHow the Samsung Student+ Programme makes upgrading for the new semester easier\u2026 [+1827 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Shaghil Bilali",
+      "title": "8th Pay Commission: Pensioners seek 11-year restoration period of commuted pension, cite HC judgment",
+      "description": "8th Pay Commission news: Bharat Pensioners' Samaj has urged the Centre and 8th Pay Commission to reduce the restoration period for commuted pension from 15 to 11 years. The demand follows the Himachal Pradesh High Court\u2019s September 16 judgment, which called f\u2026",
+      "url": "https://economictimes.indiatimes.com/wealth/save/8thpay-commission-latest-news-pensioners-seek-11-year-restoration-period-of-commuted-pensioncite-hc-judgment/articleshow/134410424.cms",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1145708,resizemode-75,msid-134410424/wealth/save/8thpay-commission-latest-news-pensioners-seek-11-year-restoration-period-of-commuted-pensioncite-hc-judgment.jpg",
+      "publishedAt": "2026-09-22T11:10:10Z",
+      "content": "Bharat Pensioners' Samaj (BPS), an organisation representing a large number of central government pensioners, has requested the Centre and the 8th Pay Commission to reduce the pension commutation per\u2026 [+3866 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-134392663,width-1200,height-630,imgsize-131448,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-09-21T15:11:27Z",
       "content": "Shimla: Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu on Monday said the provision to provide Rs 1,000 per month as pocket money to eligible children of widows and single women covered under\u2026 [+2143 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Times News Network",
-      "title": "Agri-machinery portal to reopen on Sept 22",
-      "description": "Himachal Pradesh to reopen SMAM agri-machinery portal Sept 22\u201330 via agrimachinery.nic.in; lottery Oct 1; 50% subsidy for eligible farmers on approved models.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/agri-machinery-portal-to-reopen-on-sept-22/articleshow/134358816.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134358815,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-19T18:00:58Z",
-      "content": "'Aap ki nazro se kuch bachta nahi': Mallika Sherawat thanks FDA chief Tukaram Mundhe for food safety crackdownsNithya Raman wont keep our kids safe: Indian-origin LA mayoral candidate targeted in pol\u2026 [+1705 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Sanjeev Verma",
-      "title": "From Swaraj to Viksit Bharat, IIAS to trace India\u2019s evolving idea of self-reliance",
-      "description": "IIAS Shimla hosts Sept 24-25 national seminar on Atmanirbhar Bharat, tracing self-reliance from swaraj to Viksit Bharat@2047 across sectors.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/from-swaraj-to-viksit-bharat-iias-to-trace-indias-evolving-idea-of-self-reliance/articleshow/134358621.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134358619,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-19T17:57:49Z",
-      "content": "Follow Us On Social Media\r\nEngland sweep Sri Lanka 3-0, replace India at top of T20I rankingsEA FC 27 Season 1 Premium Pass: Price, rewards, and morePen\u00e9lope Cruz turns heads at TIFF in feathered cou\u2026 [+1773 chars]"
     }
   ],
   "directory": []
