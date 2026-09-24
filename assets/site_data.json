@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-09-24 02:35:14",
+  "last_updated": "2026-09-24 08:54:30",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Shivam Shukla",
+      "title": "8th Pay Commission: Why pensioners want 15-year commutation period cut to 11 years",
+      "description": "8th Pay Commission: Bharat Pensioners' Samaj demands that the pension commutation restoration period be reduced from 15 to 11 years, citing an outdated 2006 actuarial table, following a Himachal Pradesh HC ruling calling for a fresh review of rates and life e\u2026",
+      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-why-pensioners-want-15-year-commutation-period-cut-to-11-years-11790142777627.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/12345_1790143620083_BIqt_1790143631609_hWbr_46a53f79-2575-434d-800a-f1964d9d3fb3_4Sjb.png",
+      "publishedAt": "2026-09-23T06:52:36Z",
+      "content": "The 8th Pay Commission has now entered its final stretch. It will soon complete 11 months since its constitution on 3 November 2025. The commission recently wrapped up its meetings in Chandigarh on 1\u2026 [+2912 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-134394859,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-09-21T17:24:15Z",
       "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Jocelyn Fernandes",
-      "title": "8th pay commission: Himachal Pradesh, central govt pensioners stage protest, demand uniform pension revision",
-      "description": "Himachal Pradesh and central government pensioners in Shimla staged a protest on Saturday, demanding withdrawal of the Centre's 2025 pension validation legislation. They are seeking uniform revision of pensions irrespective of the date of retirement.",
-      "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-himachal-pradesh-central-govt-pensioners-protest-demand-uniform-pension-revision-retirement-date-2026-11789996363565.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/pension_reforms_1789721273893_agUN_1789721287044_Y_1790003968942_RuKT_1790003969093_FcYE_922a0334-de74-4840-b18e-1578f34ab471_nw0K.png",
-      "publishedAt": "2026-09-21T15:51:53Z",
-      "content": "Pensioners with the Himachal Pradesh and central government organisations held a protest outside the Deputy Commissioner's office in Shimla on Saturday, against the Centre's pension validation legisl\u2026 [+5775 chars]"
     }
   ],
   "directory": []
