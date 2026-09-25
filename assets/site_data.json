@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-09-25 16:16:34",
+  "last_updated": "2026-09-25 22:59:45",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "Apple economy goes digital: 8,000 MT procured across 213 Himachal centres",
+      "description": "Himachal Pradesh procures 8,000 MT apples via digitised MIS across 213 centres; 17,000 growers registered on HPMIS portal with DBT payments till Oct 31.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/apple-economy-goes-digital-8000-mt-procured-across-213-himachal-centres/articleshow/134469198.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-133776741,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-24T19:04:58Z",
+      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -64,19 +77,6 @@
       "url": "https://timesofindia.indiatimes.com/city/chandigarh/rains-likely-to-return-to-hp-from-today/articleshow/134444410.cms",
       "urlToImage": "https://static.toiimg.com/thumb/msid-134358537,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-09-23T18:26:44Z",
-      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Times News Network",
-      "title": "2 sisters die due to suspected snakebite in Chopal",
-      "description": "Two sisters, 11 and 8, died in Chopal, Shimla after being found unconscious at home; officials suspect snakebite and have ordered an inquiry, awaiting post-mortem.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/2-sisters-die-due-to-suspected-snakebite-in-chopal/articleshow/134444349.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134444348,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-23T18:20:54Z",
       "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
     }
   ],
