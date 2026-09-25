@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-09-25 09:15:18",
+  "last_updated": "2026-09-25 16:16:34",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Amit Kumar",
+      "title": "Who is Seema? Meet India's 10,000m bronze medallist at Asian Games 2026",
+      "description": "Seema has added a major medal to her growing career. The long-distance runner from Himachal Pradesh won the bronze medal in the women's 10,000m at the Asian Games 2026 in Japan, clocking 32:50.05. Her bronze was India's first athletics medal at the Asian Game\u2026",
+      "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/who-is-seema-meet-indias-10000m-bronze-medallist-at-asian-games-2026/articleshow/134464307.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134464353,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-24T13:56:17Z",
+      "content": "View All Comments \r\nShare your thoughts in the comments\r\nBe respectful \u00b7 TOI community guidelines"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "BL Hyderabad Bureau",
+      "title": "Indian team scales 6,027-m Tharang II in Himachal\u2019s Miyar Valley",
+      "description": "Transcend Adventures opens new southwest-face route; expedition ran from September 11 to 22",
+      "url": "https://www.thehindubusinessline.com/news/indian-team-scales-6027-m-tharang-ii-in-himachals-miyar-valley/article71503765.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/info-tech/qj7utm/article71503772.ece/alternates/LANDSCAPE_1200/Screenshot%202026-09-24%20163529.png",
+      "publishedAt": "2026-09-24T12:07:41Z",
+      "content": "Transcend Adventures, a ten-member mountaineering team, has completed a challenging high-altitude mission in Himachal Pradeshs remote Miyar Valley. This is the first Indian team to scale Mount Tharan\u2026 [+1719 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-134444348,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-09-23T18:20:54Z",
       "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Times News Network",
-      "title": "BJP retains Shrikant Sharma as Himachal in charge",
-      "description": "BJP reshuffle: Shrikant Sharma retained as Himachal Pradesh in-charge; Rajya Sabha MP Darshana Singh named co-in-charge. Reena Kashyap appointed J&K co-in-charge.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/bjp-retains-shrikant-sharma-as-himachal-in-charge/articleshow/134444286.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134444285,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-23T18:17:55Z",
-      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Education",
-      "title": "HPTU BTech result 2026 released for several ECE semesters at himtu.ac.in: Direct link to download here",
-      "description": "Himachal Pradesh Technical University has released the B.Tech May 2026 results for the Electronics and Communication Engineering programme. Students can access their results online via the official HPTU website and result portal. These include results for bot\u2026",
-      "url": "https://timesofindia.indiatimes.com/education/news/hptu-btech-result-2026-released-for-several-ece-semesters-at-himtu-ac-in-direct-link-to-download-here/articleshow/134431246.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134431430,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-23T09:55:23Z",
-      "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>HPTU BTech result 2026 released for several ECE semesters at himtu.ac.in: Direct link to download here</li></ul>\r\nFollow Us On Social Me\u2026 [+119 chars]"
     }
   ],
   "directory": []
