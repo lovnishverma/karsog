@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-09-26 15:30:15",
+  "last_updated": "2026-09-26 18:54:01",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "Congress protests SIR in Shimla, BJP questions conduct",
+      "description": "Congress protests special intensive revision of electoral rolls in Shimla, demands clarity and CEC Gyanesh Kumar\u2019s removal; BJP criticizes defacement, effigy burning.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/congress-protests-sir-in-shimla-bjp-questions-conduct/articleshow/134491041.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134491040,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-25T18:21:38Z",
+      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "Heavy rain expected in HP, alert issued",
+      "description": "Himachal Pradesh heavy rain forecast Sept 26-29, peak Sept 27; IMD issues orange alert for Sirmaur and yellow alerts for Shimla, Solan, Mandi, Bilaspur.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/heavy-rain-expected-in-hp-alert-issued/articleshow/134490184.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134490183,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-25T17:22:20Z",
+      "content": "Follow Us On Social Media\r\nCommons FAVORITE Conscious Artists? Vic Mensa, Chance &amp; S.A.U.L.T. Get A ShoutoutSaudi-Houthi War EXPLODES: MBS Goes Nuclear, Builds 3-Nation War Front With NATO Milita\u2026 [+2810 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-133776741,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-09-24T19:04:58Z",
       "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Amit Kumar",
-      "title": "Who is Seema? Meet India's 10,000m bronze medallist at Asian Games 2026",
-      "description": "Seema has added a major medal to her growing career. The long-distance runner from Himachal Pradesh won the bronze medal in the women's 10,000m at the Asian Games 2026 in Japan, clocking 32:50.05. Her bronze was India's first athletics medal at the Asian Game\u2026",
-      "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/who-is-seema-meet-indias-10000m-bronze-medallist-at-asian-games-2026/articleshow/134464307.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134464353,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-24T13:56:17Z",
-      "content": "View All Comments \r\nShare your thoughts in the comments\r\nBe respectful \u00b7 TOI community guidelines"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "author": "BL Hyderabad Bureau",
-      "title": "Indian team scales 6,027-m Tharang II in Himachal\u2019s Miyar Valley",
-      "description": "Transcend Adventures opens new southwest-face route; expedition ran from September 11 to 22",
-      "url": "https://www.thehindubusinessline.com/news/indian-team-scales-6027-m-tharang-ii-in-himachals-miyar-valley/article71503765.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/info-tech/qj7utm/article71503772.ece/alternates/LANDSCAPE_1200/Screenshot%202026-09-24%20163529.png",
-      "publishedAt": "2026-09-24T12:07:41Z",
-      "content": "Transcend Adventures, a ten-member mountaineering team, has completed a challenging high-altitude mission in Himachal Pradeshs remote Miyar Valley. This is the first Indian team to scale Mount Tharan\u2026 [+1719 chars]"
     }
   ],
   "directory": []
