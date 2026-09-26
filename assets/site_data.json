@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-09-26 08:58:08",
+  "last_updated": "2026-09-26 15:30:15",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "SIR Row: Youth Congress marches to Jantar Mantar as protests intensify; water cannons used in Bihar, Punjab",
+      "description": "Indian Youth Congress protested in New Delhi demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Protests against Kumar were reported across various states including Bihar, Punjab, and Himachal Pradesh. Demonstrators voiced concerns regard\u2026",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/sir-row-youth-congress-marches-to-jantar-mantar-as-protests-intensify-water-cannons-used-in-bihar-punjab/articleshow/134481315.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134481314,width-1200,height-630,imgsize-178026,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-25T09:57:45Z",
+      "content": "New Delhi: The Indian Youth Congress (IYC) on Friday marched from Raisina Road to Jantar Mantar in the national capital, demanding the resignation of Chief Election Commissioner (CEC) Gyanesh Kumar, \u2026 [+4011 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://bl-i.thgim.com/public/info-tech/qj7utm/article71503772.ece/alternates/LANDSCAPE_1200/Screenshot%202026-09-24%20163529.png",
       "publishedAt": "2026-09-24T12:07:41Z",
       "content": "Transcend Adventures, a ten-member mountaineering team, has completed a challenging high-altitude mission in Himachal Pradeshs remote Miyar Valley. This is the first Indian team to scale Mount Tharan\u2026 [+1719 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Sanjeev Verma",
-      "title": "Wife\u2019s affair charges against Army officer sans proof mental cruelty: Himachal HC",
-      "description": "Himachal Pradesh HC rules wife\u2019s unproven affair allegations against Army officer, sent to his superiors, amount to mental cruelty; upholds divorce decree.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/wifes-affair-charges-against-army-officer-sans-proof-mental-cruelty-himachal-hc/articleshow/134445483.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134395110,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-23T19:41:48Z",
-      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
     }
   ],
   "directory": []
