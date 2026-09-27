@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-09-27 02:58:43",
+  "last_updated": "2026-09-27 09:42:06",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Press Trust of India",
+      "title": "Asiad 2026: Sawan Barwal wins silver in men's marathon with national record",
+      "description": "Sawan Barwal ran a stunning marathon race to hand India an unexpected silver in the Asian Games, shattering his own national record in the process here on Saturday.\nThe 28-year-old Armyman from Himachal Pradesh clocked 2 hour, 11 minute and 37 seconds to comp\u2026",
+      "url": "https://www.business-standard.com/sports/asian-games/asiad-2026-sawan-barwal-wins-silver-in-men-s-marathon-with-national-record-126092600113_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/26/thumb/resize/1200X628/1790403665-3682.jpg",
+      "publishedAt": "2026-09-26T06:21:44Z",
+      "content": "Sawan Barwal ran a stunning marathon race to hand India an unexpected silver in the Asian Games, shattering his own national record in the process here on Saturday.\r\nThe 28-year-old Armyman from Hima\u2026 [+2972 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "RK Laxmi",
+      "title": "IMD forecasts heavy to very heavy rain, thunderstorms, lightning in 23 states; winds up to 50 kmph likely",
+      "description": "Heavy rainfall accompanied by thunderstorms is expected across multiple states, including Uttarakhand and Delhi-NCR, on September 27. Uttar Pradesh and Himachal Pradesh will also experience adverse weather, with warnings for flash floods. District administrat\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/imd-forecasts-thunderstorms-lightning-and-heavy-rain-in-23-states-winds-up-to-50-kmph-likely/articleshow/134497446.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134497877,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-26T05:10:52Z",
+      "content": "<ul><li>News</li>\r\n<li>City News</li>\r\n<li>delhi News</li>\r\n<li>Weather tomorrow: IMD forecasts heavy to very heavy rain, thunderstorms and lightning in 23 states; winds up to 50 kmph likely</li></ul\u2026 [+1924 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-134491599,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-09-25T19:05:12Z",
       "content": "Follow Us On Social Media\r\nED flags Rs 10,000cr potential loss to Gmada; alleges Jain, Sisodia role in land decisionsCash kickbacks, lavish hospitality to IAS officers in CBI chargesheet in Haryana g\u2026 [+1140 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Times News Network",
-      "title": "Congress protests SIR in Shimla, BJP questions conduct",
-      "description": "Congress protests special intensive revision of electoral rolls in Shimla, demands clarity and CEC Gyanesh Kumar\u2019s removal; BJP criticizes defacement, effigy burning.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/congress-protests-sir-in-shimla-bjp-questions-conduct/articleshow/134491041.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134491040,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-25T18:21:38Z",
-      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Times News Network",
-      "title": "Heavy rain expected in HP, alert issued",
-      "description": "Himachal Pradesh heavy rain forecast Sept 26-29, peak Sept 27; IMD issues orange alert for Sirmaur and yellow alerts for Shimla, Solan, Mandi, Bilaspur.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/heavy-rain-expected-in-hp-alert-issued/articleshow/134490184.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134490183,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-25T17:22:20Z",
-      "content": "Follow Us On Social Media\r\nCommons FAVORITE Conscious Artists? Vic Mensa, Chance &amp; S.A.U.L.T. Get A ShoutoutSaudi-Houthi War EXPLODES: MBS Goes Nuclear, Builds 3-Nation War Front With NATO Milita\u2026 [+2810 chars]"
     }
   ],
   "directory": []
