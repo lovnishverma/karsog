@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-09-28 10:22:18",
+  "last_updated": "2026-09-28 19:03:53",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Rohit Mullick",
+      "title": "Snow brings down temperatures in HP\u2019s upper reaches",
+      "description": "Snowfall in Kinnaur and Spiti lowered temperatures in Himachal Pradesh, blocking 61 roads. Pilgrims stranded on the Kinnaur Kailash route were rescued.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/snow-brings-down-temperatures-in-hps-upper-reaches/articleshow/134524894.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134524893,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-27T18:13:53Z",
+      "content": "Follow Us On Social Media\r\nAn 8,000-acre South Carolina forest was bought for conservation after drawing developer interest; the state now plans to acquire 4,148 acres for a new Carvers Bay State For\u2026 [+1339 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Steamhouse India wins Rs 311 crore EPC mandate for 300 TPH steam project in Himachal Pradesh",
+      "description": "Steamhouse India Ltd has secured a Rs 311 crore EPC mandate for a 300 TPH common steam and co-generation power plant at the Bulk Drug Park in Una, Himachal Pradesh. The project includes an indicative 30 MW power facility and a 25-year O&M mandate, providing t\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/energy/power/steamhouse-india-wins-rs-311-crore-epc-mandate-for-300-tph-steam-project-in-himachal-pradesh/articleshow/134520749.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134520921,width-1200,height-630,imgsize-158636,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-27T13:11:22Z",
+      "content": "Steamhouse India Ltd has secured a Rs 311 crore engineering, procurement and construction (EPC) mandate for a 300 tonnes per hour (TPH) common steam and co-generation power plant at the Bulk Drug Par\u2026 [+3534 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-134507730,width-1200,height-630,imgsize-150652,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-09-26T16:40:50Z",
       "content": "Several parts of India are likely to continue receiving rainfall on Sunday, September 27, with the India Meteorological Department forecasting heavy to very heavy rain in parts of northern and centra\u2026 [+4907 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "author": "PTI",
-      "title": "Steamhouse India wins \u20b9311 cr EPC mandate for 300 TPH steam project in Himachal",
-      "description": "The mandate also includes commissioning and comprehensive operation and maintenance (O&M) of the facility for 25 years, giving Steamhouse an EPC opportunity, alongside a long-term recurring revenue stream",
-      "url": "https://www.thehindubusinessline.com/companies/steamhouse-india-wins-311-cr-epc-mandate-for-300-tph-steam-project-in-himachal/article71512349.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/otmh9b/article71488843.ece/alternates/LANDSCAPE_1200/BL2109_Quantum_Middle.jpg",
-      "publishedAt": "2026-09-26T09:44:12Z",
-      "content": "Steamhouse India Ltd has secured a 311 crore engineering, procurement and construction (EPC) mandate for a 300 tonnes per hour (TPH) common steam and co-generation power plant at the Bulk Drug Park i\u2026 [+3565 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Business Standard"
-      },
-      "author": "Press Trust of India",
-      "title": "Asiad 2026: Sawan Barwal wins silver in men's marathon with national record",
-      "description": "Sawan Barwal ran a stunning marathon race to hand India an unexpected silver in the Asian Games, shattering his own national record in the process here on Saturday.\nThe 28-year-old Armyman from Himachal Pradesh clocked 2 hour, 11 minute and 37 seconds to comp\u2026",
-      "url": "https://www.business-standard.com/sports/asian-games/asiad-2026-sawan-barwal-wins-silver-in-men-s-marathon-with-national-record-126092600113_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/26/thumb/resize/1200X628/1790403665-3682.jpg",
-      "publishedAt": "2026-09-26T06:21:44Z",
-      "content": "Sawan Barwal ran a stunning marathon race to hand India an unexpected silver in the Asian Games, shattering his own national record in the process here on Saturday.\r\nThe 28-year-old Armyman from Hima\u2026 [+2972 chars]"
     }
   ],
   "directory": []
