@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-09-29 17:25:50",
+  "last_updated": "2026-09-29 23:19:30",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "HP Congress stages protest over \u2018vote theft\u2019, seeks CEC\u2019s dismissal",
+      "description": "HP Congress protests across Himachal Pradesh over alleged \u201cvote theft,\u201d demands Chief Election Commissioner\u2019s dismissal over voter roll deletions under SIR.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/hp-congress-stages-protest-over-vote-theft-seeks-cecs-dismissal/articleshow/134549074.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134549073,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-28T18:34:14Z",
+      "content": "Copyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-134517187,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-09-27T08:31:20Z",
       "content": "Follow Us On Social Media\r\nMark mood check: Crude, US-Iran talks and economic data to drive Dalal Street this week'Ramayana' actor Ranbir Kapoor praises Spiritual Guru Rakeshji, calls him 'youth magn\u2026 [+1942 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Times News Network",
-      "title": "Mandi outreach: Sukhu unveils infra push, scheme revisions",
-      "description": "Himachal CM Sukhu revises Sukhi Parivar Yojana: removes 1-day MGNREGA rule, raises income limit to \u20b975,000; announces Mandi infra, jobs, pension.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/mandi-outreach-sukhu-unveils-infra-push-scheme-revisions/articleshow/134508600.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134508599,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-26T17:54:23Z",
-      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
     }
   ],
   "directory": []
