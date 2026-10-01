@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-09-30 23:21:49",
+  "last_updated": "2026-10-01 03:30:09",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Science Desk",
+      "title": "12-million-year-old fossil leaf from the Himalaya reveals a previously unknown fungal species",
+      "description": "Researchers have made a significant find with the identification of Vizellopsidites miocenicus, a previously unknown fungal species, preserved in fossilized leaves from Himachal Pradesh. Dating back to the Late Miocene epoch, about 12 to 8 million years ago, \u2026",
+      "url": "https://timesofindia.indiatimes.com/science/wildlife/12-million-year-old-fossil-leaf-from-the-himalaya-reveals-a-previously-unknown-fungal-species/articleshow/134565911.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134566220,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-30T02:45:00Z",
+      "content": "<ul><li>News</li>\r\n<li>Science News</li>\r\n<li>12-million-year-old fossil leaf from the Himalaya reveals a previously unknown fungal species</li></ul>\r\nFollow Us On Social Media\r\n50% WFH, no PUCC-no F\u2026 [+2091 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Trending Desk",
+      "title": "Weather Today, September 30: Rain and thunderstorms in several parts of India; Check IMD weather update for Delhi-NCR, UP, Bihar, MP, Bangalore, Rajasthan and other states",
+      "description": "Weather Today September 30: India will showcase a diverse array of weather conditions across various regions. Madhya Pradesh and Himachal Pradesh are predicted to receive rainfall and thunderstorms, whereas Delhi-NCR can expect a predominantly dry atmosphere.\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/weather-today-september-30-rain-and-thunderstorms-in-several-parts-of-india-check-imd-weather-update-for-delhi-ncr-up-bihar-mp-bangalore-rajasthan-and-other-states/articleshow/134577682.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134577779,width-1200,height-630,imgsize-116117,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-30T02:36:12Z",
+      "content": "Alpha Trade\r\nGet daily trade ideas from SEBI-registered research analysts.\r\nInvestment Ideas\r\nGrow your wealth with stock ideas &amp; sectoral trends.\r\nStock Reports Plus\r\nAll-in-one stock research w\u2026 [+512 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-134555410,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-09-29T03:45:34Z",
       "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>HPBOSE D.El.Ed admit cards 2026 released as Part-I and Part-II exams begin October 5; download here</li></ul>\r\nFollow Us On Social Media\u2026 [+2081 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Times News Network",
-      "title": "HP Congress stages protest over \u2018vote theft\u2019, seeks CEC\u2019s dismissal",
-      "description": "HP Congress protests across Himachal Pradesh over alleged \u201cvote theft,\u201d demands Chief Election Commissioner\u2019s dismissal over voter roll deletions under SIR.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/hp-congress-stages-protest-over-vote-theft-seeks-cecs-dismissal/articleshow/134549074.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134549073,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-28T18:34:14Z",
-      "content": "Copyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Trending Desk",
-      "title": "Weather tomorrow September 29: IMD forecasts rain, thunderstorms and heavy showers across several states, check full forecast",
-      "description": "Weather tomorrow September 29: IMD forecasts rain, thunderstorms, lightning and gusty winds across several parts of India, with isolated heavy rainfall likely in Himachal Pradesh, Northeast India, Tamil Nadu, Kerala and South Interior Karnataka. Several south\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/weather-tomorrow-today-september-29-imd-forecasts-rain-thunderstorms-and-heavy-showers-across-several-states-check-full-forecast/articleshow/134546442.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134546639,width-1200,height-630,imgsize-147890,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-28T15:53:01Z",
-      "content": "Weather tomorrow September 29: Rain, thunderstorms and heavy showers are likely across several parts of India on Tuesday, with weather activity expected in the north, northeast, east, west and southe\u2026 [+6911 chars]"
     }
   ],
   "directory": []
