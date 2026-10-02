@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-10-02 10:13:02",
+  "last_updated": "2026-10-02 17:12:19",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "PTI",
+      "title": "Apple production falls 48% so far this year in Himachal",
+      "description": "Apple production in Himachal Pradesh plunges 48% year-to-date due to climate and weather shocks, impacting farmers, MIS procurement, and the state economy.",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/apple-production-falls-48-so-far-this-year-in-himachal/article71532731.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/je8iud/article71532972.ece/alternates/LANDSCAPE_1200/IMG_PTI23-07-2020_000126_2_1_FC9L264H.jpg",
+      "publishedAt": "2026-10-01T12:48:49Z",
+      "content": "Apple production in Himachal Pradesh has dropped 48 per cent so far this year as climate change, unseasonal rains, hailstorms and snowfall have caused severe damage to the crop.\r\nSo far this year, 1.\u2026 [+3466 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-134577779,width-1200,height-630,imgsize-116117,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-09-30T02:36:12Z",
       "content": "Alpha Trade\r\nGet daily trade ideas from SEBI-registered research analysts.\r\nInvestment Ideas\r\nGrow your wealth with stock ideas &amp; sectoral trends.\r\nStock Reports Plus\r\nAll-in-one stock research w\u2026 [+512 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TNN",
-      "title": "Punjab, HP open campaign with wins in Rama Atray T20",
-      "description": "PCA Seniors Women and Himachal Pradesh Women began the 7th Rama Atray Memorial Women\u2019s T20 in Chandigarh with wins; Mannat Kashyap and Anshika Thakur starred.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/punjab-hp-open-campaign-with-wins-in-rama-atray-t20/articleshow/134573020.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134573019,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-29T18:52:48Z",
-      "content": "Follow Us On Social Media\r\nWhy India Keeps Rejecting Russias Su-57 Despite Moscows Fifth-Gen Fighter OfferRussias Su-57 Fifth-Gen Fighter Offer To India Faces Hard Test Over Production, And Combat Cl\u2026 [+1470 chars]"
     }
   ],
   "directory": []
