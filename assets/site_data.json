@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-10-02 23:28:53",
+  "last_updated": "2026-10-03 03:14:17",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Trending Desk",
+      "title": "Weather Today, October 2: Rain, thunderstorms likely in several states; check Delhi, Himachal Pradesh, Rajasthan and other cities",
+      "description": "Weather Today: Today, various regions across India will be affected by rain, thunderstorms, and lightning, appearing as a stark contrast to the clear and dry weather found in places like Delhi, Himachal Pradesh, Rajasthan, and Jammu and Kashmir. Meanwhile, ar\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/weather-today-october-2-rain-thunderstorms-likely-in-several-states-check-delhi-himachal-pradesh-rajasthan-and-other-cities/articleshow/134630758.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134630824,width-1200,height-900,imgsize-210660,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-10-02T02:56:14Z",
+      "content": "Several parts of India are likely to experience rain, thunderstorms and lightning today as weather activity continues across southern, northeastern and eastern regions. The IMD has forecast isolated \u2026 [+2101 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-134602082,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-09-30T19:51:51Z",
       "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Sanjeev Verma",
-      "title": "Negi hits back at Patil, says raising party issues isn\u2019t indiscipline",
-      "description": "Himachal Pradesh minister Jagat Singh Negi rebuts Congress in-charge Rajani Patil, says raising party issues isn\u2019t indiscipline amid Kinnaur row.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/negi-hits-back-at-patil-says-raising-party-issues-isnt-indiscipline/articleshow/134600868.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-133040690,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-30T18:28:04Z",
-      "content": "Follow Us On Social Media\r\nThe Xinjiang Gamble: Pakistan Shuts Skies, India Seeks Shortcut Through Chinas Military FrontierAnne Hathaway Reveals Verity Secret: Everything I Need Is Right ThereI'm DON\u2026 [+1534 chars]"
     }
   ],
   "directory": []
