@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-10-04 03:43:03",
+  "last_updated": "2026-10-04 10:21:32",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "RK Laxmi",
+      "title": "Watch: Massive rush, traffic jams hit Himachal, Uttarakhand roads as tourists head to hills on long weekend",
+      "description": "Over the Gandhi Jayanti long weekend, Himachal Pradesh experienced a notable rise in visitors and devotees. Major thoroughfares leading to destinations such as Manali, Shimla, and Mussoorie were notably jammed. In Uttarakhand, the pathways to Badrinath and Ke\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/dehradun/watch-massive-rush-traffic-jams-hit-himachal-uttarakhand-roads-as-tourists-head-to-hills-on-long-weekend/articleshow/134654790.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134655930,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-10-03T09:12:58Z",
+      "content": "<ul><li>News</li>\r\n<li>City News</li>\r\n<li>dehradun News</li>\r\n<li>Watch: Massive rush, traffic jams hit Himachal, Uttarakhand roads as tourists head to hills on long weekend</li></ul>\r\nFollow Us On \u2026 [+2035 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-134625116,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-10-01T17:56:58Z",
       "content": "Follow Us On Social Media\r\nRaj extends OBC panels tenure till March 20274 of family get life term for murder of woman in TonkKC Das staff strike over unpaid salaries, five Bengaluru outlets hit4 held\u2026 [+1018 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Sanjeev Verma",
-      "title": "HC quashes land acquisition notification for strategic Bhanupali-Bilaspur-Beri rail line",
-      "description": "Himachal Pradesh High Court quashes land acquisition notice for 63-km Bhanupali-Bilaspur-Beri rail line over missed legal deadlines, invalid extensions.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/hc-quashes-land-acquisition-notification-for-strategic-bhanupali-bilaspur-beri-rail-line/articleshow/134624955.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134624954,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-10-01T17:44:38Z",
-      "content": "Follow Us On Social Media\r\nOSRTC driver held in Berhampur for sexual exploitation, extortionDiet charges hiked for BC hostels, residential schoolsCMO push moves long-pending Doddamara Road upgrade; P\u2026 [+1077 chars]"
     }
   ],
   "directory": []
