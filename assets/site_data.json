@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-10-04 16:15:54",
+  "last_updated": "2026-10-04 22:38:57",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "Monsoon signs off 8 days late; HP records 13% deficit in Sept",
+      "description": "Monsoon withdraws from Himachal Pradesh 8 days late; September rainfall 13% below normal. Light rain/snow forecast Oct 5-9; 45 roads blocked; losses Rs 3,231 crore.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/monsoon-signs-off-8-days-late-hp-records-13-deficit-in-sept/articleshow/134664083.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134664081,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-10-03T17:41:53Z",
+      "content": "Follow Us On Social Media\r\nProbe report flags recruitment, promotion irregularities at KSOUIn 1979, Sally Quinn and Ben Bradlee paid $220,000 for New York's decaying Grey Gardens and restored it; 38 \u2026 [+1288 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-134644564,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-10-02T17:36:23Z",
       "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "IP Singh",
-      "title": "LPU campus violence: Outsiders, students among 9 arrested, 40 suspects identified",
-      "description": "Nine people have been arrested regarding the violence that occurred at Lovely Professional University. The arrests include seven students from various Indian states, including Haryana and Himachal Pradesh. Protests erupted following allegations about a studen\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/amritsar/lpu-campus-violence-outsiders-students-among-9-arrested-40-suspects-identified/articleshow/134642063.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134642092,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-10-02T14:45:02Z",
-      "content": "Follow Us On Social Media\r\nPrincess Dianas Brother Claims Mohamed Al-Fayed Groped Her During Her Romance With Dodi'Jail Bharo Andolan': CJP's Mumbai Protest Draws Thousands, Demands CEC Gyanesh Kumar\u2026 [+2995 chars]"
     }
   ],
   "directory": []
