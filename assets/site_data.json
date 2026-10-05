@@ -1,6 +1,45 @@
 {
-  "last_updated": "2026-10-05 11:03:43",
+  "last_updated": "2026-10-05 20:13:08",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "3 killed in accident on Yamuna Kulhal Bridge near Paonta Sahib",
+      "description": "Three youths died after their car hit a truck on Yamuna Kulhal Bridge near Paonta Sahib, Sirmaur, along the Himachal Pradesh-Uttarakhand border.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/3-killed-in-accident-on-yamuna-kulhal-bridge-near-paonta-sahib/articleshow/134678626.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-133718671,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-10-04T17:25:38Z",
+      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TIMES NEWS NETWORK",
+      "title": "After 2 years away, Gadag man reunited with family",
+      "description": "Gadag district administration reunites missing 55-year-old Ramanna Gangannavar with family after 2 years, bringing him back from Mandi, Himachal Pradesh.",
+      "url": "https://timesofindia.indiatimes.com/city/hubballi/after-2-years-away-gadag-man-reunited-with-family/articleshow/134678205.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134678204,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-10-04T16:56:02Z",
+      "content": "Follow Us On Social Media\r\nTransgender activist dies following vehicle crashNoted litterateur GV Kulkarni passes awayBidar cops bust illegal arms network, seize 10 pistolsIn 2024, more than 350,000 s\u2026 [+1492 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "Yami Gautam's 100-year-old Rs 8 crore Himachal home is pure rustic beauty. Made of wood, stone, it has greenhouse, kitchen garden. Will she and Dhurandhar director Aditya Dhar live there now?",
+      "description": "Having a luxury bungalow in the city is usually seen as the sign that someone has really made it or reached the top in Mumbai. According to a report from the Free Press Journal, it seems that Mumbai might not be where actress Yami Gautam and her husband, Adit\u2026",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/yami-gautams-100-year-old-rs-8-crore-himachal-home-is-pure-rustic-beauty-made-of-wood-stone-it-has-greenhouse-kitchen-garden-will-she-and-dhurandhar-director-aditya-dhar-live-there-now/articleshow/134675904.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134675955,width-1200,height-900,imgsize-137433,overlay-etpanache/articleshow.jpg",
+      "publishedAt": "2026-10-04T13:30:10Z",
+      "content": "Having a luxury bungalow in the city is usually seen as the sign that someone has really made it or reached the top in Mumbai. According to a report from the Free Press Journal, it seems that Mumbai \u2026 [+158 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -39,45 +78,6 @@
       "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/18/thumb/fitandfill/1200X628/1781777639-1675.jpg",
       "publishedAt": "2026-10-03T13:55:27Z",
       "content": "Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu on Saturday distributed financial assistance of 5.78 crore under various welfare schemes to 1,471 registered workers and their dependents across\u2026 [+2202 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Sounak Mukhopadhyay",
-      "title": "Work From Hills: WFH here may be cheaper than your city accommodation; check rates in Himachal Pradesh, Uttarakhand",
-      "description": "Working remotely from hill stations in India may be cheaper than renting in cities. Various listings show monthly rates in Himachal, Uttarakhand, Sikkim and West Bengal.",
-      "url": "https://www.livemint.com/money/personal-finance/work-from-hills-wfh-here-may-be-cheaper-than-your-city-accommodation-check-rates-in-himachal-pradesh-uttarakhand-11791028009514.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2026/10/03/1600x900/logo/WFHill_1791028583317_ugWg_1791028594055_UuEt_59b330aa-eadd-4c3e-a4ac-cda4ed5d8c17_qDOg.jpg",
-      "publishedAt": "2026-10-03T11:57:04Z",
-      "content": "Working from the hills may cost less than renting accommodation in some Indian cities. Airbnb and HomeStays of India listings show options across several hill destinations. However, savings depend on\u2026 [+2947 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "RK Laxmi",
-      "title": "Watch: Massive rush, traffic jams hit Himachal, Uttarakhand roads as tourists head to hills on long weekend",
-      "description": "Over the Gandhi Jayanti long weekend, Himachal Pradesh experienced a notable rise in visitors and devotees. Major thoroughfares leading to destinations such as Manali, Shimla, and Mussoorie were notably jammed. In Uttarakhand, the pathways to Badrinath and Ke\u2026",
-      "url": "https://timesofindia.indiatimes.com/city/dehradun/watch-massive-rush-traffic-jams-hit-himachal-uttarakhand-roads-as-tourists-head-to-hills-on-long-weekend/articleshow/134654790.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134655930,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-10-03T09:12:58Z",
-      "content": "<ul><li>News</li>\r\n<li>City News</li>\r\n<li>dehradun News</li>\r\n<li>Watch: Massive rush, traffic jams hit Himachal, Uttarakhand roads as tourists head to hills on long weekend</li></ul>\r\nFollow Us On \u2026 [+2035 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Times News Network",
-      "title": "Five houses gutted in Jubbal fire",
-      "description": "Five houses were gutted in a late-night fire in Dhar village, Jubbal, Shimla; no casualties reported. Cause unknown; police probe and damage assessment underway.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/five-houses-gutted-in-jubbal-fire/articleshow/134644566.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134644564,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-10-02T17:36:23Z",
-      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
     }
   ],
   "directory": []
