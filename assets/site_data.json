@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-10-07 18:14:36",
+  "last_updated": "2026-10-07 23:57:47",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Sanjeev Verma",
+      "title": "HC fumes as 5 of 6 muck sites near Dharamshala on forest land",
+      "description": "Himachal Pradesh HC questions muck dumping near Dharamshala as 5 of 6 proposed sites are on forest land, seeks affidavits and non-forest alternatives by Dec 2.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/hc-fumes-as-5-of-6-muck-sites-near-dharamshala-on-forest-land/articleshow/134749812.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134664699,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-10-06T20:01:36Z",
+      "content": "Follow Us On Social Media\r\nIRGC Signals War Readiness As Netanyahu Faces A Fresh, Explosive Threat | WatchMacrons France Rocked By Student Revolt: 6,100 Arrested As Tear Gas, Fireworks Grip StreetsHo\u2026 [+1475 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "IIAS turns 60, opens its doors to a week of books, ideas and heritage",
+      "description": "IIAS Shimla marks 60 years with Diamond Jubilee events Oct 11\u201315, featuring lectures, book fair, art exhibits, and a digitised rare manuscripts portal launch.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/iias-turns-60-opens-its-doors-to-a-week-of-books-ideas-and-heritage/articleshow/134748348.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134748347,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-10-06T18:20:30Z",
+      "content": "Follow Us On Social Media\r\nEducation, health top priorities of Himachal govt: CMAfter tribal students protest, Maharashtra govt raises hostel allowancesRights body seeks CCTV footage in custodial dea\u2026 [+1103 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-03/19/thumb/fitandfill/1200X628/1710869858-4239.jpg",
       "publishedAt": "2026-10-06T10:42:05Z",
       "content": "Himachal Pradesh ruling says marital status alone cannot disqualify a Class I legal heir, while government rules still determine eligibility.\r\nAmit KumarNew Delhi5 min read Last Updated : Oct 06 2026\u2026 [+6494 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Education",
-      "title": "HPBOSE D.El.Ed. June 2026 re-evaluation and re-checking results declared at hpbose.org; download here",
-      "description": "HPBOSE D.El.Ed. June 2026 results: The Himachal Pradesh Board of School Education has declared the re-evaluation and re-checking results for D.El.Ed. Part-I and Part-II examinations held in June 2026. The results cover 38 cases, including 30 applications for \u2026",
-      "url": "https://timesofindia.indiatimes.com/education/news/hpbose-d-el-ed-june-2026-re-evaluation-and-re-checking-results-declared-at-hpbose-org-download-here/articleshow/134721520.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134721586,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-10-06T02:57:29Z",
-      "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>HPBOSE D.El.Ed. June 2026 re-evaluation and re-checking results declared at hpbose.org; download here</li></ul>\r\nFollow Us On Social Med\u2026 [+1904 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ANI",
-      "title": "Magnitude 4.5 earthquake jolts Assam's Nagaon",
-      "description": "An earthquake measuring 4.5 on the Richter scale struck Nagaon district in Assam early Tuesday morning. The tremors occurred at 4:23 AM IST and were recorded at a depth of 33 kilometres. Earlier on October 5, a magnitude 2.5 earthquake jolted Una in Himachal \u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/magnitude-4-5-earthquake-jolts-assams-nagaon/articleshow/134720349.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134720348,width-1200,height-900,imgsize-143882,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-10-06T00:51:44Z",
-      "content": "Guwahati: An earthquake of magnitude 4.5 struck Assam's Nagaon district in the early hours of Tuesday, according to the National Centre for Seismology (NCS).The earthquake occurred at 4:23:47 am IST \u2026 [+859 chars]"
     }
   ],
   "directory": []
