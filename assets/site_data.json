@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-10-07 03:40:52",
+  "last_updated": "2026-10-07 10:45:22",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Amit Kumar",
+      "title": "Can a married daughter inherit govt-allotted land? HC explains rights",
+      "description": "Himachal Pradesh ruling says marital status alone cannot disqualify a Class I legal heir, while government rules still determine eligibility.",
+      "url": "https://www.business-standard.com/finance/personal-finance/can-a-married-daughter-inherit-govt-allotted-land-hc-explains-rights-126100600790_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-03/19/thumb/fitandfill/1200X628/1710869858-4239.jpg",
+      "publishedAt": "2026-10-06T10:42:05Z",
+      "content": "Himachal Pradesh ruling says marital status alone cannot disqualify a Class I legal heir, while government rules still determine eligibility.\r\nAmit KumarNew Delhi5 min read Last Updated : Oct 06 2026\u2026 [+6494 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-134707690,width-1200,height-900,imgsize-126307,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-10-05T14:03:18Z",
       "content": "Amid continued monsoon activity, the Meteorological Department has issued a fresh weather alert. The forecast indicates heavy rainfall and thunderstorms in several parts of the country on Tuesday Oct\u2026 [+2032 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Trending Desk",
-      "title": "School holiday tomorrow, October 6, 2026: Will schools be closed due to heavy rain? Check state-wise updates",
-      "description": "School Holiday Tomorrow: On October 6, 2026, schools across India are set to remain operational barring any weather-induced interruptions. Regions such as Uttarakhand, Delhi-NCR, Uttar Pradesh, Himachal Pradesh, West Bengal, and Odisha will likely function as\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/school-holiday-tomorrow-october-6-2026-will-schools-be-closed-due-to-heavy-rain-check-state-wise-updates/articleshow/134706431.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134706494,width-1200,height-900,imgsize-85245,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-10-05T13:06:08Z",
-      "content": "Tuesday, October 6, 2026, is not a nationwide school holiday in India. Schools in most parts of the country are expected to remain open and conduct regular classes. However, heavy rain, landslides an\u2026 [+3246 chars]"
     }
   ],
   "directory": []
