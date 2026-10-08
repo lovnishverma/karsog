@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-10-07 23:57:47",
+  "last_updated": "2026-10-08 04:45:34",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Sukhmani Kooner",
+      "title": "How Haryana hurricane stormed Asiad",
+      "description": "Haryana, Punjab, and Himachal Pradesh combined to account for nearly 47% of India's medals in individual events. Haryana won 32 of India's 85 total medals, leading the state's contributions in boxing, wrestling, and shooting. The athletes from Haryana secured\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/how-haryana-hurricane-stormed-asiad/articleshow/134755206.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134755234,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-10-07T03:47:02Z",
+      "content": "Follow Us On Social Media\r\n'Come to your senses': What is Pakistan PM Shehbaz Sharif's condition for talks with Imran's partyOmani pilot had failed airline stints, flydubai hired him in post-pandemic\u2026 [+1682 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-134740548,width-1200,height-900,imgsize-150177,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-10-06T12:23:28Z",
       "content": "Himachal Pradesh High Court has ordered authorities to hand over ownership of a plot of agricultural land to a daughter who had been denied it for being married, ending a dispute that stretched acros\u2026 [+3829 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Business Standard"
-      },
-      "author": "Amit Kumar",
-      "title": "Can a married daughter inherit govt-allotted land? HC explains rights",
-      "description": "Himachal Pradesh ruling says marital status alone cannot disqualify a Class I legal heir, while government rules still determine eligibility.",
-      "url": "https://www.business-standard.com/finance/personal-finance/can-a-married-daughter-inherit-govt-allotted-land-hc-explains-rights-126100600790_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-03/19/thumb/fitandfill/1200X628/1710869858-4239.jpg",
-      "publishedAt": "2026-10-06T10:42:05Z",
-      "content": "Himachal Pradesh ruling says marital status alone cannot disqualify a Class I legal heir, while government rules still determine eligibility.\r\nAmit KumarNew Delhi5 min read Last Updated : Oct 06 2026\u2026 [+6494 chars]"
     }
   ],
   "directory": []
