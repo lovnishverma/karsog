@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-10-08 04:45:34",
+  "last_updated": "2026-10-08 15:06:40",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "HP Congress protests Rahul Gandhi's detention; Sukhu announces statewide stir",
+      "description": "HP Congress protests in Shimla over Rahul Gandhi, Priyanka Gandhi Vadra\u2019s detention during EC demo; CM Sukhu announces statewide protests across HP.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/hp-congress-protests-rahul-gandhis-detention-sukhu-announces-statewide-stir/articleshow/134767293.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134767292,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-10-07T13:17:28Z",
+      "content": "Follow Us On Social Media\r\n'Dhurandhar 2' television premiere: Here's when and where you can watch the Ranveer Singh film on TV, the cuts by CBFC, runtime of the film and more details insideKhalin Jo\u2026 [+1716 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "Rain, light snowfall across Himachal Pradesh",
+      "description": "Rain and light snowfall hit Himachal Pradesh; hailstorms in Kinnaur and Shimla. Met dept forecasts rain/snow till Oct 13, temperatures to drop.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/rain-light-snowfall-across-himachal-pradesh/articleshow/134767214.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134767208,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-10-07T13:12:16Z",
+      "content": "Follow Us On Social Media\r\n'Dhurandhar 2' television premiere: Here's when and where you can watch the Ranveer Singh film on TV, the cuts by CBFC, runtime of the film and more details insideKhalin Jo\u2026 [+1716 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-134445472,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-10-06T18:06:30Z",
       "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Rajendra Saxena",
-      "title": "Can a married daughter be denied inheritance rights? Here's what Himachal Pradesh HC ruled",
-      "description": "The judgment highlights the distinction between applying for a fresh government land grant and inheriting rights&nbsp;arising from an existing grant.",
-      "url": "https://www.livemint.com/money/personal-finance/can-a-married-daughter-be-denied-inheritance-rights-heres-what-himachal-pradesh-hc-ruled-11791291843565.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/farm_1791293906131_0oz1_1791293940747_w0CJ_9c2d1453-3216-4a9f-86d3-0f92d0788902_RSQW.jpg",
-      "publishedAt": "2026-10-06T14:04:04Z",
-      "content": "The Himachal Pradesh High Court has ruled that a woman cannot be denied her claim to government-allotted family land merely because she is married.\r\nThe court held that the Himachal Pradesh Nautor La\u2026 [+3400 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ET Online",
-      "title": "Married daughter becomes sole legal heir for father's land without patta, her ownership rights were rejected by authorities; High Court orders them to accept her claim",
-      "description": "Himachal Pradesh High Court has quashed an order denying a woman patta for land her father was granted in 1972, ruling that the Nautor Land Rules do not bar married daughters from inheriting land as legal heirs. The court held that a 1980 administrative circu\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/married-daughter-becomes-sole-legal-heir-for-fathers-land-without-patta-her-ownership-rights-were-rejected-by-authorities-high-court-orders-them-to-accept-her-claim/articleshow/134739783.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-134740548,width-1200,height-900,imgsize-150177,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-10-06T12:23:28Z",
-      "content": "Himachal Pradesh High Court has ordered authorities to hand over ownership of a plot of agricultural land to a daughter who had been denied it for being married, ending a dispute that stretched acros\u2026 [+3829 chars]"
     }
   ],
   "directory": []
