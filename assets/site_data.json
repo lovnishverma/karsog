@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-10-09 11:13:48",
+  "last_updated": "2026-10-09 17:49:19",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Trending Desk",
+      "title": "Weather Tomorrow October 9: IMD predicts rain, thunderstorms and heavy showers across several states; check forecast for Delhi, Bihar, Haryana and more",
+      "description": "Weather Tomorrow: On October 9, the Meteorological Department has raised alarms for heavy rain and thunderstorms in numerous areas. The Delhi-NCR region anticipates overcast conditions paired with light precipitation. Himachal Pradesh might encounter scattere\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/weather-tomorrow-october-9-imd-predicts-rain-thunderstorms-and-heavy-showers-across-several-states-check-forecast-for-delhi-bihar-haryana-and-more/articleshow/134792250.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134792406,width-1200,height-900,imgsize-126307,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-10-08T13:44:05Z",
+      "content": "Amid ongoing monsoon activity, the Meteorological Department has issued a fresh weather warning for several parts of the country. The forecast predicts heavy rainfall and thunderstorms across various\u2026 [+2678 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-134770051,width-1200,height-900,imgsize-247832,overlay-etpanache/articleshow.jpg",
       "publishedAt": "2026-10-07T16:07:41Z",
       "content": "Yami Gautam has been making news for her beautiful 100-year-old home in Mandi, Himachal Pradesh. The house, which she bought for Rs 8 crore as per a Financial Express report, is made not of concrete \u2026 [+5446 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Times News Network",
-      "title": "HP Congress protests Rahul Gandhi's detention; Sukhu announces statewide stir",
-      "description": "HP Congress protests in Shimla over Rahul Gandhi, Priyanka Gandhi Vadra\u2019s detention during EC demo; CM Sukhu announces statewide protests across HP.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/hp-congress-protests-rahul-gandhis-detention-sukhu-announces-statewide-stir/articleshow/134767293.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134767292,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-10-07T13:17:28Z",
-      "content": "Follow Us On Social Media\r\n'Dhurandhar 2' television premiere: Here's when and where you can watch the Ranveer Singh film on TV, the cuts by CBFC, runtime of the film and more details insideKhalin Jo\u2026 [+1716 chars]"
     }
   ],
   "directory": []
