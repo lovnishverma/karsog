@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-10-10 03:45:14",
+  "last_updated": "2026-10-10 10:20:40",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Rediff.com"
+      },
+      "author": "sports@rediff.co.in (Rediff Sports Desk)",
+      "title": "Kabaddi Star Ritu Negi's Award Snub Sparks Outrage In Himachal",
+      "description": "Arjuna Awardee and Indian kabaddi team member Ritu Negi was controversially dropped from Himachal Pradesh's cash award list for Asian Games gold medallists, reportedly due to her marriage in Haryana. This decision has sparked widespread disappointment from Ne\u2026",
+      "url": "https://www.rediff.com/sports/report/ritu-negi-dropped-from-himachal-award-list-sparks-row/20261009.htm",
+      "urlToImage": "https://im.rediff.com/1200-630/news/2026/jul/13sukhvinder-singh-sukhu.jpg",
+      "publishedAt": "2026-10-09T07:46:38Z",
+      "content": "Arjuna Awardee Ritu Negi, a celebrated kabaddi star, finds herself at the centre of a major controversy after the Himachal Pradesh government controversially excluded her from its cash award list for\u2026 [+5046 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-134792406,width-1200,height-900,imgsize-126307,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-10-08T13:44:05Z",
       "content": "Amid ongoing monsoon activity, the Meteorological Department has issued a fresh weather warning for several parts of the country. The forecast predicts heavy rainfall and thunderstorms across various\u2026 [+2678 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "The Times Of India",
-      "title": "Himachal Pradesh delegation visits ISARC to explore climate-resilient innovations",
-      "description": "Himachal Pradesh Agriculture delegation led by Atul Dogra visited IRRI-ISARC Varanasi to review climate-resilient, natural farming research and innovations.",
-      "url": "https://timesofindia.indiatimes.com/city/varanasi/himachal-pradesh-delegation-visits-isarc-to-explore-climate-resilient-innovations/articleshow/134774484.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134774483,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-10-07T20:54:18Z",
-      "content": "Follow Us On Social Media\r\n'We'll do it': PM Modi gives slogan for 2047 goals; credits peoples support for 25-year unbroken runMaharashtra drought: Parched Dharashiv scrambles to protect drinking-wat\u2026 [+1279 chars]"
     }
   ],
   "directory": []
