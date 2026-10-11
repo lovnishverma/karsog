@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-10-10 23:07:25",
+  "last_updated": "2026-10-11 03:18:13",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Trending Desk",
+      "title": "Weather today: Check latest IMD prediction for rain, temperature and AQI updates for Delhi, Mumbai, Patna, UP, Uttarakhand, Himachal and other places",
+      "description": "IMD weather forecast for October 10, 2026, predicts rain and thunderstorms in several states, including Kerala, Tamil Nadu and parts of northern and eastern India. Mumbai is facing high temperatures and elevated AQI, while Delhi-NCR residents should monitor a\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/weather-today-check-latest-imd-prediction-for-rain-temperature-and-aqi-updates-for-delhi-mumbai-patna-up-uttarakhand-himachal-and-other-places/articleshow/134846098.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134846266,width-1200,height-900,imgsize-102982,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-10-10T02:17:34Z",
+      "content": "Weather conditions across India are expected to remain unsettled on Saturday, October 10, with rain and thunderstorms forecast in several states even as parts of the country continue to experience ab\u2026 [+8911 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://im.rediff.com/1200-630/news/2026/jul/13sukhvinder-singh-sukhu.jpg",
       "publishedAt": "2026-10-09T07:46:38Z",
       "content": "Arjuna Awardee Ritu Negi, a celebrated kabaddi star, finds herself at the centre of a major controversy after the Himachal Pradesh government controversially excluded her from its cash award list for\u2026 [+5046 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Sanjeev Verma",
-      "title": "Financial crunch no ground to withhold retiral benefits: High court",
-      "description": "Himachal Pradesh High Court ruled financial crunch can\u2019t justify denying retiral benefits, orders YS Parmar University to pay pending leave encashment in 4 weeks or 5% interest.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/financial-crunch-no-ground-to-withhold-retiral-benefits-high-court/articleshow/134799091.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134799089,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-10-08T18:41:25Z",
-      "content": "Follow Us On Social Media\r\nSumeet Raghavan Raises Concern Over Littering In HimachalHouthis Rock Riyadh Airport With Missiles, Threaten Global Airlines as Indian Flights Turn BackAnupam Kher Gets Emo\u2026 [+1467 chars]"
     }
   ],
   "directory": []
