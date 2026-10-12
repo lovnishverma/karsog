@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-10-12 03:41:00",
+  "last_updated": "2026-10-12 11:31:29",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ANI",
+      "title": "BJP's Anurag Thakur accuses opposition of targeting constitutional institutions after election defeats",
+      "description": "Speaking to the media on the sidelines of Navratri celebrations in Himachal Pradesh, Thakur alleged that opposition parties accepts the Electronic Voting Machines (EVMs) and the Election Commission of India (ECI) when they won elections but questioned the ins\u2026",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/bjps-anurag-thakur-accuses-opposition-of-targeting-constitutional-institutions-after-election-defeats/articleshow/134866179.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134866178,width-1200,height-900,imgsize-45892,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-10-11T06:18:52Z",
+      "content": "Kangra: BJP leader and former Union minister Anurag Thakur on Sunday accused the opposition of targeting constitutional institutions after electoral defeats, defending the Election Commission's Speci\u2026 [+2392 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -64,19 +77,6 @@
       "url": "https://timesofindia.indiatimes.com/city/chandigarh/drone-based-mail-delivery-to-cover-110-routes-in-himachal/articleshow/134839914.cms",
       "urlToImage": "https://static.toiimg.com/thumb/msid-134572885,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-10-09T17:26:23Z",
-      "content": "Follow Us On Social Media\r\nOfficial duty shield applies when act has nexus with court-ordered encroachment removal: HC15 trains cancelled amid Delhi protest, Dehradun Jan Shatabdi among affectedMan w\u2026 [+1285 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Times News Network",
-      "title": "20-yr-old killed, 24 injured as HRTC bus crashes in Shimla district",
-      "description": "20-year-old killed and 24 injured after an HRTC bus skidded off the road near Raisharan in Rampur Bushahr, Shimla district; probe underway.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/20-yr-old-killed-24-injured-as-hrtc-bus-crashes-in-shimla-district/articleshow/134839879.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134839878,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-10-09T17:25:40Z",
       "content": "Follow Us On Social Media\r\nOfficial duty shield applies when act has nexus with court-ordered encroachment removal: HC15 trains cancelled amid Delhi protest, Dehradun Jan Shatabdi among affectedMan w\u2026 [+1285 chars]"
     }
   ],
