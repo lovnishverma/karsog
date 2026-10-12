@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-10-11 23:20:47",
+  "last_updated": "2026-10-12 03:41:00",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Khabarhub.com"
+      },
+      "author": "Khabarhub",
+      "title": "Dashain rush increases cross-border movement at Gaddachauki checkpoint",
+      "description": "KANCHANPUR: The Gaddachauki border crossing in Kanchanpur has become increasingly busy as Nepalis working in various parts of India return home to celebrate Dashain with their families. Many migrant workers employed in Uttarakhand, Himachal Pradesh, Delhi, Pu\u2026",
+      "url": "https://english.khabarhub.com/2026/11/571504/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2026/10/Gaddachauki-Checkpoint-Dashain.jpg",
+      "publishedAt": "2026-10-11T00:14:27Z",
+      "content": "KANCHANPUR: The Gaddachauki border crossing in Kanchanpur has become increasingly busy as Nepalis working in various parts of India return home to celebrate Dashain with their families.\r\nMany migrant\u2026 [+2438 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-134839878,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-10-09T17:25:40Z",
       "content": "Follow Us On Social Media\r\nOfficial duty shield applies when act has nexus with court-ordered encroachment removal: HC15 trains cancelled amid Delhi protest, Dehradun Jan Shatabdi among affectedMan w\u2026 [+1285 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rediff.com"
-      },
-      "author": "sports@rediff.co.in (Rediff Sports Desk)",
-      "title": "Adventure Sports Boosted By Manali Paragliding Event",
-      "description": "The four-day Paragliding Accuracy Pre-World Cup has commenced at Solang Nala in Manali, Himachal Pradesh, featuring 42 pilots from multiple countries. The event, inaugurated by Minister Rajesh Dharmani, aims to promote adventure sports and tourism in the regi\u2026",
-      "url": "https://www.rediff.com/sports/report/paragliding-accuracy-pre-world-cup-kicks-off-in-manali/20261009.htm",
-      "urlToImage": "https://im.rediff.com/1200-630/news/2024/oct/30paragliding.jpg",
-      "publishedAt": "2026-10-09T13:56:33Z",
-      "content": "Manali's picturesque Solang Nala is currently hosting the four-day Paragliding Accuracy Pre-World Cup, attracting international pilots and boosting adventure tourism in Himachal Pradesh.\r\nKey Points\r\u2026 [+2086 chars]"
     }
   ],
   "directory": []
