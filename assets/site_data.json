@@ -1,6 +1,32 @@
 {
-  "last_updated": "2026-10-13 04:53:58",
+  "last_updated": "2026-10-13 15:28:12",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Trending Desk",
+      "title": "Weather Tomorrow October 13: IMD predicts rain, thunderstorms and heavy showers across several states; check forecast for Delhi, Bihar, Haryana and more",
+      "description": "Weather Tomorrow: On October 13, diverse weather patterns are anticipated across India. Delhi-NCR is set to encounter a mix of clouds and isolated showers along with vigorous winds. In Himachal Pradesh, light rains may occur in specific areas while Haryana co\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/weather-tomorrow-october-13-imd-predicts-rain-thunderstorms-and-heavy-showers-across-several-states-check-forecast-for-delhi-bihar-haryana-and-more/articleshow/134893079.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134895304,width-1200,height-900,imgsize-88698,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-10-12T13:55:15Z",
+      "content": "The India Meteorological Department (IMD) has issued a fresh weather alert for several parts of the country as monsoon activity continues. Heavy rainfall and thunderstorms are expected across multipl\u2026 [+2481 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "BL New Delhi Bureau",
+      "title": "ICMR to establish a high-altitude medicine centre in Himachal Pradesh for soldiers and communities",
+      "description": "ICMR to establish a high-altitude medicine centre in Keylong, Himachal Pradesh, researching acclimatisation, nutrition, and disease amid extreme conditions for soldiers and Himalayan communities.",
+      "url": "https://www.thehindubusinessline.com/news/icmr-to-establish-a-high-altitude-medicine-centre-in-himachal-pradesh-for-soldiers-and-communities/article71575127.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/3uj7qq/article71575271.ece/alternates/LANDSCAPE_1200/IMG_iStock-827580738_2_1_I1GJTM1B.jpg",
+      "publishedAt": "2026-10-12T13:16:29Z",
+      "content": "The Indian Council of Medical Research (ICMR) is setting up a dedicated centre for high-altitude medicine in Keylong, Himachal Pradesh, to study the health effects of extreme climatic conditions on s\u2026 [+2667 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -52,32 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-134866178,width-1200,height-900,imgsize-45892,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-10-11T06:18:52Z",
       "content": "Kangra: BJP leader and former Union minister Anurag Thakur on Sunday accused the opposition of targeting constitutional institutions after electoral defeats, defending the Election Commission's Speci\u2026 [+2392 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Khabarhub.com"
-      },
-      "author": "Khabarhub",
-      "title": "Dashain rush increases cross-border movement at Gaddachauki checkpoint",
-      "description": "KANCHANPUR: The Gaddachauki border crossing in Kanchanpur has become increasingly busy as Nepalis working in various parts of India return home to celebrate Dashain with their families. Many migrant workers employed in Uttarakhand, Himachal Pradesh, Delhi, Pu\u2026",
-      "url": "https://english.khabarhub.com/2026/11/571504/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2026/10/Gaddachauki-Checkpoint-Dashain.jpg",
-      "publishedAt": "2026-10-11T00:14:27Z",
-      "content": "KANCHANPUR: The Gaddachauki border crossing in Kanchanpur has become increasingly busy as Nepalis working in various parts of India return home to celebrate Dashain with their families.\r\nMany migrant\u2026 [+2438 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Times News Network",
-      "title": "Boy, grandmother killed, six injured as vehicle overturns near Una shrine",
-      "description": "Three-year-old boy and grandmother killed, six injured as modified three-wheeler \u2018bike rehri\u2019 overturns near Pir Nigaha shrine in Una, Himachal Pradesh.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/boy-grandmother-killed-six-injured-as-vehicle-overturns-near-una-shrine/articleshow/134858930.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-133718671,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-10-10T17:42:02Z",
-      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
     }
   ],
   "directory": []
