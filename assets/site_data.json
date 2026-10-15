@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-10-14 22:54:41",
+  "last_updated": "2026-10-15 02:40:59",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": "Rohini Sharma, Meena Thakur, Sunita Devi",
+      "title": "Comparative physicochemical and mineral profiling of multifloral honeys from Apis mellifera in Himachal Pradesh, India: implications for export and GI tagging",
+      "description": "Scientific Reports - Comparative physicochemical and mineral profiling of multifloral honeys from Apis mellifera in Himachal Pradesh, India: implications for export and GI tagging",
+      "url": "https://www.nature.com/articles/s41598-026-74270-4.pdf",
+      "urlToImage": null,
+      "publishedAt": "2026-10-14T00:00:00Z",
+      "content": "This study examined the physicochemical, mineral, and bacterial profiles of multifloral honeys from Apis mellifera L. collected from different agro-climatic zones of Himachal Pradesh, India. Of the t\u2026 [+1965 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-134914288,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-10-13T09:56:03Z",
       "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>HP Police Constable Admit Card 2026 to be released soon; check district-wise PST, PET schedule</li></ul>\r\nFollow Us On Social Media\r\nWhi\u2026 [+2139 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Times News Network",
-      "title": "\u2018Archaeology key to understanding India\u2019s knowledge traditions\u2019: Prof at IIAS celebrations",
-      "description": "Archaeologist Prof Vasant Shinde at IIAS Shimla Diamond Jubilee highlights archaeology\u2019s role in understanding India\u2019s knowledge traditions, citing Rakhigarhi finds.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/archaeology-key-to-understanding-indias-knowledge-traditions-prof-at-iias-celebrations/articleshow/134901225.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134901224,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-10-12T18:38:31Z",
-      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
     }
   ],
   "directory": []
