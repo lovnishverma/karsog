@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-10-15 08:44:12",
+  "last_updated": "2026-10-15 16:04:56",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Trending Desk",
+      "title": "Weather Tomorrow October 15: IMD predicts rain, thunderstorms and heavy showers across several states; check forecast for Delhi, Bihar, Haryana and more",
+      "description": "Weather Tomorrow: On October 15, the India Meteorological Department warns of shifting weather across parts of India. Delhi will see overcast conditions with moderate rainfall and thunderstorms possible. Meanwhile, Haryana and Himachal Pradesh might experienc\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/weather-tomorrow-october-15-imd-predicts-rain-thunderstorms-and-heavy-showers-across-several-states-check-forecast-for-delhi-bihar-haryana-and-more/articleshow/134943896.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134944109,width-1200,height-900,imgsize-92062,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-10-14T15:37:23Z",
+      "content": "The India Meteorological Department (IMD) has issued a fresh weather alert for several parts of the country as monsoon activity continues. Heavy rainfall and thunderstorms are expected across multipl\u2026 [+1640 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-132872627,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-10-13T17:37:55Z",
       "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Education",
-      "title": "HP Police Constable Admit Card 2026 to be released soon; check district-wise PST, PET schedule",
-      "description": "HP Police Constable Admit Card 2026: The HP Police Constable Admit Card 2026 is expected to be released soon on the official Himachal Pradesh Public Service Commission (HPPSC) website. The Physical Standard Test (PST) and Physical Efficiency Test (PET) schedu\u2026",
-      "url": "https://timesofindia.indiatimes.com/education/news/hp-police-constable-admit-card-2026-to-be-released-soon-check-district-wise-pst-pet-schedule/articleshow/134914113.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134914288,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-10-13T09:56:03Z",
-      "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>HP Police Constable Admit Card 2026 to be released soon; check district-wise PST, PET schedule</li></ul>\r\nFollow Us On Social Media\r\nWhi\u2026 [+2139 chars]"
     }
   ],
   "directory": []
