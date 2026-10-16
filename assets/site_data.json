@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-10-16 02:36:43",
+  "last_updated": "2026-10-16 08:39:42",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Education",
+      "title": "HP TET November 2026 receives 39,984 applications, exam begins on November 22",
+      "description": "HP TET November 2026: The Himachal Pradesh Board of School Education has received 39,984 applications for the November 2026 Teacher Eligibility Test. Of these, 38,355 candidates have paid the prescribed examination fee, while 1,629 applications remain without\u2026",
+      "url": "https://timesofindia.indiatimes.com/education/news/hp-tet-november-2026-receives-39984-applications-exam-begins-on-november-22/articleshow/134955979.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134956009,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-10-15T03:05:59Z",
+      "content": "Follow Us On Social Media\r\nWBPSC Miscellaneous Result 2026 out at psc.wb.gov.in; 2,834 candidates shortlisted for Personality Test, check complete details hereAsiatic lions return to Gujarats Barda W\u2026 [+1524 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": null,
       "publishedAt": "2026-10-14T00:00:00Z",
       "content": "This study examined the physicochemical, mineral, and bacterial profiles of multifloral honeys from Apis mellifera L. collected from different agro-climatic zones of Himachal Pradesh, India. Of the t\u2026 [+1965 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Prajasatta.com"
-      },
-      "author": "Swetha Guru",
-      "title": "Despite 6 Local Plants, Cement Prices in Himachal Jump Rs25 Per Bag in a Month",
-      "description": "Cement prices in Himachal Pradesh have increased by about Rs 25 per bag over the past month, pushing retail rates to Rs 410 in Solan. Manufacturers cited rising input, fuel, and transportation costs for the latest price adjustment.",
-      "url": "https://www.prajasatta.com/business/despite-6-local-plants-cement-prices-in-himachal-jump-rs25-per-bag-in-a-month-7449.html",
-      "urlToImage": "https://www.prajasatta.com/wp-content/uploads/2026/10/Cement-and-Steel-Prices-Hike.jpg",
-      "publishedAt": "2026-10-13T21:28:45Z",
-      "content": "SHIMLA: Cement prices in Himachal Pradesh have surged by around Rs 25 per bag over the past month, placing an additional financial burden on residents already dealing with increasing construction cos\u2026 [+2050 chars]"
     }
   ],
   "directory": []
