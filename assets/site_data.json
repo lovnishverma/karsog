@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-10-18 18:23:26",
+  "last_updated": "2026-10-18 22:08:13",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "Shimla panel to inspect tunnel site after residents report building cracks",
+      "description": "Shimla forms inspection panel after residents report building cracks from four-lane tunnel blasting; work halted as IIT Roorkee report awaited.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/shimla-panel-to-inspect-tunnel-site-after-residents-report-building-cracks/articleshow/135019218.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134572138,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-10-17T18:28:16Z",
+      "content": "Follow Us On Social Media\r\nTruck smuggling UP paddy into Punjab intercepted at Dudhan Sadhan; FIR lodgedSecular-minded voters targeted for deletion through SIR, says GoudMadhu Yaskhi alleges 13 cr vo\u2026 [+1079 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-134989511,width-1200,height-900,imgsize-92062,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-10-16T13:12:26Z",
       "content": "The India Meteorological Department (IMD) has issued a fresh weather alert for several parts of the country as monsoon activity continues. Heavy rainfall and thunderstorms are expected across multipl\u2026 [+1743 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BusinessLine"
-      },
-      "author": "Anupama Ghosh",
-      "title": "HoABL launches ultra-luxury villa project in Himachal Pradesh\u2019s Mashobra at \u20b99.5 cr onwards",
-      "description": "The project is positioned around a longevity and wellness theme, incorporating cryotherapy, red-light therapy and hyperbaric oxygen treatments in partnership with Evavo Wellness",
-      "url": "https://www.thehindubusinessline.com/companies/hoabl-launches-ultra-luxury-villa-project-in-himachal-pradeshs-mashobra-at-95-cr-onwards/article71591890.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/boqj1y/article71591935.ece/alternates/LANDSCAPE_1200/PO16_BS_Hotel_door_1.jpg",
-      "publishedAt": "2026-10-16T10:09:29Z",
-      "content": "The House of Abhinandan Lodha (HoABL) on Friday launched The Ridge, a luxury villa development in Mashobra, Himachal Pradesh, approximately 10 kilometres from Shimla. The project offers a limited col\u2026 [+1293 chars]"
     }
   ],
   "directory": []
