@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-10-20 02:54:49",
+  "last_updated": "2026-10-20 09:02:40",
   "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Sunainaa Chadha",
+      "title": "A private villa in Deodar forests? HoABL's Mashobra homes start at \u20b99.5 cr",
+      "description": "Luxury living at 7,000 feet: HoABL launches \u20b99.5 crore villas near Shimla",
+      "url": "https://www.business-standard.com/finance/personal-finance/a-private-villa-in-deodar-forests-hoabl-s-mashobra-homes-start-at-9-5-cr-126101900375_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/19/thumb/featurecrop/1200X628/1792393387-5954.png",
+      "publishedAt": "2026-10-19T07:04:47Z",
+      "content": "Luxury living at 7,000 feet: HoABL launches 9.5 crore villas near Shimla\r\nFrom cryotherapy to concierge services: HoABLs 9.5 crore villas in Mashobra\r\nSunainaa ChadhaNEW DELHI4 min read Last Updated \u2026 [+4941 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-134085653,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-10-18T18:08:44Z",
       "content": "Follow Us On Social Media\r\nDomestic sewage, not industrial waste, behind river pollution in Markanda: HP in report to NGTTohana farmers shut mandi gate over delayed paddy procurementVijayawada Carniv\u2026 [+1134 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Rohit Mullick",
-      "title": "Domestic sewage, not industrial waste, behind river pollution in Markanda: HP in report to NGT",
-      "description": "Himachal Pradesh tells NGT Markanda river pollution is mainly from untreated domestic sewage in Kala Amb; 11.6 MLD flows into Haryana; sewer links due 2026.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/domestic-sewage-not-industrial-waste-behind-river-pollution-in-markanda-hp-in-report-to-ngt/articleshow/135033554.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134548490,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-10-18T18:01:35Z",
-      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
     }
   ],
   "directory": []
