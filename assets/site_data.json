@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-10-20 09:02:40",
+  "last_updated": "2026-10-20 16:08:40",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ET Online",
+      "title": "Shimla-Rampur-Reckong Peo helicopter service to start on October 21",
+      "description": "Helicopter services linking Sanjauli in Shimla with Rampur and Reckong Peo will begin on October 21. The service aims to improve air connectivity and provide easier transport options for residents in remote areas. It will operate three days a week, offering t\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/new-helicopter-service-launching-from-shimla-to-rampur-and-reckong-peo-on-october-21/articleshow/135050606.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-135050641,width-1200,height-900,imgsize-78050,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-10-19T14:07:01Z",
+      "content": "Helicopter services linking Sanjauli in Shimla with Rampur Bushahr and Reckong Peo in Kinnaur will commence on October 21, officials said on Monday.According to a state government spokesperson, the w\u2026 [+1391 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -64,19 +77,6 @@
       "url": "https://timesofindia.indiatimes.com/city/chandigarh/cop-crushed-between-buses-while-clearing-traffic-in-una-dies/articleshow/135033794.cms",
       "urlToImage": "https://static.toiimg.com/thumb/msid-134247511,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-10-18T18:13:39Z",
-      "content": "Follow Us On Social Media\r\nDomestic sewage, not industrial waste, behind river pollution in Markanda: HP in report to NGTTohana farmers shut mandi gate over delayed paddy procurementVijayawada Carniv\u2026 [+1134 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Rohit Mullick",
-      "title": "Man held for raping minor daughter",
-      "description": "48-year-old arrested for allegedly raping 12-year-old daughter in Himachal\u2019s Mandi; zero FIR filed Oct 14, case shifted to Kullu\u2019s Sainj for probe.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/man-held-for-raping-minor-daughter/articleshow/135033671.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-134085653,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-10-18T18:08:44Z",
       "content": "Follow Us On Social Media\r\nDomestic sewage, not industrial waste, behind river pollution in Markanda: HP in report to NGTTohana farmers shut mandi gate over delayed paddy procurementVijayawada Carniv\u2026 [+1134 chars]"
     }
   ],
