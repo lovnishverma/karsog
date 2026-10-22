@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-10-21 22:57:14",
+  "last_updated": "2026-10-22 02:47:43",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Gaurav Gupta",
+      "title": "Ranji Trophy: Himachal show fight after Mumbai pile up 528",
+      "description": "Himachal Pradesh faced Mumbai in the Ranji Trophy, struggling initially with a low first innings score. On Day Three, Himachal batters showed resilience and delayed Mumbai's charge for an innings win. Opener Innesh Mahajan, skipper Pukhraj Mann, and wicketkee\u2026",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ranji-trophy-himachal-show-fight-after-mumbai-pile-up-528/articleshow/135079722.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-135079795,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-10-21T02:02:25Z",
+      "content": "View All Comments \r\nShare your thoughts in the comments\r\nBe respectful \u00b7 TOI community guidelines"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/19/thumb/featurecrop/1200X628/1792393387-5954.png",
       "publishedAt": "2026-10-19T07:04:47Z",
       "content": "Luxury living at 7,000 feet: HoABL launches 9.5 crore villas near Shimla\r\nFrom cryotherapy to concierge services: HoABLs 9.5 crore villas in Mashobra\r\nSunainaa ChadhaNEW DELHI4 min read Last Updated \u2026 [+4941 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Times News Network",
-      "title": "CM inaugurates secretariat buildings",
-      "description": "CM Sukhvinder Singh Sukhu inaugurates Phase IV secretariat Blocks 1 & 2 in Shimla; Rs 9 crore project; PG medical seats rise from 277 to 597.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/cm-inaugurates-secretariat-buildings/articleshow/135034580.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-132871374,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-10-18T19:04:42Z",
-      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
     }
   ],
   "directory": []
