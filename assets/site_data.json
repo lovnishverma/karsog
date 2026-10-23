@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-10-23 08:58:51",
+  "last_updated": "2026-10-23 16:13:53",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "Light snow, rain likely in Kullu, Kangra on Oct 24, 25",
+      "description": "Meteorological Centre Shimla forecasts light rain and snowfall in Himachal Pradesh on Oct 24-25, affecting Kullu, Kangra and other districts; dry Oct 26-28.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/light-snow-rain-likely-in-kullu-kangra-on-oct-24-25/articleshow/135120329.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-135120327,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-10-22T13:23:04Z",
+      "content": "Follow Us On Social Media\r\nTwo pairs of trains to and fro Tirupati to get LHB coachesEx-MLAs son accused of threatening man, trying to abduct son in PurniaIn 1816, a London mapmaker produced a giant \u2026 [+1251 chars]"
+    },
     {
       "source": {
         "id": "the-times-of-india",
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-135098906,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-10-21T18:24:51Z",
       "content": "Follow Us On Social Media\r\n: Shraddha Dubey UP PoliceEUROPE BOILS OVER! 10,000 Protesters Hit NATO Nation As Riots In France And Italy EXPLODE | WatchFive Years In Prison, Fines For Parents: Melonis \u2026 [+2998 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Education",
-      "title": "HP Board registration deadline extended for Class 9, 10; correction window to open on November 17",
-      "description": "HPBOSE registration 2026-27: The Himachal Pradesh Board of School Education has set November 16, 2026, as the deadline for Class 9 and Class 10 registration for the 2026-27 academic session, with a late fee of Rs 500. A correction window will remain open from\u2026",
-      "url": "https://timesofindia.indiatimes.com/education/news/hp-board-registration-deadline-extended-for-class-9-10-correction-window-to-open-on-november-17/articleshow/135080955.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-135080969,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-10-21T03:13:42Z",
-      "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>HP Board registration deadline extended for Class 9, 10; correction window to open on November 17</li></ul>\r\nFollow Us On Social Media\r\n\u2026 [+1971 chars]"
     }
   ],
   "directory": []
