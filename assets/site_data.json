@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-10-24 15:10:53",
+  "last_updated": "2026-10-24 18:29:57",
   "news": [
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Times News Network",
+      "title": "Sukhu announces 5% DA hike for HP employees",
+      "description": "Himachal Pradesh CM Sukhu announces 5% DA hike for govt employees and pensioners, raising DA from 45% to 50%; Class-IV to get Rs 10,000 arrears.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/sukhu-announces-5-da-hike-for-hp-employees/articleshow/135153257.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-135153256,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-10-23T18:12:03Z",
+      "content": "Follow Us On Social Media\r\nCopyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service"
+    },
     {
       "source": {
         "id": null,
@@ -65,19 +78,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-135125937,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-10-22T18:34:54Z",
       "content": "Follow Us On Social Media\r\nWATCH: JD Vance Bashes Europe Amid Ukraines Starlink Horror; Then Defends Elon MuskIlhan Omar Hit With EXPLOSIVE Question About Ex-Husband, Her Answer Was NOT A Simple NoEM\u2026 [+1484 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Times News Network",
-      "title": "Himachal exports 1.3 tonnes of Kullu pomegranates to Dubai: CM",
-      "description": "Himachal Pradesh exports 1.3 tonnes of Kullu Sinduri pomegranates to Dubai via APEDA, as CM Sukhu pushes overseas markets to boost farmers\u2019 income.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/himachal-exports-1-3-tonnes-of-kullu-pomegranates-to-dubai-cm/articleshow/135124744.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-135124743,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-10-22T17:50:16Z",
-      "content": "Follow Us On Social Media\r\nIlhan Omar Hit With EXPLOSIVE Question About Ex-Husband, Her Answer Was NOT A Simple NoEMERGENCY! Saudis Aramco Vacated After Houthis Unleash Fury; Missiles &amp; Bombs Des\u2026 [+2978 chars]"
     }
   ],
   "directory": []
